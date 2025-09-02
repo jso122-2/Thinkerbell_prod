@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2134",
+  "chunk_id": "sample_2134_c1",
+  "text": "Sophie Anderson for Cotton On - $3,705 budget\n            Need: 3 x 60-second YouTube video, 2 x Facebook story, 1 x Press release quote, 2 x Instagram story, 1 x 90-second product demo\n            12w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

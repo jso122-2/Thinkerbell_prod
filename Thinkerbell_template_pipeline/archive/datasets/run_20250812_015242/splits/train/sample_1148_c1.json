@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1148",
+  "chunk_id": "sample_1148_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Freedom\n            • Fee: ~$34,200\n            • Deliverables: 3 x Event photography, 2 x Pinterest pin, 1 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $34,200 budget",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4509",
+  "chunk_id": "sample_4509_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Autobarn\n            • Fee: ~$27,005\n            • Deliverables: 2 x Facebook story, 3 x Instagram story, 2 x 60-second YouTube video\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $27,005 budget\n\nNeed to confirm: deliverables",
+  "token_count": 93,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

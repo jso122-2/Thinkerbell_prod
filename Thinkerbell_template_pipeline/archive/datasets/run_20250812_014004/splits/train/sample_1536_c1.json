@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1536",
+  "chunk_id": "sample_1536_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Portmans\n            • Fee: ~$23,600\n            • Deliverables: 2 x Radio interview\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

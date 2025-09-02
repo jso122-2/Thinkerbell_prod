@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1333",
+  "chunk_id": "sample_1333_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Amart Furniture\n            • Fee: ~$4,463\n            • Deliverables: 2 x 15-second TikTok, 2 x Instagram story\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

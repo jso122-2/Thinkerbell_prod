@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1877",
+  "chunk_id": "sample_1877_c1",
+  "text": "Michael Rodriguez for Sephora - $34,103 budget\n            Need: 1 x Instagram post\n            5w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3131",
+  "generation_timestamp": "2025-08-04T18:30:52.733399",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Christopher Lee for Fantastic Furniture - $10,903 budget\n            Need: 3 x Media interview\n            3w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+    "token_count": 51,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$10,903",
+    "fee_numeric": 10903,
+    "deliverables": [
+      "3 x Media interview"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8082173944104881,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8666684862668819,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:52.725400",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

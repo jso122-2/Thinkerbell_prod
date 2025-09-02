@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3204",
+  "chunk_id": "sample_3204_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: McDonald's\n            • Fee: ~$16,923\n            • Deliverables: 1 x 2-minute tutorial, 1 x Media interview\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

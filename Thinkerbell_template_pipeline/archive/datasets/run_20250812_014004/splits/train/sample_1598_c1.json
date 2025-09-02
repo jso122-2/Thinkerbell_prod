@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1598",
+  "chunk_id": "sample_1598_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: Country Road\n            • Fee: ~$12,596\n            • Deliverables: 3 x Instagram post, 2 x Live stream, 1 x Lifestyle photography, 1 x 3-minute vlog, 3 x Twitter post\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

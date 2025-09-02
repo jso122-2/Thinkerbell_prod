@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_270",
+  "chunk_id": "sample_270_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Chemist Warehouse\n            • Fee: ~$19,981\n            • Deliverables: 2 x Radio interview, 3 x Behind-the-scenes content, 1 x Instagram post, 1 x Radio interview\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4367",
+  "chunk_id": "sample_4367_c1",
+  "text": "Hey team, looking to work with Quinn Cook for Amart Furniture. Budget is approx $19,361 - need 2 x Media interview, 2 x Facebook post. 10 weeks exclusivity, 3 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

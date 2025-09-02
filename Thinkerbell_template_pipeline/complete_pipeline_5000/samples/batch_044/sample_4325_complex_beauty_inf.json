@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4325",
+  "generation_timestamp": "2025-08-04T18:31:17.989952",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Riley Evans for Lush - $8,546 budget\n            Need: 1 x Instagram post, 1 x LinkedIn post, 3 x Product launch event, 3 x Instagram post, 2 x Twitter post\n            2w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: October 2025 mate",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$8,546",
+    "fee_numeric": 8546,
+    "deliverables": [
+      "1 x Instagram post",
+      "1 x LinkedIn post",
+      "3 x Product launch event",
+      "3 x Instagram post",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7174677944397403,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7829135530923074,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:17.981948",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2840",
+  "chunk_id": "sample_2840_c1",
+  "text": "Chloe Lewis for Repco - $10,599 budget\n            Need: 2 x TikTok video, 1 x YouTube short, 2 x Facebook story, 2 x LinkedIn post, 1 x 2-minute tutorial\n            5w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

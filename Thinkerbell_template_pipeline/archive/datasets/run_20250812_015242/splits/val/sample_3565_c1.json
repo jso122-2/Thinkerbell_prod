@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3565",
+  "chunk_id": "sample_3565_c1",
+  "text": "Ava Johnson for Witchery - $7,779 budget\n            Need: 2 x Professional headshots, 3 x 3-minute vlog\n            8w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

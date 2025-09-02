@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1358",
+  "chunk_id": "sample_1358_c1",
+  "text": "Need Riley Evans for David Jones campaign. Budget around $33,808, looking for 2 x Twitter post, 1 x Media interview, 2 x YouTube short, 1 x Lifestyle photography, 1 x Facebook story. 6 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 12 months. Engagement period: 4 months. Additional notes: TBC on exact dates, around $33,808 budget",
+  "token_count": 90,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

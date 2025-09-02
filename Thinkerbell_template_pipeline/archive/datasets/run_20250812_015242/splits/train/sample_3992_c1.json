@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3992",
+  "chunk_id": "sample_3992_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Myer\n            • Fee: ~$27,379\n            • Deliverables: 2 x 90-second product demo, 1 x Instagram post, 3 x 3-minute vlog, 3 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

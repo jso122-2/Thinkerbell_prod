@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_267",
+  "chunk_id": "sample_267_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Betty's Burgers. Budget is approx $27,876 - need 2 x Press release quote. 6 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

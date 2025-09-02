@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1689",
+  "generation_timestamp": "2025-08-04T18:30:20.614307",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sage Reed for Coles campaign. Budget around $4,199, looking for 3 x Podcast guest, 1 x 90-second product demo, 1 x Pinterest pin, 3 x TikTok video, 2 x YouTube video. \n            8 week exclusivity from other grocery brands. \n            Campaign runs December 2025. Usage rights for 12 months. \n            Engagement period: 3 months.",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$4,199",
+    "fee_numeric": 4199,
+    "deliverables": [
+      "3 x Podcast guest",
+      "1 x 90-second product demo",
+      "1 x Pinterest pin",
+      "3 x TikTok video",
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8203877558308214,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8046511775054411,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:20.606338",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

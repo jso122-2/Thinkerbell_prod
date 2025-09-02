@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_096",
+  "chunk_id": "sample_096_c1",
+  "text": "Need David Brown for Red Rooster campaign. Budget around $8,198, looking for 1 x Press conference, 1 x 2-minute tutorial, 3 x Professional headshots, 1 x Media interview. 6 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

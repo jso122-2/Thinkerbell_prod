@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1486",
+  "generation_timestamp": "2025-08-04T18:30:15.706038",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Mia White for Zambrero - $1,599 budget\n            Need: 2 x Pinterest pin, 3 x Product launch event, 2 x Twitter post\n            10w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$1,599",
+    "fee_numeric": 1599,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "3 x Product launch event",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7455246424377948,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7704781199149086,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.698038",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Limited Edition",
+    "product_category": "Travel & Tourism"
+  }
+}

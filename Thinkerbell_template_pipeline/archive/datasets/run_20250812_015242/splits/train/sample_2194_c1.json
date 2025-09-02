@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2194",
+  "chunk_id": "sample_2194_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Guzman y Gomez\n            • Fee: ~$20,124\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

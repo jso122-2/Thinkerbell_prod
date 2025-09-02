@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1954",
+  "chunk_id": "sample_1954_c1",
+  "text": "Layla Campbell for Telstra - $27,241 budget\n            Need: 3 x Radio interview, 1 x Behind-the-scenes content\n            6w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

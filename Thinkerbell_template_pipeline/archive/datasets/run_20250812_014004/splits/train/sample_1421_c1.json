@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1421",
+  "chunk_id": "sample_1421_c1",
+  "text": "Need Scarlett Turner for Freedom campaign. Budget around $3,783, looking for 3 x Instagram post, 2 x Pinterest pin, 3 x Facebook post, 2 x TikTok video, 2 x Brand photoshoot. 11 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 2 months.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

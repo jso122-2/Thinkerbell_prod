@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1469",
+  "chunk_id": "sample_1469_c1",
+  "text": "• Influencer: Hayden Howard\n            • Brand: Sportsgirl\n            • Fee: ~$11,255\n            • Deliverables: 1 x Radio interview, 2 x 3-minute vlog, 2 x Facebook story, 3 x Instagram reel, 1 x 15-second TikTok\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

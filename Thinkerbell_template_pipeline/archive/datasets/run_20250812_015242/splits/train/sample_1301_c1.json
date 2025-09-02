@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1301",
+  "chunk_id": "sample_1301_c1",
+  "text": "Need Chloe Lewis for Woolworths campaign. Budget around $20,950, looking for 3 x LinkedIn post. 3 week exclusivity from other grocery brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

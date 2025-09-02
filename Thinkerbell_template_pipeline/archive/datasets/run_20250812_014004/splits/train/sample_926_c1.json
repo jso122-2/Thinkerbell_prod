@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_926",
+  "chunk_id": "sample_926_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Woolworths. Budget is approx $8,795 - need 1 x 60-second YouTube video, 2 x Lifestyle photography, 2 x Facebook story, 3 x Podcast guest. 7 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: November 2025. Need to confirm: exclusivity period",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

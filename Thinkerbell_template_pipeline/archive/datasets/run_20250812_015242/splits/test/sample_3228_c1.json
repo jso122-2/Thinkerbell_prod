@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3228",
+  "chunk_id": "sample_3228_c1",
+  "text": "• Influencer: Hayden Howard\n            • Brand: Witchery\n            • Fee: ~$14,506\n            • Deliverables: 3 x Instagram post, 3 x YouTube video, 2 x Instagram post, 3 x Lifestyle photography, 2 x LinkedIn post\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

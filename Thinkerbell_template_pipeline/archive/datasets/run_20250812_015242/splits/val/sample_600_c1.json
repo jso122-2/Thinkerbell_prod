@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_600",
+  "chunk_id": "sample_600_c1",
+  "text": "Chloe Lewis for Fantastic Furniture - $9,306 budget\n            Need: 3 x Facebook post, 3 x Pinterest pin, 3 x Instagram post, 1 x YouTube short, 3 x LinkedIn post\n            12w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

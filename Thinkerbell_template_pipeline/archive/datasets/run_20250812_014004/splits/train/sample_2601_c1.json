@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2601",
+  "chunk_id": "sample_2601_c1",
+  "text": "Hey team, looking to work with Andrew Clark for JB Hi-Fi. Budget is approx $6,946 - need 1 x Media interview, 1 x Pinterest pin. 8 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: January 2026. Additional notes: TBC on exact dates, around $6,946 budget",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

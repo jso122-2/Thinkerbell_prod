@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1264",
+  "generation_timestamp": "2025-08-04T18:30:11.302271",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sophie Anderson\n            • Brand: Amart Furniture\n            • Fee: ~$5,896\n            • Deliverables: 2 x YouTube short, 3 x Facebook story, 2 x Twitter post, 2 x TikTok video\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: November 2025",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sophie Anderson",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$5,896",
+    "fee_numeric": 5896,
+    "deliverables": [
+      "2 x YouTube short",
+      "3 x Facebook story",
+      "2 x Twitter post",
+      "2 x TikTok video"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7347615714944219,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8591829761761465,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.293268",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Health & Fitness"
+  }
+}

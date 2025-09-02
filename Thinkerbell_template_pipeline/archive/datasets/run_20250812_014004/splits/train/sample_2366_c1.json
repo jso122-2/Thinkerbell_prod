@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2366",
+  "chunk_id": "sample_2366_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: KFC\n            • Fee: ~$12,900\n            • Deliverables: 1 x Instagram story, 2 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

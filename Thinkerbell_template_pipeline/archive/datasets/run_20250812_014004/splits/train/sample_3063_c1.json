@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3063",
+  "chunk_id": "sample_3063_c1",
+  "text": "Need Lily Walker for Coles campaign. Budget around $19,715, looking for 3 x Live stream, 3 x Store opening, 2 x Media interview. 10 week exclusivity from other grocery brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 3 months.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4147",
+  "generation_timestamp": "2025-08-04T18:31:14.109296",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need James Wilson for IKEA campaign. Budget around $26,323, looking for 1 x YouTube video. \n            8 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 11 months. \n            Engagement period: 4 months.",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$26,323",
+    "fee_numeric": 26323,
+    "deliverables": [
+      "1 x YouTube video"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7224740091770144,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8050464933767947,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:14.096293",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Automotive"
+  }
+}

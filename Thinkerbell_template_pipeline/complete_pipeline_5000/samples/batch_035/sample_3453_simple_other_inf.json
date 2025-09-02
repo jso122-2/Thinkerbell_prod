@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3453",
+  "generation_timestamp": "2025-08-04T18:30:59.201753",
+  "generator_version": "v1.0",
+  "batch_id": "batch_035",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Emma Thompson for Domino's. \n            Budget is approx $4,794 - need 3 x Radio interview, 1 x Pinterest pin. \n            12 weeks exclusivity, 4 month engagement. \n            Usage: 10 months. Start date: January 2026.",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Emma Thompson",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$4,794",
+    "fee_numeric": 4794,
+    "deliverables": [
+      "3 x Radio interview",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7226094209809684,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.855868311631734,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:59.192758",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Automotive"
+  }
+}

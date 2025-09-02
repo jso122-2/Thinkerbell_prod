@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4720",
+  "generation_timestamp": "2025-08-04T18:31:25.772925",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Emma Thompson for Hungry Jack's - $24,826 budget\n            Need: 3 x LinkedIn post, 1 x Twitter post\n            7w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: January 2026 fair dinkum",
+    "token_count": 56,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Emma Thompson",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$24,826",
+    "fee_numeric": 24826,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7478196198931616,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8093108580159167,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:25.764927",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Automotive"
+  }
+}

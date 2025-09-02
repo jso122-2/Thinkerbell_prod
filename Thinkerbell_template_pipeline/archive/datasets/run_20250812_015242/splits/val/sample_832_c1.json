@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_832",
+  "chunk_id": "sample_832_c1",
+  "text": "Justin Mitchell for Priceline - $10,609 budg\n            Need: 2 x Twitter post, 1 x Facebook post, 2 x Instagram post, 3 x 15-second TikTok\n            11w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

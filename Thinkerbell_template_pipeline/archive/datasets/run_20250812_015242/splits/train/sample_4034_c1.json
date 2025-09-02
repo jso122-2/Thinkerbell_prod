@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4034",
+  "chunk_id": "sample_4034_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Big W\n            • Fee: ~$28,823\n            • Deliverables: 2 x YouTube short, 2 x Facebook story, 1 x TV appearance, 1 x Pinterest pin, 3 x 90-second product demo\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: November 2025\n\nNeed to confirm: usage rights",
+  "token_count": 86,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

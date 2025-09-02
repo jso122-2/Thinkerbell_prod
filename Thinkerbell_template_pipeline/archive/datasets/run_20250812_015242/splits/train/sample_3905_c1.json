@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3905",
+  "chunk_id": "sample_3905_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Priceline. Budget is approx $2,272 - need 1 x Twitter post. 9 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: October 2025.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

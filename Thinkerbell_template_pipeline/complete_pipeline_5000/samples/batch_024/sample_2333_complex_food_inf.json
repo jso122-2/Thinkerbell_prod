@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2333",
+  "generation_timestamp": "2025-08-04T18:30:36.102817",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Zoe Wright\n            • Brand: Woolworths\n            • Fee: ~$1,919\n            • Deliverables: 3 x 90-second product demo\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: November 2025 fair dinkum",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$1,919",
+    "fee_numeric": 1919,
+    "deliverables": [
+      "3 x 90-second product demo"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6382566898699716,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8507175555643226,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:36.088818",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

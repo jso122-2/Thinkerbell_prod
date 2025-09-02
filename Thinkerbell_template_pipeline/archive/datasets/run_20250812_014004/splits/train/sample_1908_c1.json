@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1908",
+  "chunk_id": "sample_1908_c1",
+  "text": "Need Brooklyn Edwards for Pizza Hut campaign. Budget around $22,031, looking for 1 x Media interview, 1 x Brand ambassador content, 1 x Instagram post, 3 x Professional headshots, 1 x Instagram post. 9 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 9 months. Engagement period: 6 months.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_638",
+  "chunk_id": "sample_638_c1",
+  "text": "• Influencer: Jordan Phillips\n            • Brand: JB Hi-Fi\n            • Fee: ~$30,496\n            • Deliverables: 3 x Store opening, 1 x Article contribution, 2 x Facebook story\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

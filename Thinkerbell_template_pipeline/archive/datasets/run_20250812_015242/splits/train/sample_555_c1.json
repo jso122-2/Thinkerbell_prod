@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_555",
+  "chunk_id": "sample_555_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Red Rooster\n            • Fee: ~$23,997\n            • Deliverables: 1 x Media interview, 1 x 2-minute tutorial, 3 x Twitter post, 1 x Lifestyle photography, 3 x Instagram story\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

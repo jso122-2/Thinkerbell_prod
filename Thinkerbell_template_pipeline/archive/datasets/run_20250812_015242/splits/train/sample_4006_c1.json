@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4006",
+  "chunk_id": "sample_4006_c1",
+  "text": "Need Sarah Chen for Sephora campaign. Budget around $23,201, looking for 3 x LinkedIn post, 2 x Meet and greet, 3 x Store opening, 2 x Store opening. 10 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

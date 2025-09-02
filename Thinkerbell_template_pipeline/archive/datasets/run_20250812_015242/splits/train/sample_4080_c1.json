@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4080",
+  "chunk_id": "sample_4080_c1",
+  "text": "Chloe Lewis for Bunnings - $14,078 budget\n            Need: 1 x 2-minute tutorial, 2 x Press release quote, 1 x 60-second YouTube video\n            10w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1549",
+  "chunk_id": "sample_1549_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Hungry Jack's\n            • Fee: ~$10,091\n            • Deliverables: 1 x Store opening, 2 x Press conference\n            • Exclusivity: 4 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

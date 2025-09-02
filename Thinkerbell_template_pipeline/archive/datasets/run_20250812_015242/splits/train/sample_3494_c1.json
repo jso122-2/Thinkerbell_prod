@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3494",
+  "chunk_id": "sample_3494_c1",
+  "text": "Matthew Taylor for Red Rooster - $4,066 budget\n            Need: 3 x 90-second product demo, 2 x Media interview\n            2w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

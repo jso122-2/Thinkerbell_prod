@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_213",
+  "chunk_id": "sample_213_c1",
+  "text": "Aria Perez for Portmans - $2,002 budget\n            Need: 1 x TV appearance, 3 x LinkedIn post, 3 x 60-second YouTube video\n            4w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

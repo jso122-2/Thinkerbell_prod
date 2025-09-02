@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4240",
+  "generation_timestamp": "2025-08-04T18:31:16.035524",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Andrew Clark for IKEA campaign. Budget around $30,797, looking for 1 x Pinterest pin. \n            2 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 9 months. \n            Engagement period: 3 months.\n\nAdditional notes: TBC on exact dates, around $30,797 budget",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$30,797",
+    "fee_numeric": 30797,
+    "deliverables": [
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9280537332548155,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8416594724432697,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:16.023525",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Fashion & Apparel"
+  }
+}

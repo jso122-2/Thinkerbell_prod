@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_501",
+  "chunk_id": "sample_501_c1",
+  "text": "Hey team, looking to work with James Wilson for Boost Juice. Budget is approx $9,685 - need 3 x Facebook post. 5 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2430",
+  "chunk_id": "sample_2430_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Zambrero\n            • Fee: ~$2,282\n            • Deliverables: 3 x 2-minute tutorial, 2 x YouTube short\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: November 2025\n\nNeed to confirm: deliverables",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

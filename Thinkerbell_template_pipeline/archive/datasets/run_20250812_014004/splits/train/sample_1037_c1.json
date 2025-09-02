@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1037",
+  "chunk_id": "sample_1037_c1",
+  "text": "Need Nathan King for Coles campaign. Budget around $2,187, looking for 1 x Article contribution, 1 x YouTube video. 12 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 5 months.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

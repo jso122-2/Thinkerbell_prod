@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4265",
+  "generation_timestamp": "2025-08-04T18:31:16.298527",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Matthew Taylor\n            • Brand: Subway\n            • Fee: ~$21,509\n            • Deliverables: 1 x 15-second TikTok\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Subway",
+    "brand": "Subway",
+    "campaign": "Subway Campaign",
+    "fee": "$21,509",
+    "fee_numeric": 21509,
+    "deliverables": [
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7688143733217565,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7344935883562136,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:16.290523",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

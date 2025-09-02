@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_231",
+  "chunk_id": "sample_231_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Nando's. Budget is approx $13,535 - need 1 x 30-second Instagram reel, 1 x Facebook post, 2 x Instagram post. 10 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: October 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

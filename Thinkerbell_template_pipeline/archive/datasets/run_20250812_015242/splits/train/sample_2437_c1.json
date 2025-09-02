@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2437",
+  "chunk_id": "sample_2437_c1",
+  "text": "Need Reagan Rogers for Witchery campaign. Budget around $2,016, looking for 2 x Product photography. 9 week exclus from other similar brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

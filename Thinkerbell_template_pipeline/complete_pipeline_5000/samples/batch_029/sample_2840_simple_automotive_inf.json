@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2840",
+  "generation_timestamp": "2025-08-04T18:30:46.605318",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Chloe Lewis for Repco - $10,599 budget\n            Need: 2 x TikTok video, 1 x YouTube short, 2 x Facebook story, 2 x LinkedIn post, 1 x 2-minute tutorial\n            5w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Repco",
+    "brand": "Repco",
+    "campaign": "Repco Campaign",
+    "fee": "$10,599",
+    "fee_numeric": 10599,
+    "deliverables": [
+      "2 x TikTok video",
+      "1 x YouTube short",
+      "2 x Facebook story",
+      "2 x LinkedIn post",
+      "1 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7272818847659894,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.910638233525916,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:46.597319",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Home & Garden"
+  }
+}

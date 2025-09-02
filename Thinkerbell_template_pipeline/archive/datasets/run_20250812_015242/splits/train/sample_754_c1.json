@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_754",
+  "chunk_id": "sample_754_c1",
+  "text": "• Influencer: Jordan Phillips\n            • Brand: Sephora\n            • Fee: ~$31,809\n            • Deliverables: 2 x Blog post, 1 x Brand photoshoot, 1 x Pinterest pin, 1 x Instagram story\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

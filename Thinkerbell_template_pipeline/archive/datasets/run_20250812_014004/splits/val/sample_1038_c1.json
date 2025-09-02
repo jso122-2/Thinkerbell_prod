@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1038",
+  "chunk_id": "sample_1038_c1",
+  "text": "Need Sarah Chen for Lush campaign. Budget around $8,667, looking for 2 x LinkedIn post, 3 x YouTube video, 3 x TikTok video, 2 x Facebook post. 10 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 9 months. Engagement period: 2 months.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

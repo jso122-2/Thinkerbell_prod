@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1898",
+  "chunk_id": "sample_1898_c1",
+  "text": "Olivia Davis for Cotton On - $8,071 budget\n            Need: 1 x YouTube video, 2 x Twitter post, 1 x 30-second Instagram reel, 1 x Instagram story, 2 x Product photography\n            11w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

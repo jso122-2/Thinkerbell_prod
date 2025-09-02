@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_3557",
+  "chunk_id": "sample_3557_c1",
+  "text": "Michael Rodriguez for JB Hi-Fi - $7,339 budget\n            Need: 1 x Twitter post, 3 x Instagram reel\n            2w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

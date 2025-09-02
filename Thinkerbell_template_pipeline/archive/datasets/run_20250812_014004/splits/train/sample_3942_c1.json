@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3942",
+  "chunk_id": "sample_3942_c1",
+  "text": "Andrew Clark for Commonwealth Bank - $11,776 budget\n            Need: 1 x YouTube video, 1 x Facebook story, 2 x Instagram post, 1 x Podcast guest, 2 x 2-minute tutorial\n            11w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_108",
+  "chunk_id": "sample_108_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Adairs\n            • Fee: ~$24,534\n            • Deliverables: 2 x Radio interview, 2 x Instagram reel\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

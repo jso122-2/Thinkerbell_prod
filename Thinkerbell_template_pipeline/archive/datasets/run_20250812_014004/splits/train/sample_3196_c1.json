@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3196",
+  "chunk_id": "sample_3196_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for Chemist Warehouse. Budget is approx $5,857 - need 1 x TikTok video, 1 x Blog post, 1 x Pinterest pin. 12 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

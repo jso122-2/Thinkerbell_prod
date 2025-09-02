@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2821",
+  "generation_timestamp": "2025-08-04T18:30:46.414320",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Reagan Rogers for Zambrero campaign. Budget around $2,906, looking for 1 x LinkedIn post, 2 x Brand ambassador content, 1 x LinkedIn post, 2 x LinkedIn post. \n            3 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 7 months. \n            Engagement period: 5 months.\n\nAdditional notes: TBC on exact dates, around $2,906 budget",
+    "token_count": 98,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$2,906",
+    "fee_numeric": 2906,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "2 x Brand ambassador content",
+      "1 x LinkedIn post",
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8050803676817885,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8938851772501623,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:46.405322",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Sports & Recreation"
+  }
+}

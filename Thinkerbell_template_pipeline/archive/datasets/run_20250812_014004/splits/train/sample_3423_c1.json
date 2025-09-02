@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3423",
+  "chunk_id": "sample_3423_c1",
+  "text": "Ava Johnson for Big W - $5,748 budget\n            Need: 1 x Live stream\n            6w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

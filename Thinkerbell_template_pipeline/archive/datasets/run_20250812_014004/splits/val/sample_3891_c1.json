@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3891",
+  "chunk_id": "sample_3891_c1",
+  "text": "Need Ava Johnson for Queen Fine Foods campaign. Budget around $13,905, looking for 2 x 60-second YouTube video, 1 x Press release quote, 2 x LinkedIn post, 2 x 90-second product demo. 11 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

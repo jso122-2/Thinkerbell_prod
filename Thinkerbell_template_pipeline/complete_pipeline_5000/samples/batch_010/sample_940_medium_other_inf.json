@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_940",
+  "generation_timestamp": "2025-08-04T18:30:04.575608",
+  "generator_version": "v1.0",
+  "batch_id": "batch_010",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Grace Young\n            • Brand: Fantastic Furniture\n            • Fee: ~$3,168\n            • Deliverables: 1 x Instagram story, 2 x Facebook story, 2 x Facebook post\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: October 2025",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$3,168",
+    "fee_numeric": 3168,
+    "deliverables": [
+      "1 x Instagram story",
+      "2 x Facebook story",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8779353201768406,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8447964104883114,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:04.566608",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Limited Edition",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

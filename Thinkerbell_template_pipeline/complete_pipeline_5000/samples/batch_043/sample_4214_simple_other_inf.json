@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4214",
+  "generation_timestamp": "2025-08-04T18:31:15.738524",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Michael Rodriguez for Qantas. \n            Budget is approx $18,302 - need 1 x LinkedIn post, 2 x Pinterest pin, 1 x Instagram post, 2 x Twitter post. \n            6 weeks exclusivity, 3 month engagement. \n            Usage: 9 months. Start date: December 2025.",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$18,302",
+    "fee_numeric": 18302,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "2 x Pinterest pin",
+      "1 x Instagram post",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9434702037483862,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8738559623550719,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:15.727527",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2035",
+  "generation_timestamp": "2025-08-04T18:30:29.076449",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Matthew Taylor for Priceline - $4,269 budget\n            Need: 3 x Media interview, 1 x Brand ambassador content, 3 x Social media takeover\n            12w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+    "token_count": 62,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Priceline",
+    "brand": "Priceline",
+    "campaign": "Priceline Campaign",
+    "fee": "$4,269",
+    "fee_numeric": 4269,
+    "deliverables": [
+      "3 x Media interview",
+      "1 x Brand ambassador content",
+      "3 x Social media takeover"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7659118276437673,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8910934938572648,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:29.067447",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

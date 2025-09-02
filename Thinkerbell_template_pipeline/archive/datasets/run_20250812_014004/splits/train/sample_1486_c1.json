@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1486",
+  "chunk_id": "sample_1486_c1",
+  "text": "Brandon Nelson for Supercheap Auto - $25,757 budg\n            Need: 3 x Twitter post, 2 x Event photography, 1 x Facebook post, 3 x Media interview\n            6w exclus, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

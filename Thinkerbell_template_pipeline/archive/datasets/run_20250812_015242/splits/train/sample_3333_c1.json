@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3333",
+  "chunk_id": "sample_3333_c1",
+  "text": "Need Aria Perez for Pillow Talk campaign. Budget around $8,480, looking for 1 x YouTube short, 3 x 30-second Instagram reel, 3 x 30-second Instagram reel, 1 x 30-second Instagram reel. 8 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 4 months. no worries",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

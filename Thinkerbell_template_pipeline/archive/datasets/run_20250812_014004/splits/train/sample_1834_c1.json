@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1834",
+  "chunk_id": "sample_1834_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Chemist Warehouse\n            • Fee: ~$3,132\n            • Deliverables: 2 x LinkedIn post, 2 x Twitter post, 3 x Meet and greet, 3 x Social media takeover\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

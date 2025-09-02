@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1606",
+  "chunk_id": "sample_1606_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for IKEA. Budget is approx $13,532 - need 1 x Instagram post. 5 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: November 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

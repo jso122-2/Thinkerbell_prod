@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4401",
+  "generation_timestamp": "2025-08-04T18:31:19.662445",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Brooklyn Edwards for Coles - $14,938 budget\n            Need: 2 x Facebook post, 1 x Pinterest pin, 3 x LinkedIn post\n            6w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: January 2026\n\nAdditional notes: TBC on exact dates, around $14,938 budget",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$14,938",
+    "fee_numeric": 14938,
+    "deliverables": [
+      "2 x Facebook post",
+      "1 x Pinterest pin",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7532381073032437,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8876674249712745,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:19.652445",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Fashion & Apparel"
+  }
+}

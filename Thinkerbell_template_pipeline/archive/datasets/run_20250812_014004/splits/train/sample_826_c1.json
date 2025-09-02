@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_826",
+  "chunk_id": "sample_826_c1",
+  "text": "Sarah Chen for Mad Mex - $23,588 budget\n            Need: 2 x 15-second TikTok\n            2w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

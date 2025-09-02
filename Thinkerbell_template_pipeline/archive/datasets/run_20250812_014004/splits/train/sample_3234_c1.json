@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3234",
+  "chunk_id": "sample_3234_c1",
+  "text": "Tyler Scott for Amart Furniture - $2,799 budget\n            Need: 3 x Radio interview, 1 x 15-second TikTok, 2 x Press conference\n            10w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

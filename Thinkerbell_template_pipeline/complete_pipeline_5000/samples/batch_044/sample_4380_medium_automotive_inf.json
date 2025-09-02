@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4380",
+  "generation_timestamp": "2025-08-04T18:31:18.547950",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Cook\n            • Brand: Supercheap Auto\n            • Fee: ~$7,361\n            • Deliverables: 1 x Radio interview, 2 x TikTok video, 1 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: November 2025",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Supercheap Auto",
+    "brand": "Supercheap Auto",
+    "campaign": "Supercheap Auto Campaign",
+    "fee": "$7,361",
+    "fee_numeric": 7361,
+    "deliverables": [
+      "1 x Radio interview",
+      "2 x TikTok video",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7538697840081676,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9279761584026418,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.539947",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Fashion & Apparel"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_319",
+  "chunk_id": "sample_319_c1",
+  "text": "Need Victoria Carter for Myer campaign. Budget around $6,104, looking for 1 x Instagram story, 2 x Media interview. 2 week exclusivity from other fashion brands. Campaign runs November 2025. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

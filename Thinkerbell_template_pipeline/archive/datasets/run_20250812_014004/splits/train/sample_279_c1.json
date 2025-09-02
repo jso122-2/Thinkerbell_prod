@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_279",
+  "chunk_id": "sample_279_c1",
+  "text": "James Wilson for Hungry Jack's - $10,118 budget\n            Need: 3 x TikTok video, 1 x Live stream, 3 x 30-second Instagram reel\n            6w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

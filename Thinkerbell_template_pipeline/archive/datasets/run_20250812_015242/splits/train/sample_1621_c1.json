@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1621",
+  "chunk_id": "sample_1621_c1",
+  "text": "Hey team, looking to work with Brandon Nelson for Coles. Budget is approx $25,958 - need 3 x Podcast guest, 3 x YouTube video. 3 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

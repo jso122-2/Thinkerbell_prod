@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_635",
+  "generation_timestamp": "2025-08-04T18:29:58.562004",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Isabella Garcia\n            • Brand: Adairs\n            • Fee: ~$6,249\n            • Deliverables: 3 x 60-second YouTube video, 1 x Pinterest pin, 1 x Facebook post, 2 x Pinterest pin\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: January 2026",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Isabella Garcia",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$6,249",
+    "fee_numeric": 6249,
+    "deliverables": [
+      "3 x 60-second YouTube video",
+      "1 x Pinterest pin",
+      "1 x Facebook post",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9407353406221672,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9295943539660453,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.552855",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

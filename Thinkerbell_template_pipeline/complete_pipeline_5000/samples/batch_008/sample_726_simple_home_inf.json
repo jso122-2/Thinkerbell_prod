@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_726",
+  "generation_timestamp": "2025-08-04T18:30:00.508458",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Brooklyn Edwards\n            • Brand: Adairs\n            • Fee: ~$1,730\n            • Deliverables: 3 x Instagram story, 2 x TikTok video, 1 x 90-second product demo\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: September 2025",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$1,730",
+    "fee_numeric": 1730,
+    "deliverables": [
+      "3 x Instagram story",
+      "2 x TikTok video",
+      "1 x 90-second product demo"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9342810023599265,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8925068467371329,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:00.495454",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

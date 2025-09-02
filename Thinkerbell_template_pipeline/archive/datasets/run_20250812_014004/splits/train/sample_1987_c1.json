@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1987",
+  "chunk_id": "sample_1987_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Subway. Budget is approx $23,347 - need 3 x 10-minute unboxing, 1 x Facebook story, 2 x 2-minute tutorial, 3 x Twitter post. 9 weeks exclus, 5 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

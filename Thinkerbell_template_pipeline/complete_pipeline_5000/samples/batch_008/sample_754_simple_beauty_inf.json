@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_754",
+  "generation_timestamp": "2025-08-04T18:30:00.807857",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Jordan Phillips\n            • Brand: Sephora\n            • Fee: ~$31,809\n            • Deliverables: 2 x Blog post, 1 x Brand photoshoot, 1 x Pinterest pin, 1 x Instagram story\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: October 2025",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Jordan Phillips",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$31,809",
+    "fee_numeric": 31809,
+    "deliverables": [
+      "2 x Blog post",
+      "1 x Brand photoshoot",
+      "1 x Pinterest pin",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9280329739560619,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8612998709217605,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:00.800855",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

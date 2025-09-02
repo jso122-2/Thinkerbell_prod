@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3526",
+  "chunk_id": "sample_3526_c1",
+  "text": "Cameron Parker for Boost Juice - $11,215 budget\n            Need: 1 x Facebook post, 2 x Radio interview\n            5w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2497",
+  "generation_timestamp": "2025-08-04T18:30:39.143327",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Justin Mitchell for IKEA campaign. Budget around $3,912, looking for 2 x Professional headshots, 3 x Pinterest pin, 3 x 30-second Instagram reel, 1 x LinkedIn post. \n            3 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 12 months. \n            Engagement period: 5 months.\n\nNeed to confirm: deliverables",
+    "token_count": 93,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$3,912",
+    "fee_numeric": 3912,
+    "deliverables": [
+      "2 x Professional headshots",
+      "3 x Pinterest pin",
+      "3 x 30-second Instagram reel",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8201535633617515,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8326138860499164,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:39.135331",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

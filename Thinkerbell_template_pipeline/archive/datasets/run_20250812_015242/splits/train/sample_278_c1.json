@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_278",
+  "chunk_id": "sample_278_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for McDonald's. Budget is approx $4,770 - need 2 x 2-minute tutorial. 3 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

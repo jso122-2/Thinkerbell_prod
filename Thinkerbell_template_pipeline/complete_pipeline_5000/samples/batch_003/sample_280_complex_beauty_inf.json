@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_280",
+  "generation_timestamp": "2025-08-04T18:29:50.884436",
+  "generator_version": "v1.0",
+  "batch_id": "batch_003",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Isabella Garcia for Lush - $30,511 budget\n            Need: 2 x LinkedIn post, 1 x Meet and greet, 3 x 15-second TikTok, 3 x YouTube video\n            3w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+    "token_count": 62,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Isabella Garcia",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$30,511",
+    "fee_numeric": 30511,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "1 x Meet and greet",
+      "3 x 15-second TikTok",
+      "3 x YouTube video"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8480197090840693,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7869410771275346,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:50.876436",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

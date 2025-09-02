@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1953",
+  "generation_timestamp": "2025-08-04T18:30:26.812203",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Lily Walker for Roll'd. \n            Budget is approx $19,002 - need 3 x Product photography. \n            11 weeks exclusivity, 4 month engagement. \n            Usage: 12 months. Start date: December 2025.",
+    "token_count": 59,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$19,002",
+    "fee_numeric": 19002,
+    "deliverables": [
+      "3 x Product photography"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7704520008634901,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7800717502645632,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:26.799202",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1679",
+  "chunk_id": "sample_1679_c1",
+  "text": "Mia White for Target - $12,131 budget\n            Need: 3 x LinkedIn post, 2 x LinkedIn post, 1 x Radio interview\n            9w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: October 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

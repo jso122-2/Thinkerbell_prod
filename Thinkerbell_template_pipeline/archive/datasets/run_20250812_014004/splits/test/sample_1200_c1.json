@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1200",
+  "chunk_id": "sample_1200_c1",
+  "text": "Mia White for Bed Bath N' Table - $9,538 budget\n            Need: 1 x Media interview, 2 x LinkedIn post\n            11w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

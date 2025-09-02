@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3991",
+  "generation_timestamp": "2025-08-04T18:31:10.336537",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Morgan Morris for Myer campaign. Budget around $10,061, looking for 2 x Lifestyle photography, 1 x Article contribution, 2 x LinkedIn post, 1 x LinkedIn post. \n            8 week exclusivity from other fashion brands. \n            Campaign runs December 2025. Usage rights for 7 months. \n            Engagement period: 3 months.",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$10,061",
+    "fee_numeric": 10061,
+    "deliverables": [
+      "2 x Lifestyle photography",
+      "1 x Article contribution",
+      "2 x LinkedIn post",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7820452133917433,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8497210172836542,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:10.327538",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Automotive"
+  }
+}

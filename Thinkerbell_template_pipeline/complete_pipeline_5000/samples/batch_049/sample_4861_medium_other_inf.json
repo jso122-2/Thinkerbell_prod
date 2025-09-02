@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4861",
+  "generation_timestamp": "2025-08-04T18:31:28.412277",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ryan Allen for Pizza Hut. \n            Budget is approx $20,438 - need 2 x Blog post, 2 x Pinterest pin, 3 x Instagram story, 1 x Podcast guest, 1 x 60-second YouTube video. \n            7 weeks exclusivity, 3 month engagement. \n            Usage: 12 months. Start date: November 2025.\n\nNeed to confirm: usage rights",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$20,438",
+    "fee_numeric": 20438,
+    "deliverables": [
+      "2 x Blog post",
+      "2 x Pinterest pin",
+      "3 x Instagram story",
+      "1 x Podcast guest",
+      "1 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9243799016385593,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.936425410287609,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:28.401278",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Food & Beverage"
+  }
+}

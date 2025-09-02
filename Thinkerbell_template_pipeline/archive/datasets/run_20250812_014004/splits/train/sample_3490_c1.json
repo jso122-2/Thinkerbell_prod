@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3490",
+  "chunk_id": "sample_3490_c1",
+  "text": "Isabella Garcia for Kmart - $21,562 budget\n            Need: 3 x YouTube video, 2 x Media interview\n            3w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

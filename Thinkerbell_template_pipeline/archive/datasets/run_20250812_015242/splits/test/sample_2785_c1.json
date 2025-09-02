@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2785",
+  "chunk_id": "sample_2785_c1",
+  "text": "Hey team, looking to work with Sage Reed for Domino's. Budget is approx $2,475 - need 2 x Facebook post, 1 x Behind-the-scenes content. 12 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

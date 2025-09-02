@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4942",
+  "chunk_id": "sample_4942_c1",
+  "text": "Need Brandon Nelson for Bunnings campaign. Budget around $3,968, looking for 2 x Social media takeover, 1 x Press conference, 1 x Instagram story, 2 x Twitter post. 12 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

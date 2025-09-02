@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1565",
+  "generation_timestamp": "2025-08-04T18:30:17.748685",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Aria Perez for Chemist Warehouse campaign. Budget around $21,457, looking for 2 x LinkedIn post. \n            8 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 8 months. \n            Engagement period: 4 months.",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Aria Perez",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$21,457",
+    "fee_numeric": 21457,
+    "deliverables": [
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9406439423897188,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8488273893834235,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.723684",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Limited Edition",
+    "product_category": "Sports & Recreation"
+  }
+}

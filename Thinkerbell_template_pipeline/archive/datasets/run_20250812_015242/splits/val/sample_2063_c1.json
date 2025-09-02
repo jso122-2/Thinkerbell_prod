@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2063",
+  "chunk_id": "sample_2063_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for Portmans. Budget is approx $8,428 - need 1 x 10-minute unboxing, 2 x Media interview, 3 x Twitter post. 10 weeks exclusivity, 4 month engagement. Usage: 9 months. Start date: October 2025. Additional notes: TBC on exact dates, around $8,428 budget",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

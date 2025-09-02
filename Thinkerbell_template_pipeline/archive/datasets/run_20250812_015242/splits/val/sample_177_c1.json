@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_177",
+  "chunk_id": "sample_177_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Fantastic Furniture. Budget is approx $2,385 - need 1 x Instagram story, 1 x Facebook post, 2 x Instagram story, 3 x Media interview, 3 x 60-second YouTube video. 11 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

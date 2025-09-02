@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_731",
+  "generation_timestamp": "2025-08-04T18:30:00.576456",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Scarlett Turner for Roll'd - $33,452 budget\n            Need: 1 x Twitter post, 3 x Facebook post, 2 x 30-second Instagram reel, 3 x TikTok video, 2 x Instagram post\n            7w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025 reckon",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$33,452",
+    "fee_numeric": 33452,
+    "deliverables": [
+      "1 x Twitter post",
+      "3 x Facebook post",
+      "2 x 30-second Instagram reel",
+      "3 x TikTok video",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8379221888283606,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8549284571584908,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:00.562454",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

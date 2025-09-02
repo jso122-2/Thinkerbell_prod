@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_514",
+  "chunk_id": "sample_514_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Bunnings. Budget is approx $10,559 - need 3 x Facebook post, 3 x Media interview. 5 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

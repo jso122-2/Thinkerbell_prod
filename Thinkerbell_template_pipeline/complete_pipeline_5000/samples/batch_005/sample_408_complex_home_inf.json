@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_408",
+  "generation_timestamp": "2025-08-04T18:29:54.152999",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Aria Perez\n            • Brand: IKEA\n            • Fee: ~$7,125\n            • Deliverables: 2 x Twitter post, 1 x Twitter post, 1 x Twitter post, 1 x Pinterest pin, 1 x LinkedIn post\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: October 2025 reckon",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Aria Perez",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$7,125",
+    "fee_numeric": 7125,
+    "deliverables": [
+      "2 x Twitter post",
+      "1 x Twitter post",
+      "1 x Twitter post",
+      "1 x Pinterest pin",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.706531456254166,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7429570936790136,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.144570",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

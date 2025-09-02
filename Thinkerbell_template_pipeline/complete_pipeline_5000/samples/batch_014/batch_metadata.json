@@ -1,0 +1,729 @@
+{
+  "batch_id": "batch_014",
+  "generation_start": "2025-08-04T18:30:12.729743",
+  "target_size": 100,
+  "samples_generated": [
+    {
+      "sample_id": "sample_1301",
+      "filename": "sample_1301_simple_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1302",
+      "filename": "sample_1302_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1303",
+      "filename": "sample_1303_simple_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1304",
+      "filename": "sample_1304_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1305",
+      "filename": "sample_1305_medium_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1306",
+      "filename": "sample_1306_simple_beauty_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "beauty"
+    },
+    {
+      "sample_id": "sample_1307",
+      "filename": "sample_1307_complex_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1308",
+      "filename": "sample_1308_medium_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1309",
+      "filename": "sample_1309_medium_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1310",
+      "filename": "sample_1310_medium_tech_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "tech"
+    },
+    {
+      "sample_id": "sample_1311",
+      "filename": "sample_1311_medium_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1312",
+      "filename": "sample_1312_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1313",
+      "filename": "sample_1313_medium_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1314",
+      "filename": "sample_1314_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1315",
+      "filename": "sample_1315_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1316",
+      "filename": "sample_1316_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1317",
+      "filename": "sample_1317_simple_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1318",
+      "filename": "sample_1318_medium_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1319",
+      "filename": "sample_1319_simple_beauty_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "beauty"
+    },
+    {
+      "sample_id": "sample_1320",
+      "filename": "sample_1320_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1321",
+      "filename": "sample_1321_complex_tech_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "tech"
+    },
+    {
+      "sample_id": "sample_1322",
+      "filename": "sample_1322_medium_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1323",
+      "filename": "sample_1323_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1324",
+      "filename": "sample_1324_complex_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1325",
+      "filename": "sample_1325_medium_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1326",
+      "filename": "sample_1326_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1327",
+      "filename": "sample_1327_simple_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1328",
+      "filename": "sample_1328_simple_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1329",
+      "filename": "sample_1329_complex_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1330",
+      "filename": "sample_1330_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1331",
+      "filename": "sample_1331_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1332",
+      "filename": "sample_1332_complex_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1333",
+      "filename": "sample_1333_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1334",
+      "filename": "sample_1334_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1335",
+      "filename": "sample_1335_medium_tech_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "tech"
+    },
+    {
+      "sample_id": "sample_1336",
+      "filename": "sample_1336_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1337",
+      "filename": "sample_1337_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1338",
+      "filename": "sample_1338_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1339",
+      "filename": "sample_1339_medium_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1340",
+      "filename": "sample_1340_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1341",
+      "filename": "sample_1341_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1342",
+      "filename": "sample_1342_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1343",
+      "filename": "sample_1343_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1344",
+      "filename": "sample_1344_simple_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1345",
+      "filename": "sample_1345_medium_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1346",
+      "filename": "sample_1346_complex_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1347",
+      "filename": "sample_1347_medium_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1348",
+      "filename": "sample_1348_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1349",
+      "filename": "sample_1349_complex_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1350",
+      "filename": "sample_1350_simple_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1351",
+      "filename": "sample_1351_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1352",
+      "filename": "sample_1352_complex_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1353",
+      "filename": "sample_1353_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1354",
+      "filename": "sample_1354_simple_beauty_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "beauty"
+    },
+    {
+      "sample_id": "sample_1355",
+      "filename": "sample_1355_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1356",
+      "filename": "sample_1356_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1357",
+      "filename": "sample_1357_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1358",
+      "filename": "sample_1358_medium_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1359",
+      "filename": "sample_1359_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1360",
+      "filename": "sample_1360_simple_beauty_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "beauty"
+    },
+    {
+      "sample_id": "sample_1361",
+      "filename": "sample_1361_medium_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1362",
+      "filename": "sample_1362_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1363",
+      "filename": "sample_1363_simple_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1364",
+      "filename": "sample_1364_complex_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1365",
+      "filename": "sample_1365_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1366",
+      "filename": "sample_1366_simple_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1367",
+      "filename": "sample_1367_simple_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1368",
+      "filename": "sample_1368_medium_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1369",
+      "filename": "sample_1369_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1370",
+      "filename": "sample_1370_simple_beauty_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "beauty"
+    },
+    {
+      "sample_id": "sample_1371",
+      "filename": "sample_1371_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1372",
+      "filename": "sample_1372_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1373",
+      "filename": "sample_1373_medium_tech_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "tech"
+    },
+    {
+      "sample_id": "sample_1374",
+      "filename": "sample_1374_simple_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1375",
+      "filename": "sample_1375_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1376",
+      "filename": "sample_1376_simple_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1377",
+      "filename": "sample_1377_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1378",
+      "filename": "sample_1378_complex_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1379",
+      "filename": "sample_1379_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1380",
+      "filename": "sample_1380_simple_food_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "food"
+    },
+    {
+      "sample_id": "sample_1381",
+      "filename": "sample_1381_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1382",
+      "filename": "sample_1382_complex_tech_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "tech"
+    },
+    {
+      "sample_id": "sample_1383",
+      "filename": "sample_1383_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1384",
+      "filename": "sample_1384_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1385",
+      "filename": "sample_1385_medium_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1386",
+      "filename": "sample_1386_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1387",
+      "filename": "sample_1387_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1388",
+      "filename": "sample_1388_complex_beauty_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "beauty"
+    },
+    {
+      "sample_id": "sample_1389",
+      "filename": "sample_1389_simple_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1390",
+      "filename": "sample_1390_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1391",
+      "filename": "sample_1391_medium_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1392",
+      "filename": "sample_1392_simple_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1393",
+      "filename": "sample_1393_medium_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1394",
+      "filename": "sample_1394_simple_home_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "home"
+    },
+    {
+      "sample_id": "sample_1395",
+      "filename": "sample_1395_simple_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1396",
+      "filename": "sample_1396_simple_fashion_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "fashion"
+    },
+    {
+      "sample_id": "sample_1397",
+      "filename": "sample_1397_simple_beauty_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "simple",
+      "industry": "beauty"
+    },
+    {
+      "sample_id": "sample_1398",
+      "filename": "sample_1398_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    },
+    {
+      "sample_id": "sample_1399",
+      "filename": "sample_1399_medium_automotive_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "medium",
+      "industry": "automotive"
+    },
+    {
+      "sample_id": "sample_1400",
+      "filename": "sample_1400_complex_other_inf.json",
+      "classification": "INFLUENCER_AGREEMENT",
+      "complexity": "complex",
+      "industry": "other"
+    }
+  ],
+  "generation_end": "2025-08-04T18:30:13.829742",
+  "quality_metrics": {
+    "total_samples": 100,
+    "classification_distribution": {
+      "INFLUENCER_AGREEMENT": 100
+    },
+    "complexity_distribution": {
+      "simple": 43,
+      "complex": 22,
+      "medium": 35
+    },
+    "industry_distribution": {
+      "food": 12,
+      "other": 45,
+      "fashion": 15,
+      "beauty": 7,
+      "tech": 5,
+      "home": 8,
+      "automotive": 8
+    },
+    "average_validation_score": 0.8128905395569649
+  }
+}

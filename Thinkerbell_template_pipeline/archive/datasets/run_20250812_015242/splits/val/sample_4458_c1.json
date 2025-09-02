@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4458",
+  "chunk_id": "sample_4458_c1",
+  "text": "Need Zoe Wright for Lush campaign. Budget around $3,921, looking for 1 x Twitter post, 1 x 60-second YouTube video. 11 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

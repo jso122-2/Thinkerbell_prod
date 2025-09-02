@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1862",
+  "generation_timestamp": "2025-08-04T18:30:24.594533",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Christopher Lee for Zambrero - $12,559 budget\n            Need: 3 x Radio interview, 3 x YouTube video\n            3w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: September 2025\n\nAdditional notes: TBC on exact dates, around $12,559 budget",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$12,559",
+    "fee_numeric": 12559,
+    "deliverables": [
+      "3 x Radio interview",
+      "3 x YouTube video"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7301594614726694,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8750427654851489,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:24.577534",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

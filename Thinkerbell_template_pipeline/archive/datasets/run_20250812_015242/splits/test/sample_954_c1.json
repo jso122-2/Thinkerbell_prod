@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_954",
+  "chunk_id": "sample_954_c1",
+  "text": "Hey team, looking to work with Quinn Cook for Kmart. Budget is approx $3,831 - need 2 x Product photography. 9 weeks exclusivity, 2 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

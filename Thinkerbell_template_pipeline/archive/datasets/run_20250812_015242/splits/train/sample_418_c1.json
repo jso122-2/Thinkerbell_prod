@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_418",
+  "chunk_id": "sample_418_c1",
+  "text": "Need Sophie Anderson for Telstra campaign. Budget around $27,379, looking for 3 x Product launch event, 3 x Brand photoshoot, 3 x Pinterest pin. 8 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

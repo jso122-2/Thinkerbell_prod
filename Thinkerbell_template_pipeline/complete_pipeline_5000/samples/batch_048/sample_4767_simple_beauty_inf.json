@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4767",
+  "generation_timestamp": "2025-08-04T18:31:26.299636",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Olivia Davis for Lush campaign. Budget around $7,775, looking for 3 x LinkedIn post, 3 x TikTok video. \n            11 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 9 months. \n            Engagement period: 4 months.",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$7,775",
+    "fee_numeric": 7775,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "3 x TikTok video"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7946535850226628,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8130371628964399,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.291634",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Fashion & Apparel"
+  }
+}

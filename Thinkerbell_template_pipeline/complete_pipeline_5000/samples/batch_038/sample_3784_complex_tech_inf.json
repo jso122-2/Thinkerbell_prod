@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3784",
+  "generation_timestamp": "2025-08-04T18:31:05.875499",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with River Murphy for JB Hi-Fi. \n            Budget is approx $11,610 - need 2 x Pinterest pin, 3 x Behind-the-scenes content, 3 x Twitter post, 1 x 60-second YouTube video. \n            12 weeks exclusivity, 5 month engmt. \n            Usage: 11 months. Start date: January 2026.",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$11,610",
+    "fee_numeric": 11610,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "3 x Behind-the-scenes content",
+      "3 x Twitter post",
+      "1 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8449563002577943,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.805337986943687,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.867494",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Entertainment"
+  }
+}

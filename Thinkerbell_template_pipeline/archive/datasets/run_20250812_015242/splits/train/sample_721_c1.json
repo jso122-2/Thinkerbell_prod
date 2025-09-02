@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_721",
+  "chunk_id": "sample_721_c1",
+  "text": "Hey team, looking to work with Riley Evans for Subway. Budget is approx $3,659 - need 3 x Media interview, 2 x Instagram story, 3 x Media interview, 1 x Behind-the-scenes content. 8 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: October 2025.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

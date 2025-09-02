@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3475",
+  "chunk_id": "sample_3475_c1",
+  "text": "• Influencer: Aria Perez\n            • Brand: IKEA\n            • Fee: ~$3,807\n            • Deliverables: 1 x Product photography, 2 x Lifestyle photography, 2 x Podcast guest, 1 x Instagram post\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

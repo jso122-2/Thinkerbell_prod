@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3717",
+  "generation_timestamp": "2025-08-04T18:31:05.131500",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sage Reed for David Jones. \n            Budget is approx $3,851 - need 3 x 15-second TikTok, 2 x Behind-the-scenes content. \n            12 weeks exclusivity, 2 month engagement. \n            Usage: 6 months. Start date: November 2025.",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$3,851",
+    "fee_numeric": 3851,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "2 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.863076677139502,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9233310335184024,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.118498",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Entertainment"
+  }
+}

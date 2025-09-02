@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1767",
+  "generation_timestamp": "2025-08-04T18:30:22.354952",
+  "generator_version": "v1.0",
+  "batch_id": "batch_018",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Jordan Phillips for Target. \n            Budget is approx $13,685 - need 2 x Blog post, 2 x Twitter post, 2 x TikTok video, 2 x Brand photoshoot. \n            9 weeks exclusivity, 3 month engagement. \n            Usage: 11 months. Start date: September 2025.",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Jordan Phillips",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$13,685",
+    "fee_numeric": 13685,
+    "deliverables": [
+      "2 x Blog post",
+      "2 x Twitter post",
+      "2 x TikTok video",
+      "2 x Brand photoshoot"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.739911763043672,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9115972343853542,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:22.345954",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

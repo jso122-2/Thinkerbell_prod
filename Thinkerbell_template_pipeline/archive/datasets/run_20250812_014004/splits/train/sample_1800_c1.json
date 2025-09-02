@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1800",
+  "chunk_id": "sample_1800_c1",
+  "text": "Olivia Davis for Freedom - $2,189 budget\n            Need: 1 x 60-second YouTube video\n            8w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: December 2025\n\nNeed to confirm: deliverables",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

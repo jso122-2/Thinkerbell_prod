@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4400",
+  "generation_timestamp": "2025-08-04T18:31:18.745950",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Chloe Lewis\n            • Brand: Pizza Hut\n            • Fee: ~$7,257\n            • Deliverables: 2 x Instagram story, 2 x YouTube video\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$7,257",
+    "fee_numeric": 7257,
+    "deliverables": [
+      "2 x Instagram story",
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8619934591327689,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8660539615809133,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.736949",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

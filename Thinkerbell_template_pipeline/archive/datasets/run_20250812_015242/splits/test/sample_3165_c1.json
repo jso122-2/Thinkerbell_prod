@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3165",
+  "chunk_id": "sample_3165_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Repco\n            • Fee: ~$26,581\n            • Deliverables: 3 x Instagram story, 2 x Radio interview\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

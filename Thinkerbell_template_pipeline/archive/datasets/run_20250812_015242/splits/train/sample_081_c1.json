@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_081",
+  "chunk_id": "sample_081_c1",
+  "text": "Hey team, looking to work with Grace Young for Commonwealth Bank. Budget is approx $20,380 - need 2 x Event photography, 3 x Facebook post, 1 x Facebook post. 12 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

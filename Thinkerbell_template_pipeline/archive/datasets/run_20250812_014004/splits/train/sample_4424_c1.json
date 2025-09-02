@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4424",
+  "chunk_id": "sample_4424_c1",
+  "text": "Sean Roberts for Pillow Talk - $24,232 budget\n            Need: 3 x Twitter post\n            12w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

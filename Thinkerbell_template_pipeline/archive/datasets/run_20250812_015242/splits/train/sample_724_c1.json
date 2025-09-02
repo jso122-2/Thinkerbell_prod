@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_724",
+  "chunk_id": "sample_724_c1",
+  "text": "Hey team, looking to work with Morgan Morris for Zambrero. Budget is approx $3,859 - need 2 x Blog post, 2 x 90-second product demo, 1 x Social media takeover, 1 x Instagram story. 9 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

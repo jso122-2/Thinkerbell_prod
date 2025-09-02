@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1026",
+  "generation_timestamp": "2025-08-04T18:30:06.684077",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Riley Evans\n            • Brand: Kmart\n            • Fee: ~$21,459\n            • Deliverables: 3 x Product photography, 3 x Pinterest pin, 3 x Instagram story\n            • Exclusivity: 5 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$21,459",
+    "fee_numeric": 21459,
+    "deliverables": [
+      "3 x Product photography",
+      "3 x Pinterest pin",
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8258704432298222,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8758306546852712,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.676080",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

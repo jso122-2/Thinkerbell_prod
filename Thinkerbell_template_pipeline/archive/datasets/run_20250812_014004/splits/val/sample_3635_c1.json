@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3635",
+  "chunk_id": "sample_3635_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Mecca\n            • Fee: ~$30,859\n            • Deliverables: 2 x LinkedIn post, 3 x Instagram story\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4082",
+  "chunk_id": "sample_4082_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Commonwealth Bank. Budget is approx $18,100 - need 3 x 2-minute tutorial, 2 x 10-minute unboxing, 2 x LinkedIn post, 2 x Instagram post, 2 x Social media takeover. 9 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: September 2025. Need to confirm: deliverables",
+  "token_count": 89,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

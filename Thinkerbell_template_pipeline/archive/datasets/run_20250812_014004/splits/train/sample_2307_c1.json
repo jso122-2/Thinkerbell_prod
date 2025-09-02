@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2307",
+  "chunk_id": "sample_2307_c1",
+  "text": "Hayden Howard for Sephora - $2,590 budget\n            Need: 2 x LinkedIn post, 3 x Pinterest pin, 2 x Facebook post, 1 x Instagram post, 2 x Article contribution\n            6w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

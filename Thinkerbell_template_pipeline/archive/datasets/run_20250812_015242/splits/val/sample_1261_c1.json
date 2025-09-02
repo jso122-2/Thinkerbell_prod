@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1261",
+  "chunk_id": "sample_1261_c1",
+  "text": "Hey team, looking to work with Nathan King for Subway. Budget is approx $10,530 - need 1 x Instagram post, 2 x 90-second product demo. 6 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

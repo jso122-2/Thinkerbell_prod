@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_247",
+  "chunk_id": "sample_247_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Kmart. Budget is approx $12,005 - need 2 x Instagram reel. 12 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

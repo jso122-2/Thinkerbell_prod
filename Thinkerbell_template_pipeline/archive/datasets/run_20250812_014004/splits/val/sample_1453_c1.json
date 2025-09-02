@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1453",
+  "chunk_id": "sample_1453_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Telstra\n            • Fee: ~$2,241\n            • Deliverables: 2 x Instagram post, 2 x Meet and greet, 1 x Meet and greet, 2 x Event photography\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

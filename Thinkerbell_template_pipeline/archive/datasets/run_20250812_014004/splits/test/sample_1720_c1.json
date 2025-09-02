@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1720",
+  "chunk_id": "sample_1720_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Red Rooster. Budget is approx $27,803 - need 2 x 5-minute review, 3 x Podcast guest, 3 x LinkedIn post, 2 x YouTube short, 1 x Radio interview. 5 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: October 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

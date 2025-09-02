@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2965",
+  "generation_timestamp": "2025-08-04T18:30:49.044553",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Mia White for Myer. \n            Budget is approx $7,713 - need 1 x Lifestyle photography, 2 x 60-second YouTube video, 1 x Pinterest pin. \n            2 weeks exclusivity, 5 month engagement. \n            Usage: 12 months. Start date: January 2026.",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$7,713",
+    "fee_numeric": 7713,
+    "deliverables": [
+      "1 x Lifestyle photography",
+      "2 x 60-second YouTube video",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9259376559608276,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9242639254378594,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:49.033554",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

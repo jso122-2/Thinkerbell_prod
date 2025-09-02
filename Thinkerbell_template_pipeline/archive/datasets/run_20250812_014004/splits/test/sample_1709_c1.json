@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1709",
+  "chunk_id": "sample_1709_c1",
+  "text": "Need Chloe Lewis for Supercheap Auto campaign. Budget around $30,958, looking for 2 x Pinterest pin, 3 x LinkedIn post, 1 x Pinterest pin, 1 x 90-second product demo, 3 x Instagram post. 11 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 2 months.",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

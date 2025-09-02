@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2283",
+  "chunk_id": "sample_2283_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: JB Hi-Fi\n            • Fee: ~$9,003\n            • Deliverables: 3 x 2-minute tutorial, 1 x Instagram story, 1 x Lifestyle photography\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

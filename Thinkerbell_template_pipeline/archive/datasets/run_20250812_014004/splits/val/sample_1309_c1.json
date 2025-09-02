@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1309",
+  "chunk_id": "sample_1309_c1",
+  "text": "Hayden Bell for Subway - $2,854 budget\n            Need: 1 x YouTube video, 3 x YouTube short\n            12w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

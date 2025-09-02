@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3725",
+  "chunk_id": "sample_3725_c1",
+  "text": "Tyler Scott for Guzman y Gomez - $3,427 budget\n            Need: 2 x Lifestyle photography, 3 x Podcast guest, 2 x Pinterest pin, 2 x Facebook post\n            7w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2900",
+  "chunk_id": "sample_2900_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Fantastic Furniture. Budget is approx $4,117 - need 2 x 30-second Instagram reel, 2 x Social media takeover, 3 x Instagram post. 12 weeks exclusivity, 5 month engmt. Usage: 7 months. Start date: October 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

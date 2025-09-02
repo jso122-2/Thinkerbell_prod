@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_226",
+  "chunk_id": "sample_226_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Pizza Hut\n            • Fee: ~$27,898\n            • Deliverables: 3 x Radio interview, 2 x Pinterest pin, 1 x LinkedIn post, 1 x Lifestyle photography, 3 x YouTube video\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

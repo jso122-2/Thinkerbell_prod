@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_507",
+  "chunk_id": "sample_507_c1",
+  "text": "Need Justin Mitchell for McDonald's campaign. Budget around $7,050, looking for 1 x Facebook story, 1 x YouTube short. 8 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 12 months. Engagement period: 5 months.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_017",
+  "chunk_id": "sample_017_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Red Rooster\n            • Fee: ~$9,247\n            • Deliverables: 1 x LinkedIn post, 2 x Twitter post, 3 x 3-minute vlog, 3 x Media interview, 2 x Pinterest pin\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

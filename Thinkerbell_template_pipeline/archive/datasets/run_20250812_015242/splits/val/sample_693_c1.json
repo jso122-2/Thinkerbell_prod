@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_693",
+  "chunk_id": "sample_693_c1",
+  "text": "James Wilson for Freedom - $23,992 budget\n            Need: 1 x Facebook post, 1 x 2-minute tutorial, 3 x Instagram post, 2 x TikTok video, 3 x Facebook post\n            5w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

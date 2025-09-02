@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2832",
+  "generation_timestamp": "2025-08-04T18:30:46.523322",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Kevin Baker for Roll'd. \n            Budget is approx $29,876 - need 2 x Brand ambassador content, 3 x 60-second YouTube video, 1 x Instagram story, 2 x Facebook post, 3 x TikTok video. \n            7 weeks exclusivity, 3 month engagement. \n            Usage: 10 months. Start date: October 2025.\n\nAdditional notes: TBC on exact dates, around $29,876 budget",
+    "token_count": 97,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Kevin Baker",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$29,876",
+    "fee_numeric": 29876,
+    "deliverables": [
+      "2 x Brand ambassador content",
+      "3 x 60-second YouTube video",
+      "1 x Instagram story",
+      "2 x Facebook post",
+      "3 x TikTok video"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8851445520100591,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8768247212572994,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:46.513322",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Finance & Insurance"
+  }
+}

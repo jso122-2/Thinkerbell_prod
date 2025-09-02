@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1708",
+  "chunk_id": "sample_1708_c1",
+  "text": "Justin Mitchell for David Jones - $4,584 budget\n            Need: 2 x Radio interview\n            4w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

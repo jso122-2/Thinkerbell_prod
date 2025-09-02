@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3752",
+  "generation_timestamp": "2025-08-04T18:31:05.533498",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sage Cooper for Pizza Hut campaign. Budget around $3,577, looking for 1 x Instagram post, 3 x Pinterest pin, 3 x Article contribution, 2 x Twitter post, 3 x Pinterest pin. \n            9 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 12 months. \n            Engagement period: 5 months.\n\nAdditional notes: TBC on exact dates, around $3,577 budget",
+    "token_count": 101,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$3,577",
+    "fee_numeric": 3577,
+    "deliverables": [
+      "1 x Instagram post",
+      "3 x Pinterest pin",
+      "3 x Article contribution",
+      "2 x Twitter post",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.942515180013298,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8409123306215744,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.523496",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Education"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1828",
+  "chunk_id": "sample_1828_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Bed Bath N' Table\n            • Fee: ~$3,136\n            • Deliverables: 2 x Instagram story, 1 x 30-second Instagram reel, 1 x Media interview\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

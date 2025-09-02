@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_188",
+  "generation_timestamp": "2025-08-04T18:29:48.913178",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Bell\n            • Brand: Hungry Jack's\n            • Fee: ~$1,861\n            • Deliverables: 1 x Twitter post\n            • Exclusivity: 4 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: November 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$1,861",
+    "fee_numeric": 1861,
+    "deliverables": [
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8639552406921189,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8104070714257462,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:48.902177",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

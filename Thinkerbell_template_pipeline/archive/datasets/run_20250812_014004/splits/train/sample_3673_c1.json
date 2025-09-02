@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3673",
+  "chunk_id": "sample_3673_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for IKEA. Budget is approx $25,765 - need 3 x 15-second TikTok, 2 x 60-second YouTube video, 1 x YouTube short, 2 x Brand photoshoot. 8 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: October 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1515",
+  "chunk_id": "sample_1515_c1",
+  "text": "Ryan Allen for Queen Fine Foods - $2,142 budget\n            Need: 1 x 90-second product demo\n            2w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

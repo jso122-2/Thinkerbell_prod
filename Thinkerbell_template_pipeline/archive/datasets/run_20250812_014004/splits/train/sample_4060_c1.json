@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4060",
+  "chunk_id": "sample_4060_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Grill'd\n            • Fee: ~$13,164\n            • Deliverables: 2 x Pinterest pin, 1 x Instagram reel, 3 x 5-minute review, 1 x 90-second product demo, 2 x YouTube video\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

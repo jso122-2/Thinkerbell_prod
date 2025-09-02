@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_952",
+  "chunk_id": "sample_952_c1",
+  "text": "Scarlett Turner for JB Hi-Fi - $33,244 budget\n            Need: 3 x Article contribution, 2 x YouTube short, 3 x Instagram story, 2 x 30-second Instagram reel, 2 x TikTok video\n            3w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

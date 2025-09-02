@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3920",
+  "generation_timestamp": "2025-08-04T18:31:09.391768",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Andrew Clark for Big W - $31,950 budget\n            Need: 3 x Pinterest pin, 2 x 3-minute vlog, 3 x Pinterest pin, 2 x TV appearance, 1 x Product photography\n            8w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$31,950",
+    "fee_numeric": 31950,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "2 x 3-minute vlog",
+      "3 x Pinterest pin",
+      "2 x TV appearance",
+      "1 x Product photography"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7520418559594878,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9497102608919037,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:09.382768",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

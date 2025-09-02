@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3640",
+  "chunk_id": "sample_3640_c1",
+  "text": "Hey team, looking to work with Sage Reed for Pizza Hut. Budget is approx $3,878 - need 1 x Instagram story, 2 x 2-minute tutorial. 4 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: October 2025.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

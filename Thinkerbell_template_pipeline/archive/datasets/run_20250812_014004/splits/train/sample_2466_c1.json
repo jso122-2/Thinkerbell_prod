@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2466",
+  "chunk_id": "sample_2466_c1",
+  "text": "Daniel Martinez for Harvey Norman - $34,887 budget\n            Need: 1 x 15-second TikTok, 1 x Pinterest pin, 3 x 60-second YouTube video\n            3w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

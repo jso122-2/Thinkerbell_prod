@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_156",
+  "chunk_id": "sample_156_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Telstra. Budget is approx $33,285 - need 2 x Facebook post, 1 x Twitter post, 2 x Radio interview, 2 x Twitter post. 12 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_600",
+  "chunk_id": "sample_600_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Target\n            • Fee: ~$19,033\n            • Deliverables: 3 x Instagram post, 2 x Facebook post, 3 x Instagram story\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

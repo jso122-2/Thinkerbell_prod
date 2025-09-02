@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2482",
+  "chunk_id": "sample_2482_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Priceline\n            • Fee: ~$22,377\n            • Deliverables: 2 x Instagram reel\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

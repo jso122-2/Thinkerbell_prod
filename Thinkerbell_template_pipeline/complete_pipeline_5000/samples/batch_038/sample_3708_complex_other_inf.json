@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3708",
+  "generation_timestamp": "2025-08-04T18:31:05.028497",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sage Reed\n            • Brand: Pizza Hut\n            • Fee: ~$18,972\n            • Deliverables: 2 x 5-minute review, 3 x Product photography, 2 x Twitter post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$18,972",
+    "fee_numeric": 18972,
+    "deliverables": [
+      "2 x 5-minute review",
+      "3 x Product photography",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6890344205112923,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8497222859283216,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.018496",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Fashion & Apparel"
+  }
+}

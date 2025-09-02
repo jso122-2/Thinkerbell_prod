@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4344",
+  "generation_timestamp": "2025-08-04T18:31:18.174952",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Justin Mitchell\n            • Brand: David Jones\n            • Fee: ~$2,483\n            • Deliverables: 1 x Product photography, 3 x 30-second Instagram reel\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: September 2025 reckon",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$2,483",
+    "fee_numeric": 2483,
+    "deliverables": [
+      "1 x Product photography",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8069244735071883,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7650131895002559,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.166954",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

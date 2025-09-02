@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1377",
+  "chunk_id": "sample_1377_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Zambrero\n            • Fee: ~$12,334\n            • Deliverables: 1 x Pinterest pin, 3 x Media interview, 1 x YouTube video, 2 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

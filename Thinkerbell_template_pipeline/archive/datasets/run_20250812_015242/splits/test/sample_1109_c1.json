@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1109",
+  "chunk_id": "sample_1109_c1",
+  "text": "Hey team, looking to work with Sage Reed for Hungry Jack's. Budget is approx $4,922 - need 2 x 10-minute unboxing, 3 x Behind-the-scenes content, 2 x 10-minute unboxing, 1 x Radio interview. 4 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

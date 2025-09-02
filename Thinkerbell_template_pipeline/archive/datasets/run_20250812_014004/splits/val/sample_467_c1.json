@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_467",
+  "chunk_id": "sample_467_c1",
+  "text": "Need Scarlett Turner for Bunnings campaign. Budget around $11,397, looking for 2 x 2-minute tutorial. 3 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

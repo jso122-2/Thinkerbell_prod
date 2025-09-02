@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4111",
+  "chunk_id": "sample_4111_c1",
+  "text": "Michael Rodriguez for Country Road - $4,546 budget\n            Need: 3 x 60-second YouTube video, 1 x LinkedIn post\n            7w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025\n\nNeed to confirm: deliverables",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

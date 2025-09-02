@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3439",
+  "chunk_id": "sample_3439_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Zambrero\n            • Fee: ~$4,715\n            • Deliverables: 3 x Twitter post, 3 x Social media takeover\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

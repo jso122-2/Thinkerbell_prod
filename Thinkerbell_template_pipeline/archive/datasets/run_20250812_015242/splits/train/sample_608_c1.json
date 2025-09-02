@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_608",
+  "chunk_id": "sample_608_c1",
+  "text": "Need Skylar Collins for Mecca campaign. Budget around $28,430, looking for 1 x YouTube short, 1 x LinkedIn post. 10 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 12 months. Engagement period: 6 months.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

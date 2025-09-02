@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_925",
+  "chunk_id": "sample_925_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Amart Furniture\n            • Fee: ~$7,016\n            • Deliverables: 3 x Social media takeover, 1 x YouTube short, 1 x Product photography\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

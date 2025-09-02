@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_037",
+  "generation_timestamp": "2025-08-04T18:29:46.380445",
+  "generator_version": "v1.0",
+  "batch_id": "batch_001",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Morgan Morris for Guzman y Gomez. \n            Budget is approx $3,805 - need 1 x Behind-the-scenes content, 1 x LinkedIn post, 1 x 90-second product demo, 3 x Lifestyle photography. \n            10 weeks exclusivity, 5 month engagement. \n            Usage: 8 months. Start date: October 2025.",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Guzman y Gomez",
+    "brand": "Guzman y Gomez",
+    "campaign": "Guzman y Gomez Campaign",
+    "fee": "$3,805",
+    "fee_numeric": 3805,
+    "deliverables": [
+      "1 x Behind-the-scenes content",
+      "1 x LinkedIn post",
+      "1 x 90-second product demo",
+      "3 x Lifestyle photography"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8211490789298802,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9213423194510673,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:46.371446",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

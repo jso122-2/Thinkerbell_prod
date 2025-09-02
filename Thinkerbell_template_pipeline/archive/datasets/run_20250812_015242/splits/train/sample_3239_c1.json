@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3239",
+  "chunk_id": "sample_3239_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Commonwealth Bank. Budget is approx $2,656 - need 3 x Pinterest pin. 7 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: November 2025.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

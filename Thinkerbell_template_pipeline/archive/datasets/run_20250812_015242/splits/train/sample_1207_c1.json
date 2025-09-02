@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1207",
+  "chunk_id": "sample_1207_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Bunnings\n            • Fee: ~$9,621\n            • Deliverables: 3 x 5-minute review, 3 x Twitter post, 1 x Instagram post, 3 x Live stream\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

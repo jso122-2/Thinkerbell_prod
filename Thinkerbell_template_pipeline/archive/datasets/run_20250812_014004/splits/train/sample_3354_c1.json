@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3354",
+  "chunk_id": "sample_3354_c1",
+  "text": "Matthew Taylor for Pizza Hut - $31,057 budget\n            Need: 3 x 30-second Instagram reel\n            2w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

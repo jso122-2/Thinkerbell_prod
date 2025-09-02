@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_322",
+  "chunk_id": "sample_322_c1",
+  "text": "Reagan Rogers for Officeworks - $2,322 budget\n            Need: 2 x LinkedIn post, 2 x Pinterest pin, 2 x Product photography, 1 x Press conference, 1 x Behind-the-scenes content\n            3w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

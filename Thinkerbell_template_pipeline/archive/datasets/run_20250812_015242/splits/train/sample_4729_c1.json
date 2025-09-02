@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4729",
+  "chunk_id": "sample_4729_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Chemist Warehouse\n            • Fee: ~$3,868\n            • Deliverables: 1 x Facebook post, 3 x YouTube video, 3 x Media interview, 2 x Instagram story, 3 x Event photography\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

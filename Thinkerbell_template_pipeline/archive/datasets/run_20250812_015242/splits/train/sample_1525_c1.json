@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1525",
+  "chunk_id": "sample_1525_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Roll'd\n            • Fee: ~$30,241\n            • Deliverables: 3 x Instagram story\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $30,241 budget",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

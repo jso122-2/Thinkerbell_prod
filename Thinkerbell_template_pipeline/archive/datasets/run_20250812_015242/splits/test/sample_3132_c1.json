@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3132",
+  "chunk_id": "sample_3132_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Autobarn. Budget is approx $31,246 - need 3 x 2-minute tutorial, 2 x Facebook post, 3 x YouTube video. 7 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: January 2026. Additional notes: TBC on exact dates, around $31,246 budget",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

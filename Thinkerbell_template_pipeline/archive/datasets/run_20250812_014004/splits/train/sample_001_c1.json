@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_001",
+  "chunk_id": "sample_001_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: JB Hi-Fi\n            • Fee: ~$5,358\n            • Deliverables: 1 x Product photography\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

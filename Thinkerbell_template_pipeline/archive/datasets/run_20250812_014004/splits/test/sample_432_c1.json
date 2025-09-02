@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_432",
+  "chunk_id": "sample_432_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Zambrero\n            • Fee: ~$18,509\n            • Deliverables: 2 x Facebook post, 2 x 15-second TikTok, 1 x 60-second YouTube video, 2 x Live stream\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $18,509 budget",
+  "token_count": 94,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

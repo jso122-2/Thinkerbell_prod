@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3067",
+  "generation_timestamp": "2025-08-04T18:30:51.156705",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "David Brown for Coles - $3,751 budget\n            Need: 2 x Article contribution, 3 x 90-second product demo, 2 x Twitter post, 2 x Twitter post\n            7w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$3,751",
+    "fee_numeric": 3751,
+    "deliverables": [
+      "2 x Article contribution",
+      "3 x 90-second product demo",
+      "2 x Twitter post",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.763417489833768,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8443306527431135,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:51.149707",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Automotive"
+  }
+}

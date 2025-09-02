@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1058",
+  "chunk_id": "sample_1058_c1",
+  "text": "Hayden Howard for Big W - $4,236 budget\n            Need: 3 x Lifestyle photography, 2 x Facebook post, 1 x Instagram story\n            10w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2340",
+  "chunk_id": "sample_2340_c1",
+  "text": "Olivia Davis for Lush - $9,211 budget\n            Need: 3 x 3-minute vlog\n            6w exclus, 4m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4433",
+  "chunk_id": "sample_4433_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Myer\n            • Fee: ~$25,857\n            • Deliverables: 2 x 60-second YouTube video, 3 x Twitter post, 2 x Behind-the-scenes content, 1 x Instagram story\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

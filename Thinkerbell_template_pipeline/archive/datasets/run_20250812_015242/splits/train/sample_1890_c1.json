@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1890",
+  "chunk_id": "sample_1890_c1",
+  "text": "Hey team, looking to work with Hannah Green for Queen Fine Foods. Budget is approx $4,244 - need 1 x Instagram post, 3 x Instagram post. 4 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

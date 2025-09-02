@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1110",
+  "chunk_id": "sample_1110_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Zambrero. Budget is approx $15,419 - need 3 x Instagram story, 1 x Facebook story, 1 x Behind-the-scenes content, 2 x 30-second Instagram reel. 9 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: October 2025.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

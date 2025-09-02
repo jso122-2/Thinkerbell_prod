@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2195",
+  "generation_timestamp": "2025-08-04T18:30:32.434800",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sage Reed for Adairs campaign. Budget around $29,288, looking for 1 x Pinterest pin, 1 x 15-second TikTok, 3 x Product launch event. \n            10 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 8 months. \n            Engagement period: 2 months.\n\nAdditional notes: TBC on exact dates, around $29,288 budget",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$29,288",
+    "fee_numeric": 29288,
+    "deliverables": [
+      "1 x Pinterest pin",
+      "1 x 15-second TikTok",
+      "3 x Product launch event"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8839923930213096,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8863160004624597,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:32.426803",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

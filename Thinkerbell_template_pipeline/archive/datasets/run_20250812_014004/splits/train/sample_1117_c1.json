@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1117",
+  "chunk_id": "sample_1117_c1",
+  "text": "Hey team, looking to work with Rowan Bailey for Big W. \n            Budget is approx $6,916 - need 2 x Lifestyle photography. 11 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

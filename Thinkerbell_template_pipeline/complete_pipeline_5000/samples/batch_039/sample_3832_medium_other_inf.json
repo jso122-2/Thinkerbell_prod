@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3832",
+  "generation_timestamp": "2025-08-04T18:31:07.372986",
+  "generator_version": "v1.0",
+  "batch_id": "batch_039",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Victoria Carter for Big W - $1,921 budget\n            Need: 3 x Lifestyle photography, 1 x 2-minute tutorial, 2 x Pinterest pin, 2 x Live stream, 3 x Lifestyle photography\n            5w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$1,921",
+    "fee_numeric": 1921,
+    "deliverables": [
+      "3 x Lifestyle photography",
+      "1 x 2-minute tutorial",
+      "2 x Pinterest pin",
+      "2 x Live stream",
+      "3 x Lifestyle photography"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8572164517890026,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.848196052483675,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:07.362987",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_594",
+  "chunk_id": "sample_594_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Mad Mex\n            • Fee: ~$17,403\n            • Deliverables: 3 x 15-second TikTok, 2 x Article contribution, 2 x LinkedIn post, 3 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

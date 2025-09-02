@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1106",
+  "generation_timestamp": "2025-08-04T18:30:08.581849",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hannah Green for Witchery - $30,259 budget\n            Need: 1 x Pinterest pin\n            9w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+    "token_count": 47,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Witchery",
+    "brand": "Witchery",
+    "campaign": "Witchery Campaign",
+    "fee": "$30,259",
+    "fee_numeric": 30259,
+    "deliverables": [
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9056089850057689,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9435855832935178,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:08.573852",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

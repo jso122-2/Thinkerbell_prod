@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_221",
+  "chunk_id": "sample_221_c1",
+  "text": "Need Daniel Martinez for Qantas campaign. Budget around $8,762, looking for 1 x 2-minute tutorial, 2 x Article contribution. 2 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

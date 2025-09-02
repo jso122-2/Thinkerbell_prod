@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_361",
+  "generation_timestamp": "2025-08-04T18:29:52.681705",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Isabella Garcia for Coles. \n            Budget is approx $4,111 - need 3 x Product photography, 1 x Pinterest pin. \n            3 weeks exclusivity, 6 month engagement. \n            Usage: 9 months. Start date: January 2026.",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Isabella Garcia",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$4,111",
+    "fee_numeric": 4111,
+    "deliverables": [
+      "3 x Product photography",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7872937822816192,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9202779216321081,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.672700",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Education"
+  }
+}

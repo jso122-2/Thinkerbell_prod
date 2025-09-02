@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1122",
+  "chunk_id": "sample_1122_c1",
+  "text": "Need Matthew Taylor for Target campaign. Budget around $3,641, looking for 2 x Instagram story, 2 x Brand ambassador content. 3 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 10 months. Engagement period: 2 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

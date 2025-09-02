@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2830",
+  "chunk_id": "sample_2830_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Sportsgirl\n            • Fee: ~$3,009\n            • Deliverables: 3 x Instagram story\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

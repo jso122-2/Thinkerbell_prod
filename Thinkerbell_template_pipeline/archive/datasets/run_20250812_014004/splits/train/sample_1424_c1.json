@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1424",
+  "chunk_id": "sample_1424_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Sephora\n            • Fee: ~$3,017\n            • Deliverables: 2 x Facebook post, 3 x Facebook post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2882",
+  "chunk_id": "sample_2882_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Betty's Burgers. Budget is approx $10,294 - need 2 x Product photography, 1 x Instagram reel, 3 x Instagram post, 3 x Product launch event. 2 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

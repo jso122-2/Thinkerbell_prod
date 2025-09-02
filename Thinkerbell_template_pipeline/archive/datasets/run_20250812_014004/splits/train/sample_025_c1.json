@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_025",
+  "chunk_id": "sample_025_c1",
+  "text": "Cameron Parker for Cotton On - $8,201 budget\n            Need: 2 x 10-minute unboxing, 3 x Instagram story\n            10w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

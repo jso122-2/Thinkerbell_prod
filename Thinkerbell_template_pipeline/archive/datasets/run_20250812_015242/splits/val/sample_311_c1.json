@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_311",
+  "chunk_id": "sample_311_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Red Rooster. Budget is approx $28,388 - need 1 x Instagram post, 2 x YouTube video, 1 x Twitter post. 11 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

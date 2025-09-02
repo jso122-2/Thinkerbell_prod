@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4071",
+  "chunk_id": "sample_4071_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Chemist Warehouse\n            • Fee: ~$19,360\n            • Deliverables: 2 x Store opening, 3 x Twitter post, 3 x 5-minute review, 2 x 15-second TikTok\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: September 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

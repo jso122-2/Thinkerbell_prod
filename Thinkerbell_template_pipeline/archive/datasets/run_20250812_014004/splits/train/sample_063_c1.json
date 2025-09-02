@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_063",
+  "chunk_id": "sample_063_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Queen Fine Foods. Budget is approx $15,548 - need 1 x 15-second TikTok, 1 x YouTube video, 1 x Pinterest pin. 12 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

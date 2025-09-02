@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_921",
+  "chunk_id": "sample_921_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Chemist Warehouse\n            • Fee: ~$15,514\n            • Deliverables: 2 x LinkedIn post, 3 x LinkedIn post, 2 x Media interview, 1 x Twitter post, 1 x Twitter post\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

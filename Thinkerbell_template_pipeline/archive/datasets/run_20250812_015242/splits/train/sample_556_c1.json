@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_556",
+  "chunk_id": "sample_556_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Adairs\n            • Fee: ~$17,826\n            • Deliverables: 1 x Pinterest pin, 3 x Blog post, 1 x Instagram reel\n            • Exclusivity: 2 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $17,826 budget\n\nNeed to confirm: deliverables",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

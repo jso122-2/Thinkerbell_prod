@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4399",
+  "chunk_id": "sample_4399_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Queen Fine Foods\n            • Fee: ~$9,046\n            • Deliverables: 3 x TikTok video\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: December 2025 reckon",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

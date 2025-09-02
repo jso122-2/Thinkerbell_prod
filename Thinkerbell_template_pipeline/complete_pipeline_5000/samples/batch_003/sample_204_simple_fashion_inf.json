@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_204",
+  "generation_timestamp": "2025-08-04T18:29:50.031436",
+  "generator_version": "v1.0",
+  "batch_id": "batch_003",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Matthew Taylor\n            • Brand: Sportsgirl\n            • Fee: ~$27,199\n            • Deliverables: 1 x Live stream, 2 x Instagram post, 2 x Behind-the-scenes content, 2 x TikTok video\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: November 2025",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$27,199",
+    "fee_numeric": 27199,
+    "deliverables": [
+      "1 x Live stream",
+      "2 x Instagram post",
+      "2 x Behind-the-scenes content",
+      "2 x TikTok video"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8373974875111584,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8051814283297231,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:50.020437",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

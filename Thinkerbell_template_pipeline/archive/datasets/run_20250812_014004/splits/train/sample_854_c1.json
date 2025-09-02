@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_854",
+  "chunk_id": "sample_854_c1",
+  "text": "Hey team, looking to work with James Wilson for Fantastic Furniture. Budget is approx $5,877 - need 2 x 90-second product demo. 8 weeks exclusivity, 2 month engagement. Usage: 9 months. Start date: September 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

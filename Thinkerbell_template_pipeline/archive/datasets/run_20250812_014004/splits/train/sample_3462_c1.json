@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3462",
+  "chunk_id": "sample_3462_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Portmans\n            • Fee: ~$26,653\n            • Deliverables: 2 x Pinterest pin, 1 x LinkedIn post, 2 x 2-minute tutorial\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

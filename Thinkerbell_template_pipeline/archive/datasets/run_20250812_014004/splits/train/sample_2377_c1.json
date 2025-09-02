@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2377",
+  "chunk_id": "sample_2377_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Guzman y Gomez\n            • Fee: ~$2,872\n            • Deliverables: 3 x Facebook story, 2 x LinkedIn post, 2 x Meet and greet, 1 x Meet and greet, 3 x Instagram story\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

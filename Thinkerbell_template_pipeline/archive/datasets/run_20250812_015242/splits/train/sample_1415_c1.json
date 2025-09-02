@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1415",
+  "chunk_id": "sample_1415_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Repco. Budget is approx $10,383 - need 3 x Facebook post, 1 x LinkedIn post, 2 x Facebook story, 1 x Brand photoshoot, 2 x Facebook post. 10 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: December 2025. Additional notes: TBC on exact dates, around $10,383 budget",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

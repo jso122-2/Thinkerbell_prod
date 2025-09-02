@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1000",
+  "chunk_id": "sample_1000_c1",
+  "text": "Hey team, looking to work with Mia White for Woolworths. Budget is approx $3,081 - need 2 x Media interview, 2 x Product photography, 3 x Instagram post, 3 x YouTube short. 2 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

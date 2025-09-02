@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1208",
+  "chunk_id": "sample_1208_c1",
+  "text": "Need Victoria Carter for Queen Fine Foods campaign. Budget around $16,262, looking for 2 x 90-second product demo. 9 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

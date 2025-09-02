@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2987",
+  "generation_timestamp": "2025-08-04T18:30:49.301552",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Victoria Carter for Repco. \n            Budget is approx $22,554 - need 2 x LinkedIn post, 2 x 90-second product demo, 1 x 60-second YouTube video, 3 x 2-minute tutorial. \n            9 weeks exclusivity, 2 month engagement. \n            Usage: 10 months. Start date: September 2025.",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Repco",
+    "brand": "Repco",
+    "campaign": "Repco Campaign",
+    "fee": "$22,554",
+    "fee_numeric": 22554,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "2 x 90-second product demo",
+      "1 x 60-second YouTube video",
+      "3 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7272362458171251,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8481791505906027,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:49.293555",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Sports & Recreation"
+  }
+}

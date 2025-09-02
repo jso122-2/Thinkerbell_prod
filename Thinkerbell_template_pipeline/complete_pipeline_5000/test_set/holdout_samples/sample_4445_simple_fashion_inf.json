@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4445",
+  "generation_timestamp": "2025-08-04T18:31:20.109474",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Howard for Sportsgirl campaign. Budget around $14,544, looking for 3 x Instagram reel, 1 x Lifestyle photography. \n            4 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 6 months. \n            Engagement period: 6 months.",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$14,544",
+    "fee_numeric": 14544,
+    "deliverables": [
+      "3 x Instagram reel",
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8253780486384855,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9017293157902216,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:20.102441",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Education"
+  }
+}

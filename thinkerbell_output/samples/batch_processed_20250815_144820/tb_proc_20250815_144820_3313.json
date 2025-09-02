@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_proc_20250815_144820_3313",
+  "generation_timestamp": "2025-08-15T14:48:20.469773",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "medium",
+    "industry": "food",
+    "confidence": 0.8500000000000001
+  },
+  "raw_input": {
+    "text": "# AMAZON   PBDD Talent Agreement Jackie Gillies DRAFT \n\nTalentAgreementCOMPANY DATE OF AGREEMENT25/07/2025 BETWEEN Thinkerbell (ABN 99 618 397 658) of 261-265 Chalmers St, Redfern, NSW, 2016 (“Agency”)\n \nAND Jackie Gillies (ABN 00 000 000 000) of [address] (“Talent”) \n \nBACKGROUNDA. Agency wishes to engage the Services of the Talent, and the Talent agrees to provide the Services and to curate Works and/or other content for the culinary campaign for the Client in relation to the Products and/or Brands as set out in this Social Media Talent Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT Amazon Australia (ABN: 30 616 935 623) of Level 37, 2 Park Street, Sydney, NSW 2000 BRAND Amazon Australia menu item \nPrime Big Deal Days Sales Event culinary campaign Leisure Reader - Prime Big Deal Days x Jackie Gillies ENGAGEMENT TERM 4 months (25 July 2025 - 31 October 2025) from the date of this Agreement, plus any Rollover Term exercised under clause 3. \nWORK/S Attendance to a brand briefing immersion session and delivery of key content outputs as listed below.\nThe following materials will be produced by the Talent across three spikes during the Usage Term.\nCreate bespoke psychic reading in partnership with Agency and Client 1-2 x briefing call attendance \n1 x half-day shoot (max. 4 hours) to develop 1 x social video 30-60 seconds. Video to be filmed at pre-agreed location with travel covered \n1 x social video (30-60 secs) to be posted in-feed on Talent's Instagram page via Collab Post with Amazon \n1 x story resharing the in-feed post on Talent’s Instagram 1x day of attendance at Amazon Sydney CBD office for the following activities:\n Affiliate media psychic consults Social competition winner psychic consults (2 - 3 consults which could be in-person or virtual) \n5 - 7x media interviews (via phone/video plus 1 x TBC breakfast TV in-person appearance) \n1x quote to be used in media release A brief of the materials will be provided to the Agency for approval prior to commencement of producing the materials. \nMEDIA Client may distribute the Work in an unlimited fashion during the Usage Term in the following media:\nAmazon Australia Instagram page [@amazonaustralia]\nAmazon Australia Facebook page [www.facebook.com/AmazonAustralia]\nAmazon Australia Website page [www.amazon.com.au] \nIn addition to the above, the Talent shall upload the Work to the Talent’s social media channels, once approval has been given by Agency:\nInstagram [@jackiegilliestv]\nThe Work must remain published on the Talent’s social media channels (outlined above) for the remainder of the Usage Term once posted. For clarity, the Works may remain published on the Media (and does not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term. \nThe Talent agrees that Agency will have rights to amplify the Talent’s Work in the Media.\nThe Talent shall not, for a period of twenty-four (24) hours after a Work is published in their social media channels, post, share, re-tweet or re-gram any other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work.\nTERRITORY Australia. \nFor clarity, the parties acknowledge that some use on the internet may be accessible from outside the Territory through no fault of either party.\nUSAGE TERMS 6 months from first live date, plus any Rollover Term exercised under clause 3.\nPAID USAGE \nN/A - Paid Usage terms have not been negotiated. \nFEE A total of $55,000 to be paid (including ASF), excluding GST. \n## PAYMENT TERMS\n\nPayment Terms: Payment shall be made as follows: a fee of $20,000 (+ GST) will be paid within 30 days of Agency and Talent signing the agreement. A fee of $35,000 will be paid within 30 days of completion of all delivered and accepted Work. \nIn any Rollover Term, $35,000 will be paid within 30 days at the end of the engagement term of 31 October 2025. \nOTHER CONSIDERATION As a part of the agreement Agency and Talent have agreed on the following additional considerations;\nPending on relevance and pre-approval, Agency will cover the costs of travel, transfers, parking and/or accommodation of any activities related to the agreed ## DELIVERABLES\n\ndeliverables. \nFor the shoot attendance, Agency will supply hair and makeup \nAgency and Talent has agreed to include “Want to know more about Jackie?\" featuring the XO Jackie logo and a link to www.xojackie.com in any official Amazon communication related to the culinary campaign.\nAgency has agreed that Talent will receive any relevant produced assets and may share them across her platforms with prior approval from Agency and Client Talent has agreed to offer a free TransformU course membership valued at RRP$3,777 that may be included in a prize pack or media gif...",
+    "token_count": 3427,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "Amazon",
+    "brand": "Amazon",
+    "campaign": "for the Client in relation to the Products and",
+    "fee": "$55,000",
+    "fee_numeric": 55000,
+    "deliverables": [
+      "7 x media interviews"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT ",
+    "match_confidence": 0.9368067399117291,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "food",
+      "complexity": "medium"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "medium_food",
+    "source_document": "AMAZON___PBDD_Talent_Agreement_Jackie_Gillies_DRAFT_.md"
+  }
+}

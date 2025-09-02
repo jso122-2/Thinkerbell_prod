@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_654",
+  "chunk_id": "sample_654_c1",
+  "text": "Hey team, looking to work with Olivia Davis for Adairs. Budget is approx $5,201 - need 2 x Instagram post, 3 x Instagram story. 3 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

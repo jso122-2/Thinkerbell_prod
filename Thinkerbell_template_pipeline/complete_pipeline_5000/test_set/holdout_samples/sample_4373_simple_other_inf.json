@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4373",
+  "generation_timestamp": "2025-08-04T18:31:18.483952",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with James Wilson for Red Rooster. \n            Budget is approx $19,510 - need 3 x Radio interview, 3 x 90-second product demo, 1 x Lifestyle photography, 1 x Media interview. \n            12 weeks exclusivity, 4 month engagement. \n            Usage: 11 months. Start date: September 2025.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$19,510",
+    "fee_numeric": 19510,
+    "deliverables": [
+      "3 x Radio interview",
+      "3 x 90-second product demo",
+      "1 x Lifestyle photography",
+      "1 x Media interview"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7582490761105113,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8963450924584004,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.473948",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Automotive"
+  }
+}

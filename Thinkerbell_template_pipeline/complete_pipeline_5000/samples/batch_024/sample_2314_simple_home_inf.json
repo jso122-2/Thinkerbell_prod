@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2314",
+  "generation_timestamp": "2025-08-04T18:30:35.793819",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Nathan King\n            • Brand: Adairs\n            • Fee: ~$19,553\n            • Deliverables: 2 x 2-minute tutorial\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$19,553",
+    "fee_numeric": 19553,
+    "deliverables": [
+      "2 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8073357508601734,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9157610449928499,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:35.775820",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Home & Garden"
+  }
+}

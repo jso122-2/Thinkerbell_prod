@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2312",
+  "chunk_id": "sample_2312_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Zambrero\n            • Fee: ~$1,635\n            • Deliverables: 3 x TV appearance\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_870",
+  "chunk_id": "sample_870_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Pillow Talk\n            • Fee: ~$13,065\n            • Deliverables: 2 x 15-second TikTok, 2 x 90-second product demo, 1 x Pinterest pin, 1 x Twitter post\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

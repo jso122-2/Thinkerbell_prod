@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2843",
+  "chunk_id": "sample_2843_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Domino's\n            • Fee: ~$14,100\n            • Deliverables: 1 x Instagram post, 3 x Instagram post\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

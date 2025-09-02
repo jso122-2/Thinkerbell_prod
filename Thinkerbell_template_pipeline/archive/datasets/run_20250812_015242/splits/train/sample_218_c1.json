@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_218",
+  "chunk_id": "sample_218_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Fantastic Furniture\n            • Fee: ~$31,247\n            • Deliverables: 1 x Lifestyle photography\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

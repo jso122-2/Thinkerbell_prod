@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_488",
+  "chunk_id": "sample_488_c1",
+  "text": "Hey team, looking to work with Olivia Davis for Commonwealth Bank. Budget is approx $3,341 - need 2 x Professional headshots, 3 x Instagram post. 4 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3573",
+  "chunk_id": "sample_3573_c1",
+  "text": "Isabella Garcia for Fantastic Furniture - $19,811 budget\n            Need: 2 x Instagram reel, 2 x YouTube short\n            6w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

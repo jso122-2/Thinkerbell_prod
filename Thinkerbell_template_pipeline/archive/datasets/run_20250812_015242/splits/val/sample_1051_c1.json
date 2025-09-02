@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1051",
+  "chunk_id": "sample_1051_c1",
+  "text": "Kevin Baker for Woolworths - $12,262 budget\n            Need: 1 x Pinterest pin, 2 x Radio interview, 2 x Facebook post, 2 x 3-minute vlog, 2 x Brand photoshoot\n            4w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

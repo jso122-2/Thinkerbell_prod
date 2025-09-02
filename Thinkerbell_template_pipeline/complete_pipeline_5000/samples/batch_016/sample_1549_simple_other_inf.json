@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1549",
+  "generation_timestamp": "2025-08-04T18:30:17.531684",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Christopher Lee\n            • Brand: Hungry Jack's\n            • Fee: ~$10,091\n            • Deliverables: 1 x Store opening, 2 x Press conference\n            • Exclusivity: 4 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: October 2025",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$10,091",
+    "fee_numeric": 10091,
+    "deliverables": [
+      "1 x Store opening",
+      "2 x Press conference"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8962075955165398,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9186840654590951,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.522683",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

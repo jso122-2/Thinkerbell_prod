@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4699",
+  "generation_timestamp": "2025-08-04T18:31:24.412402",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Quinn Richardson for Telstra campaign. Budget around $7,624, looking for 1 x Lifestyle photography. \n            12 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 12 months. \n            Engagement period: 5 months.",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$7,624",
+    "fee_numeric": 7624,
+    "deliverables": [
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.724218153641884,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8536083079414093,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:24.403404",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Fashion & Apparel"
+  }
+}

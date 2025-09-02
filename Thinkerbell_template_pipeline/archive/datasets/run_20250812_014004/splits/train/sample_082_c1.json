@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_082",
+  "chunk_id": "sample_082_c1",
+  "text": "Hey team, looking to work with Jordan Phillips for Officeworks. Budget is approx $1,657 - need 2 x TikTok video, 2 x 10-minute unboxing, 3 x Twitter post, 1 x Twitter post. 6 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

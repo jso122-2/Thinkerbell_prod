@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_289",
+  "generation_timestamp": "2025-08-04T18:29:50.979466",
+  "generator_version": "v1.0",
+  "batch_id": "batch_003",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Grace Young for Myer. \n            Budget is approx $3,664 - need 1 x Professional headshots, 3 x Instagram post, 3 x 2-minute tutorial. \n            5 weeks exclusivity, 2 month engagement. \n            Usage: 10 months. Start date: October 2025.",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$3,664",
+    "fee_numeric": 3664,
+    "deliverables": [
+      "1 x Professional headshots",
+      "3 x Instagram post",
+      "3 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9267900861444986,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8651233223093756,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:50.969438",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

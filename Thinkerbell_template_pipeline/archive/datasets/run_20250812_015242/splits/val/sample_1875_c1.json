@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1875",
+  "chunk_id": "sample_1875_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Amart Furniture. Budget is approx $2,502 - need 2 x LinkedIn post, 3 x Facebook post, 2 x Instagram story, 1 x Twitter post. 7 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: September 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

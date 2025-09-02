@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3386",
+  "generation_timestamp": "2025-08-04T18:30:57.486718",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Emma Thompson for Commonwealth Bank. \n            Budget is approx $4,323 - need 1 x Brand ambassador content. \n            3 weeks exclusivity, 3 month engagement. \n            Usage: 6 months. Start date: January 2026.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Emma Thompson",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$4,323",
+    "fee_numeric": 4323,
+    "deliverables": [
+      "1 x Brand ambassador content"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7239246704448901,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8444014513838246,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.474717",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Education"
+  }
+}

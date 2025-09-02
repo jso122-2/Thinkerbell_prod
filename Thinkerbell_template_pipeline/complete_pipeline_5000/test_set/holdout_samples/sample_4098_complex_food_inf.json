@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4098",
+  "generation_timestamp": "2025-08-04T18:31:12.599888",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Matthew Taylor for Boost Juice campaign. Budget around $3,251, looking for 3 x Instagram story, 1 x Product photography, 2 x 60-second YouTube video, 2 x 60-second YouTube video, 1 x Facebook post. \n            10 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 6 months. \n            Engagement period: 3 months.",
+    "token_count": 93,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Boost Juice",
+    "brand": "Boost Juice",
+    "campaign": "Boost Juice Campaign",
+    "fee": "$3,251",
+    "fee_numeric": 3251,
+    "deliverables": [
+      "3 x Instagram story",
+      "1 x Product photography",
+      "2 x 60-second YouTube video",
+      "2 x 60-second YouTube video",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6582873661237806,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7349497121334656,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.590883",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

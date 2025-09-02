@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2641",
+  "chunk_id": "sample_2641_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Hungry Jack's\n            • Fee: ~$4,345\n            • Deliverables: 2 x 10-minute unboxing, 2 x 90-second product demo, 1 x YouTube video\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

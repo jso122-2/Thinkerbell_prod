@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_868",
+  "chunk_id": "sample_868_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Supercheap Auto\n            • Fee: ~$2,599\n            • Deliverables: 1 x 10-minute unboxing, 1 x Instagram post, 2 x Instagram post, 2 x Lifestyle photography\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

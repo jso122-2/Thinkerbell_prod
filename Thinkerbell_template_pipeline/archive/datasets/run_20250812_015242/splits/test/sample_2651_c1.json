@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2651",
+  "chunk_id": "sample_2651_c1",
+  "text": "Chloe Lewis for Cotton On - $4,566 budget\n            Need: 1 x Lifestyle photography, 2 x Instagram post\n            11w exclus, 3m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

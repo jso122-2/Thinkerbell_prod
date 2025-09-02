@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1046",
+  "chunk_id": "sample_1046_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Boost Juice\n            • Fee: ~$3,859\n            • Deliverables: 3 x Behind-the-scenes content, 1 x Pinterest pin, 3 x Product photography, 2 x Instagram story, 1 x Instagram post\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

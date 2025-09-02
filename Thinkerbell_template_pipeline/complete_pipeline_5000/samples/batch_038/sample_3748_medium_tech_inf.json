@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3748",
+  "generation_timestamp": "2025-08-04T18:31:05.493501",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sage Cooper for Commonwealth Bank - $3,341 budget\n            Need: 3 x Lifestyle photography\n            2w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: January 2026\n\nAdditional notes: TBC on exact dates, around $3,341 budget\n\nNeed to confirm: deliverables",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$3,341",
+    "fee_numeric": 3341,
+    "deliverables": [
+      "3 x Lifestyle photography"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7086090447209115,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8191350427129159,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.483499",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

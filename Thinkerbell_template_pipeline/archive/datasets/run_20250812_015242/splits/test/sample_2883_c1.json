@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2883",
+  "chunk_id": "sample_2883_c1",
+  "text": "Joshua Hall for David Jones - $13,627 budget\n            Need: 1 x Instagram post, 3 x Instagram story, 1 x TikTok video, 2 x LinkedIn post\n            11w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_068",
+  "chunk_id": "sample_068_c1",
+  "text": "Need Justin Mitchell for Mad Mex campaign. Budget around $3,590, looking for 2 x 2-minute tutorial, 2 x Facebook post, 1 x Instagram story, 2 x Product photography, 2 x Facebook post. 3 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 11 months. Engagement period: 3 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

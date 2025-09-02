@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2299",
+  "chunk_id": "sample_2299_c1",
+  "text": "Hey team, looking to work with David Brown for Freedom. Budget is approx $4,564 - need 3 x 5-minute review, 2 x Facebook story, 2 x Pinterest pin. 3 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: October 2025.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1133",
+  "chunk_id": "sample_1133_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: JB Hi-Fi\n            • Fee: ~$14,198\n            • Deliverables: 3 x Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

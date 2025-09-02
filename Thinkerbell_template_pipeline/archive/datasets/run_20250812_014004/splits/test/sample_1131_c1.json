@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1131",
+  "chunk_id": "sample_1131_c1",
+  "text": "• Influencer: Hayden Howard\n            • Brand: Roll'd\n            • Fee: ~$27,287\n            • Deliverables: 1 x Facebook post, 3 x TikTok video, 1 x 90-second product demo, 1 x Store opening, 3 x Facebook post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

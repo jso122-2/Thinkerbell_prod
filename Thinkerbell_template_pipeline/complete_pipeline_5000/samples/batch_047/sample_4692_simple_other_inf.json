@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4692",
+  "generation_timestamp": "2025-08-04T18:31:24.339400",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Quinn Richardson for Qantas campaign. Budget around $32,107, looking for 1 x Facebook post, 2 x Live stream, 3 x Event photography, 2 x Article contribution. \n            5 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 11 months. \n            Engagement period: 4 months.",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$32,107",
+    "fee_numeric": 32107,
+    "deliverables": [
+      "1 x Facebook post",
+      "2 x Live stream",
+      "3 x Event photography",
+      "2 x Article contribution"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.873345109665454,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.879400869822315,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:24.330406",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

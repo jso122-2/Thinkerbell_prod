@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1882",
+  "chunk_id": "sample_1882_c1",
+  "text": "Hey team, looking to work with Sage Reed for Guzman y Gomez. Budget is approx $27,974 - need 1 x Radio interview, 2 x LinkedIn post. 9 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: September 2025. Additional notes: TBC on exact dates, around $27,974 budget",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

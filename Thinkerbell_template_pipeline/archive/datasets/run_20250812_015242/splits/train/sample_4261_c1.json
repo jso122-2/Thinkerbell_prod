@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4261",
+  "chunk_id": "sample_4261_c1",
+  "text": "Need Brooklyn Edwards for Mad Mex campaign. Budget around $12,553, looking for 1 x 10-minute unboxing, 1 x LinkedIn post, 3 x Radio interview, 1 x Twitter post. 8 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 5 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

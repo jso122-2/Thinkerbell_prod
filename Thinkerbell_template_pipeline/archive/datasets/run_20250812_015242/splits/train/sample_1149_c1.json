@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1149",
+  "chunk_id": "sample_1149_c1",
+  "text": "Need Sophie Anderson for Fantastic Furniture camp. Budget arnd $11,252, looking for 2 x Twitter post, 3 x Facebook post, 1 x Event photography, 2 x Product launch event. 5 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 9 months. Engagement period: 3 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

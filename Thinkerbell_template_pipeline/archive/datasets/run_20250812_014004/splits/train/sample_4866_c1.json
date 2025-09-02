@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4866",
+  "chunk_id": "sample_4866_c1",
+  "text": "• Influencer: Chloe Lewis\n            • Brand: Cotton On\n            • Fee: ~$23,457\n            • Deliverables: 1 x 60-second YouTube video, 1 x Facebook post, 1 x TikTok video, 3 x Facebook story\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

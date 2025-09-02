@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_712",
+  "chunk_id": "sample_712_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for Target. Budget is approx $3,048 - need 3 x Meet and greet, 2 x 3-minute vlog. 7 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

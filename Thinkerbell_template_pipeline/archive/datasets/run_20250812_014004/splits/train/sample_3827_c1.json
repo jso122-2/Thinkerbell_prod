@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3827",
+  "chunk_id": "sample_3827_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Fantastic Furniture\n            • Fee: ~$3,752\n            • Deliverables: 3 x Instagram story, 1 x TikTok video, 1 x Meet and greet, 3 x Instagram story\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

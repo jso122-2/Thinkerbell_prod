@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3080",
+  "chunk_id": "sample_3080_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Autobarn\n            • Fee: ~$33,942\n            • Deliverables: 2 x 15-second TikTok, 1 x Facebook story, 1 x Product photography\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

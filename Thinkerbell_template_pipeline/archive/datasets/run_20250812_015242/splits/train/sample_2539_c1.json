@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2539",
+  "chunk_id": "sample_2539_c1",
+  "text": "Justin Mitchell for Commonwealth Bank - $5,497 budget\n            Need: 2 x Lifestyle photography, 3 x LinkedIn post\n            8w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

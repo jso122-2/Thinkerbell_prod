@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4441",
+  "generation_timestamp": "2025-08-04T18:31:20.071442",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Peyton Stewart for Qantas - $2,317 budget\n            Need: 2 x 5-minute review, 1 x YouTube short, 2 x Instagram story\n            5w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Peyton Stewart",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$2,317",
+    "fee_numeric": 2317,
+    "deliverables": [
+      "2 x 5-minute review",
+      "1 x YouTube short",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7192415445510051,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7489312180059225,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:20.062442",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

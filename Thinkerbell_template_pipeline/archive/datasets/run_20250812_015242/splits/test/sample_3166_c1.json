@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3166",
+  "chunk_id": "sample_3166_c1",
+  "text": "Need Tyler Scott for Telstra campaign. Budget around $23,641, looking for 1 x Facebook post, 2 x Pinterest pin, 3 x 60-second YouTube video, 3 x Instagram story. 3 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 7 months. Engagement period: 6 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

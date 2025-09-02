@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1241",
+  "generation_timestamp": "2025-08-04T18:30:11.022272",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Aria Perez for Mecca. \n            Budget is approx $5,151 - need 2 x Product photography, 3 x 15-second TikTok. \n            9 weeks exclusivity, 2 month engagement. \n            Usage: 12 months. Start date: September 2025.",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Aria Perez",
+    "client": "Mecca",
+    "brand": "Mecca",
+    "campaign": "Mecca Campaign",
+    "fee": "$5,151",
+    "fee_numeric": 5151,
+    "deliverables": [
+      "2 x Product photography",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9361955338016597,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9229081773787843,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.011271",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4040",
+  "generation_timestamp": "2025-08-04T18:31:11.846882",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Kevin Baker for Qantas - $25,313 budget\n            Need: 2 x Product launch event, 3 x LinkedIn post, 3 x Instagram post, 1 x Product photography\n            8w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Kevin Baker",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$25,313",
+    "fee_numeric": 25313,
+    "deliverables": [
+      "2 x Product launch event",
+      "3 x LinkedIn post",
+      "3 x Instagram post",
+      "1 x Product photography"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7426732235116427,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8401946574233959,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:11.838885",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Education"
+  }
+}

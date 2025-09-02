@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_889",
+  "chunk_id": "sample_889_c1",
+  "text": "Need Zoe Wright for Country Road campaign. Budget around $13,901, looking for 1 x Instagram post, 1 x 90-second product demo. 9 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

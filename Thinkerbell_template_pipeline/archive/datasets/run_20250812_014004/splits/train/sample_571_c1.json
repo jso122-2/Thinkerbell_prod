@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_571",
+  "chunk_id": "sample_571_c1",
+  "text": "Ryan Allen for Big W - $16,709 budget\n            Need: 2 x Facebook post, 1 x 15-second TikTok\n            2w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

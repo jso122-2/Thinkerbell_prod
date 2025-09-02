@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4869",
+  "generation_timestamp": "2025-08-04T18:31:28.500275",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Brooklyn Edwards\n            • Brand: Bed Bath N' Table\n            • Fee: ~$32,964\n            • Deliverables: 1 x 30-second Instagram reel, 2 x Facebook post, 3 x Pinterest pin\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: September 2025",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$32,964",
+    "fee_numeric": 32964,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "2 x Facebook post",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.774778733447004,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.900328653741617,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:28.491276",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Health & Fitness"
+  }
+}

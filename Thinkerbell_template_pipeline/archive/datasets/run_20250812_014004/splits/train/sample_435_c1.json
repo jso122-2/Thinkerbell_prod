@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_435",
+  "chunk_id": "sample_435_c1",
+  "text": "Justin Mitchell for Zambrero - $10,199 budget\n            Need: 2 x 2-minute tutorial, 3 x Instagram story, 2 x Podcast guest, 1 x 10-minute unboxing, 2 x 5-minute review\n            6w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

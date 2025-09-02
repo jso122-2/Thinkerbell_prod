@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2631",
+  "chunk_id": "sample_2631_c1",
+  "text": "Natalie Adams for Big W - $31,856 budget\n            Need: 3 x LinkedIn post, 1 x Blog post\n            3w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

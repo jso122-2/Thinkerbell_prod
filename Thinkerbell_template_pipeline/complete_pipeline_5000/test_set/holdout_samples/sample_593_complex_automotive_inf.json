@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_593",
+  "generation_timestamp": "2025-08-04T18:29:57.258764",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Brooklyn Edwards for Repco camp. Budget around $21,207, looking for 1 x Facebook post. \n            6 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 8 months. \n            Engagement period: 2 months.",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Repco",
+    "brand": "Repco",
+    "campaign": "Repco Campaign",
+    "fee": "$21,207",
+    "fee_numeric": 21207,
+    "deliverables": [
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8122119486749723,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7498895420370444,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:57.251760",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3092",
+  "chunk_id": "sample_3092_c1",
+  "text": "Hey team, looking to work with Aria Perez for Queen Fine Foods. Budget is approx $5,766 - need 3 x YouTube video, 1 x 15-second TikTok, 3 x 30-second Instagram reel. 7 weeks exclus, 5 month engagement. Usage: 7 months. Start date: October 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

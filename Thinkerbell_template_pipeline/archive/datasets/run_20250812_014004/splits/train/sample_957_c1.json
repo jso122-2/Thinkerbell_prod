@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_957",
+  "chunk_id": "sample_957_c1",
+  "text": "• Influencer: Chloe Lewis\n            • Brand: KFC\n            • Fee: ~$4,421\n            • Deliverables: 3 x 30-second Instagram reel, 1 x Facebook post\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $4,421 budget",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

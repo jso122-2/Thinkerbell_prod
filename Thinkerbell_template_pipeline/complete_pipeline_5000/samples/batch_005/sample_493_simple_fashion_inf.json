@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_493",
+  "generation_timestamp": "2025-08-04T18:29:55.166900",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Nathan King for Myer - $3,248 budget\n            Need: 1 x Twitter post, 1 x TikTok video, 3 x Instagram story, 1 x 15-second TikTok\n            4w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+    "token_count": 60,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$3,248",
+    "fee_numeric": 3248,
+    "deliverables": [
+      "1 x Twitter post",
+      "1 x TikTok video",
+      "3 x Instagram story",
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9225949377472735,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9495723427140311,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:55.158900",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Education"
+  }
+}

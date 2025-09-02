@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1685",
+  "chunk_id": "sample_1685_c1",
+  "text": "Joshua Hall for Red Rooster - $8,551 budget\n            Need: 3 x Facebook post, 2 x Instagram post, 3 x 30-second Instagram reel\n            11w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2395",
+  "chunk_id": "sample_2395_c1",
+  "text": "Sage Cooper for KFC - $24,657 budget\n            Need: 2 x LinkedIn post, 3 x Facebook post, 3 x 60-second YouTube video\n            4w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

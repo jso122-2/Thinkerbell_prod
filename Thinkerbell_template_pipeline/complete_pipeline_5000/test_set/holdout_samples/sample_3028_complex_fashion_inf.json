@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3028",
+  "generation_timestamp": "2025-08-04T18:30:50.681328",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Ryan Allen\n            • Brand: David Jones\n            • Fee: ~$31,097\n            • Deliverables: 1 x Twitter post, 3 x 30-second Instagram reel\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: September 2025",
+    "token_count": 74,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$31,097",
+    "fee_numeric": 31097,
+    "deliverables": [
+      "1 x Twitter post",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7240771715284431,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8143305038358828,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.671711",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

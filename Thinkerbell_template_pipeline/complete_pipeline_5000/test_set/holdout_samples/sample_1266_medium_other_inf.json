@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1266",
+  "generation_timestamp": "2025-08-04T18:30:11.320268",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Aria Perez for Red Rooster. \n            Budget is approx $3,818 - need 2 x Pinterest pin, 1 x Behind-the-scenes content. \n            5 weeks exclusivity, 6 month engagement. \n            Usage: 10 months. Start date: September 2025.\n\nAdditional notes: TBC on exact dates, around $3,818 budget\n\nNeed to confirm: deliverables",
+    "token_count": 89,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Aria Perez",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$3,818",
+    "fee_numeric": 3818,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "1 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9464836234498799,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8843995670152925,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.312270",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

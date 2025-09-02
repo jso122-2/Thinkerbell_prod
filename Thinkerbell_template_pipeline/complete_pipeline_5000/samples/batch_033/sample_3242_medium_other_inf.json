@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3242",
+  "generation_timestamp": "2025-08-04T18:30:54.969824",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Victoria Carter for Red Rooster - $26,269 budget\n            Need: 3 x Instagram post, 1 x Facebook post\n            8w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $26,269 budget",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$26,269",
+    "fee_numeric": 26269,
+    "deliverables": [
+      "3 x Instagram post",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8299615862715024,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.811936856139886,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:54.960822",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

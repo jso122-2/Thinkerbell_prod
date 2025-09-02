@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_528",
+  "chunk_id": "sample_528_c1",
+  "text": "Need Morgan Morris for Harvey Norman campaign. Budget around $24,636, looking for 2 x LinkedIn post. 2 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4365",
+  "generation_timestamp": "2025-08-04T18:31:18.403951",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Grace Young for Sephora campaign. Budget around $34,431, looking for 2 x Instagram story. \n            2 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 11 months. \n            Engagement period: 2 months.",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$34,431",
+    "fee_numeric": 34431,
+    "deliverables": [
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8266376106783565,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8666244133975609,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.394948",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

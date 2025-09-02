@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1124",
+  "chunk_id": "sample_1124_c1",
+  "text": "Hey team, looking to work with Morgan Morris for McDonald's. Budget is approx $6,007 - need 2 x 90-second product demo, 2 x Facebook post. 10 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

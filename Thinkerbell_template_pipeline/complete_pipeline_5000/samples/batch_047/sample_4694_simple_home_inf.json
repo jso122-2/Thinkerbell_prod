@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4694",
+  "generation_timestamp": "2025-08-04T18:31:24.362400",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Joshua Hall for IKEA campaign. Budget around $34,883, looking for 3 x 30-second Instagram reel, 3 x Pinterest pin, 2 x 90-second product demo, 1 x Radio interview, 3 x 90-second product demo. \n            5 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 6 months. \n            Engagement period: 6 months.",
+    "token_count": 91,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$34,883",
+    "fee_numeric": 34883,
+    "deliverables": [
+      "3 x 30-second Instagram reel",
+      "3 x Pinterest pin",
+      "2 x 90-second product demo",
+      "1 x Radio interview",
+      "3 x 90-second product demo"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8997200501890698,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8498287158920425,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:24.350400",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Sports & Recreation"
+  }
+}

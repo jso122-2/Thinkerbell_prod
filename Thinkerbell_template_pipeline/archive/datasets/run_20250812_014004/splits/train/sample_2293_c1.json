@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2293",
+  "chunk_id": "sample_2293_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: Qantas\n            • Fee: ~$3,353\n            • Deliverables: 3 x Instagram post, 1 x Instagram post, 2 x 15-second TikTok, 2 x Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

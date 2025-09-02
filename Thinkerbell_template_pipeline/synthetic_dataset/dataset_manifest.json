@@ -1,0 +1,113 @@
+{
+  "_metadata": {
+    "generated_by": "ThinkerBell DataHygieneManager",
+    "generation_timestamp": "2025-08-12T03:23:52.337682Z",
+    "git_commit": "unknown",
+    "python_version": "3.12.3"
+  },
+  "brand_distribution": {
+    "ALDI": 1,
+    "Cotton On": 1,
+    "Country Road": 1,
+    "David Jones": 1,
+    "Harvey Norman": 1,
+    "JB Hi-Fi": 1,
+    "Mecca": 1,
+    "Priceline": 1,
+    "Target": 1,
+    "Woolworths": 1
+  },
+  "canary_samples": [
+    {
+      "category": "template_coverage",
+      "expected": "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT",
+      "query": "DDB Sydney has engaged Chloe Lewis to provide services for the ALDI 2025 Campaign on behalf of ALDI. As the festive season draws near, Australians are seeking better food solutions. As the campaign's brand advocate, Chloe Lewis will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between ALDI and the Influencer for ALDI Foodie Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $7,547 AUD (inclusi",
+      "sample_id": "tb_001_000",
+      "text_length": 1215
+    },
+    {
+      "category": "template_coverage",
+      "expected": "profile_QUEEN _ The Condos Talent Agreement_21.02.25 [SIGNED]",
+      "query": "Amplify Agency has engaged Sophie Martinez to provide services for the Woolworths 2024 Campaign on behalf of Woolworths. With summer approaching, Australians are preparing for Australians are seeking better food solutions. As the campaign's hero talent, Sophie Martinez will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Woolworths and the Influencer for Woolworths Flavour Campaign 20",
+      "sample_id": "tb_001_001",
+      "text_length": 1276
+    },
+    {
+      "category": "template_coverage",
+      "expected": "profile_Mattel Brickshop x Craig Contract FINAL.docx LOWNDES SIGNED (1) (1)",
+      "query": "Brandlink has engaged Alex Turner to provide services for the Harvey Norman 2024 Campaign on behalf of Harvey Norman. With the rise of tech innovation in Australia, Australians are seeking better tech solutions. As the campaign's brand advocate, Alex Turner will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in tech.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Harvey Norman and the Influencer for Harvey Norman Innovation Campaign 2025.",
+      "sample_id": "tb_001_002",
+      "text_length": 1276
+    },
+    {
+      "category": "template_coverage",
+      "expected": "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT",
+      "query": "DDB Sydney has engaged Sophie Martinez to provide services for the JB Hi-Fi Summer Campaign on behalf of JB Hi-Fi. With summer approaching, Australians are preparing for Australians are seeking better tech solutions. As the campaign's brand advocate, Sophie Martinez will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in tech.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between JB Hi-Fi and the Influencer for JB Hi-Fi Tech Campaign 2025.\n\nCOMME",
+      "sample_id": "tb_001_003",
+      "text_length": 1264
+    },
+    {
+      "category": "template_coverage",
+      "expected": "profile_Rexona _ WBD Foot Model Talent Agreement",
+      "query": "Publicis has engaged Sarah Chen to provide services for the Cotton On 2025 Campaign on behalf of Cotton On. As the festive season draws near, Australians are seeking better fashion solutions. As the campaign's ambassador, Sarah Chen will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in fashion.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Cotton On and the Influencer for Cotton On Fashion Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: ",
+      "sample_id": "tb_001_004",
+      "text_length": 1239
+    },
+    {
+      "category": "template_coverage",
+      "expected": "profile_Dove Advanced Care Body Wash  Launch_Jhyll Teplin Agreement",
+      "query": "Ogilvy has engaged Leah Thompson to provide services for the Country Road Signature Campaign on behalf of Country Road. With summer approaching, Australians are preparing for Australians are seeking better fashion solutions. As the campaign's brand advocate, Leah Thompson will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in fashion.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Country Road and the Influencer for Country Road Style Cam",
+      "sample_id": "tb_001_008",
+      "text_length": 1286
+    },
+    {
+      "category": "template_coverage",
+      "expected": "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff",
+      "query": "Amplify Agency has engaged Daniel Kim to provide services for the Premium beauty Series on behalf of Mecca. As the festive season draws near, Australians are seeking better beauty solutions. As the campaign's campaign lead, Daniel Kim will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in beauty.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Mecca and the Influencer for Mecca Self-Care Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $3,26",
+      "sample_id": "tb_001_007",
+      "text_length": 1230
+    },
+    {
+      "category": "long_text",
+      "expected": "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT",
+      "query": "DDB Sydney has engaged Chloe Lewis to provide services for the ALDI 2025 Campaign on behalf of ALDI. As the festive season draws near, Australians are seeking better food solutions. As the campaign's brand advocate, Chloe Lewis will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between ALDI and the Influencer for ALDI Foodie Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $7,547 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 2 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 4 months\n- Exclusivity Period: 4 weeks\n- Territory: Australia\n- Usage Rights: 18 months from campaign launch\n- Content Rights: ALDI retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Di",
+      "sample_id": "tb_001_000",
+      "text_length": 1215
+    }
+  ],
+  "content_hash": "sha256:25b071ddf7a19cb958ccabc86fcb232575cf1de1c63e4643f40c16814e89d334",
+  "dataset_version": "1.0.0",
+  "file_list_hash": "sha256:9a19a5d8345e177f770ad518b7aa285b151db3fae4f1de9571c2e0cd2adbcc18",
+  "generation_timestamp": "2025-08-12T03:23:52.337682Z",
+  "generator_version": "thinkerbell_pipeline_v2.1",
+  "industry_distribution": {
+    "unknown": 10
+  },
+  "quality_metrics": {
+    "near_dups_removed": 0,
+    "success_rate": 1.0,
+    "template_diversity": 0.94268071481726,
+    "validation_issues": 0,
+    "validation_rate": 1.0
+  },
+  "split_counts": {
+    "train": 10
+  },
+  "template_distribution": {
+    "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT": 3,
+    "profile_Dove Advanced Care Body Wash  Launch_Jhyll Teplin Agreement": 2,
+    "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT": 1,
+    "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff": 1,
+    "profile_Mattel Brickshop x Craig Contract FINAL.docx LOWNDES SIGNED (1) (1)": 1,
+    "profile_QUEEN _ The Condos Talent Agreement_21.02.25 [SIGNED]": 1,
+    "profile_Rexona _ WBD Foot Model Talent Agreement": 1
+  },
+  "total_samples": 10,
+  "valid_samples": 10,
+  "validation_summary": {
+    "common_issues": {},
+    "invalid_samples": 0,
+    "total_validated": 10,
+    "valid_samples": 10
+  }
+}

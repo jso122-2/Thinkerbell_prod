@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3481",
+  "chunk_id": "sample_3481_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Betty's Burgers\n            • Fee: ~$2,291\n            • Deliverables: 3 x Facebook post, 1 x Press conference, 1 x LinkedIn post, 2 x 30-second Instagram reel, 1 x Facebook post\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $2,291 budget\n\nNeed to confirm: exclusivity period",
+  "token_count": 106,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

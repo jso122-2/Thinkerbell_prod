@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1530",
+  "chunk_id": "sample_1530_c1",
+  "text": "Hey team, looking to work with Andrew Clark for IKEA. Budget is approx $2,000 - need 3 x Facebook story, 2 x Instagram story, 1 x Instagram post, 1 x Media interview, 3 x Social media takeover. 10 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

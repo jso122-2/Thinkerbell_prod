@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_220",
+  "chunk_id": "sample_220_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Telstra\n            • Fee: ~$34,087\n            • Deliverables: 2 x 30-second Instagram reel, 3 x Facebook post, 2 x TV appearance\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: October 2025 no worries",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

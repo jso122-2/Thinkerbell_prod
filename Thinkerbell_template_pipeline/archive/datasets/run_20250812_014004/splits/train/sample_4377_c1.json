@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4377",
+  "chunk_id": "sample_4377_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Domino's. Budget is approx $3,423 - need 2 x TikTok video. 4 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3564",
+  "chunk_id": "sample_3564_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Myer\n            • Fee: ~$23,923\n            • Deliverables: 2 x Product photography, 2 x Instagram post\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

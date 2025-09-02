@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3449",
+  "chunk_id": "sample_3449_c1",
+  "text": "Cameron Parker for Qantas - $10,135 budget\n            Need: 2 x Media interview, 2 x Event photography, 1 x Podcast guest, 3 x Media interview\n            7w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

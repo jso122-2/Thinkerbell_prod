@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_672",
+  "generation_timestamp": "2025-08-04T18:29:58.919869",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Christopher Lee\n            • Brand: Repco\n            • Fee: ~$16,834\n            • Deliverables: 1 x Pinterest pin, 1 x Behind-the-scenes content, 1 x Pinterest pin, 2 x 60-second YouTube video\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: September 2025",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Repco",
+    "brand": "Repco",
+    "campaign": "Repco Campaign",
+    "fee": "$16,834",
+    "fee_numeric": 16834,
+    "deliverables": [
+      "1 x Pinterest pin",
+      "1 x Behind-the-scenes content",
+      "1 x Pinterest pin",
+      "2 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9375395843493513,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8297925412883413,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.911838",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

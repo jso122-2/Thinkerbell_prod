@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_777",
+  "chunk_id": "sample_777_c1",
+  "text": "Blake Morgan for Harvey Norman - $14,478 budget\n            Need: 3 x Store opening\n            7w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: October 2025 ripper\n\nNeed to sort out: TBC on final dates",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

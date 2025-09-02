@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4799",
+  "generation_timestamp": "2025-08-04T18:31:26.660150",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Emma Thompson\n            • Brand: Woolworths\n            • Fee: ~$10,758\n            • Deliverables: 1 x Instagram post\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: December 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Emma Thompson",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$10,758",
+    "fee_numeric": 10758,
+    "deliverables": [
+      "1 x Instagram post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8091024951872375,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8852882655261791,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.643151",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

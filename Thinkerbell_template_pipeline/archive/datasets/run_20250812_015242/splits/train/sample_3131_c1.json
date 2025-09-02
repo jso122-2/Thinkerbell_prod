@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3131",
+  "chunk_id": "sample_3131_c1",
+  "text": "Christopher Lee for Fantastic Furniture - $10,903 budget\n            Need: 3 x Media interview\n            3w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

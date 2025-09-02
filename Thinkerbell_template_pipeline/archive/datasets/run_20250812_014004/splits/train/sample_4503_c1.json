@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4503",
+  "chunk_id": "sample_4503_c1",
+  "text": "Need Sage Cooper for KFC campaign. Budget around $32,324, looking for 2 x Instagram post, 1 x YouTube short. 2 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

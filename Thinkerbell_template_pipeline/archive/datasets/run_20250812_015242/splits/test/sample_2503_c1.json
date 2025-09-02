@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2503",
+  "chunk_id": "sample_2503_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Myer\n            • Fee: ~$2,879\n            • Deliverables: 2 x Instagram story, 3 x 5-minute review, 2 x Twitter post, 1 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $2,879 budget",
+  "token_count": 90,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

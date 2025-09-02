@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2355",
+  "chunk_id": "sample_2355_c1",
+  "text": "Brooklyn Edwards for Lush - $25,005 budget\n            Need: 1 x YouTube short\n            6w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

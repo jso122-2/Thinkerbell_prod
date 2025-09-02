@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3807",
+  "chunk_id": "sample_3807_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Supercheap Auto\n            • Fee: ~$2,899\n            • Deliverables: 1 x Meet and greet, 1 x LinkedIn post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: January 2026\n\nNeed to confirm: deliverables",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

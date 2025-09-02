@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3499",
+  "chunk_id": "sample_3499_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Sephora\n            • Fee: ~$2,177\n            • Deliverables: 1 x Facebook post, 3 x YouTube video, 2 x 60-second YouTube video, 2 x 30-second Instagram reel, 2 x Instagram reel\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

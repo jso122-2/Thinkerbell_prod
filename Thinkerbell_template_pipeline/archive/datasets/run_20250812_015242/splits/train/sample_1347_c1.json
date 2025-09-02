@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1347",
+  "chunk_id": "sample_1347_c1",
+  "text": "Andrew Clark for Grill'd - $1,505 budget\n            Need: 1 x Podcast guest, 2 x 90-second product demo, 2 x Instagram story, 2 x Instagram story, 2 x Facebook post\n            3w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: November 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

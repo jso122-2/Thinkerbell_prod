@@ -1,0 +1,60 @@
+{
+  "total_samples": 10,
+  "clean_samples": 10,
+  "valid_samples": 10,
+  "validation_rate": 1.0,
+  "near_duplicates_removed": 0,
+  "validation_results": [
+    {
+      "sample_id": "tb_001_000",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_001",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_002",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_003",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_004",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_005",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_006",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_007",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_008",
+      "is_valid": true,
+      "issues": []
+    },
+    {
+      "sample_id": "tb_001_009",
+      "is_valid": true,
+      "issues": []
+    }
+  ],
+  "timestamp": "2025-08-12T13:23:48.749175"
+}

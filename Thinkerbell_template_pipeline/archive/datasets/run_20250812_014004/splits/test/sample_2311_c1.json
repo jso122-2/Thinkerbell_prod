@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2311",
+  "chunk_id": "sample_2311_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Domino's\n            • Fee: ~$16,266\n            • Deliverables: 3 x 2-minute tutorial, 2 x 90-second product demo, 2 x Social media takeover, 2 x Instagram reel\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4964",
+  "chunk_id": "sample_4964_c1",
+  "text": "Sarah Chen for Hungry Jack's - $8,148 budget\n            Need: 1 x Lifestyle photography\n            5w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

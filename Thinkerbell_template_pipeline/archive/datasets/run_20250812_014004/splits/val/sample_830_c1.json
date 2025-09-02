@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_830",
+  "chunk_id": "sample_830_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Betty's Burgers\n            • Fee: ~$27,425\n            • Deliverables: 1 x Pinterest pin, 1 x Instagram story\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

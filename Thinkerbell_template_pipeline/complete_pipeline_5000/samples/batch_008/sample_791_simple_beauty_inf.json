@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_791",
+  "generation_timestamp": "2025-08-04T18:30:01.148101",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Daniel Martinez for Priceline campaign. Budget around $3,556, looking for 2 x TikTok video, 3 x 5-minute review, 3 x Instagram story, 1 x Instagram reel, 1 x TikTok video. \n            12 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 11 months. \n            Engagement period: 2 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Priceline",
+    "brand": "Priceline",
+    "campaign": "Priceline Campaign",
+    "fee": "$3,556",
+    "fee_numeric": 3556,
+    "deliverables": [
+      "2 x TikTok video",
+      "3 x 5-minute review",
+      "3 x Instagram story",
+      "1 x Instagram reel",
+      "1 x TikTok video"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8239160976361866,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8185741742928109,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:01.138101",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Education"
+  }
+}

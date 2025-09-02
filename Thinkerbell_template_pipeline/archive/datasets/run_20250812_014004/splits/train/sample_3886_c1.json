@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3886",
+  "chunk_id": "sample_3886_c1",
+  "text": "Need River Murphy for Chemist Warehouse campaign. Budget around $34,221, looking for 2 x Instagram post. 8 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 3 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

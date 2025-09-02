@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2132",
+  "chunk_id": "sample_2132_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Fantastic Furniture\n            • Fee: ~$18,185\n            • Deliverables: 2 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

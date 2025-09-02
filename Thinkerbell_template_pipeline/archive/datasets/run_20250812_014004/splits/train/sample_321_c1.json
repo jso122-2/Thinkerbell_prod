@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_321",
+  "chunk_id": "sample_321_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Myer\n            • Fee: ~$34,409\n            • Deliverables: 2 x 2-minute tutorial, 3 x Store opening, 2 x 60-second YouTube video, 3 x LinkedIn post\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

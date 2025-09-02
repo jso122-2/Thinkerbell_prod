@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_918",
+  "chunk_id": "sample_918_c1",
+  "text": "Hayden Howard for Kmart - $18,571 budget\n            Need: 1 x Media interview\n            10w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

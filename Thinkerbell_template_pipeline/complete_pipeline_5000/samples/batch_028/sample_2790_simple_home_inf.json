@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2790",
+  "generation_timestamp": "2025-08-04T18:30:45.111052",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for Bunnings - $6,464 budget\n            Need: 1 x Facebook post, 1 x Instagram story, 1 x Facebook post\n            4w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Bunnings",
+    "brand": "Bunnings",
+    "campaign": "Bunnings Campaign",
+    "fee": "$6,464",
+    "fee_numeric": 6464,
+    "deliverables": [
+      "1 x Facebook post",
+      "1 x Instagram story",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8461898347798791,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.833088477342571,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:45.101049",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

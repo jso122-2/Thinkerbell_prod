@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_871",
+  "chunk_id": "sample_871_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Bunnings. Budget is approx $3,819 - need 1 x Blog post, 3 x LinkedIn post, 3 x LinkedIn post, 3 x Twitter post. 10 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

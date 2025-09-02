@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1592",
+  "chunk_id": "sample_1592_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Commonwealth Bank\n            • Fee: ~$3,158\n            • Deliverables: 2 x LinkedIn post, 3 x Media interview, 2 x 2-minute tutorial, 2 x 30-second Instagram reel\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

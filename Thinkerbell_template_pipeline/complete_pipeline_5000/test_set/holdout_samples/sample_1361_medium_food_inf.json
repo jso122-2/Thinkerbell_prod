@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1361",
+  "generation_timestamp": "2025-08-04T18:30:13.410742",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Richardson\n            • Brand: Woolworths\n            • Fee: ~$26,456\n            • Deliverables: 2 x LinkedIn post, 3 x Media interview\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: December 2025\n\nNeed to confirm: exclusivity period",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$26,456",
+    "fee_numeric": 26456,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "3 x Media interview"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8183615882854072,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8528771963484936,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:13.401744",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Food & Beverage"
+  }
+}

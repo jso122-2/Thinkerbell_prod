@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1634",
+  "chunk_id": "sample_1634_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Subway\n            • Fee: ~$3,039\n            • Deliverables: 2 x 5-minute review\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_961",
+  "chunk_id": "sample_961_c1",
+  "text": "Need Sage Cooper for IKEA campaign. Budget around $34,361, looking for 1 x Lifestyle photography, 1 x Instagram story, 2 x Instagram story. 7 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 6 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

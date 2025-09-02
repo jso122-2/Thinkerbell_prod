@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4752",
+  "chunk_id": "sample_4752_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Boost Juice\n            • Fee: ~$5,093\n            • Deliverables: 2 x Facebook post, 2 x Instagram post\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

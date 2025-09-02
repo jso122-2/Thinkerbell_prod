@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3680",
+  "generation_timestamp": "2025-08-04T18:31:03.617847",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Reagan Rogers for Grill'd. \n            Budget is approx $24,819 - need 2 x Instagram post, 1 x YouTube short. \n            3 weeks exclusivity, 3 month engagement. \n            Usage: 8 months. Start date: November 2025.",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Grill'd",
+    "brand": "Grill'd",
+    "campaign": "Grill'd Campaign",
+    "fee": "$24,819",
+    "fee_numeric": 24819,
+    "deliverables": [
+      "2 x Instagram post",
+      "1 x YouTube short"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6935281133151335,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7666577220093818,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:03.609850",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

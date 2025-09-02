@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2224",
+  "chunk_id": "sample_2224_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Queen Fine Foods\n            • Fee: ~$2,530\n            • Deliverables: 1 x Twitter post, 1 x Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

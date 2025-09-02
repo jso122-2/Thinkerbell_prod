@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_216",
+  "chunk_id": "sample_216_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Adairs\n            • Fee: ~$1,553\n            • Deliverables: 2 x LinkedIn post, 3 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $1,553 budget",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

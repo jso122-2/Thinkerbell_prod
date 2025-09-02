@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1084",
+  "chunk_id": "sample_1084_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Cotton On\n            • Fee: ~$8,960\n            • Deliverables: 1 x 60-second YouTube video\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

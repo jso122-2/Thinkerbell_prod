@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2869",
+  "chunk_id": "sample_2869_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Betty's Burgers. Budget is approx $31,699 - need 3 x Article contribution, 3 x LinkedIn post, 1 x LinkedIn post. 10 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

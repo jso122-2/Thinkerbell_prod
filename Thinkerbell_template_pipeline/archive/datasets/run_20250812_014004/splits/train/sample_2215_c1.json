@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2215",
+  "chunk_id": "sample_2215_c1",
+  "text": "Need Blake Morgan for Chemist Warehouse campaign. Budget around $14,809, looking for 3 x Facebook post, 3 x Instagram post, 3 x Facebook post, 1 x Instagram story, 1 x Instagram reel. 9 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 7 months. Engagement period: 5 months.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

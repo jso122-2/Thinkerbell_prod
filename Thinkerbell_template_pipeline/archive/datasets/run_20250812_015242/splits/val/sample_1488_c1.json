@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1488",
+  "chunk_id": "sample_1488_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Fantastic Furniture\n            • Fee: ~$5,323\n            • Deliverables: 1 x Instagram story, 2 x YouTube short, 3 x Lifestyle photography, 3 x 15-second TikTok, 3 x Event photography\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

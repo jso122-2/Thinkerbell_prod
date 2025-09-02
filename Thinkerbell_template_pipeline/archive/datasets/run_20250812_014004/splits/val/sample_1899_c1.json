@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1899",
+  "chunk_id": "sample_1899_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Coles\n            • Fee: ~$32,751\n            • Deliverables: 2 x Pinterest pin, 3 x 2-minute tutorial, 3 x LinkedIn post, 1 x Facebook post\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

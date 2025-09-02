@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2545",
+  "generation_timestamp": "2025-08-04T18:30:40.638519",
+  "generator_version": "v1.0",
+  "batch_id": "batch_026",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sage Reed for Sportsgirl campaign. Budget around $15,327, looking for 2 x Twitter post, 3 x LinkedIn post, 2 x 90-second product demo, 1 x LinkedIn post. \n            3 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 12 months. \n            Engagement period: 5 months.",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$15,327",
+    "fee_numeric": 15327,
+    "deliverables": [
+      "2 x Twitter post",
+      "3 x LinkedIn post",
+      "2 x 90-second product demo",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7884356577264359,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8219724252717636,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:40.628517",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Technology & Electronics"
+  }
+}

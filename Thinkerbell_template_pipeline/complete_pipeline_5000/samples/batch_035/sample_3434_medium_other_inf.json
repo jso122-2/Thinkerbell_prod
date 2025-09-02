@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3434",
+  "generation_timestamp": "2025-08-04T18:30:58.979754",
+  "generator_version": "v1.0",
+  "batch_id": "batch_035",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Grace Young for Betty's Burgers - $23,025 budget\n            Need: 1 x Instagram post, 1 x Facebook post, 2 x Lifestyle photography, 2 x Pinterest pin\n            6w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$23,025",
+    "fee_numeric": 23025,
+    "deliverables": [
+      "1 x Instagram post",
+      "1 x Facebook post",
+      "2 x Lifestyle photography",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8936490102995993,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8476827306859104,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:58.970753",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

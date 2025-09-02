@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3502",
+  "chunk_id": "sample_3502_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Harvey Norman. Budget is approx $3,396 - need 1 x YouTube short, 3 x Pinterest pin, 3 x 2-minute tutorial, 2 x Instagram story, 2 x Facebook post. 9 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

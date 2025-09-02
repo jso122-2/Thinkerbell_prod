@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1533",
+  "chunk_id": "sample_1533_c1",
+  "text": "Reagan Rogers for Harvey Norman - $4,576 budget\n            Need: 3 x 15-second TikTok, 1 x 3-minute vlog, 3 x Brand photoshoot, 2 x LinkedIn post, 2 x LinkedIn post\n            9w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_309",
+  "chunk_id": "sample_309_c1",
+  "text": "• Influencer: Chloe Lewis\n            • Brand: Sephora\n            • Fee: ~$8,965\n            • Deliverables: 2 x Behind-the-scenes content, 2 x Pinterest pin, 3 x Instagram story\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

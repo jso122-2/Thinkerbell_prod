@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1920",
+  "chunk_id": "sample_1920_c1",
+  "text": "Brandon Nelson for Autobarn - $1,737 budget\n            Need: 2 x Press conference, 3 x Instagram post, 2 x 15-second TikTok, 1 x YouTube short, 1 x Instagram story\n            6w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

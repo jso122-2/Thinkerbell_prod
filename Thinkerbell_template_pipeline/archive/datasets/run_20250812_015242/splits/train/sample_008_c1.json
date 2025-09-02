@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_008",
+  "chunk_id": "sample_008_c1",
+  "text": "Hey team, looking to work with Hannah Green for Pizza Hut. Budget is approx $17,306 - need 3 x Lifestyle photography. 7 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

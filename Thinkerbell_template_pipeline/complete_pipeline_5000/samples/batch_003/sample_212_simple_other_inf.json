@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_212",
+  "generation_timestamp": "2025-08-04T18:29:50.125438",
+  "generator_version": "v1.0",
+  "batch_id": "batch_003",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Quinn Richardson for Roll'd campaign. Budget around $12,108, looking for 2 x TikTok video. \n            10 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 12 months. \n            Engagement period: 3 months.",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$12,108",
+    "fee_numeric": 12108,
+    "deliverables": [
+      "2 x TikTok video"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9433826277027821,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9397608108928885,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:50.116437",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Limited Edition",
+    "product_category": "Entertainment"
+  }
+}

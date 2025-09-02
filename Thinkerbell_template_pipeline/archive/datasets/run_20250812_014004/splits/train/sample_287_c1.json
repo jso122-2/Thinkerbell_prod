@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_287",
+  "chunk_id": "sample_287_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Sportsgirl\n            • Fee: ~$2,412\n            • Deliverables: 1 x Instagram story, 2 x YouTube short, 3 x 90-second product demo, 3 x 2-minute tutorial\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

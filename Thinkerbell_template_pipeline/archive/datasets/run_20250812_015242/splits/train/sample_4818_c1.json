@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4818",
+  "chunk_id": "sample_4818_c1",
+  "text": "Need Lily Walker for Hungry Jack's campaign. Budget around $23,323, looking for 1 x 60-second YouTube video, 1 x Media interview. 12 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 12 months. Engagement period: 5 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

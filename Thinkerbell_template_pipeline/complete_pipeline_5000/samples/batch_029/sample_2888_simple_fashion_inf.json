@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2888",
+  "generation_timestamp": "2025-08-04T18:30:47.088317",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Scarlett Turner for Country Road - $5,545 budget\n            Need: 1 x LinkedIn post, 1 x Instagram story, 1 x 5-minute review\n            5w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+    "token_count": 58,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Country Road",
+    "brand": "Country Road",
+    "campaign": "Country Road Campaign",
+    "fee": "$5,545",
+    "fee_numeric": 5545,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "1 x Instagram story",
+      "1 x 5-minute review"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9161997838457768,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8803997359039978,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:47.080318",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

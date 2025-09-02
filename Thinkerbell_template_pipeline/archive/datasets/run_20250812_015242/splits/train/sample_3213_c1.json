@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3213",
+  "chunk_id": "sample_3213_c1",
+  "text": "Need Reagan Rogers for Country Road campaign. Budget around $3,564, looking for 2 x Instagram post. 3 week exclusivity from other fashion brands. Campaign runs December 2025. Usage rights for 10 months. Engagement period: 6 months. fair dinkum",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1503",
+  "generation_timestamp": "2025-08-04T18:30:16.911688",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Skylar Collins for Commonwealth Bank - $27,286 budget\n            Need: 3 x Media interview, 1 x Radio interview, 1 x 90-second product demo, 3 x LinkedIn post, 1 x Facebook post\n            6w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: November 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$27,286",
+    "fee_numeric": 27286,
+    "deliverables": [
+      "3 x Media interview",
+      "1 x Radio interview",
+      "1 x 90-second product demo",
+      "3 x LinkedIn post",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.819623015831125,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7360404377150143,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:16.900241",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Home & Garden"
+  }
+}

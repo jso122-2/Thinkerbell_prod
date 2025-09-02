@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2811",
+  "chunk_id": "sample_2811_c1",
+  "text": "Hey team, looking to work with Joshua Hall for Pillow Talk. Budget is approx $13,597 - need 2 x Facebook story, 2 x Live stream. 3 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: October 2025.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

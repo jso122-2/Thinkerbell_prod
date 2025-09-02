@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1471",
+  "chunk_id": "sample_1471_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Officeworks. Budget is approx $21,301 - need 2 x TV appearance, 1 x Pinterest pin, 1 x 60-second YouTube video, 3 x Radio interview, 2 x Twitter post. 12 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_496",
+  "chunk_id": "sample_496_c1",
+  "text": "Need Sean Roberts for Kmart campaign. Budget around $22,206, looking for 1 x 10-minute unboxing. 10 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 9 months. Engagement period: 3 months. Additional notes: TBC on exact dates, around $22,206 budget",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

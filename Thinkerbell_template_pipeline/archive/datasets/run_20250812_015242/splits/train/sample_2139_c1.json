@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2139",
+  "chunk_id": "sample_2139_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Sportsgirl\n            • Fee: ~$18,783\n            • Deliverables: 2 x Product photography, 2 x Facebook post, 2 x Instagram post, 1 x Press release quote, 1 x 3-minute vlog\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

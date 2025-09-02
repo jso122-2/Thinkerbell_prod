@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2747",
+  "chunk_id": "sample_2747_c1",
+  "text": "Rowan Bailey for IKEA - $6,617 budget\n            Need: 1 x Live stream, 1 x Professional headshots, 3 x Store opening, 2 x Twitter post, 2 x Radio interview\n            2w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: January 2026\n\nNeed to confirm: exclusivity period",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

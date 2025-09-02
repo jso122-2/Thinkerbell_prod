@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3484",
+  "chunk_id": "sample_3484_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Queen Fine Foods\n            • Fee: ~$20,179\n            • Deliverables: 2 x Instagram story, 1 x LinkedIn post\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

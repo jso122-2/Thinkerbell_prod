@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1302",
+  "generation_timestamp": "2025-08-04T18:30:12.748745",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Andrew Clark for Pizza Hut. \n            Budget is approx $8,771 - need 3 x Instagram story, 3 x Lifestyle photography, 1 x Lifestyle photography, 2 x 60-second YouTube video, 1 x Facebook post. \n            4 weeks exclusivity, 2 month engagement. \n            Usage: 10 months. Start date: December 2025. no worries",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$8,771",
+    "fee_numeric": 8771,
+    "deliverables": [
+      "3 x Instagram story",
+      "3 x Lifestyle photography",
+      "1 x Lifestyle photography",
+      "2 x 60-second YouTube video",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7677093965300186,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7437676606087137,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:12.738743",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Home & Garden"
+  }
+}

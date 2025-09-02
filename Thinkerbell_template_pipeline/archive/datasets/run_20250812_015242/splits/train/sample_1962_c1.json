@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1962",
+  "chunk_id": "sample_1962_c1",
+  "text": "Mia White for IKEA - $3,041 budget\n            Need: 3 x Twitter post\n            5w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: January 2026 mate",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3009",
+  "chunk_id": "sample_3009_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Amart Furniture. Budget is approx $1,844 - need 2 x Product launch event, 2 x Product photography, 3 x TikTok video. 10 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

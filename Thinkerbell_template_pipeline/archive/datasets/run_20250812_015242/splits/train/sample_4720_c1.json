@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4720",
+  "chunk_id": "sample_4720_c1",
+  "text": "Emma Thompson for Hungry Jack's - $24,826 budget\n            Need: 3 x LinkedIn post, 1 x Twitter post\n            7w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: January 2026 fair dinkum",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

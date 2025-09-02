@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3916",
+  "generation_timestamp": "2025-08-04T18:31:09.342769",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Quinn Cook for Bed Bath N' Table - $26,386 budget\n            Need: 1 x Lifestyle photography, 3 x LinkedIn post, 2 x Live stream\n            9w exclus, 2m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+    "token_count": 58,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$26,386",
+    "fee_numeric": 26386,
+    "deliverables": [
+      "1 x Lifestyle photography",
+      "3 x LinkedIn post",
+      "2 x Live stream"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7405949324683406,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.852295191730696,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:09.333771",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Automotive"
+  }
+}

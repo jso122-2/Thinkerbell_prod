@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3912",
+  "generation_timestamp": "2025-08-04T18:31:09.302769",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Skylar Collins for Portmans. \n            Budget is approx $5,795 - need 2 x Instagram story, 2 x 15-second TikTok, 3 x Product launch event. \n            11 weeks exclusivity, 6 month engagement. \n            Usage: 9 months. Start date: January 2026.",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Portmans",
+    "brand": "Portmans",
+    "campaign": "Portmans Campaign",
+    "fee": "$5,795",
+    "fee_numeric": 5795,
+    "deliverables": [
+      "2 x Instagram story",
+      "2 x 15-second TikTok",
+      "3 x Product launch event"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7923957777686621,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8652796140548442,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:09.292767",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

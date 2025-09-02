@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_317",
+  "chunk_id": "sample_317_c1",
+  "text": "Need Joshua Hall for Mad Mex campaign. Budget around $3,278, looking for 3 x Lifestyle photography, 2 x Meet and greet, 3 x Blog post, 1 x Lifestyle photography. 11 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

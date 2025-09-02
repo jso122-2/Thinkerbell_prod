@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_584",
+  "chunk_id": "sample_584_c1",
+  "text": "Need River Murphy for Boost Juice campaign. Budget around $4,791, looking for 3 x Article contribution. 12 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 3 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

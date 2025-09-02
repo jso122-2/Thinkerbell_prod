@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2268",
+  "chunk_id": "sample_2268_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Telstra\n            • Fee: ~$2,254\n            • Deliverables: 2 x YouTube short, 1 x 10-minute unboxing, 3 x Social media takeover, 2 x Instagram story\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

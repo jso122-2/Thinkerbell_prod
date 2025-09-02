@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1374",
+  "chunk_id": "sample_1374_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Supercheap Auto. Budget is approx $3,006 - need 2 x 5-minute review, 2 x Media interview, 1 x Facebook post, 3 x Instagram post, 2 x 10-minute unboxing. 12 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

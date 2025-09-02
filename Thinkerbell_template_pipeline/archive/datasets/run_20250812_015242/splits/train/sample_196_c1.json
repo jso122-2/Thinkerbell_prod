@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_196",
+  "chunk_id": "sample_196_c1",
+  "text": "Sarah Chen for Fantastic Furniture - $16,724 budget\n            Need: 2 x Article contribution, 3 x YouTube video, 1 x LinkedIn post\n            11w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

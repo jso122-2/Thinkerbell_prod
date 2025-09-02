@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_847",
+  "chunk_id": "sample_847_c1",
+  "text": "Need Tyler Scott for Pizza Hut campaign. Budget around $25,200, looking for 1 x 30-second Instagram reel, 2 x Media interview. 10 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 6 months. Engagement period: 6 months.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

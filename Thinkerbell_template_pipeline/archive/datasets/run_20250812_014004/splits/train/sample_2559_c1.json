@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2559",
+  "chunk_id": "sample_2559_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Bunnings\n            • Fee: ~$27,479\n            • Deliverables: 2 x Blog post, 2 x Facebook post\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

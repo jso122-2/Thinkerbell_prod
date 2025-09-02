@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1574",
+  "chunk_id": "sample_1574_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Grill'd. Budget is approx $10,174 - need 2 x 15-second TikTok, 1 x Instagram story, 1 x Media interview, 3 x Twitter post, 1 x Pinterest pin. 2 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

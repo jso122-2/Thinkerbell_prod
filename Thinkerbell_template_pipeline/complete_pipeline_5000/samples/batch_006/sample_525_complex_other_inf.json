@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_525",
+  "generation_timestamp": "2025-08-04T18:29:56.533168",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Olivia Davis\n            • Brand: KFC\n            • Fee: ~$2,387\n            • Deliverables: 3 x 2-minute tutorial, 1 x 2-minute tutorial\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: November 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "KFC",
+    "brand": "KFC",
+    "campaign": "KFC Campaign",
+    "fee": "$2,387",
+    "fee_numeric": 2387,
+    "deliverables": [
+      "3 x 2-minute tutorial",
+      "1 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7155206275564567,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8183623496376844,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.525170",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Travel & Tourism"
+  }
+}

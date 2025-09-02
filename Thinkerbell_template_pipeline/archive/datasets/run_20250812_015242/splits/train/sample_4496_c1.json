@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4496",
+  "chunk_id": "sample_4496_c1",
+  "text": "David Brown for Telstra - $3,231 budget\n            Need: 3 x 60-second YouTube video, 1 x Lifestyle photography, 3 x 30-second Instagram reel\n            10w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

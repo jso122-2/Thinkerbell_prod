@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1189",
+  "chunk_id": "sample_1189_c1",
+  "text": "Need Mia White for Harvey Norman campaign. Budget around $9,155, looking for 2 x Facebook story, 2 x TV appearance, 3 x 90-second product demo, 2 x YouTube short, 3 x 15-second TikTok. 8 week exclusivity from other electronics brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 3 months.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

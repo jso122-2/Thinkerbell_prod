@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2202",
+  "generation_timestamp": "2025-08-04T18:30:33.477761",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Kevin Baker for Chemist Warehouse. \n            Budget is approx $4,636 - need 3 x Social media takeover, 2 x Professional headshots, 3 x Twitter post, 1 x Blog post. \n            3 weeks exclusivity, 3 month engagement. \n            Usage: 6 months. Start date: November 2025. fair dinkum",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Kevin Baker",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$4,636",
+    "fee_numeric": 4636,
+    "deliverables": [
+      "3 x Social media takeover",
+      "2 x Professional headshots",
+      "3 x Twitter post",
+      "1 x Blog post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7191296282978551,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7414764117726091,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:33.468758",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

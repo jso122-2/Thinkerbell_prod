@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_191",
+  "chunk_id": "sample_191_c1",
+  "text": "Need Zoe Wright for Bunnings campaign. Budget around $12,121, looking for 3 x Pinterest pin. 8 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 2 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

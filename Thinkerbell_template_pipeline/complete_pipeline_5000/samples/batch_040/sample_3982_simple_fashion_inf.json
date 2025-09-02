@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3982",
+  "generation_timestamp": "2025-08-04T18:31:10.251534",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Olivia Davis for Portmans. \n            Budget is approx $15,467 - need 1 x 90-second product demo, 1 x Blog post, 1 x Facebook post. \n            8 weeks exclusivity, 4 month engagement. \n            Usage: 7 months. Start date: December 2025.",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "Portmans",
+    "brand": "Portmans",
+    "campaign": "Portmans Campaign",
+    "fee": "$15,467",
+    "fee_numeric": 15467,
+    "deliverables": [
+      "1 x 90-second product demo",
+      "1 x Blog post",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8735741123656788,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8419511782966245,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:10.242536",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1573",
+  "chunk_id": "sample_1573_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Fantastic Furniture. Budget is approx $1,903 - need 1 x 2-minute tutorial, 1 x LinkedIn post, 2 x Social media takeover. 6 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2144",
+  "generation_timestamp": "2025-08-04T18:30:31.940825",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Cook\n            • Brand: Red Rooster\n            • Fee: ~$20,185\n            • Deliverables: 2 x Facebook post, 2 x Product photography, 2 x Pinterest pin, 3 x 90-second product demo, 2 x 30-second Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: January 2026\n\nNeed to confirm: usage rights",
+    "token_count": 99,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$20,185",
+    "fee_numeric": 20185,
+    "deliverables": [
+      "2 x Facebook post",
+      "2 x Product photography",
+      "2 x Pinterest pin",
+      "3 x 90-second product demo",
+      "2 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8425939492812957,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8968915451160693,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:31.931822",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

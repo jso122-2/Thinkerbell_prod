@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_189",
+  "generation_timestamp": "2025-08-04T18:29:48.927175",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hannah Green for Nando's - $3,737 budget\n            Need: 2 x Product photography, 3 x Event photography, 1 x Pinterest pin, 3 x 2-minute tutorial\n            7w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$3,737",
+    "fee_numeric": 3737,
+    "deliverables": [
+      "2 x Product photography",
+      "3 x Event photography",
+      "1 x Pinterest pin",
+      "3 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7550934901935918,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8846208946983725,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:48.914179",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

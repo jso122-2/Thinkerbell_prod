@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_371",
+  "chunk_id": "sample_371_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: KFC\n            • Fee: ~$4,726\n            • Deliverables: 2 x LinkedIn post, 2 x Facebook post, 1 x 60-second YouTube video, 1 x 30-second Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $4,726 budget",
+  "token_count": 94,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

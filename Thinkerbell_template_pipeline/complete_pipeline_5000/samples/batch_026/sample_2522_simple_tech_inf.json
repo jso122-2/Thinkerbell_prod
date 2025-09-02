@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2522",
+  "generation_timestamp": "2025-08-04T18:30:40.393513",
+  "generator_version": "v1.0",
+  "batch_id": "batch_026",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Reagan Rogers\n            • Brand: Harvey Norman\n            • Fee: ~$2,441\n            • Deliverables: 3 x Facebook post, 3 x 2-minute tutorial, 1 x 30-second Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$2,441",
+    "fee_numeric": 2441,
+    "deliverables": [
+      "3 x Facebook post",
+      "3 x 2-minute tutorial",
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7420295651721913,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9425584308605333,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:40.384518",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Food & Beverage"
+  }
+}

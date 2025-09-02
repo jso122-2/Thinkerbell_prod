@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3292",
+  "chunk_id": "sample_3292_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Pillow Talk\n            • Fee: ~$4,732\n            • Deliverables: 1 x TikTok video, 3 x Pinterest pin, 3 x Lifestyle photography\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

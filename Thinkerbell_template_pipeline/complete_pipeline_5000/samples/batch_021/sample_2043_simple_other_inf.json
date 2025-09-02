@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2043",
+  "generation_timestamp": "2025-08-04T18:30:29.180454",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with River Murphy for McDonald's. \n            Budget is approx $4,348 - need 2 x Twitter post, 3 x 60-second YouTube video, 3 x Instagram post, 1 x 60-second YouTube video, 1 x Instagram story. \n            11 weeks exclusivity, 5 month engagement. \n            Usage: 12 months. Start date: October 2025.",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$4,348",
+    "fee_numeric": 4348,
+    "deliverables": [
+      "2 x Twitter post",
+      "3 x 60-second YouTube video",
+      "3 x Instagram post",
+      "1 x 60-second YouTube video",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8113806100451906,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8106791199110672,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:29.167449",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

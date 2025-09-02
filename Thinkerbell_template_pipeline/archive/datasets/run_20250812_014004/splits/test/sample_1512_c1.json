@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1512",
+  "chunk_id": "sample_1512_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Bed Bath N' Table\n            • Fee: ~$3,142\n            • Deliverables: 3 x Instagram story, 3 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

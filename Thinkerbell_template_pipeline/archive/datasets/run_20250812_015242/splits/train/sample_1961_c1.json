@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1961",
+  "chunk_id": "sample_1961_c1",
+  "text": "Hey team, looking to work with Skylar Collins for JB Hi-Fi. Budget is approx $8,895 - need 2 x Twitter post, 3 x Twitter post, 2 x Pinterest pin, 1 x Media interview. 4 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

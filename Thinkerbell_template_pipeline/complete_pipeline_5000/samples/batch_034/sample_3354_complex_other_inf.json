@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3354",
+  "generation_timestamp": "2025-08-04T18:30:57.110874",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Matthew Taylor for Pizza Hut - $31,057 budget\n            Need: 3 x 30-second Instagram reel\n            2w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+    "token_count": 50,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$31,057",
+    "fee_numeric": 31057,
+    "deliverables": [
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8295699140376094,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7518467498246234,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.102879",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Home & Garden"
+  }
+}

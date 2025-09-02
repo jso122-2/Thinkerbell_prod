@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1995",
+  "generation_timestamp": "2025-08-04T18:30:27.286206",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sage Reed for Kmart. \n            Budget is approx $1,944 - need 1 x Twitter post, 1 x Meet and greet, 1 x Twitter post. \n            5 weeks exclusivity, 5 month engagement. \n            Usage: 10 months. Start date: January 2026.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$1,944",
+    "fee_numeric": 1944,
+    "deliverables": [
+      "1 x Twitter post",
+      "1 x Meet and greet",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6956708652105225,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7776595355329724,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:27.275204",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

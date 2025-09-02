@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_034",
+  "chunk_id": "sample_034_c1",
+  "text": "Hannah Green for Adairs - $7,013 budget\n            Need: 1 x Instagram post, 2 x Instagram reel, 1 x YouTube short, 3 x 90-second product demo\n            11w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

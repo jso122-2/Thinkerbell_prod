@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1552",
+  "chunk_id": "sample_1552_c1",
+  "text": "Hey team, looking to work with River Murphy for Portmans. Budget is approx $9,986 - need 3 x 90-second product demo, 3 x Facebook post. 8 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

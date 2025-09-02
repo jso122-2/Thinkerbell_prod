@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1433",
+  "chunk_id": "sample_1433_c1",
+  "text": "Need Joshua Hall for Roll'd campaign. Budget around $2,027, looking for 3 x Article contribution, 1 x Instagram post, 3 x Event photography. 12 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 9 months. Engagement period: 2 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

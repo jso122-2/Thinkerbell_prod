@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1456",
+  "chunk_id": "sample_1456_c1",
+  "text": "Blake Cox for David Jones - $4,326 budget\n            Need: 3 x 30-second Instagram reel, 1 x Radio interview, 2 x Instagram post, 1 x 2-minute tutorial\n            10w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

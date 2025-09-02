@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1863",
+  "chunk_id": "sample_1863_c1",
+  "text": "Hey team, looking to work with Peyton Stewart for Amart Furniture. Budget is approx $13,026 - need 2 x Meet and greet, 2 x Facebook post, 3 x Pinterest pin, 3 x 15-second TikTok. 3 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: November 2025. fair dinkum",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

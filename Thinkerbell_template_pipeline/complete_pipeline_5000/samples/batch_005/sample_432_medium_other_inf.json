@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_432",
+  "generation_timestamp": "2025-08-04T18:29:54.419895",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Olivia Davis\n            • Brand: Zambrero\n            • Fee: ~$18,509\n            • Deliverables: 2 x Facebook post, 2 x 15-second TikTok, 1 x 60-second YouTube video, 2 x Live stream\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $18,509 budget",
+    "token_count": 98,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$18,509",
+    "fee_numeric": 18509,
+    "deliverables": [
+      "2 x Facebook post",
+      "2 x 15-second TikTok",
+      "1 x 60-second YouTube video",
+      "2 x Live stream"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8367379631149621,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.937063415041772,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.411897",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Automotive"
+  }
+}

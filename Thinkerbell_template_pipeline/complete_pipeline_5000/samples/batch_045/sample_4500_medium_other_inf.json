@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4500",
+  "generation_timestamp": "2025-08-04T18:31:20.656439",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Bell\n            • Brand: Pillow Talk\n            • Fee: ~$8,511\n            • Deliverables: 1 x 30-second Instagram reel, 1 x Product photography, 3 x Instagram post, 3 x LinkedIn post, 1 x Press release quote\n            • Exclusivity: 5 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $8,511 budget\n\nNeed to confirm: deliverables",
+    "token_count": 114,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$8,511",
+    "fee_numeric": 8511,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "1 x Product photography",
+      "3 x Instagram post",
+      "3 x LinkedIn post",
+      "1 x Press release quote"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7201746080827274,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9329851736922997,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:20.647441",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Food & Beverage"
+  }
+}

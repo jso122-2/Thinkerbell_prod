@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4295",
+  "generation_timestamp": "2025-08-04T18:31:16.607523",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Riley Evans\n            • Brand: Qantas\n            • Fee: ~$6,349\n            • Deliverables: 1 x Instagram post, 1 x Lifestyle photography, 1 x 2-minute tutorial\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025 no worries\n\nNeed to sort out: TBC on final dates",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$6,349",
+    "fee_numeric": 6349,
+    "deliverables": [
+      "1 x Instagram post",
+      "1 x Lifestyle photography",
+      "1 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8367399636311036,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8018742644583998,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:16.598525",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

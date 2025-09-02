@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_750",
+  "chunk_id": "sample_750_c1",
+  "text": "Need Justin Mitchell for Supercheap Auto campaign. Budget around $3,984, looking for 1 x LinkedIn post, 1 x LinkedIn post, 3 x YouTube video, 3 x 60-second YouTube video, 1 x Product photography. 8 week exclus from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 4 months.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

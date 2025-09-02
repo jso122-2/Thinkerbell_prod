@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2989",
+  "generation_timestamp": "2025-08-04T18:30:49.320552",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Rowan Bailey\n            • Brand: Big W\n            • Fee: ~$2,309\n            • Deliverables: 2 x YouTube video, 3 x TV appearance, 3 x TikTok video\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025",
+    "token_count": 74,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$2,309",
+    "fee_numeric": 2309,
+    "deliverables": [
+      "2 x YouTube video",
+      "3 x TV appearance",
+      "3 x TikTok video"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9266623936413911,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9424839285840708,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:49.312553",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

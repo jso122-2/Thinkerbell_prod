@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2490",
+  "chunk_id": "sample_2490_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Betty's Burgers\n            • Fee: ~$23,486\n            • Deliverables: 2 x 3-minute vlog\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

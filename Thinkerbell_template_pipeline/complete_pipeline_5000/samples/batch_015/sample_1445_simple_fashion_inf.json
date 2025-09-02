@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1445",
+  "generation_timestamp": "2025-08-04T18:30:15.302037",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Michael Rodriguez for Sportsgirl campaign. Budget around $19,865, looking for 2 x Product photography, 3 x LinkedIn post, 2 x Press conference. \n            4 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 7 months. \n            Engagement period: 3 months.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$19,865",
+    "fee_numeric": 19865,
+    "deliverables": [
+      "2 x Product photography",
+      "3 x LinkedIn post",
+      "2 x Press conference"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7483779973406808,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9198177292167756,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.292041",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Fashion & Apparel"
+  }
+}

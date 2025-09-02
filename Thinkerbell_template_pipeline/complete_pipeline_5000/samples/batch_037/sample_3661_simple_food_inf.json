@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3661",
+  "generation_timestamp": "2025-08-04T18:31:03.421850",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Daniel Martinez for Woolworths campaign. Budget around $12,180, looking for 2 x Instagram story, 2 x 5-minute review. \n            11 week exclusivity from other grocery brands. \n            Campaign runs November 2025. Usage rights for 12 months. \n            Engagement period: 2 months.",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$12,180",
+    "fee_numeric": 12180,
+    "deliverables": [
+      "2 x Instagram story",
+      "2 x 5-minute review"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7308191019927937,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8064381049692798,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:03.409850",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

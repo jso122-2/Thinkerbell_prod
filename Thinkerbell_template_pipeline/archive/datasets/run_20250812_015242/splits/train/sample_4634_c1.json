@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4634",
+  "chunk_id": "sample_4634_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Mad Mex\n            • Fee: ~$2,915\n            • Deliverables: 2 x 15-second TikTok, 2 x Twitter post, 1 x Pinterest pin\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: September 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

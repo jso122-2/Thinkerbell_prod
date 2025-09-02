@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4161",
+  "chunk_id": "sample_4161_c1",
+  "text": "Need Tyler Scott for Woolworths campaign. Budget around $29,566, looking for 3 x Facebook post, 1 x Press release quote. 12 week exclusivity from other grocery brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 5 months. mate",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

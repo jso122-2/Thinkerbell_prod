@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_102",
+  "chunk_id": "sample_102_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Autobarn\n            • Fee: ~$9,487\n            • Deliverables: 1 x Pinterest pin, 1 x Twitter post\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3548",
+  "chunk_id": "sample_3548_c1",
+  "text": "Need River Murphy for Woolworths campaign. Budget around $14,155, looking for 2 x Radio interview, 1 x YouTube video, 3 x Blog post, 1 x LinkedIn post. 8 week exclusivity from other grocery brands. Campaign runs September 2025. Usage rights for 6 months. Engagement period: 6 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

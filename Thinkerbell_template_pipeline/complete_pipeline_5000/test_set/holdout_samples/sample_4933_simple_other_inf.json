@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4933",
+  "generation_timestamp": "2025-08-04T18:31:30.308944",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Justin Mitchell for Pizza Hut campaign. Budget around $10,863, looking for 1 x Radio interview. \n            4 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 12 months. \n            Engagement period: 3 months.",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$10,863",
+    "fee_numeric": 10863,
+    "deliverables": [
+      "1 x Radio interview"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7775267437168182,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9357376022843038,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.293838",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

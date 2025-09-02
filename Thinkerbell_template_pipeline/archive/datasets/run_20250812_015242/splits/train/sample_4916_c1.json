@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4916",
+  "chunk_id": "sample_4916_c1",
+  "text": "Hey team, looking to work with Riley Evans for Sephora. Budget is approx $8,470 - need 1 x Event photography, 2 x Radio interview, 1 x Press release quote. 4 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: September 2025. reckon\n\nNeed to sort out: TBC on final dates",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

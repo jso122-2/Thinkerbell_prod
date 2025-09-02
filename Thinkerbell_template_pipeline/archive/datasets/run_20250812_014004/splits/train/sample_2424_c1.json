@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2424",
+  "chunk_id": "sample_2424_c1",
+  "text": "Victoria Carter for Officeworks - $9,704 budget\n            Need: 2 x Instagram story, 2 x LinkedIn post, 2 x Press conference\n            2w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: January 2026\n\nAdditional notes: TBC on exact dates, around $9,704 budget",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_696",
+  "chunk_id": "sample_696_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Fantastic Furniture\n            • Fee: ~$24,792\n            • Deliverables: 2 x Article contribution, 1 x 60-second YouTube video, 2 x Brand photoshoot, 2 x Social media takeover\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

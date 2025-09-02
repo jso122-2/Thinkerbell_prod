@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1115",
+  "chunk_id": "sample_1115_c1",
+  "text": "Victoria Carter for Red Rooster - $2,613 budget\n            Need: 2 x Radio interview, 2 x Instagram story, 2 x LinkedIn post, 1 x Live stream\n            3w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_133",
+  "chunk_id": "sample_133_c1",
+  "text": "Michael Rodriguez for Hungry Jack's - $2,110 budget\n            Need: 3 x Instagram post, 1 x 90-second product demo\n            7w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

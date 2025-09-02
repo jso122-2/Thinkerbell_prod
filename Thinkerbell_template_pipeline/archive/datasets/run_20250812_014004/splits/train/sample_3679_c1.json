@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3679",
+  "chunk_id": "sample_3679_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Woolworths\n            • Fee: ~$20,484\n            • Deliverables: 3 x 90-second product demo, 3 x 30-second Instagram reel, 3 x Pinterest pin, 2 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

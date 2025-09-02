@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4438",
+  "chunk_id": "sample_4438_c1",
+  "text": "Hey team, looking to work with Lily Walker for Supercheap Auto. Budget is approx $4,401 - need 2 x Brand photoshoot, 2 x Blog post, 1 x 15-second TikTok, 1 x Facebook post. 8 weeks exclusivity, 6 month engagement. Usage: 11 months. Start date: October 2025.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

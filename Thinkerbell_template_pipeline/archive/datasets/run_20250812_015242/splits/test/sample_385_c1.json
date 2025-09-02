@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_385",
+  "chunk_id": "sample_385_c1",
+  "text": "Ava Johnson for Pizza Hut - $31,029 budget\n            Need: 3 x LinkedIn post, 3 x Lifestyle photography, 1 x 15-second TikTok, 2 x Social media takeover\n            7w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

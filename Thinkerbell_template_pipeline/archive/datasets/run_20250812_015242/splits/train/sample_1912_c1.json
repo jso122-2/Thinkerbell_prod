@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1912",
+  "chunk_id": "sample_1912_c1",
+  "text": "Reagan Rogers for Guzman y Gomez - $31,478 budget\n            Need: 2 x Facebook post\n            8w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4922",
+  "chunk_id": "sample_4922_c1",
+  "text": "Need Brandon Nelson for Officeworks campaign. Budget around $12,475, looking for 1 x 90-second product demo, 3 x Product photography, 1 x 2-minute tutorial, 1 x LinkedIn post, 2 x YouTube video. 5 week exclusivity from other electronics brands. Campaign runs December 2025. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

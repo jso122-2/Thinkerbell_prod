@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2313",
+  "chunk_id": "sample_2313_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Sephora\n            • Fee: ~$2,438\n            • Deliverables: 3 x Pinterest pin, 1 x Blog post, 2 x Press release quote, 2 x Instagram reel\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

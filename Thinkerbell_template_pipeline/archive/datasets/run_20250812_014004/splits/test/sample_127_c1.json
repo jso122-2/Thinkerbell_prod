@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_127",
+  "chunk_id": "sample_127_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Country Road. Budget is approx $4,668 - need 2 x LinkedIn post, 1 x YouTube short, 2 x Lifestyle photography. 12 weeks exclusivity, 5 month engmt. Usage: 7 months. Start date: September 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

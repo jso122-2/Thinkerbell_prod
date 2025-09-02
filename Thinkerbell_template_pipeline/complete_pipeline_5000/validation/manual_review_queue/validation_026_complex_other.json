@@ -1,0 +1,66 @@
+{
+  "sample_id": "validation_026",
+  "generation_timestamp": "2025-08-04T18:29:45.719444",
+  "generator_version": "v1.0",
+  "batch_id": "validation_batch",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Cameron Parker\n            • Brand: KFC\n            • Fee: ~$1,703\n            • Deliverables: 3 x TV appearance, 1 x Product photography\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Cameron Parker",
+    "client": "KFC",
+    "brand": "KFC",
+    "campaign": "KFC Campaign",
+    "fee": "$1,703",
+    "fee_numeric": 1703,
+    "deliverables": [
+      "3 x TV appearance",
+      "1 x Product photography"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7340392148905179,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8267270550582956,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:45.711445",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

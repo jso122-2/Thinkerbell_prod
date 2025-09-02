@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_213",
+  "chunk_id": "sample_213_c1",
+  "text": "Isabella Garcia for Bed Bath N' Table - $8,670 budget\n            Need: 2 x Social media takeover, 3 x Product photography\n            6w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: October 2025 ripper",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

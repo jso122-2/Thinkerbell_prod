@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4335",
+  "chunk_id": "sample_4335_c1",
+  "text": "Cameron Parker for McDonald's - $1,620 budget\n            Need: 2 x Product photography, 3 x Facebook post\n            11w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

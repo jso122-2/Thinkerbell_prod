@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_843",
+  "chunk_id": "sample_843_c1",
+  "text": "Isabella Garcia for Sephora - $4,503 budget\n            Need: 2 x Social media takeover, 2 x LinkedIn post, 3 x TikTok video, 2 x Instagram reel\n            9w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

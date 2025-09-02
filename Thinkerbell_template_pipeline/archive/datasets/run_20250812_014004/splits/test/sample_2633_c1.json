@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2633",
+  "chunk_id": "sample_2633_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Qantas\n            • Fee: ~$13,582\n            • Deliverables: 2 x Media interview\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

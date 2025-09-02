@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1587",
+  "chunk_id": "sample_1587_c1",
+  "text": "Isabella Garcia for Domino's - $33,355 budget\n            Need: 2 x Product launch event, 3 x Social media takeover, 2 x TikTok video, 2 x Media interview, 1 x Media interview\n            12w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

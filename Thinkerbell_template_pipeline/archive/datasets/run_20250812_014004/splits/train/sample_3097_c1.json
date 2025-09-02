@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3097",
+  "chunk_id": "sample_3097_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Boost Juice\n            • Fee: ~$1,657\n            • Deliverables: 1 x Twitter post, 3 x Twitter post, 2 x 90-second product demo\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

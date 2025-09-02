@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4537",
+  "chunk_id": "sample_4537_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for McDonald's. Budget is approx $8,838 - need 1 x YouTube short, 2 x Twitter post, 3 x 60-second YouTube video, 3 x Instagram post, 3 x YouTube short. 5 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

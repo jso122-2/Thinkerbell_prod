@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1235",
+  "chunk_id": "sample_1235_c1",
+  "text": "Hey team, looking to work with James Wilson for Sportsgirl. Budget is approx $11,322 - need 2 x Instagram reel, 1 x Event photography. 12 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: October 2025.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1630",
+  "chunk_id": "sample_1630_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Freedom\n            • Fee: ~$4,292\n            • Deliverables: 2 x Facebook story, 2 x Product launch event\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

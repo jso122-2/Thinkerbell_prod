@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1538",
+  "chunk_id": "sample_1538_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Freedom. Budget is approx $31,843 - need 1 x YouTube video, 1 x Radio interview, 3 x Media interview, 3 x 5-minute review, 2 x LinkedIn post. 8 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

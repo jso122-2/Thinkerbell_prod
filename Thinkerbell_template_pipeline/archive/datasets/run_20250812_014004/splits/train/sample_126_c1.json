@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_126",
+  "chunk_id": "sample_126_c1",
+  "text": "Christopher Lee for Queen Fine Foods - $7,137 budget\n            Need: 1 x Social media takeover, 1 x Behind-the-scenes content\n            7w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: November 2025\n\nNeed to confirm: deliverables",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

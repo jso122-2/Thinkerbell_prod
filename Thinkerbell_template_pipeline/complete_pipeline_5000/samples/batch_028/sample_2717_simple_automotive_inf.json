@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2717",
+  "generation_timestamp": "2025-08-04T18:30:44.331047",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Howard\n            • Brand: Autobarn\n            • Fee: ~$2,722\n            • Deliverables: 3 x TV appearance, 3 x TikTok video, 2 x 30-second Instagram reel, 2 x Facebook post\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: October 2025",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Autobarn",
+    "brand": "Autobarn",
+    "campaign": "Autobarn Campaign",
+    "fee": "$2,722",
+    "fee_numeric": 2722,
+    "deliverables": [
+      "3 x TV appearance",
+      "3 x TikTok video",
+      "2 x 30-second Instagram reel",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7658814038120311,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8162521781533437,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.323048",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Automotive"
+  }
+}

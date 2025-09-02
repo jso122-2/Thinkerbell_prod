@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1443",
+  "chunk_id": "sample_1443_c1",
+  "text": "James Wilson for Mad Mex - $2,314 budget\n            Need: 2 x Blog post, 3 x LinkedIn post\n            3w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

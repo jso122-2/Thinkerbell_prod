@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3269",
+  "generation_timestamp": "2025-08-04T18:30:55.268451",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sage Reed for McDonald's - $14,700 budget\n            Need: 3 x Instagram reel, 3 x Instagram story, 1 x Pinterest pin, 1 x Product photography, 1 x LinkedIn post\n            10w exclusivity, 6m engmt\n            Usage rights: 7 months\n            Start: December 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$14,700",
+    "fee_numeric": 14700,
+    "deliverables": [
+      "3 x Instagram reel",
+      "3 x Instagram story",
+      "1 x Pinterest pin",
+      "1 x Product photography",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7229216366732127,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.74173418850738,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:55.260454",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

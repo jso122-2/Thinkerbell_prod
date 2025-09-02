@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_354",
+  "chunk_id": "sample_354_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Portmans. Budget is approx $29,962 - need 1 x YouTube short, 3 x 60-second YouTube video, 3 x Facebook post. 6 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1202",
+  "chunk_id": "sample_1202_c1",
+  "text": "Justin Mitchell for Harvey Norman - $4,762 budget\n            Need: 1 x Instagram reel, 2 x Twitter post\n            4w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

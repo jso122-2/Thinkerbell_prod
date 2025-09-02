@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4964",
+  "generation_timestamp": "2025-08-04T18:31:30.875331",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sarah Chen for Hungry Jack's - $8,148 budget\n            Need: 1 x Lifestyle photography\n            5w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+    "token_count": 49,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sarah Chen",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$8,148",
+    "fee_numeric": 8148,
+    "deliverables": [
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7105722338093743,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8540936055855356,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.864332",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

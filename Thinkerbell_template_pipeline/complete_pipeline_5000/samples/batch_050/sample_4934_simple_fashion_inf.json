@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4934",
+  "generation_timestamp": "2025-08-04T18:31:30.325536",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Grace Young for Country Road - $8,829 budget\n            Need: 3 x 30-second Instagram reel, 2 x 60-second YouTube video\n            4w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Country Road",
+    "brand": "Country Road",
+    "campaign": "Country Road Campaign",
+    "fee": "$8,829",
+    "fee_numeric": 8829,
+    "deliverables": [
+      "3 x 30-second Instagram reel",
+      "2 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7418762684426643,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.914794208706749,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.310548",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Health & Fitness"
+  }
+}

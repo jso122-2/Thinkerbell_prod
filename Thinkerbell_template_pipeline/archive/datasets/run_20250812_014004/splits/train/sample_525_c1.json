@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_525",
+  "chunk_id": "sample_525_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: KFC\n            • Fee: ~$2,387\n            • Deliverables: 3 x 2-minute tutorial, 1 x 2-minute tutorial\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

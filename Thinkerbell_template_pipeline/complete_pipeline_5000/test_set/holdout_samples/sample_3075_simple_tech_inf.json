@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3075",
+  "generation_timestamp": "2025-08-04T18:30:51.234704",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Brandon Nelson for Harvey Norman campaign. Budget around $4,525, looking for 2 x Product photography, 2 x 15-second TikTok, 1 x Behind-the-scenes content, 2 x Twitter post. \n            9 week exclusivity from other electronics brands. \n            Campaign runs November 2025. Usage rights for 9 months. \n            Engagement period: 6 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brandon Nelson",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$4,525",
+    "fee_numeric": 4525,
+    "deliverables": [
+      "2 x Product photography",
+      "2 x 15-second TikTok",
+      "1 x Behind-the-scenes content",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7179699796009464,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9291326992548885,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:51.227708",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1256",
+  "chunk_id": "sample_1256_c1",
+  "text": "Nathan King for Coles - $12,392 budget\n            Need: 3 x Brand photoshoot, 1 x LinkedIn post, 1 x Twitter post\n            11w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

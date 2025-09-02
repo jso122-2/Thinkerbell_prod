@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4997",
+  "chunk_id": "sample_4997_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Target\n            • Fee: ~$28,309\n            • Deliverables: 3 x LinkedIn post, 2 x 2-minute tutorial, 3 x Instagram story, 2 x Instagram post, 1 x Instagram story\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

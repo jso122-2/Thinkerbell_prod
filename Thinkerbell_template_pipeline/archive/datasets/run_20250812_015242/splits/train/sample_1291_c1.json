@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1291",
+  "chunk_id": "sample_1291_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for McDonald's. Budget is approx $2,835 - need 3 x Instagram post, 2 x Facebook post. 10 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: September 2025. fair dinkum",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

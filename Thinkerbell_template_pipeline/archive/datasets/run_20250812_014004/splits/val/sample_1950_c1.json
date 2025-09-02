@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1950",
+  "chunk_id": "sample_1950_c1",
+  "text": "Hey team, looking to work with Sean Roberts for Pizza Hut. Budget is approx $17,848 - need 2 x Twitter post, 2 x Press conference, 1 x Product launch event, 1 x 60-second YouTube video, 3 x LinkedIn post. 3 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: January 2026.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

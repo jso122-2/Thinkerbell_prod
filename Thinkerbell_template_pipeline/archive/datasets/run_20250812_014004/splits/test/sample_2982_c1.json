@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2982",
+  "chunk_id": "sample_2982_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Betty's Burgers\n            • Fee: ~$28,207\n            • Deliverables: 3 x 30-second Instagram reel, 1 x 90-second product demo, 3 x Media interview\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

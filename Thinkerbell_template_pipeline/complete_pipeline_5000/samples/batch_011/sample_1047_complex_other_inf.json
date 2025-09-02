@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1047",
+  "generation_timestamp": "2025-08-04T18:30:06.929080",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Christopher Lee for Target. \n            Budget is approx $2,757 - need 3 x Twitter post, 3 x YouTube video, 2 x Instagram story, 2 x 30-second Instagram reel, 3 x Pinterest pin. \n            2 weeks exclusivity, 2 month engagement. \n            Usage: 12 months. Start date: October 2025. mate",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$2,757",
+    "fee_numeric": 2757,
+    "deliverables": [
+      "3 x Twitter post",
+      "3 x YouTube video",
+      "2 x Instagram story",
+      "2 x 30-second Instagram reel",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6622670379141313,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7319435221014781,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.920074",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Automotive"
+  }
+}

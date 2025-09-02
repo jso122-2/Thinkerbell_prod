@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_484",
+  "chunk_id": "sample_484_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Betty's Burgers\n            • Fee: ~$26,992\n            • Deliverables: 1 x 15-second TikTok, 2 x Press conference, 3 x Radio interview\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

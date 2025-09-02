@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1010",
+  "chunk_id": "sample_1010_c1",
+  "text": "Rowan Bailey for Queen Fine Foods - $9,338 budget\n            Need: 2 x Instagram story\n            8w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

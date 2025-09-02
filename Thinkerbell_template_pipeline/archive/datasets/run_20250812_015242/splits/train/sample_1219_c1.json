@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1219",
+  "chunk_id": "sample_1219_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Nando's\n            • Fee: ~$4,500\n            • Deliverables: 1 x Radio interview, 1 x TikTok video\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $4,500 budget",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

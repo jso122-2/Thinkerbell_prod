@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2463",
+  "generation_timestamp": "2025-08-04T18:30:38.735324",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Christopher Lee for Domino's campaign. Budget around $24,891, looking for 2 x Instagram story, 1 x Pinterest pin. \n            7 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 10 months. \n            Engagement period: 6 months.",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$24,891",
+    "fee_numeric": 24891,
+    "deliverables": [
+      "2 x Instagram story",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9082895643919416,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8350953541494193,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:38.726330",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

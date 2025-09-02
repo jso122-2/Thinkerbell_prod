@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_828",
+  "chunk_id": "sample_828_c1",
+  "text": "Need Peyton Stewart for Repco campaign. Budget around $11,068, looking for 1 x YouTube video, 3 x Instagram post. 10 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

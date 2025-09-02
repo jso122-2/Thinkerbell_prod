@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2728",
+  "generation_timestamp": "2025-08-04T18:30:44.438049",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sean Roberts for Pillow Talk. \n            Budget is approx $15,986 - need 3 x 2-minute tutorial, 3 x Facebook post, 2 x Twitter post, 3 x Product photography, 1 x Instagram story. \n            3 weeks exclusivity, 6 month engagement. \n            Usage: 7 months. Start date: October 2025.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$15,986",
+    "fee_numeric": 15986,
+    "deliverables": [
+      "3 x 2-minute tutorial",
+      "3 x Facebook post",
+      "2 x Twitter post",
+      "3 x Product photography",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8807689352163122,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8973459496401136,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.430051",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Automotive"
+  }
+}

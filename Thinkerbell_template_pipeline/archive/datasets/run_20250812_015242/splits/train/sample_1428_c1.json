@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1428",
+  "chunk_id": "sample_1428_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: David Jones\n            • Fee: ~$8,048\n            • Deliverables: 3 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

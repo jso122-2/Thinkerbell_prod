@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1182",
+  "chunk_id": "sample_1182_c1",
+  "text": "Need James Wilson for Telstra campaign. Budget around $6,065, looking for 3 x 60-second YouTube video, 1 x Instagram story. 4 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 11 months. Engagement period: 3 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

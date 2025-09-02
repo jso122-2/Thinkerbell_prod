@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3371",
+  "generation_timestamp": "2025-08-04T18:30:57.308370",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Morgan Morris for Roll'd. \n            Budget is approx $22,475 - need 3 x Live stream. \n            9 weeks exclusivity, 6 month engagement. \n            Usage: 6 months. Start date: January 2026.\n\nAdditional notes: TBC on exact dates, around $22,475 budget",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$22,475",
+    "fee_numeric": 22475,
+    "deliverables": [
+      "3 x Live stream"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8565026003263405,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8876230900712223,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.299921",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "New Season",
+    "product_category": "Travel & Tourism"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3441",
+  "chunk_id": "sample_3441_c1",
+  "text": "Need Sarah Chen for Adairs campaign. Budget around $31,675, looking for 2 x TikTok video. 6 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 7 months. Engagement period: 6 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_855",
+  "generation_timestamp": "2025-08-04T18:30:02.565991",
+  "generator_version": "v1.0",
+  "batch_id": "batch_009",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Olivia Davis for McDonald's - $4,683 budget\n            Need: 1 x 30-second Instagram reel, 3 x 30-second Instagram reel, 3 x 15-second TikTok, 2 x Twitter post\n            6w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$4,683",
+    "fee_numeric": 4683,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "3 x 30-second Instagram reel",
+      "3 x 15-second TikTok",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8847181927701651,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9049527341456055,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:02.558992",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

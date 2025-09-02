@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4865",
+  "chunk_id": "sample_4865_c1",
+  "text": "Need Cameron Parker for Red Rooster campaign. Budget around $3,016, looking for 3 x Professional headshots, 1 x Instagram post. 7 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 4 months.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1935",
+  "chunk_id": "sample_1935_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Freedom\n            • Fee: ~$24,107\n            • Deliverables: 2 x Lifestyle photography, 3 x Pinterest pin, 1 x Pinterest pin, 2 x Instagram post, 1 x YouTube video\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $24,107 budget",
+  "token_count": 93,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

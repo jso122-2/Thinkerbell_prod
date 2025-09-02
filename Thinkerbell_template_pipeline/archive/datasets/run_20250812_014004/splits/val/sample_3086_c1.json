@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3086",
+  "chunk_id": "sample_3086_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Fantastic Furniture\n            • Fee: ~$14,292\n            • Deliverables: 2 x Lifestyle photography, 3 x Pinterest pin\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $14,292 budget",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

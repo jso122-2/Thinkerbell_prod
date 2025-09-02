@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_949",
+  "chunk_id": "sample_949_c1",
+  "text": "Hey team, looking to work with Nathan King for Hungry Jack's. Budget is approx $9,196 - need 3 x Media interview, 2 x 90-second product demo, 1 x TV appearance, 2 x TV appearance. 5 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: January 2026. Additional notes: TBC on exact dates, around $9,196 budget",
+  "token_count": 87,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1584",
+  "generation_timestamp": "2025-08-04T18:30:18.032685",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Joshua Hall for Freedom campaign. Budget around $2,118, looking for 1 x YouTube short. \n            3 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 10 months. \n            Engagement period: 4 months.",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$2,118",
+    "fee_numeric": 2118,
+    "deliverables": [
+      "1 x YouTube short"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9387313214079238,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9192201229834577,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:18.021687",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

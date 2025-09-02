@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_proc_20250815_144820_5443",
+  "generation_timestamp": "2025-08-15T14:48:20.620773",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "complex",
+    "industry": "tech",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# QUEEN   The Condos Talent Agreement 210225 SIGNED\n\nInfluencer Agreement Queen Fine Foods DATE OF AGREEMENT 21/02/2025 BETWEEN Thinkerbell (ABN 99 618 397 658) of Level 3, 41-43 Stewart Street, Richmond VIC 3121 (“Agency”)\nAND BornBred Talent Pty Ltd (ABN 82 620 859 912) of The Commons, 32 York Street, Sydney NSW 2000 on behalf of Sapphiroula Condoleon (“Influencer”)\nBACKGROUND A. Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the product launch for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT Dr. Oetker Queen Australia Pty Ltd (ABN 92 606 358 516) of Level 1, 1 Joseph Avenue, Mentone VIC 3194 BRAND Queen Fine Foods solution Queen Hard Set Choccy Topping product launch Queen Hard Set Choccy Topping product launch ENGAGEMENT 2 months (17 February 2025 - 17 April 2025) from the date of this Agreement,\nTERM including approximately 2 weeks planning and minimum 6 weeks paid usage,\nplus any Rollover Term exercised under clause 3.\nWORK/S The following materials will be produced by the Influencer during the Usage Term.\n● Concepts for 1 x min 15” TikTok video - in writing, including caption copy\n○ All concepts & content and music to be approved by TKB and Queen before any production/filming.\n○ Includes one round of feedback\n● 1 x min 15” TikTok video and proposed caption\n○ All content to be approved by TKB/Queen after production,\nbefore posting\n○ Includes one round of feedback\n● Influencer to share finalised content for usage in a paid product launch on TikTok and Meta with a reach objective, for minimum 6 weeks after content goes live on influencer channels A brief of the materials will be provided to Influencer prior to commencement of producing the materials. The ## DELIVERABLES\n\ndeliverables should follow instructions outlined in the brief document provided, when delivering The Work.\nMEDIA Client may distribute the Work organically during the Usage Term in the following media:\n● Queen Instagram page [@queenfinefoods]\n● Queen Facebook page [www.facebook.com/QueenFineFoods/]\nThe Work must remain published on the Influencer’s social media channels\n(outlined above) for the remainder of the Usage Term once posted. For clarity,\nthe Works may remain published on the Media (and do not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term.\nInfluencer agrees that Agency will have rights to amplify the Influencer’s Work on social media.\nThe Influencer shall not, for a period of eight (8) hours after a Work is published in their social media channels, post, share, re-tweet or re-gram any other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work. The influencer agrees to not amplify any other content from their account with paid for a period of 24 hours after the organic content goes live.\nTERRITORY AUSTRALIA For clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party.\nPAID USAGE 6 weeks from the first live date across TikTok and Meta, plus any Rollover Term TERMS exercised under clause 3. The dates are subject to change depending on the live date of the content. Influencer should supply a copy of the Work once approved,\nto the Agency, for usage in paid.\nFEE A total of $8,000 + 15% ASF + GST to be paid.\nThe fee comprises of the following ## DELIVERABLES\n\ndeliverables:\n● Delivery of agreed asset\n● ## EXCLUSIVITY\n\nExclusivity\n● Usage within the agreed terms (TikTok and Meta)\n## PAYMENT TERMS\n\nPayment Terms: Payment shall be made as follows: 100% once the delivered and accepted Work is first published in the Influencer’s social media channels.\nOTHER As a part of the agreement, Thinkerbell will supply the Queen Hard Choc Topping CONSIDERATION solution and arrange for the delivery to arrive at the influencer’s home.\nINITIAL DELIVERY All social content is to go live before/on 28 February, 2025.\nDATE ● Briefing call- Wed, 19 Feb\n● Agreement signed & timings agreed - Thurs, 20th Feb\n● Concepts shared for review - Fri, 21 Feb\n● Client to approve concept - Mon, 24 Feb\n● Draft content shared for review - Wed, 26 Feb\n● Client to provide feedback on draft content - Thurs, 27 Feb\n● Approved content to go live - Fri, 28 Feb (if suitable for best content posting times/days, otherwise please let us know when is best for you end of Feb/early March in line with reach/engagement metrics)\nCONTACT Thinkerbell PERSON FOR ● Bass Hornor, Earned Thinker EACH PARTY ○ basshornor@thinkerbell.com\n○ 0422 093 972\n● Anna Craven, Head Earne...",
+    "token_count": 3723,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "Queen",
+    "brand": "Queen",
+    "campaign": "Queen Campaign 2025",
+    "fee": "$8,000",
+    "fee_numeric": 8000,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x Story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "2 months",
+    "usage_term": "6 weeks",
+    "territory": "AUSTRALIA For clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_QUEEN _ The Condos Talent Agreement_21.02.25 [SIGNED]",
+    "match_confidence": 0.8775032958396288,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "complex"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "complex_tech",
+    "source_document": "QUEEN___The_Condos_Talent_Agreement_210225_SIGNED.md"
+  }
+}

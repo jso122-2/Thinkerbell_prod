@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2919",
+  "chunk_id": "sample_2919_c1",
+  "text": "• Influencer: Mia White\n            • Brand: JB Hi-Fi\n            • Fee: ~$20,578\n            • Deliverables: 3 x Press release quote, 3 x Pinterest pin, 1 x 2-minute tutorial, 1 x 30-second Instagram reel\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

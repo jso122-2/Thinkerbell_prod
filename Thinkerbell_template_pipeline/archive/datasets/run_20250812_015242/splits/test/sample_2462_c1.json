@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_2462",
+  "chunk_id": "sample_2462_c1",
+  "text": "Hayden Bell for JB Hi-Fi - $6,930 budget\n            Need: 3 x Product photography\n            3w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_800",
+  "chunk_id": "sample_800_c1",
+  "text": "Hey team, looking to work with Riley Evans for McDonald's. Budget is approx $4,476 - need 3 x Pinterest pin. 4 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

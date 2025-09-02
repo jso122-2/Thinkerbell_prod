@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3094",
+  "chunk_id": "sample_3094_c1",
+  "text": "Need Blake Morgan for David Jones campaign. Budget around $16,136, looking for 3 x Instagram story, 1 x TikTok video, 1 x Instagram post, 2 x LinkedIn post. 6 week exclusivity from other fashion brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 6 months.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

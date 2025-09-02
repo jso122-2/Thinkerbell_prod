@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2282",
+  "chunk_id": "sample_2282_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Harvey Norman\n            • Fee: ~$26,451\n            • Deliverables: 2 x Media interview, 1 x Instagram reel, 2 x Pinterest pin\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

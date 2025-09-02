@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_254",
+  "chunk_id": "sample_254_c1",
+  "text": "Hey team, looking to work with Brandon Nelson for Cotton On. Budget is approx $3,807 - need 3 x Live stream, 2 x Product launch event. 8 weeks exclus, 3 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

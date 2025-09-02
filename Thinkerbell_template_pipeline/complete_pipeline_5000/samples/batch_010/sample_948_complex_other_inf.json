@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_948",
+  "generation_timestamp": "2025-08-04T18:30:04.661612",
+  "generator_version": "v1.0",
+  "batch_id": "batch_010",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Howard\n            • Brand: Pillow Talk\n            • Fee: ~$32,731\n            • Deliverables: 3 x 15-second TikTok, 3 x 5-minute review, 2 x Facebook post, 3 x TV appearance\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: January 2026",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$32,731",
+    "fee_numeric": 32731,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "3 x 5-minute review",
+      "2 x Facebook post",
+      "3 x TV appearance"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7607558020933922,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7892705915487335,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:04.652607",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Fashion & Apparel"
+  }
+}

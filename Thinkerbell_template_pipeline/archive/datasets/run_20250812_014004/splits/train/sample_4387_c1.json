@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4387",
+  "chunk_id": "sample_4387_c1",
+  "text": "Need Ryan Allen for Telstra campaign. Budget around $3,267, looking for 3 x Instagram post, 1 x Social media takeover. 3 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 3 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

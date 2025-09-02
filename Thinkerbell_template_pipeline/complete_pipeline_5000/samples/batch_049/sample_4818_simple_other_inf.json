@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4818",
+  "generation_timestamp": "2025-08-04T18:31:27.914183",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Lily Walker for Hungry Jack's campaign. Budget around $23,323, looking for 1 x 60-second YouTube video, 1 x Media interview. \n            12 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 12 months. \n            Engagement period: 5 months.",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$23,323",
+    "fee_numeric": 23323,
+    "deliverables": [
+      "1 x 60-second YouTube video",
+      "1 x Media interview"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7657223878713706,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8548119808656317,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:27.900180",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

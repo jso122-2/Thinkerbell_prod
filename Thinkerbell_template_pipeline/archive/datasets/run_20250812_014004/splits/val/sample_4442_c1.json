@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4442",
+  "chunk_id": "sample_4442_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Big W\n            • Fee: ~$1,514\n            • Deliverables: 3 x Twitter post, 1 x Instagram story, 1 x Instagram post, 3 x LinkedIn post\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

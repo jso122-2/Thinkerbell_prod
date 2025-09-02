@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1356",
+  "chunk_id": "sample_1356_c1",
+  "text": "Justin Mitchell for Amart Furniture - $5,427 budget\n            Need: 2 x Behind-the-scenes content\n            9w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

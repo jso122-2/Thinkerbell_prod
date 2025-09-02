@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1697",
+  "chunk_id": "sample_1697_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Grill'd\n            • Fee: ~$4,148\n            • Deliverables: 1 x Social media takeover, 1 x Pinterest pin, 2 x Instagram story\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

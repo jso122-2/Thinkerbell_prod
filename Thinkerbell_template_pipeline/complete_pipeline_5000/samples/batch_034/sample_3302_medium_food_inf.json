@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3302",
+  "generation_timestamp": "2025-08-04T18:30:56.563703",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Victoria Carter for Coles. \n            Budget is approx $12,263 - need 1 x 30-second Instagram reel, 1 x 60-second YouTube video, 1 x 30-second Instagram reel. \n            7 weeks exclusivity, 6 month engagement. \n            Usage: 8 months. Start date: December 2025.",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$12,263",
+    "fee_numeric": 12263,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "1 x 60-second YouTube video",
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "6 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9419801177451261,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8899199877795037,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:56.554704",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

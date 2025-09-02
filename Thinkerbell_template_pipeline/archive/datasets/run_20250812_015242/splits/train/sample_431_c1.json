@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_431",
+  "chunk_id": "sample_431_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Fantastic Furniture. Budget is approx $19,950 - need 3 x YouTube short, 2 x Facebook story, 3 x Media interview, 1 x 15-second TikTok, 2 x Radio interview. 6 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: January 2026.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

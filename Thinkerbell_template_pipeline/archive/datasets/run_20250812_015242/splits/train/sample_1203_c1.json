@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1203",
+  "chunk_id": "sample_1203_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Telstra\n            • Fee: ~$4,140\n            • Deliverables: 2 x Pinterest pin\n            • Exclusivity: 4 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

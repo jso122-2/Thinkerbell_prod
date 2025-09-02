@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1016",
+  "generation_timestamp": "2025-08-04T18:30:06.567077",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Brooklyn Edwards for Bunnings. \n            Budget is approx $4,218 - need 3 x Live stream, 1 x Twitter post. \n            7 weeks exclusivity, 5 month engagement. \n            Usage: 9 months. Start date: January 2026.",
+    "token_count": 62,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Bunnings",
+    "brand": "Bunnings",
+    "campaign": "Bunnings Campaign",
+    "fee": "$4,218",
+    "fee_numeric": 4218,
+    "deliverables": [
+      "3 x Live stream",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8321812696475113,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8791859169385527,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.555076",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Health & Fitness"
+  }
+}

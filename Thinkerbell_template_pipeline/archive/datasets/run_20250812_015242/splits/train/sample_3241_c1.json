@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3241",
+  "chunk_id": "sample_3241_c1",
+  "text": "Hey team, looking to work with David Brown for Pizza Hut. Budget is approx $22,464 - need 3 x Store opening, 1 x Twitter post. 10 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

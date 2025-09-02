@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4682",
+  "generation_timestamp": "2025-08-04T18:31:24.213402",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Ava Johnson for Lush - $10,731 budget\n            Need: 3 x Twitter post\n            9w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025\n\nNeed to confirm: usage rights",
+    "token_count": 53,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$10,731",
+    "fee_numeric": 10731,
+    "deliverables": [
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7651727294322488,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8047625578169681,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:24.203400",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Technology & Electronics"
+  }
+}

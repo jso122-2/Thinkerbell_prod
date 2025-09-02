@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2234",
+  "chunk_id": "sample_2234_c1",
+  "text": "Matthew Taylor for IKEA - $32,348 budget\n            Need: 3 x Lifestyle photography, 2 x Facebook post, 1 x Facebook post, 3 x LinkedIn post\n            7w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

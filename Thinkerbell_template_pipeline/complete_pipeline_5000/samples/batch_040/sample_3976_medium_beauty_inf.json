@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3976",
+  "generation_timestamp": "2025-08-04T18:31:10.181535",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Quinn Cook for Sephora campaign. Budget around $27,128, looking for 3 x Product photography, 2 x Twitter post. \n            7 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 10 months. \n            Engagement period: 6 months.\n\nNeed to confirm: exclusivity period",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$27,128",
+    "fee_numeric": 27128,
+    "deliverables": [
+      "3 x Product photography",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7818077967938227,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8574375564246121,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:10.171539",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Automotive"
+  }
+}

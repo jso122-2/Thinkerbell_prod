@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1868",
+  "chunk_id": "sample_1868_c1",
+  "text": "Daniel Martinez for Chemist Warehouse - $3,703 budget\n            Need: 2 x Social media takeover, 2 x Radio interview, 1 x 5-minute review\n            5w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

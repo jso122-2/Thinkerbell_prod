@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_110",
+  "chunk_id": "sample_110_c1",
+  "text": "Hey team, looking to work with Victoria Carter for Adairs. Budget is approx $28,280 - need 3 x Facebook post, 3 x YouTube video, 3 x Facebook post, 2 x 30-second Instagram reel. 5 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: September 2025. Additional notes: TBC on exact dates, around $28,280 budget",
+  "token_count": 86,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

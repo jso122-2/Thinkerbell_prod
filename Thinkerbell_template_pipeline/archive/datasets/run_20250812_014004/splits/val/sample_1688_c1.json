@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1688",
+  "chunk_id": "sample_1688_c1",
+  "text": "Need Peyton Stewart for IKEA campaign. Budget around $4,380, looking for 3 x Twitter post, 2 x YouTube short, 1 x Twitter post, 1 x Twitter post, 2 x 60-second YouTube video. 2 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 11 months. Engagement period: 2 months. Additional notes: TBC on exact dates, around $4,380 budget",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1431",
+  "chunk_id": "sample_1431_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Amart Furniture. Budget is approx $1,796 - need 2 x Facebook post. 9 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

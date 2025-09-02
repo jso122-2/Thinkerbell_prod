@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1610",
+  "chunk_id": "sample_1610_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for Myer. Budget is approx $29,076 - need 2 x Facebook post. 12 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: September 2025. fair dinkum",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

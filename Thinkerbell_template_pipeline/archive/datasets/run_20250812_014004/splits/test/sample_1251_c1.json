@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1251",
+  "chunk_id": "sample_1251_c1",
+  "text": "Rowan Bailey for Guzman y Gomez - $4,886 budget\n            Need: 3 x Meet and greet, 3 x 30-second Instagram reel, 2 x Facebook post\n            5w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

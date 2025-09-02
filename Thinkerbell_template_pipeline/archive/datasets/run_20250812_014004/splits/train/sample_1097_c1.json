@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1097",
+  "chunk_id": "sample_1097_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Domino's\n            • Fee: ~$33,957\n            • Deliverables: 3 x YouTube video\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

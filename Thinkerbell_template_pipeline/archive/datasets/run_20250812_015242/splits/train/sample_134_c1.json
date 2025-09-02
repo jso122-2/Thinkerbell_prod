@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_134",
+  "chunk_id": "sample_134_c1",
+  "text": "Need Rowan Bailey for Bunnings campaign. Budget around $15,803, looking for 3 x LinkedIn post, 2 x Instagram post. 11 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

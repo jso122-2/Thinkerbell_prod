@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1160",
+  "chunk_id": "sample_1160_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: Sportsgirl\n            • Fee: ~$1,935\n            • Deliverables: 3 x Instagram story, 1 x Pinterest pin, 2 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

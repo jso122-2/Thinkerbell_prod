@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_046",
+  "chunk_id": "sample_046_c1",
+  "text": "Quinn Richardson for Portmans - $2,740 budget\n            Need: 1 x Product photography, 2 x TikTok video, 1 x Media interview, 3 x LinkedIn post\n            6w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

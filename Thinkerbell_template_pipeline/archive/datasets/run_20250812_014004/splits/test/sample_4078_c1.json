@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4078",
+  "chunk_id": "sample_4078_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Adairs\n            • Fee: ~$30,448\n            • Deliverables: 2 x Facebook post, 2 x Facebook post, 2 x Facebook post, 2 x Twitter post\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

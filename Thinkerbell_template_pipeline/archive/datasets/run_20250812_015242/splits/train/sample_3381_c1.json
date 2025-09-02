@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3381",
+  "chunk_id": "sample_3381_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: KFC\n            • Fee: ~$1,998\n            • Deliverables: 3 x Pinterest pin, 1 x 2-minute tutorial, 2 x Facebook post, 1 x Product photography, 1 x LinkedIn post\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4384",
+  "generation_timestamp": "2025-08-04T18:31:18.587947",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ryan Allen for Queen Fine Foods. \n            Budget is approx $4,589 - need 2 x LinkedIn post, 2 x Brand photoshoot. \n            10 weeks exclusivity, 6 month engagement. \n            Usage: 10 months. Start date: October 2025.",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$4,589",
+    "fee_numeric": 4589,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "2 x Brand photoshoot"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8757053389495242,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8156193410501787,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.578953",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Fashion & Apparel"
+  }
+}

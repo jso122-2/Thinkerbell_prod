@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2443",
+  "chunk_id": "sample_2443_c1",
+  "text": "Hayden Howard for KFC - $4,889 budget\n            Need: 3 x 3-minute vlog, 1 x 90-second product demo, 2 x TV appearance, 3 x YouTube video\n            2w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

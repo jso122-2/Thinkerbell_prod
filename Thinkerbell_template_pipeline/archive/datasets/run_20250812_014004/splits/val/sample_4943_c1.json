@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4943",
+  "chunk_id": "sample_4943_c1",
+  "text": "Grace Young for Kmart - $3,592 budget\n            Need: 3 x Product photography, 2 x 15-second TikTok, 3 x Media interview, 1 x Product photography, 2 x Radio interview\n            11w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

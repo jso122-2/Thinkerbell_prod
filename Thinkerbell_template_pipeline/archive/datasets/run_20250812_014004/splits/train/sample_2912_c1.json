@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2912",
+  "chunk_id": "sample_2912_c1",
+  "text": "Daniel Martinez for Freedom - $7,558 budget\n            Need: 2 x Press release quote, 1 x 2-minute tutorial\n            7w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

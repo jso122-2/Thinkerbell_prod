@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4302",
+  "chunk_id": "sample_4302_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: Sephora\n            • Fee: ~$22,517\n            • Deliverables: 3 x Instagram post, 1 x LinkedIn post\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

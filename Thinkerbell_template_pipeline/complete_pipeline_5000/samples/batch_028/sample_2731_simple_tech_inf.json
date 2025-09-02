@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2731",
+  "generation_timestamp": "2025-08-04T18:30:44.466048",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Mia White\n            • Brand: JB Hi-Fi\n            • Fee: ~$3,732\n            • Deliverables: 3 x Radio interview, 2 x 30-second Instagram reel, 3 x Product photography, 2 x 60-second YouTube video\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: January 2026",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$3,732",
+    "fee_numeric": 3732,
+    "deliverables": [
+      "3 x Radio interview",
+      "2 x 30-second Instagram reel",
+      "3 x Product photography",
+      "2 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8797229869212841,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8082118435445954,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.458047",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Sports & Recreation"
+  }
+}

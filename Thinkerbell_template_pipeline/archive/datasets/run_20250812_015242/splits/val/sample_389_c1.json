@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_389",
+  "chunk_id": "sample_389_c1",
+  "text": "Need Hannah Green for Cotton On campaign. Budget around $10,818, looking for 1 x LinkedIn post. 4 week exclusivity from other fashion brands. Campaign runs September 2025. Usage rights for 6 months. Engagement period: 2 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1658",
+  "chunk_id": "sample_1658_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Cotton On\n            • Fee: ~$30,198\n            • Deliverables: 2 x 10-minute unboxing, 2 x 15-second TikTok, 2 x 90-second product demo\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: September 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2470",
+  "chunk_id": "sample_2470_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Kmart\n            • Fee: ~$13,584\n            • Deliverables: 1 x Social media takeover, 3 x Press conference, 1 x Instagram story, 1 x LinkedIn post\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

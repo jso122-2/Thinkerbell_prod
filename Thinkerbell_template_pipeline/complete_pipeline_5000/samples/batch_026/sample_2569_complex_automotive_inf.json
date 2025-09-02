@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2569",
+  "generation_timestamp": "2025-08-04T18:30:40.881698",
+  "generator_version": "v1.0",
+  "batch_id": "batch_026",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Joshua Hall for Autobarn campaign. Budget around $6,809, looking for 3 x LinkedIn post, 3 x LinkedIn post, 1 x LinkedIn post, 3 x Pinterest pin, 1 x Media interview. \n            6 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 11 months. \n            Engagement period: 6 months.",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Autobarn",
+    "brand": "Autobarn",
+    "campaign": "Autobarn Campaign",
+    "fee": "$6,809",
+    "fee_numeric": 6809,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "3 x LinkedIn post",
+      "1 x LinkedIn post",
+      "3 x Pinterest pin",
+      "1 x Media interview"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8080528647837747,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8529054181473227,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:40.869515",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

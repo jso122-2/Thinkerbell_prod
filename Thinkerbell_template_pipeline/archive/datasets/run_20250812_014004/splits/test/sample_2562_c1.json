@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2562",
+  "chunk_id": "sample_2562_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Zambrero\n            • Fee: ~$32,139\n            • Deliverables: 2 x Instagram story, 2 x Twitter post\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

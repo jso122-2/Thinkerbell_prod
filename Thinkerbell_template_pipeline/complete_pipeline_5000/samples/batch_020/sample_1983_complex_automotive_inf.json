@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1983",
+  "generation_timestamp": "2025-08-04T18:30:27.157199",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Daniel Martinez for Autobarn campaign. Budget around $13,975, looking for 2 x Facebook story, 2 x Pinterest pin, 2 x 30-second Instagram reel. \n            6 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 10 months. \n            Engagement period: 3 months.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Autobarn",
+    "brand": "Autobarn",
+    "campaign": "Autobarn Campaign",
+    "fee": "$13,975",
+    "fee_numeric": 13975,
+    "deliverables": [
+      "2 x Facebook story",
+      "2 x Pinterest pin",
+      "2 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.759130054414141,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7579597708849636,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:27.149201",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

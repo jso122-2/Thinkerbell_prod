@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2902",
+  "chunk_id": "sample_2902_c1",
+  "text": "Lily Walker for Betty's Burgers - $31,592 budget\n            Need: 2 x Facebook story, 2 x Instagram story, 1 x Twitter post, 3 x Instagram post\n            2w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

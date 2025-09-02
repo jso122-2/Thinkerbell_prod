@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_286",
+  "chunk_id": "sample_286_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Grill'd\n            • Fee: ~$2,888\n            • Deliverables: 2 x 30-second Instagram reel, 3 x Pinterest pin, 1 x Store opening, 3 x Instagram story, 3 x Radio interview\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

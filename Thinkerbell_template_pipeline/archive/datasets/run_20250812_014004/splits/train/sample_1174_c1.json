@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1174",
+  "chunk_id": "sample_1174_c1",
+  "text": "Need Natalie Adams for Telstra campaign. Budget around $21,852, looking for 2 x Pinterest pin. 5 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 9 months. Engagement period: 2 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

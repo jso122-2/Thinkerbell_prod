@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4546",
+  "chunk_id": "sample_4546_c1",
+  "text": "Nathan King for Nando's - $4,564 budget\n            Need: 2 x 2-minute tutorial, 2 x Pinterest pin, 2 x TikTok video, 2 x Radio interview\n            3w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

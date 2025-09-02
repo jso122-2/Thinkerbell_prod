@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_124",
+  "generation_timestamp": "2025-08-04T18:29:48.193813",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Blake Morgan for Nando's camp. Budget around $30,057, looking for 3 x LinkedIn post, 3 x Lifestyle photography, 3 x Twitter post, 3 x 15-second TikTok, 1 x YouTube short. \n            4 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 10 months. \n            Engagement period: 2 months.",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Blake Morgan",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$30,057",
+    "fee_numeric": 30057,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "3 x Lifestyle photography",
+      "3 x Twitter post",
+      "3 x 15-second TikTok",
+      "1 x YouTube short"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7154133696336881,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.747288192441921,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:48.175811",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

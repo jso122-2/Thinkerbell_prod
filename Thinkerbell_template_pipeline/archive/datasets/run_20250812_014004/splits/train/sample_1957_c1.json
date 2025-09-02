@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1957",
+  "chunk_id": "sample_1957_c1",
+  "text": "Need Reagan Rogers for Kmart campaign. Budget around $10,791, looking for 3 x YouTube short, 1 x Instagram story, 2 x Instagram post. 4 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

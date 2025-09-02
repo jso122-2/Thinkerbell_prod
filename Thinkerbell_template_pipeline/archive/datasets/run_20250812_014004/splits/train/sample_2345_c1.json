@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2345",
+  "chunk_id": "sample_2345_c1",
+  "text": "Reagan Rogers for Bunnings - $2,321 budget\n            Need: 3 x 90-second product demo\n            6w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

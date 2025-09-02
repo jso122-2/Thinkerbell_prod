@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_999",
+  "chunk_id": "sample_999_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Cotton On\n            • Fee: ~$12,078\n            • Deliverables: 1 x Behind-the-scenes content, 1 x LinkedIn post, 3 x Pinterest pin, 1 x Store opening, 2 x 5-minute review\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $12,078 budget",
+  "token_count": 100,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

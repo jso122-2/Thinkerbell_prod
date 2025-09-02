@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3615",
+  "chunk_id": "sample_3615_c1",
+  "text": "Need Hayden Howard for Qantas campaign. Budget around $3,403, looking for 1 x Facebook post. 8 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 5 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

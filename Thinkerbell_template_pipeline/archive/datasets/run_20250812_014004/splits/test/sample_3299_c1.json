@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3299",
+  "chunk_id": "sample_3299_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Telstra. Budget is approx $2,154 - need 1 x Pinterest pin, 3 x Live stream, 3 x Press conference. 6 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

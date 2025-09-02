@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3619",
+  "generation_timestamp": "2025-08-04T18:31:02.943851",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Grace Young for Kmart. \n            Budget is approx $4,002 - need 3 x Instagram post. \n            9 weeks exclusivity, 5 month engagement. \n            Usage: 12 months. Start date: October 2025.",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$4,002",
+    "fee_numeric": 4002,
+    "deliverables": [
+      "3 x Instagram post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9088516690863151,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.831377697142329,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:02.935848",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Health & Fitness"
+  }
+}

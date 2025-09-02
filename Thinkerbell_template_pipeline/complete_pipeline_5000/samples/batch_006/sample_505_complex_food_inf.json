@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_505",
+  "generation_timestamp": "2025-08-04T18:29:56.329012",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Brandon Nelson\n            • Brand: Coles\n            • Fee: ~$14,637\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brandon Nelson",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$14,637",
+    "fee_numeric": 14637,
+    "deliverables": [
+      "3 x Instagram post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.663547904305202,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7252096475213735,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.317023",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

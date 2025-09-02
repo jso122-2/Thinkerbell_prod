@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_447",
+  "chunk_id": "sample_447_c1",
+  "text": "Need Blake Cox for Harvey Norman campaign. Budget around $4,607, looking for 3 x Pinterest pin. 3 week exclusivity from other electronics brands. Campaign runs September 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

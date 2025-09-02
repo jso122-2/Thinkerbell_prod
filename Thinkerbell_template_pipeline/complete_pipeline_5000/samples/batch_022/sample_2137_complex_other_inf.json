@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2137",
+  "generation_timestamp": "2025-08-04T18:30:31.875821",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Mia White for Qantas campaign. Budget around $2,246, looking for 3 x TV appearance. \n            2 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 11 months. \n            Engagement period: 6 months.",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$2,246",
+    "fee_numeric": 2246,
+    "deliverables": [
+      "3 x TV appearance"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7685600294126703,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8291183920001115,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:31.866821",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Entertainment"
+  }
+}

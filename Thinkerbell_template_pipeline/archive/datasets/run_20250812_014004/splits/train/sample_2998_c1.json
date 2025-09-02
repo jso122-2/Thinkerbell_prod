@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2998",
+  "chunk_id": "sample_2998_c1",
+  "text": "Hey team, looking to work with Brandon Nelson for Roll'd. Budget is approx $11,113 - need 2 x YouTube video. 11 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: January 2026. Additional notes: TBC on exact dates, around $11,113 budget",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

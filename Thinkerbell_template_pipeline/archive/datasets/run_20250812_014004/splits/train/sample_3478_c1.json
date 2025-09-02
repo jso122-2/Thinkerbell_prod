@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3478",
+  "chunk_id": "sample_3478_c1",
+  "text": "Need Sophie Anderson for Myer campaign. Budget around $32,346, looking for 2 x YouTube short. 6 week exclusivity from other fashion brands. Campaign runs September 2025. Usage rights for 12 months. Engagement period: 2 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

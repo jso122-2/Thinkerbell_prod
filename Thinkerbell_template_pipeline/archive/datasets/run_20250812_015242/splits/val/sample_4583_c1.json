@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4583",
+  "chunk_id": "sample_4583_c1",
+  "text": "Joshua Hall for Harvey Norman - $4,058 budget\n            Need: 3 x Facebook story, 1 x YouTube short, 1 x 2-minute tutorial\n            11w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

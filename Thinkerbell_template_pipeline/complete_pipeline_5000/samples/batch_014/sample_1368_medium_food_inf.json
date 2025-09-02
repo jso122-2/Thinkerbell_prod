@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1368",
+  "generation_timestamp": "2025-08-04T18:30:13.492745",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Victoria Carter for Woolworths campaign. Budget around $3,757, looking for 1 x Meet and greet, 2 x 90-second product demo, 1 x Event photography, 3 x Product launch event. \n            12 week exclusivity from other grocery brands. \n            Campaign runs November 2025. Usage rights for 11 months. \n            Engagement period: 5 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$3,757",
+    "fee_numeric": 3757,
+    "deliverables": [
+      "1 x Meet and greet",
+      "2 x 90-second product demo",
+      "1 x Event photography",
+      "3 x Product launch event"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8475141962839692,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8476886104690651,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:13.482744",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Home & Garden"
+  }
+}

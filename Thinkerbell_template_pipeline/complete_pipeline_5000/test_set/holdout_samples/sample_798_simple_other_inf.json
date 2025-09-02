@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_798",
+  "generation_timestamp": "2025-08-04T18:30:01.208106",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Quinn Richardson for Red Rooster. \n            Budget is approx $4,221 - need 2 x Media interview, 1 x Radio interview, 3 x Product launch event, 3 x LinkedIn post. \n            10 weeks exclusivity, 3 month engagement. \n            Usage: 7 months. Start date: January 2026.",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$4,221",
+    "fee_numeric": 4221,
+    "deliverables": [
+      "2 x Media interview",
+      "1 x Radio interview",
+      "3 x Product launch event",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7790768740740954,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9307937750251815,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:01.199104",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1053",
+  "generation_timestamp": "2025-08-04T18:30:06.987074",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "James Wilson for Pillow Talk - $13,721 budget\n            Need: 2 x 3-minute vlog, 1 x Instagram reel\n            5w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+    "token_count": 52,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$13,721",
+    "fee_numeric": 13721,
+    "deliverables": [
+      "2 x 3-minute vlog",
+      "1 x Instagram reel"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8024501027580306,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9052514228309,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.979076",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

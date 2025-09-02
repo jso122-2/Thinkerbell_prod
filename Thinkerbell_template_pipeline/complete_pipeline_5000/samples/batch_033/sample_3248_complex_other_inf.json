@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3248",
+  "generation_timestamp": "2025-08-04T18:30:55.038823",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Layla Campbell for McDonald's camp. Budget around $13,840, looking for 1 x Lifestyle photography, 2 x Pinterest pin, 2 x Product photography. \n            7 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 10 months. \n            Engagement period: 2 months.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Layla Campbell",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$13,840",
+    "fee_numeric": 13840,
+    "deliverables": [
+      "1 x Lifestyle photography",
+      "2 x Pinterest pin",
+      "2 x Product photography"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.807787151890272,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7769506691500122,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:55.023824",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Entertainment"
+  }
+}

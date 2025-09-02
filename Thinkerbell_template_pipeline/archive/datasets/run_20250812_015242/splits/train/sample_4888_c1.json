@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_4888",
+  "chunk_id": "sample_4888_c1",
+  "text": "Justin Mitchell for JB Hi-Fi - $4,447 budget\n            Need: 3 x Media interview, 2 x 30-second Instagram reel, 3 x Pinterest pin, 1 x Facebook post\n            5w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

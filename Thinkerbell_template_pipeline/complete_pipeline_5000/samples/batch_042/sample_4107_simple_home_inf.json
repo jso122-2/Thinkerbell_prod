@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4107",
+  "generation_timestamp": "2025-08-04T18:31:13.643292",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Zoe Wright\n            • Brand: Freedom\n            • Fee: ~$32,601\n            • Deliverables: 3 x YouTube short, 1 x Facebook post, 2 x 60-second YouTube video, 3 x Product photography, 2 x Behind-the-scenes content\n            • Exclusivity: 4 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: October 2025",
+    "token_count": 91,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$32,601",
+    "fee_numeric": 32601,
+    "deliverables": [
+      "3 x YouTube short",
+      "1 x Facebook post",
+      "2 x 60-second YouTube video",
+      "3 x Product photography",
+      "2 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8156636200146774,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9375174719455817,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:13.634291",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

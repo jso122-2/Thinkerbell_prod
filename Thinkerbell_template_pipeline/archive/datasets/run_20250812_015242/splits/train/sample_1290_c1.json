@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1290",
+  "chunk_id": "sample_1290_c1",
+  "text": "Chloe Lewis for Commonwealth Bank - $18,262 budget\n            Need: 3 x YouTube video, 3 x Meet and greet, 3 x Pinterest pin\n            12w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

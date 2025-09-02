@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4889",
+  "chunk_id": "sample_4889_c1",
+  "text": "Scarlett Turner for Kmart - $10,471 budget\n            Need: 2 x 90-second product demo, 1 x TikTok video, 3 x Lifestyle photography, 2 x Article contribution\n            4w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3328",
+  "generation_timestamp": "2025-08-04T18:30:56.856874",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Ryan Allen for Lush campaign. Budget around $4,195, looking for 1 x 30-second Instagram reel, 1 x Radio interview. \n            7 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 7 months. \n            Engagement period: 4 months.\n\nNeed to confirm: deliverables",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$4,195",
+    "fee_numeric": 4195,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "1 x Radio interview"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7975987805487358,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8132242327926752,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:56.847875",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2812",
+  "chunk_id": "sample_2812_c1",
+  "text": "• Influencer: Hayden Bell\n            • Brand: Queen Fine Foods\n            • Fee: ~$33,469\n            • Deliverables: 1 x TikTok video, 3 x 60-second YouTube video, 3 x LinkedIn post, 3 x Brand ambassador content\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

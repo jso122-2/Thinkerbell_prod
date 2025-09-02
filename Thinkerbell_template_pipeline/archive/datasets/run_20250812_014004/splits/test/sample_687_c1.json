@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_687",
+  "chunk_id": "sample_687_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Harvey Norman\n            • Fee: ~$6,606\n            • Deliverables: 3 x Instagram post, 1 x 60-second YouTube video, 1 x 60-second YouTube video, 3 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3764",
+  "generation_timestamp": "2025-08-04T18:31:05.659496",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Victoria Carter for Kmart. \n            Budget is approx $28,438 - need 1 x 2-minute tutorial, 2 x 10-minute unboxing, 3 x LinkedIn post, 1 x 90-second product demo, 3 x Store opening. \n            3 weeks exclusivity, 3 month engagement. \n            Usage: 10 months. Start date: December 2025.",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$28,438",
+    "fee_numeric": 28438,
+    "deliverables": [
+      "1 x 2-minute tutorial",
+      "2 x 10-minute unboxing",
+      "3 x LinkedIn post",
+      "1 x 90-second product demo",
+      "3 x Store opening"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7912891796874031,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7990860610538036,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.649497",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Automotive"
+  }
+}

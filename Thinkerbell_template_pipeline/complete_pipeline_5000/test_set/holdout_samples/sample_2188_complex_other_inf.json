@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2188",
+  "generation_timestamp": "2025-08-04T18:30:32.364802",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Rowan Bailey for Target - $17,133 budget\n            Need: 2 x 30-second Instagram reel, 2 x Media interview, 2 x Twitter post, 1 x TikTok video, 1 x Lifestyle photography\n            12w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$17,133",
+    "fee_numeric": 17133,
+    "deliverables": [
+      "2 x 30-second Instagram reel",
+      "2 x Media interview",
+      "2 x Twitter post",
+      "1 x TikTok video",
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8130805573737416,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8383865957530078,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:32.350801",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Entertainment"
+  }
+}

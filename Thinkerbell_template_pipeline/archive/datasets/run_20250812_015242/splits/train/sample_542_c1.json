@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_542",
+  "chunk_id": "sample_542_c1",
+  "text": "Need Sophie Anderson for IKEA camp. Budget around $28,488, looking for 2 x Brand photoshoot. 7 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 4 months. ripper",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2192",
+  "chunk_id": "sample_2192_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Officeworks. Budget is approx $26,340 - need 3 x Facebook post, 2 x Facebook post, 3 x Media interview, 3 x TikTok video, 2 x Radio interview. 3 weeks exclusivity, 5 month engagement. Usage: 11 months. Start date: October 2025.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

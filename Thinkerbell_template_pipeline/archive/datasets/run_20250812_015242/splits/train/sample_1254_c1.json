@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1254",
+  "chunk_id": "sample_1254_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Portmans\n            • Fee: ~$4,315\n            • Deliverables: 1 x TikTok video, 1 x Lifestyle photography\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

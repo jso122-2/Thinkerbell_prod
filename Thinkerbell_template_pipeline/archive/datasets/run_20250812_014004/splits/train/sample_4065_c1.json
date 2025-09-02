@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4065",
+  "chunk_id": "sample_4065_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: Cotton On\n            • Fee: ~$31,366\n            • Deliverables: 1 x Facebook story, 2 x Pinterest pin, 1 x Article contribution\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

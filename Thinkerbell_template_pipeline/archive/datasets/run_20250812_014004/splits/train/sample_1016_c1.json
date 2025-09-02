@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1016",
+  "chunk_id": "sample_1016_c1",
+  "text": "Hey team, looking to work with Nathan King for Priceline. Budget is approx $14,432 - need 3 x Instagram story, 2 x Facebook post. 11 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: October 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

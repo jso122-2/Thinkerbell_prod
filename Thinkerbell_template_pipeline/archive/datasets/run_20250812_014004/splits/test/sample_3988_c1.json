@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3988",
+  "chunk_id": "sample_3988_c1",
+  "text": "Need Emma Thompson for Portmans campaign. Budget around $11,751, looking for 3 x Article contribution, 2 x Instagram post, 2 x Press release quote. 6 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

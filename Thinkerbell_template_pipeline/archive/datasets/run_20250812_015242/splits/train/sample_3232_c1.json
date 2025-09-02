@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3232",
+  "chunk_id": "sample_3232_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Mecca\n            • Fee: ~$22,591\n            • Deliverables: 1 x Instagram story, 1 x Instagram post, 2 x LinkedIn post\n            • Exclusivity: 2 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $22,591 budget",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

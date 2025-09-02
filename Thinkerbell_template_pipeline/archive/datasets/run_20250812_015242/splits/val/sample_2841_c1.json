@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2841",
+  "chunk_id": "sample_2841_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Pillow Talk\n            • Fee: ~$4,224\n            • Deliverables: 1 x 90-second product demo, 2 x Media interview, 1 x Meet and greet\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

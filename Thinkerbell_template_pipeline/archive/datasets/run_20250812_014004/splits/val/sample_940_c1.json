@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_940",
+  "chunk_id": "sample_940_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Freedom\n            • Fee: ~$25,185\n            • Deliverables: 2 x 2-minute tutorial, 1 x Lifestyle photography, 2 x TV appearance\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

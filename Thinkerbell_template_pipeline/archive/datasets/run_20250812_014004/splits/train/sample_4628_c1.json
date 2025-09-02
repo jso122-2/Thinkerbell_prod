@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4628",
+  "chunk_id": "sample_4628_c1",
+  "text": "Need Grace Young for Woolworths campaign. Budget around $4,037, looking for 3 x Meet and greet, 3 x Twitter post, 1 x TikTok video. 3 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 5 months. Additional notes: TBC on exact dates, around $4,037 budget",
+  "token_count": 84,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

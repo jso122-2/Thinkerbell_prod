@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2123",
+  "generation_timestamp": "2025-08-04T18:30:31.710823",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Reagan Rogers for Queen Fine Foods. \n            Budget is approx $3,693 - need 2 x LinkedIn post, 3 x YouTube short. \n            5 weeks exclusivity, 6 month engagement. \n            Usage: 10 months. Start date: October 2025.",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$3,693",
+    "fee_numeric": 3693,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "3 x YouTube short"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8050979693212504,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9036775432234494,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:31.700820",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Fashion & Apparel"
+  }
+}

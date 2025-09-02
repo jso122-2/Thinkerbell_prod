@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3123",
+  "chunk_id": "sample_3123_c1",
+  "text": "Layla Campbell for Kmart - $1,722 budget\n            Need: 2 x Pinterest pin, 2 x Store opening\n            12w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: October 2025 reckon",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

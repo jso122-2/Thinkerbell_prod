@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4144",
+  "chunk_id": "sample_4144_c1",
+  "text": "Daniel Martinez for Kmart - $14,433 budget\n            Need: 3 x 15-second TikTok\n            10w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

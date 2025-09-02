@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2955",
+  "chunk_id": "sample_2955_c1",
+  "text": "Reagan Rogers for IKEA - $26,128 budget\n            Need: 1 x Article contribution, 2 x Instagram post, 3 x LinkedIn post, 1 x 30-second Instagram reel\n            7w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

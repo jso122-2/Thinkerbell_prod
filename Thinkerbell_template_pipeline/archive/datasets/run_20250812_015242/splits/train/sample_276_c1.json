@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_276",
+  "chunk_id": "sample_276_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Portmans\n            • Fee: ~$3,361\n            • Deliverables: 1 x Live stream, 2 x Instagram reel, 3 x Lifestyle photography\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

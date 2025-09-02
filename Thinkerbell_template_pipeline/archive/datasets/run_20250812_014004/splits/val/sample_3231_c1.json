@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3231",
+  "chunk_id": "sample_3231_c1",
+  "text": "Need David Brown for Target campaign. Budget around $24,856, looking for 1 x LinkedIn post, 1 x 5-minute review. 4 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

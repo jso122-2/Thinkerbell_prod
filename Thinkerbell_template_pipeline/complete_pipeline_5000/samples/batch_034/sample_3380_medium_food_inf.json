@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3380",
+  "generation_timestamp": "2025-08-04T18:30:57.407721",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with River Murphy for Coles. \n            Budget is approx $2,057 - need 2 x Lifestyle photography, 3 x Social media takeover, 2 x Product photography, 2 x Instagram story. \n            6 weeks exclusivity, 6 month engagement. \n            Usage: 11 months. Start date: December 2025.",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$2,057",
+    "fee_numeric": 2057,
+    "deliverables": [
+      "2 x Lifestyle photography",
+      "3 x Social media takeover",
+      "2 x Product photography",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7967083794315992,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8283281938404907,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.397717",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Health & Fitness"
+  }
+}

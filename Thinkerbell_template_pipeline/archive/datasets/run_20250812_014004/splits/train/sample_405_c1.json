@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_405",
+  "chunk_id": "sample_405_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Freedom\n            • Fee: ~$20,524\n            • Deliverables: 3 x Blog post, 3 x LinkedIn post, 3 x 3-minute vlog, 2 x Facebook post, 2 x Instagram post\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_441",
+  "chunk_id": "sample_441_c1",
+  "text": "Need Blake Cox for Target campaign. Budget around $10,583, looking for 3 x Product photography, 2 x 5-minute review, 1 x Facebook post, 2 x TV appearance, 2 x Lifestyle photography. 10 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 3 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

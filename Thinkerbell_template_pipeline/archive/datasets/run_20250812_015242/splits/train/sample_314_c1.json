@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_314",
+  "chunk_id": "sample_314_c1",
+  "text": "Hey team, looking to work with Christopher Lee for Mad Mex. Budget is approx $32,486 - need 2 x Radio interview. 12 weeks exclus, 6 month engagement. Usage: 6 months. Start date: November 2025. reckon\n\nNeed to sort out: TBC on final dates",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

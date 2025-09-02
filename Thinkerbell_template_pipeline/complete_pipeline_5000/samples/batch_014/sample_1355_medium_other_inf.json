@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1355",
+  "generation_timestamp": "2025-08-04T18:30:13.339747",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Daniel Martinez for Nando's - $2,195 budget\n            Need: 3 x Instagram post, 1 x Facebook story, 1 x Facebook post, 3 x LinkedIn post\n            2w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: November 2025\n\nNeed to confirm: usage rights",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$2,195",
+    "fee_numeric": 2195,
+    "deliverables": [
+      "3 x Instagram post",
+      "1 x Facebook story",
+      "1 x Facebook post",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7408316353399504,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8881525740180359,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:13.329746",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

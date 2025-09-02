@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_600",
+  "generation_timestamp": "2025-08-04T18:29:57.327757",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Chloe Lewis for Fantastic Furniture - $9,306 budget\n            Need: 3 x Facebook post, 3 x Pinterest pin, 3 x Instagram post, 1 x YouTube short, 3 x LinkedIn post\n            12w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$9,306",
+    "fee_numeric": 9306,
+    "deliverables": [
+      "3 x Facebook post",
+      "3 x Pinterest pin",
+      "3 x Instagram post",
+      "1 x YouTube short",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9365761547370641,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9271728442636087,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:57.318761",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Travel & Tourism"
+  }
+}

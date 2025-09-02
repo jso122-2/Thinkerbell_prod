@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1696",
+  "chunk_id": "sample_1696_c1",
+  "text": "Need Kevin Baker for Mad Mex campaign. Budget around $3,337, looking for 2 x Lifestyle photography, 1 x LinkedIn post, 1 x Product photography, 1 x Press conference. 5 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 10 months. Engagement period: 2 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

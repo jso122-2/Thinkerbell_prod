@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4382",
+  "chunk_id": "sample_4382_c1",
+  "text": "• Influencer: Chloe Lewis\n            • Brand: Autobarn\n            • Fee: ~$31,903\n            • Deliverables: 3 x TikTok video, 2 x Press release quote\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

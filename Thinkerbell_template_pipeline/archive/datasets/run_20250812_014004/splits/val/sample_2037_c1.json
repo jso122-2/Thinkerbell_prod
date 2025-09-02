@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2037",
+  "chunk_id": "sample_2037_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Nando's\n            • Fee: ~$2,347\n            • Deliverables: 1 x 90-second product demo\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

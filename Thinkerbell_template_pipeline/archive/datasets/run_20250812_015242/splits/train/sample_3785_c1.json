@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3785",
+  "chunk_id": "sample_3785_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Kmart. Budget is approx $6,619 - need 2 x 2-minute tutorial. 6 weeks exclusivity, 6 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

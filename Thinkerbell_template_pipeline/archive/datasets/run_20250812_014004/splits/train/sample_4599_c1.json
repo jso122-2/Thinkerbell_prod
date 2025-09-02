@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4599",
+  "chunk_id": "sample_4599_c1",
+  "text": "Christopher Lee for Domino's - $21,193 budget\n            Need: 2 x YouTube short, 2 x Pinterest pin, 1 x Facebook story\n            9w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4887",
+  "generation_timestamp": "2025-08-04T18:31:28.684278",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Natalie Adams for Harvey Norman campaign. Budget around $7,399, looking for 1 x 15-second TikTok. \n            5 week exclusivity from other electronics brands. \n            Campaign runs October 2025. Usage rights for 8 months. \n            Engagement period: 3 months.",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$7,399",
+    "fee_numeric": 7399,
+    "deliverables": [
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7252286380480417,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.805326112648551,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:28.675275",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

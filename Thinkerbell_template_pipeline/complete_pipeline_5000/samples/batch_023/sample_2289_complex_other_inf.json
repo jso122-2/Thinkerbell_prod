@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2289",
+  "generation_timestamp": "2025-08-04T18:30:34.434764",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Reagan Rogers for Subway. \n            Budget is approx $11,710 - need 3 x LinkedIn post. \n            11 weeks exclus, 4 month engagement. \n            Usage: 7 months. Start date: January 2026.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Subway",
+    "brand": "Subway",
+    "campaign": "Subway Campaign",
+    "fee": "$11,710",
+    "fee_numeric": 11710,
+    "deliverables": [
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7952599906000237,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8188701421546353,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:34.425765",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Entertainment"
+  }
+}

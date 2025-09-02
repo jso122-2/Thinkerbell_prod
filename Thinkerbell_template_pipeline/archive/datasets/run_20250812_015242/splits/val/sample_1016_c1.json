@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1016",
+  "chunk_id": "sample_1016_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for Bunnings. Budget is approx $4,218 - need 3 x Live stream, 1 x Twitter post. 7 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

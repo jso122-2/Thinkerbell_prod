@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3072",
+  "chunk_id": "sample_3072_c1",
+  "text": "Hey team, looking to work with Isabella Garcia for Nando's. Budget is approx $1,564 - need 1 x Radio interview, 2 x Instagram post, 1 x TV appearance, 3 x Twitter post, 2 x 10-minute unboxing. 11 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: January 2026. Additional notes: TBC on exact dates, around $1,564 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

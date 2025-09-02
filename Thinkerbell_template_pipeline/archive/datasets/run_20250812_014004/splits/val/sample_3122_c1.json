@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3122",
+  "chunk_id": "sample_3122_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Bunnings\n            • Fee: ~$33,076\n            • Deliverables: 1 x Instagram post, 2 x Podcast guest, 1 x Product photography\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

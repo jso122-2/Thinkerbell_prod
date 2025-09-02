@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1027",
+  "chunk_id": "sample_1027_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Coles\n            • Fee: ~$11,953\n            • Deliverables: 2 x TV appearance\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

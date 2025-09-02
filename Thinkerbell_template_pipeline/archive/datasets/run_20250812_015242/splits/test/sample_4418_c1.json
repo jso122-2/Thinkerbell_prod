@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4418",
+  "chunk_id": "sample_4418_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Mad Mex\n            • Fee: ~$4,514\n            • Deliverables: 2 x 2-minute tutorial, 2 x Facebook post\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4294",
+  "chunk_id": "sample_4294_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Betty's Burgers\n            • Fee: ~$2,788\n            • Deliverables: 2 x Twitter post, 3 x Facebook post, 3 x TikTok video, 1 x Instagram post, 2 x Facebook post\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: December 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

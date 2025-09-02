@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3111",
+  "chunk_id": "sample_3111_c1",
+  "text": "Daniel Martinez for Chemist Warehouse - $24,464 budget\n            Need: 3 x Product photography, 1 x LinkedIn post, 2 x Facebook story, 1 x 3-minute vlog\n            6w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: December 2025\n\nNeed to confirm: usage rights",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

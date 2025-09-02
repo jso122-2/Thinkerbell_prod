@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4013",
+  "chunk_id": "sample_4013_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Autobarn\n            • Fee: ~$7,294\n            • Deliverables: 2 x TikTok video\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

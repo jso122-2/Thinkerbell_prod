@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4268",
+  "chunk_id": "sample_4268_c1",
+  "text": "Hayden Howard for Supercheap Auto - $28,075 budget\n            Need: 3 x TikTok video, 1 x Twitter post\n            2w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

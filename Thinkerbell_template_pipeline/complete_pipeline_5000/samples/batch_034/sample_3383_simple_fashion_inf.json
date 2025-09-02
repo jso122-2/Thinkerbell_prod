@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3383",
+  "generation_timestamp": "2025-08-04T18:30:57.446717",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Lily Walker\n            • Brand: Myer\n            • Fee: ~$34,346\n            • Deliverables: 3 x Lifestyle photography, 2 x LinkedIn post, 2 x Pinterest pin, 2 x Product launch event, 1 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: December 2025",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$34,346",
+    "fee_numeric": 34346,
+    "deliverables": [
+      "3 x Lifestyle photography",
+      "2 x LinkedIn post",
+      "2 x Pinterest pin",
+      "2 x Product launch event",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8295321198723107,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9150635113430854,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.433717",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2375",
+  "chunk_id": "sample_2375_c1",
+  "text": "Need Mia White for Mecca campaign. Budget around $3,153, looking for 2 x Product photography, 3 x Facebook story, 2 x Lifestyle photography. 6 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 6 months.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

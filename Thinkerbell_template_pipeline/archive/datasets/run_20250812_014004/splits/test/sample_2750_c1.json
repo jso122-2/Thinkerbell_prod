@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2750",
+  "chunk_id": "sample_2750_c1",
+  "text": "Peyton Stewart for IKEA - $4,033 budget\n            Need: 2 x Pinterest pin\n            2w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

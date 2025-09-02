@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4913",
+  "generation_timestamp": "2025-08-04T18:31:30.053464",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Emma Thompson for Country Road - $15,627 budget\n            Need: 1 x Facebook post, 3 x 5-minute review, 2 x Lifestyle photography, 2 x Pinterest pin\n            8w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Emma Thompson",
+    "client": "Country Road",
+    "brand": "Country Road",
+    "campaign": "Country Road Campaign",
+    "fee": "$15,627",
+    "fee_numeric": 15627,
+    "deliverables": [
+      "1 x Facebook post",
+      "3 x 5-minute review",
+      "2 x Lifestyle photography",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7111983878562993,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8184161654115479,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.042463",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Travel & Tourism"
+  }
+}

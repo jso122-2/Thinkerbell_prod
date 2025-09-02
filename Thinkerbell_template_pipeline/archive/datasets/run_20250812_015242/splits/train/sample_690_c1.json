@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_690",
+  "chunk_id": "sample_690_c1",
+  "text": "Zoe Wright for Myer - $23,143 budget\n            Need: 1 x Pinterest pin, 2 x Blog post, 1 x Instagram post, 2 x 60-second YouTube video\n            4w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

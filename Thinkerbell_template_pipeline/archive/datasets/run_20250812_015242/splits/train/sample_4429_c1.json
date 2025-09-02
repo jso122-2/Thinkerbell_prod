@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4429",
+  "chunk_id": "sample_4429_c1",
+  "text": "Peyton Stewart for Bed Bath N' Table - $34,194 budget\n            Need: 1 x Professional headshots\n            2w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $34,194 budget",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4215",
+  "chunk_id": "sample_4215_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Bed Bath N' Table. Budget is approx $15,233 - need 1 x Instagram story, 1 x Instagram post. 2 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_501",
+  "chunk_id": "sample_501_c1",
+  "text": "Mia White for KFC - $3,528 budget\n            Need: 3 x LinkedIn post, 3 x Instagram reel\n            3w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

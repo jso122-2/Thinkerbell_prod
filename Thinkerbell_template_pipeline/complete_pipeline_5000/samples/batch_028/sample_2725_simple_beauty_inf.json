@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2725",
+  "generation_timestamp": "2025-08-04T18:30:44.411052",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Kevin Baker for Sephora. \n            Budget is approx $33,910 - need 1 x Facebook post, 3 x Facebook story, 1 x YouTube video, 2 x Facebook story, 2 x Press conference. \n            9 weeks exclusivity, 5 month engagement. \n            Usage: 11 months. Start date: September 2025.",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Kevin Baker",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$33,910",
+    "fee_numeric": 33910,
+    "deliverables": [
+      "1 x Facebook post",
+      "3 x Facebook story",
+      "1 x YouTube video",
+      "2 x Facebook story",
+      "2 x Press conference"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8839832167999566,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8417837173994588,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.402051",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

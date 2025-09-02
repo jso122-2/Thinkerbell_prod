@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1004",
+  "chunk_id": "sample_1004_c1",
+  "text": "Isabella Garcia for Autobarn - $21,588 budget\n            Need: 1 x Twitter post\n            4w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: October 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

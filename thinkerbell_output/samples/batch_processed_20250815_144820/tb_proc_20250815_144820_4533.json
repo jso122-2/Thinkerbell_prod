@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_proc_20250815_144820_4533",
+  "generation_timestamp": "2025-08-15T14:48:20.685273",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "fashion",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# TKB Influencer Agreement Dr Claire x Australia Post Dog Safety seasonal campaign \n\nInfluencerAgreementAustralia Post x Dog Safety seasonal campaign DATE OF AGREEMENT20/05/2025 BETWEEN Thinkerbell Pty Ltd (ABN 99 618 397 658) of Wurundjeri Country, L3/41-43 Stewart St, Richmond VIC, 3121 (“Agency”)\n \nAND Dr Claire Stevens (ABN 81355232784) of 11 Rosewood Av Bogangar 2488 (“Influencer”) \n \nBACKGROUNDA. Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the seasonal campaign for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT Australian Postal Corporation (ABN 28 864 970 579) of 480 Swan St Richmond VIC 3121 BRAND Australia Post \ncollection Australia Post - Dog Safety seasonal campaign \nseasonal campaign Dog Safety \nTERM 12 months from the date of this Agreement, plus any Rollover Term exercised under clause 3. \nWORK/S The following materials will be produced by the Influencer during the Usage Term.\n1 x Instagram Grid Post/Reel for the AusPost Instagram channel (IG only) \n1 x repost of this video to your Instagram Grid (IG only) - you will be invited as a collaborator on the post \nOrganic usage for 12 months on AusPost's Instagram channel A brief of the materials will be provided to the Agency for approval prior to commencement of producing the materials. \nMEDIA Client may distribute the Work in an unlimited fashion during the Usage Term in the following media (organic usage only):\nAustralia Post Facebook page - https://www.facebook.com/australiapost/ \nAustralia Post Instagram page https://www.instagram.com/auspost/ \nAustralia Post TikTok page https://www.tiktok.com/@auspost?lang=en \nAustralia Post Website page https://auspost.com.au/ \nAustralia Post has 12 months ## EXCLUSIVITY\n\nexclusivity with Dr Claire in addition to one month paid boosting and distribution to Australia Post TikTok Page (no meta). \nIn addition to the above, the Influencer shall upload the Work to the Influencer’s social media channels, accepting the collaboration post from Australia Post, once approval has been given by Agency:\nInstagram https://www.instagram.com/drclairestevens/?hl=en \nThe Work must remain published on the Influencer’s social media channels (outlined above) for the remainder of the Usage Term once posted. \nFor clarity, the Works may remain published on the Media (and do not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term. \nThe Influencer agrees that the Agency will have rights to amplify the Influencer’s Work in the Media.\nThe Influencer shall not, for a period of twenty-four (24) hours after a Work is published in their social media channels, post, share, re-tweet or re-gram any other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work.\nTERRITORY\n[AUSTRALIA] \nFor clarity, the parties acknowledge that some use on the internet may be accessible from outside the Territory through no fault of either party.\nUSAGE TERMS 12 months from first live date, plus any Rollover Term exercised under clause 3.\nFEE A total of $3,790 to be paid, excluding GST. \nThe fee comprises of the following ## DELIVERABLES\n\ndeliverables:\n1 x Instagram Grid Post/Reel for the AusPost Instagram channel (IG only) \n1 x repost of this video to your Instagram Grid (IG only) - you will be invited as a collaborator on the post \nOrganic usage for 12 months on AusPost's Instagram channel 12 months ## EXCLUSIVITY\n\nexclusivity \n1 month paid boosting (from live date) \nDistribution to Australia Post Tiktok (no meta) \n## PAYMENT TERMS\n\nPayment Terms: \nPayment shall be made as follows: 100% once the delivered and accepted Work is first published in the Influencer’s social media channels. In any Rollover Term, 100% once the delivered and accepted Work is first published in the Influencer’s social media channels for that Rollover Term.\nINITIAL DELIVERY DATE Thursday 8th May- Influencer briefing call to take place with Thinkerbell x Dr Claire Tuesday 13th May - Dr Claire written concepts to be shared with AusPost for approval Fri 16th May - 23 May - AusPost provides concept feedback and influencer drafts content From 23- 29 May - Influencer draft video is shot and shared with AusPost for approval From Monday 26th - Wednesday 28th May- AusPost provides minor feedback/approval of draft video Thursday June 5th- Instagram video finalised/scheduled to go live on Australia Post instagram & Dr Claire accepts partnership request \nCONTACT PERSON FOR EACH PARTY Thinkerbell Jess Sexton, Lead earned thinker \njesssexton@thinkerbell.com 0452609483 \nDr Cl...",
+    "token_count": 3682,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "the parties as to its subject matter",
+    "brand": "the parties as to its subject matter",
+    "campaign": "InfluencerAgreementAustralia Post x Dog Safety seasonal campaign DATE OF AGREEMENT20",
+    "fee": "$3,800",
+    "fee_numeric": 3800,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x Story"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_TKB Influencer Agreement - Dr Claire x Australia Post Dog Safety Campaign ",
+    "match_confidence": 0.8934597193676058,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "fashion",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "simple_fashion",
+    "source_document": "TKB_Influencer_Agreement_Dr_Claire_x_Australia_Post_Dog_Safety_Campaign_.md"
+  }
+}

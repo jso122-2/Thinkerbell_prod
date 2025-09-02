@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3486",
+  "generation_timestamp": "2025-08-04T18:30:59.538581",
+  "generator_version": "v1.0",
+  "batch_id": "batch_035",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Peyton Stewart for Qantas. \n            Budget is approx $16,882 - need 1 x LinkedIn post, 2 x Pinterest pin, 2 x Instagram post, 3 x YouTube short. \n            6 weeks exclusivity, 2 month engagement. \n            Usage: 8 months. Start date: December 2025.",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Peyton Stewart",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$16,882",
+    "fee_numeric": 16882,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "2 x Pinterest pin",
+      "2 x Instagram post",
+      "3 x YouTube short"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9317528158804115,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8408724746396478,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:59.530072",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Technology & Electronics"
+  }
+}

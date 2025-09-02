@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4228",
+  "generation_timestamp": "2025-08-04T18:31:15.892525",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Emma Thompson for Fantastic Furniture campaign. Budget around $4,778, looking for 1 x Facebook post, 1 x Press conference, 2 x Facebook story, 2 x Instagram reel, 2 x 2-minute tutorial. \n            12 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 10 months. \n            Engagement period: 5 months.",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Emma Thompson",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$4,778",
+    "fee_numeric": 4778,
+    "deliverables": [
+      "1 x Facebook post",
+      "1 x Press conference",
+      "2 x Facebook story",
+      "2 x Instagram reel",
+      "2 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8588761049535439,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9292183589843123,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:15.884525",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Sports & Recreation"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_321",
+  "chunk_id": "sample_321_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Pillow Talk\n            • Fee: ~$1,803\n            • Deliverables: 1 x Instagram post, 2 x 90-second product demo, 1 x Lifestyle photography, 3 x Instagram post, 3 x Instagram post\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

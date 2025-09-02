@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1927",
+  "generation_timestamp": "2025-08-04T18:30:26.517202",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need River Murphy for JB Hi-Fi campaign. Budget around $25,706, looking for 1 x Twitter post, 2 x Facebook post, 1 x Instagram post, 1 x Instagram reel, 3 x 30-second Instagram reel. \n            6 week exclusivity from other electronics brands. \n            Campaign runs January 2026. Usage rights for 6 months. \n            Engagement period: 6 months.",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$25,706",
+    "fee_numeric": 25706,
+    "deliverables": [
+      "1 x Twitter post",
+      "2 x Facebook post",
+      "1 x Instagram post",
+      "1 x Instagram reel",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8189459547457179,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8053963275199819,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:26.505201",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

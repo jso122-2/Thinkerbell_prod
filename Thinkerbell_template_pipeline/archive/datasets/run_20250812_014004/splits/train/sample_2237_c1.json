@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2237",
+  "chunk_id": "sample_2237_c1",
+  "text": "Hey team, looking to work with Sage Reed for Priceline. Budget is approx $12,521 - need 3 x Facebook post, 3 x Instagram story, 3 x Lifestyle photography, 2 x Article contribution, 1 x LinkedIn post. 3 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_proc_20250815_144820_4449",
+  "generation_timestamp": "2025-08-15T14:48:20.502772",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "complex",
+    "industry": "tech",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# Dove Advanced Care Body Wash Launch Jhyll Teplin Agreement\n\nInfluencer Agreement COMPANY DATE OF AGREEMENT 18/07/2025 BETWEEN Thinkerbell (ABN 99 618 397 658) of 261-265 Chalmers St,\nRedfern, NSW, 2016 (“Agency”)\nAND JHYLL TEPLIN ABN 45 292 266 484 of [203/155 Beach street Port Melbourne 3207] (“Influencer”)\nBACKGROUND A. Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the product launch for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT Unilever (ABN 66 004 050 828) of 219 North Rocks Road, North Rocks NSW 2151 BRAND Dove solution Dove Advanced Care Body Wash product launch Dove Advanced Care Body Wash - Launch TERM Two months from content live date (July - September 2025), plus any Rollover Term exercised under clause 3.\nWORK/S The following materials will be produced by the Influencer during the Usage Term.\n● 1 x IG Reel Videos 30-60s in length (to be cross-posted in feed to Tiktok)\n● Two months paid usage\n● Two weeks ## EXCLUSIVITY\n\nexclusivity A brief of the materials will be provided by the Agency for approval prior to commencement of producing the materials.\nMEDIA Client may distribute the Work in an unlimited fashion during the Usage Term in the following media:\n● Dove Facebook page [https://www.facebook.com/DoveAUS/];\n● Dove Instagram page [https://www.instagram.com/dove/];\n● Dove TikTok page [https://www.tiktok.com/@dove];\n● Dove Website page [https://www.dove.com/au/home.html]; and In addition to the above, the Influencer shall upload the Work to the Influencer’s social media channels, once approval has been given by Agency:\n● TikTok [@healthy_skincare and\n● Instagram [@lifewithjhyll].\nThe Work must remain published on the Influencer’s social media channels\n(outlined above) for the remainder of the Usage Term once posted. For clarity,\nthe Works may remain published on the Media (and do not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term.\nThe Influencer agrees that the Agency will have rights to amplify the Influencer’s Work in the Media.\nThe Influencer shall not, for a period of twenty-four (24) hours after a Work is published in their social media channels, post, share, re-tweet or re-gram any other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work.\nTERRITORY For clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party.\nUSAGE TERMS Two months from content live date, plus any Rollover Term exercised under clause 3.\nFEE A total of $12,000 to be paid, excluding GST and inclusive of any agency fees.\n## PAYMENT TERMS\n\nPayment Terms: (ensure you select one option and delete the one not needed.)\nPayment shall be made as follows: 100% once the delivered and accepted Work is first published in the Influencer’s social media channels. In any Rollover Term,\n100% once the delivered and accepted Work is first published in the Influencer’s social media channels for that Rollover Term.\nINITIAL DELIVERY The first piece of social content is to go live from w/c 28th July (TBC).\nDATE CONTACT Thinkerbell PERSON FOR ● Caoimhe Daly EACH PARTY ○ caoimhedaly@thinkerbell.com\n○ 0481 225 213 Name of Agency\n● Pollyanna Gardner\n○ polly@thecoupcoup.com\n○ 0422 210 661 ## EXCLUSIVITY\n\nEXCLUSIVITY ## EXCLUSIVITY\n\nExclusivity Terms: The Influencer agrees to remain exclusive to Dove in respect of the body wash/body care category only for a period of seven (7) days prior to and seven (7) days after the agreed content live date.\nDuring this ## EXCLUSIVITY\n\nexclusivity period, the Influencer shall not create, publish, or appear in content (paid or unpaid) for any brand or solution that directly competes with Dove in the body wash/body care category within Australia.\nFor clarity:\n● This ## EXCLUSIVITY\n\nexclusivity does not extend to adjacent categories such as facial skincare, haircare, fragrance, or oral care.\n● The Influencer will notify the Agency of any prior obligations in writing to ensure no conflicts.\nThis includes but is not limited to, producing, representing or appearing in content on social media on behalf of any competitor brands including but not limited to QV, CeraVe, Neutrogena, Olay, L’Oreal, Clinique, Lancôme, Estée Lauder and Johnson & Johnson.\n## EXCLUSIVITY\n\nExclusivity Period: During the Term, for a period of 2 weeks.\nOther ## EXCLUSIVITY\n\nExclusivity Terms (if any): Talent will advise Thinkerbell and Dove of any ongoing services they provide or will provide during the Term to any third par...",
+    "token_count": 3634,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "Dove",
+    "brand": "Dove",
+    "campaign": "Dove Campaign 2025",
+    "fee": "$12,000",
+    "fee_numeric": 12000,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x Story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "For clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_Dove Advanced Care Body Wash  Launch_Jhyll Teplin Agreement",
+    "match_confidence": 0.9279031771674712,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "complex"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "complex_tech",
+    "source_document": "Dove_Advanced_Care_Body_Wash_Launch_Jhyll_Teplin_Agreement.md"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3263",
+  "generation_timestamp": "2025-08-04T18:30:55.210450",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Morgan Morris for Queen Fine Foods campaign. Budget around $3,339, looking for 2 x 2-minute tutorial, 3 x Press release quote. \n            4 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 6 months. \n            Engagement period: 6 months.\n\nNeed to confirm: deliverables",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$3,339",
+    "fee_numeric": 3339,
+    "deliverables": [
+      "2 x 2-minute tutorial",
+      "3 x Press release quote"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8200985316606015,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.861723146557219,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:55.201451",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

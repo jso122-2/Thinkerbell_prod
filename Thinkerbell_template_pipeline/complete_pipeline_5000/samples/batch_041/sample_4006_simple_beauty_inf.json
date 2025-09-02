@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4006",
+  "generation_timestamp": "2025-08-04T18:31:11.502884",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sarah Chen for Sephora campaign. Budget around $23,201, looking for 3 x LinkedIn post, 2 x Meet and greet, 3 x Store opening, 2 x Store opening. \n            10 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 6 months. \n            Engagement period: 5 months.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sarah Chen",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$23,201",
+    "fee_numeric": 23201,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "2 x Meet and greet",
+      "3 x Store opening",
+      "2 x Store opening"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9475995263620673,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9026796219598354,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:11.494887",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Automotive"
+  }
+}

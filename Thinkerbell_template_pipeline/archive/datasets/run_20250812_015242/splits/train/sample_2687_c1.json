@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2687",
+  "chunk_id": "sample_2687_c1",
+  "text": "• Influencer: Aria Perez\n            • Brand: Amart Furniture\n            • Fee: ~$8,203\n            • Deliverables: 2 x 30-second Instagram reel, 2 x 60-second YouTube video, 2 x 90-second product demo, 1 x Media interview\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

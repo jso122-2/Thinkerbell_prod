@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2154",
+  "chunk_id": "sample_2154_c1",
+  "text": "Victoria Carter for Freedom - $4,906 budget\n            Need: 2 x Store opening\n            5w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

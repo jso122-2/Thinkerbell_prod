@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2198",
+  "chunk_id": "sample_2198_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Officeworks\n            • Fee: ~$22,882\n            • Deliverables: 2 x 5-minute review, 1 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

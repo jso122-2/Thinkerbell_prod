@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2582",
+  "chunk_id": "sample_2582_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Grill'd\n            • Fee: ~$21,447\n            • Deliverables: 3 x Store opening, 1 x Event photography, 1 x 2-minute tutorial, 2 x Instagram story, 2 x LinkedIn post\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

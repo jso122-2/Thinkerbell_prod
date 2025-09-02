@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_199",
+  "generation_timestamp": "2025-08-04T18:29:49.025177",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Christopher Lee for David Jones. \n            Budget is approx $3,348 - need 1 x Radio interview, 2 x Facebook post, 1 x Article contribution, 3 x Instagram reel, 2 x Product photography. \n            7 weeks exclusivity, 4 month engagement. \n            Usage: 10 months. Start date: November 2025.",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$3,348",
+    "fee_numeric": 3348,
+    "deliverables": [
+      "1 x Radio interview",
+      "2 x Facebook post",
+      "1 x Article contribution",
+      "3 x Instagram reel",
+      "2 x Product photography"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8402610349349617,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9424780616140731,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:49.017175",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

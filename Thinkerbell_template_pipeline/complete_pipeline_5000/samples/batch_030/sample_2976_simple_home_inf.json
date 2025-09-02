@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2976",
+  "generation_timestamp": "2025-08-04T18:30:49.172554",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Skylar Collins\n            • Brand: Adairs\n            • Fee: ~$22,579\n            • Deliverables: 3 x 30-second Instagram reel, 2 x TV appearance, 1 x 60-second YouTube video, 3 x Instagram reel\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: October 2025",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$22,579",
+    "fee_numeric": 22579,
+    "deliverables": [
+      "3 x 30-second Instagram reel",
+      "2 x TV appearance",
+      "1 x 60-second YouTube video",
+      "3 x Instagram reel"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8144260006925794,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8270959087261838,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:49.159553",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

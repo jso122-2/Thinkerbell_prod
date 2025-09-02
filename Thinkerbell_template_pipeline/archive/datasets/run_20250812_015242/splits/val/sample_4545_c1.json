@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4545",
+  "chunk_id": "sample_4545_c1",
+  "text": "Hey team, looking to work with Rowan Bailey for Lush. Budget is approx $14,030 - need 3 x Instagram post, 1 x 10-minute unboxing. 8 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

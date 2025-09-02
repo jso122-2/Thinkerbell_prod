@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1253",
+  "chunk_id": "sample_1253_c1",
+  "text": "Hey team, looking to work with Ryan Allen for McDonald's. Budget is approx $3,869 - need 1 x Twitter post. 11 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

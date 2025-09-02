@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2614",
+  "generation_timestamp": "2025-08-04T18:30:42.296965",
+  "generator_version": "v1.0",
+  "batch_id": "batch_027",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Grace Young for Bunnings campaign. Budget around $31,202, looking for 3 x Radio interview, 3 x Twitter post. \n            2 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 6 months. \n            Engagement period: 6 months.",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Bunnings",
+    "brand": "Bunnings",
+    "campaign": "Bunnings Campaign",
+    "fee": "$31,202",
+    "fee_numeric": 31202,
+    "deliverables": [
+      "3 x Radio interview",
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9101979878191855,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8921549184780413,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:42.288964",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

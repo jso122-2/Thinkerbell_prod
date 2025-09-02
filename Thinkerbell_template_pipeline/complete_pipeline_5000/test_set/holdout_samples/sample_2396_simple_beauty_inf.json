@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2396",
+  "generation_timestamp": "2025-08-04T18:30:37.069873",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Daniel Martinez for Chemist Warehouse. \n            Budget is approx $14,910 - need 2 x Store opening, 3 x Twitter post. \n            12 weeks exclusivity, 6 month engagement. \n            Usage: 10 months. Start date: January 2026.",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$14,910",
+    "fee_numeric": 14910,
+    "deliverables": [
+      "2 x Store opening",
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8564097047869587,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8298011124651047,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:37.056873",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Entertainment"
+  }
+}

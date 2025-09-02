@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1386",
+  "chunk_id": "sample_1386_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Target\n            • Fee: ~$18,391\n            • Deliverables: 3 x Pinterest pin, 1 x YouTube short, 1 x Pinterest pin, 2 x Brand photoshoot, 3 x Twitter post\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

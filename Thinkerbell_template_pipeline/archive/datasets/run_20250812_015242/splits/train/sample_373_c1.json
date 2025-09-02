@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_373",
+  "chunk_id": "sample_373_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Telstra\n            • Fee: ~$3,714\n            • Deliverables: 3 x Media interview, 3 x 30-second Instagram reel, 2 x Instagram story\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4543",
+  "chunk_id": "sample_4543_c1",
+  "text": "Ryan Allen for Zambrero - $2,505 budget\n            Need: 3 x Lifestyle photography, 3 x LinkedIn post, 3 x Event photography, 1 x LinkedIn post, 1 x Professional headshots\n            2w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

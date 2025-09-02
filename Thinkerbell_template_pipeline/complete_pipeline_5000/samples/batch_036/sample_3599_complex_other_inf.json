@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3599",
+  "generation_timestamp": "2025-08-04T18:31:01.785761",
+  "generator_version": "v1.0",
+  "batch_id": "batch_036",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Reagan Rogers for Target campaign. Budget around $17,859, looking for 1 x LinkedIn post. \n            6 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 11 months. \n            Engagement period: 2 months.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$17,859",
+    "fee_numeric": 17859,
+    "deliverables": [
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8226154773454556,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7876441002944731,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:01.774073",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

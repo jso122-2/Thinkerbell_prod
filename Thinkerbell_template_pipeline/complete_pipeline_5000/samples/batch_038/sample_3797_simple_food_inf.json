@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3797",
+  "generation_timestamp": "2025-08-04T18:31:06.005497",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hayden Howard for Coles - $1,962 budget\n            Need: 3 x 30-second Instagram reel\n            8w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+    "token_count": 49,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$1,962",
+    "fee_numeric": 1962,
+    "deliverables": [
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7360586256587633,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.870517338641383,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.997499",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

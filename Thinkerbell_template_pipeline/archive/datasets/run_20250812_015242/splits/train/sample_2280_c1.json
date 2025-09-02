@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2280",
+  "chunk_id": "sample_2280_c1",
+  "text": "Hey team, looking to work with Grace Young for Guzman y Gomez. Budget is approx $29,201 - need 3 x Twitter post, 2 x Radio interview, 3 x Instagram reel. 7 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

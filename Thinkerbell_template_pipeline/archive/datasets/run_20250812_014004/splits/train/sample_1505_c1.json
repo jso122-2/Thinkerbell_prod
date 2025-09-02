@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1505",
+  "chunk_id": "sample_1505_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Fantastic Furniture. Budget is approx $26,334 - need 1 x Behind-the-scenes content, 1 x Blog post, 3 x Meet and greet, 1 x Product launch event. 9 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: November 2025. mate",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

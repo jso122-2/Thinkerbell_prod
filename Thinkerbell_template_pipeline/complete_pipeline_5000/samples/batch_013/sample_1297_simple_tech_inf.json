@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1297",
+  "generation_timestamp": "2025-08-04T18:30:11.636294",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Howard\n            • Brand: Harvey Norman\n            • Fee: ~$2,528\n            • Deliverables: 1 x 5-minute review, 1 x 15-second TikTok, 3 x 60-second YouTube video, 1 x 2-minute tutorial\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: November 2025",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$2,528",
+    "fee_numeric": 2528,
+    "deliverables": [
+      "1 x 5-minute review",
+      "1 x 15-second TikTok",
+      "3 x 60-second YouTube video",
+      "1 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8653944200241543,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9233935321833988,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.627271",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

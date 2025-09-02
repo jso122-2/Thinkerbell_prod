@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4916",
+  "generation_timestamp": "2025-08-04T18:31:30.088462",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Riley Evans for Sephora. \n            Budget is approx $8,470 - need 1 x Event photography, 2 x Radio interview, 1 x Press release quote. \n            4 weeks exclusivity, 3 month engagement. \n            Usage: 6 months. Start date: September 2025. reckon\n\nNeed to sort out: TBC on final dates",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$8,470",
+    "fee_numeric": 8470,
+    "deliverables": [
+      "1 x Event photography",
+      "2 x Radio interview",
+      "1 x Press release quote"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8410760399099697,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7828427981666721,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.079463",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

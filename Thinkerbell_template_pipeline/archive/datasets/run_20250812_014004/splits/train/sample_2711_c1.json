@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2711",
+  "chunk_id": "sample_2711_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for KFC. Budget is approx $3,755 - need 2 x Facebook story, 1 x 90-second product demo, 3 x Instagram story, 1 x 30-second Instagram reel. 5 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

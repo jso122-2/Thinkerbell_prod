@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_442",
+  "chunk_id": "sample_442_c1",
+  "text": "Hey team, looking to work with David Brown for Domino's. Budget is approx $2,262 - need 3 x Brand photoshoot, 2 x TV appearance, 1 x LinkedIn post, 1 x 15-second TikTok, 3 x TV appearance. 8 weeks exclusivity, 6 month engagement. Usage: 11 months. Start date: December 2025.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

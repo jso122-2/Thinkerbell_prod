@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3893",
+  "chunk_id": "sample_3893_c1",
+  "text": "Need Justin Mitchell for JB Hi-Fi campaign. Budget around $33,717, looking for 3 x Social media takeover, 1 x LinkedIn post. 11 week exclusivity from other electronics brands. Campaign runs November 2025. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

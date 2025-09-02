@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4586",
+  "generation_timestamp": "2025-08-04T18:31:22.374327",
+  "generator_version": "v1.0",
+  "batch_id": "batch_046",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need David Brown for Sportsgirl campaign. Budget around $7,713, looking for 3 x Twitter post, 1 x Pinterest pin, 2 x LinkedIn post. \n            8 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 9 months. \n            Engagement period: 6 months.",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$7,713",
+    "fee_numeric": 7713,
+    "deliverables": [
+      "3 x Twitter post",
+      "1 x Pinterest pin",
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7602156222959392,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9110793553620397,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:22.367328",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Food & Beverage"
+  }
+}

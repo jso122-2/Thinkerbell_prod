@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3246",
+  "chunk_id": "sample_3246_c1",
+  "text": "Hey team, looking to work with Hannah Green for Hungry Jack's. Budget is approx $34,306 - need 1 x Twitter post, 3 x Instagram post, 1 x Facebook story. 3 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

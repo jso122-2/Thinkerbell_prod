@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_965",
+  "chunk_id": "sample_965_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: David Jones\n            • Fee: ~$2,524\n            • Deliverables: 1 x Live stream, 3 x 90-second product demo, 1 x TikTok video, 1 x Twitter post\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

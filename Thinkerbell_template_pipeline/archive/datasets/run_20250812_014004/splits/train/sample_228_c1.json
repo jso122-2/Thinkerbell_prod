@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_228",
+  "chunk_id": "sample_228_c1",
+  "text": "Hey team, looking to work with Aria Perez for JB Hi-Fi. Budget is approx $4,575 - need 3 x Instagram post. 2 weeks exclus, 3 month engmt. Usage: 8 months. Start date: November 2025.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

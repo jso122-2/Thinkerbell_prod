@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_389",
+  "chunk_id": "sample_389_c1",
+  "text": "Kevin Baker for Kmart - $4,753 budget\n            Need: 2 x Pinterest pin, 2 x Professional headshots\n            11w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $4,753 budget",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

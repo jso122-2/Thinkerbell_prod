@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1115",
+  "generation_timestamp": "2025-08-04T18:30:08.670852",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with David Brown for Nando's. \n            Budget is approx $14,810 - need 3 x 2-minute tutorial, 1 x Instagram reel, 3 x Instagram post, 3 x LinkedIn post, 3 x Twitter post. \n            6 weeks exclusivity, 6 month engagement. \n            Usage: 11 months. Start date: December 2025.",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$14,810",
+    "fee_numeric": 14810,
+    "deliverables": [
+      "3 x 2-minute tutorial",
+      "1 x Instagram reel",
+      "3 x Instagram post",
+      "3 x LinkedIn post",
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7821183144278318,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7220307050546573,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:08.660853",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "sample_id": "tb_047_006",
+  "generation_timestamp": "2025-08-12T14:46:06.667785",
+  "batch_id": 47,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "entertainment",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "Clemenger BBDO has engaged Harper Lewis to provide services for the Disney+ Signature Campaign on behalf of Disney+. With the rise of retail innovation in Australia, Australians are pursuing better retail solutions. As the campaign's campaign lead, Harper Lewis will deliver key messages using media and social channels. This campaign enhances the brand's leadership in retail.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Disney+ and the Influencer for Disney+ Home Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $43,391 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 2 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 2 months\n- Exclusivity Period: 4 weeks\n- Territory: Australia\n- Usage Rights: 12 months from campaign launch\n- Content Rights: Disney+ retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 252,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Disney+",
+    "brand": "Disney+",
+    "campaign": "Disney+ Journey Campaign 2025",
+    "fee": "$43,391",
+    "fee_numeric": 43391,
+    "deliverables": [
+      "2 x Instagram posts",
+      "3 x Instagram stories"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff",
+    "match_confidence": 0.945,
+    "fallback_templates": [
+      "profile_TKB Influencer Agreement_Jamie Durie x Cabot_s EasyDeck",
+      "profile_TKB Influencer Agreement - Dr Claire x Australia Post Dog Safety Campaign"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "retail",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.891,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.821,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

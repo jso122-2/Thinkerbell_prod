@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4454",
+  "chunk_id": "sample_4454_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Priceline\n            • Fee: ~$18,915\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

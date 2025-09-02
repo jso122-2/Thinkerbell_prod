@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2718",
+  "chunk_id": "sample_2718_c1",
+  "text": "James Wilson for Witchery - $1,989 budget\n            Need: 2 x LinkedIn post, 1 x Product photography\n            3w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

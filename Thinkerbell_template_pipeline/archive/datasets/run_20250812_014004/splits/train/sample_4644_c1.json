@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4644",
+  "chunk_id": "sample_4644_c1",
+  "text": "Ava Johnson for IKEA - $34,268 budget\n            Need: 1 x Radio interview, 3 x Facebook post, 3 x Brand ambassador content, 3 x 30-second Instagram reel\n            11w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

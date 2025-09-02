@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_065",
+  "chunk_id": "sample_065_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Nando's. Budget is approx $13,753 - need 1 x LinkedIn post, 2 x 5-minute review, 3 x LinkedIn post. 2 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

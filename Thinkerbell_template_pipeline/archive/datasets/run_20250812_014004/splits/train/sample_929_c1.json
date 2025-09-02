@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_929",
+  "chunk_id": "sample_929_c1",
+  "text": "Rowan Bailey for Repco - $2,472 budget\n            Need: 2 x Blog post, 2 x Live stream\n            11w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

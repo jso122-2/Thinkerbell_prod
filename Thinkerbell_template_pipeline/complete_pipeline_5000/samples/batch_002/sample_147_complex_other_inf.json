@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_147",
+  "generation_timestamp": "2025-08-04T18:29:48.469809",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with David Brown for Amart Furniture. \n            Budget is approx $9,984 - need 1 x 90-second product demo, 2 x Twitter post, 3 x Pinterest pin, 1 x Instagram reel, 3 x 30-second Instagram reel. \n            4 weeks exclusivity, 6 month engagement. \n            Usage: 11 months. Start date: September 2025.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 93,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$9,984",
+    "fee_numeric": 9984,
+    "deliverables": [
+      "1 x 90-second product demo",
+      "2 x Twitter post",
+      "3 x Pinterest pin",
+      "1 x Instagram reel",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6789974785608089,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8037535849612725,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:48.460812",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

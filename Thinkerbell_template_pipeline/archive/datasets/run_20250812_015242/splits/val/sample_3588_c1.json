@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3588",
+  "chunk_id": "sample_3588_c1",
+  "text": "Sean Roberts for Kmart - $19,432 budget\n            Need: 3 x Store opening, 3 x Instagram post, 3 x Instagram story\n            6w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

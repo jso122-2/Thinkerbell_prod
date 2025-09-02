@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4575",
+  "chunk_id": "sample_4575_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Mad Mex. Budget is approx $3,862 - need 2 x Facebook post. 5 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

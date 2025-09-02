@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1387",
+  "generation_timestamp": "2025-08-04T18:30:13.693746",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Brandon Nelson for Amart Furniture - $16,073 budget\n            Need: 2 x Pinterest pin, 2 x YouTube video\n            3w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brandon Nelson",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$16,073",
+    "fee_numeric": 16073,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8076305511210091,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8812652387795723,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:13.683744",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Entertainment"
+  }
+}

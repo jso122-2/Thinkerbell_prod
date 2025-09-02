@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_738",
+  "chunk_id": "sample_738_c1",
+  "text": "David Brown for Boost Juice - $4,014 budget\n            Need: 2 x Facebook post, 1 x LinkedIn post\n            4w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

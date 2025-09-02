@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2563",
+  "chunk_id": "sample_2563_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Mecca\n            • Fee: ~$7,575\n            • Deliverables: 1 x Twitter post, 3 x Facebook post, 3 x 15-second TikTok, 1 x 5-minute review, 2 x Professional headshots\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

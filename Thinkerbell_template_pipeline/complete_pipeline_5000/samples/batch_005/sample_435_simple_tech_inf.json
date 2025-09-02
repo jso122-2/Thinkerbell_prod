@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_435",
+  "generation_timestamp": "2025-08-04T18:29:54.455896",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: River Murphy\n            • Brand: Harvey Norman\n            • Fee: ~$3,269\n            • Deliverables: 1 x 3-minute vlog, 2 x Instagram story, 1 x 30-second Instagram reel, 2 x Radio interview, 3 x Product photography\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: January 2026",
+    "token_count": 91,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$3,269",
+    "fee_numeric": 3269,
+    "deliverables": [
+      "1 x 3-minute vlog",
+      "2 x Instagram story",
+      "1 x 30-second Instagram reel",
+      "2 x Radio interview",
+      "3 x Product photography"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7296047394608987,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8383885602030702,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.446899",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Home & Garden"
+  }
+}

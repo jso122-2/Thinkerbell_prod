@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3645",
+  "chunk_id": "sample_3645_c1",
+  "text": "Hey team, looking to work with Lily Walker for IKEA. Budget is approx $19,813 - need 2 x Radio interview, 3 x LinkedIn post, 2 x Facebook post. 12 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: January 2026.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

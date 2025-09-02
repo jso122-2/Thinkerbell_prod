@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1510",
+  "chunk_id": "sample_1510_c1",
+  "text": "Need Isabella Garcia for Repco campaign. Budget around $26,924, looking for 3 x Facebook post, 2 x LinkedIn post, 3 x 30-second Instagram reel. 10 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 6 months. Engagement period: 3 months.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

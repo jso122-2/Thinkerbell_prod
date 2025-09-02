@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3082",
+  "chunk_id": "sample_3082_c1",
+  "text": "Sean Roberts for Officeworks - $6,665 budget\n            Need: 2 x LinkedIn post, 3 x LinkedIn post\n            11w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3931",
+  "generation_timestamp": "2025-08-04T18:31:09.498772",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Christopher Lee for Priceline - $13,056 budget\n            Need: 3 x Facebook story, 2 x Instagram story, 2 x 15-second TikTok, 2 x Product photography\n            4w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Priceline",
+    "brand": "Priceline",
+    "campaign": "Priceline Campaign",
+    "fee": "$13,056",
+    "fee_numeric": 13056,
+    "deliverables": [
+      "3 x Facebook story",
+      "2 x Instagram story",
+      "2 x 15-second TikTok",
+      "2 x Product photography"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.853688824658457,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8180222182845308,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:09.490766",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Food & Beverage"
+  }
+}

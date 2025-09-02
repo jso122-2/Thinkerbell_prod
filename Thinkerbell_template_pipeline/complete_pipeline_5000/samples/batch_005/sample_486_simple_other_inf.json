@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_486",
+  "generation_timestamp": "2025-08-04T18:29:55.099896",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ryan Allen for Nando's. \n            Budget is approx $17,706 - need 2 x Blog post, 2 x Instagram story, 3 x 15-second TikTok, 2 x Instagram reel, 1 x YouTube video. \n            6 weeks exclusivity, 6 month engagement. \n            Usage: 10 months. Start date: January 2026.",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$17,706",
+    "fee_numeric": 17706,
+    "deliverables": [
+      "2 x Blog post",
+      "2 x Instagram story",
+      "3 x 15-second TikTok",
+      "2 x Instagram reel",
+      "1 x YouTube video"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7092503894710187,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8375854014516584,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:55.089895",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

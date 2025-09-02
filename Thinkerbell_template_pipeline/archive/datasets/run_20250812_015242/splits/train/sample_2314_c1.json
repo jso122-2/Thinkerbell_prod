@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2314",
+  "chunk_id": "sample_2314_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Adairs\n            • Fee: ~$19,553\n            • Deliverables: 2 x 2-minute tutorial\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

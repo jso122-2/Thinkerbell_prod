@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_315",
+  "chunk_id": "sample_315_c1",
+  "text": "Mia White for Pillow Talk - $34,490 budg\n            Need: 2 x Instagram story, 1 x Twitter post, 2 x Radio interview, 1 x 30-second Instagram reel, 2 x Product photography\n            11w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

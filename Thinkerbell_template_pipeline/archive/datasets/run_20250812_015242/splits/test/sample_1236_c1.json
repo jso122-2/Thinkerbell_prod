@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1236",
+  "chunk_id": "sample_1236_c1",
+  "text": "Lily Walker for Boost Juice - $14,627 budget\n            Need: 3 x Behind-the-scenes content\n            6w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

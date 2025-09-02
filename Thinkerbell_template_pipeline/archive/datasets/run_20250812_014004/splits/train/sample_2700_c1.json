@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2700",
+  "chunk_id": "sample_2700_c1",
+  "text": "Hey team, looking to work with Olivia Davis for Supercheap Auto. Budget is approx $26,893 - need 1 x LinkedIn post, 2 x Twitter post. 8 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

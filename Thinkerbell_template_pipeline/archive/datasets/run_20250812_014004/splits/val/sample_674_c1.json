@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_674",
+  "chunk_id": "sample_674_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Hungry Jack's\n            • Fee: ~$14,528\n            • Deliverables: 3 x LinkedIn post, 2 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

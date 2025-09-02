@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4412",
+  "generation_timestamp": "2025-08-04T18:31:19.786443",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Riley Evans\n            • Brand: Big W\n            • Fee: ~$12,558\n            • Deliverables: 2 x Instagram reel, 3 x Facebook post, 2 x Radio interview, 3 x Twitter post, 3 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $12,558 budget",
+    "token_count": 99,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$12,558",
+    "fee_numeric": 12558,
+    "deliverables": [
+      "2 x Instagram reel",
+      "3 x Facebook post",
+      "2 x Radio interview",
+      "3 x Twitter post",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.723193781214631,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8193673513545303,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:19.776442",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Health & Fitness"
+  }
+}

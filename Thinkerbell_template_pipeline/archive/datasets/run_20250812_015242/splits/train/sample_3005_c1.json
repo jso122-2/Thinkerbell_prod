@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3005",
+  "chunk_id": "sample_3005_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: KFC\n            • Fee: ~$3,723\n            • Deliverables: 3 x Facebook post, 1 x Facebook post, 3 x Facebook post, 2 x Press conference, 3 x Meet and greet\n            • Exclusivity: 5 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: September 2025\n\nNeed to confirm: deliverables",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

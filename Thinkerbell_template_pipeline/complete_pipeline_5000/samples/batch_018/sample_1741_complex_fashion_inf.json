@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1741",
+  "generation_timestamp": "2025-08-04T18:30:22.093949",
+  "generator_version": "v1.0",
+  "batch_id": "batch_018",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for David Jones - $20,793 budget\n            Need: 2 x YouTube video, 3 x Facebook story\n            3w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+    "token_count": 53,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$20,793",
+    "fee_numeric": 20793,
+    "deliverables": [
+      "2 x YouTube video",
+      "3 x Facebook story"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.773212847210582,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7395864506566164,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:22.084952",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

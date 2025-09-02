@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3570",
+  "generation_timestamp": "2025-08-04T18:31:01.392273",
+  "generator_version": "v1.0",
+  "batch_id": "batch_036",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Skylar Collins for Coles campaign. Budget around $19,510, looking for 1 x 60-second YouTube video. \n            8 week exclusivity from other grocery brands. \n            Campaign runs November 2025. Usage rights for 11 months. \n            Engagement period: 2 months.\n\nAdditional notes: TBC on exact dates, around $19,510 budget",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$19,510",
+    "fee_numeric": 19510,
+    "deliverables": [
+      "1 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9487093592701497,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8944718532955518,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:01.384271",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

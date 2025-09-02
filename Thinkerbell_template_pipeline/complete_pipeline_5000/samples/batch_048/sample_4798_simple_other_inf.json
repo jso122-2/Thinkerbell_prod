@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4798",
+  "generation_timestamp": "2025-08-04T18:31:26.642153",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Howard\n            • Brand: Domino's\n            • Fee: ~$14,228\n            • Deliverables: 2 x Press release quote\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$14,228",
+    "fee_numeric": 14228,
+    "deliverables": [
+      "2 x Press release quote"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8254412639129172,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8950884839525005,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.632148",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

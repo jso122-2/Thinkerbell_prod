@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2207",
+  "generation_timestamp": "2025-08-04T18:30:33.527761",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need River Murphy for Repco campaign. Budget around $5,595, looking for 3 x 10-minute unboxing. \n            4 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 6 months. \n            Engagement period: 2 months.",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Repco",
+    "brand": "Repco",
+    "campaign": "Repco Campaign",
+    "fee": "$5,595",
+    "fee_numeric": 5595,
+    "deliverables": [
+      "3 x 10-minute unboxing"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8478443312988471,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8169091702597882,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:33.519762",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

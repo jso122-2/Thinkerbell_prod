@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1083",
+  "chunk_id": "sample_1083_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: David Jones\n            • Fee: ~$18,333\n            • Deliverables: 2 x 60-second YouTube video, 1 x Event photography, 2 x TikTok video, 2 x Instagram post\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

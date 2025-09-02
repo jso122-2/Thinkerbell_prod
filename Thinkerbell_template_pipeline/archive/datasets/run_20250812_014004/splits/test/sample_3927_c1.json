@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3927",
+  "chunk_id": "sample_3927_c1",
+  "text": "Sophie Anderson for Domino's - $11,854 budget\n            Need: 2 x LinkedIn post, 2 x Instagram post, 2 x Product photography\n            6w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

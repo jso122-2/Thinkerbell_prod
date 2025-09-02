@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1831",
+  "generation_timestamp": "2025-08-04T18:30:24.157536",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Matthew Taylor for Lush - $2,031 budget\n            Need: 3 x TV appearance, 3 x Pinterest pin, 2 x Twitter post, 2 x Instagram post, 2 x 15-second TikTok\n            11w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$2,031",
+    "fee_numeric": 2031,
+    "deliverables": [
+      "3 x TV appearance",
+      "3 x Pinterest pin",
+      "2 x Twitter post",
+      "2 x Instagram post",
+      "2 x 15-second TikTok"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7225415276099522,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8565160154776141,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:24.149537",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Home & Garden"
+  }
+}

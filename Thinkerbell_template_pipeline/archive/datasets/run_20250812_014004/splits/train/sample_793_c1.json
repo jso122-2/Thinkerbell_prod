@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_793",
+  "chunk_id": "sample_793_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Qantas. Budget is approx $5,860 - need 1 x Radio interview, 1 x 30-second Instagram reel, 2 x Instagram reel. 12 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

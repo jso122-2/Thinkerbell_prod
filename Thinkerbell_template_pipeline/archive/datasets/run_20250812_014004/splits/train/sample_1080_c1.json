@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1080",
+  "chunk_id": "sample_1080_c1",
+  "text": "Sarah Chen for Subway - $24,829 budget\n            Need: 2 x 15-second TikTok, 2 x Radio interview, 1 x 60-second YouTube video, 3 x 10-minute unboxing\n            12w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

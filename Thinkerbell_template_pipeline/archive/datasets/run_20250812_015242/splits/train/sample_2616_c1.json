@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2616",
+  "chunk_id": "sample_2616_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: Roll'd\n            • Fee: ~$8,594\n            • Deliverables: 2 x Brand photoshoot, 1 x Instagram story, 3 x Lifestyle photography\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

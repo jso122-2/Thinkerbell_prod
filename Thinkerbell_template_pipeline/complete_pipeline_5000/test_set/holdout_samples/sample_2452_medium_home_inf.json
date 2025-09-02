@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2452",
+  "generation_timestamp": "2025-08-04T18:30:38.628329",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Lily Walker\n            • Brand: IKEA\n            • Fee: ~$33,235\n            • Deliverables: 2 x Instagram story, 3 x 2-minute tutorial\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $33,235 budget",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$33,235",
+    "fee_numeric": 33235,
+    "deliverables": [
+      "2 x Instagram story",
+      "3 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.776881584103995,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.933799990324955,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:38.620329",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

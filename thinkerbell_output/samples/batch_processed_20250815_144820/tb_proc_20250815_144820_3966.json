@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_proc_20250815_144820_3966",
+  "generation_timestamp": "2025-08-15T14:48:20.518773",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "complex",
+    "industry": "tech",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# Golden Gaytime x Keith Schleiger Talent Agreement\n\nTalentAgreementTMICC (The Magnum Ice Cream Company)\nDATE OF AGREEMENT1 August 2025 BETWEEN Thinkerbell (ABN 99 618 397 658) of 261-265 Chalmers St, Redfern, NSW, 2016 (“Agency”) \nAND Keith Schleiger Enterprises Pty Ltd (ABN 61 001 688 937) of IMG, Level 8, 580 St Kilda Rd, Melbourne, VIC, 3004\n (“Talent”) \n \nBACKGROUNDA. Agency wishes to engage the Services of the Talent, and the Talent agrees to provide the Services and to curate Works and/or other content for the product launch for the Client in relation to the Products and/or Brands as set out in this Social Media Talent Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT\n MAGNUM ICC AUSTRALIA PTY LTD (ABN: 89 684 088 560)\nproduct launch Golden Gaytime x The Slab ENGAGEMENT TERM 3 months (1st August - 1st November) from the date of this Agreement, plus any Rollover Term exercised under clause 3 WORK/S The following materials will be produced by the Talent during the Usage Term.\nShoot days:\nTwo consecutive shoot days (up to 8x hours each day):\nDate to be mutually agreed by parties according to availability (tentatively scheduled for Thursday 14 August and Friday 15 August OR Friday 15 August and Saturday 16 August)\nIncludes 2x 30-45 minute talent briefing calls including product launch creative briefing and shoot PPM briefing Two days travel from Melbourne to Sydney:\nIncludes day before travel, followed by returns of 2nd shoot day Includes return domestic economy flights, private car transfers (or Uber vouchers based on best scenario/route of trip), two nights of Sydney accommodation, pier diems ($150 per day for meals)\nShoot day one to include:\nFull day shoot at two nearby locations (office floor and worksite) to capture owned teaser / reveal content and PR still photography (as per ## DELIVERABLES\n\ndeliverables/product launch overview document we shared)\nFinal locations, shot list and filming schedule be confirmed Shot day two to include:\nFull day shoot additional influencer content with Keith interacting with mid-tier content creators as The Foreman in 2-3 separate Sydney locations. Posts to be shared through creator channels tagging Keith IG handle Multiple location shoots with travel car provided. Final locations to be confirmed pending creator engagement. \nContent outputs:\nVideo content:\n1x teaser video 1x 15” - 60” hero PR video with cutdown materials (reveal)\n4x 6”, 15”, 30” social cutdown assets 3x 30”-60” influencer videos (to be published on their respective Instagram and TikTok platforms)\nPhotography:\n2x static teaser images 2-3x static PR still images for launch (talent portraits, portrait with solution) \nSocial Outputs Owned social media content:\n1x static post on Instagram (via Instagram Story) speculating on ‘big news’ (in collaboration with @streetsicecreamau with #ad)\nThinkerbell to supply copy and graphic for this 1 x in-feed Instagram Reels (in collaboration with @streetsicecreamau with #ad)\nThis will be a collaboration post with the hero PR video 1 x Instagram Story set (3x frames) (either tagging or in collaboration with @streetsicecreamau with #ad)\nThis will include shares of the 6” social cutdowns OR various BTS content 3x cross-promoted Instagram Reels from the three influencers (posted by the creators as collaboration posts with @theblockinator and @streetsicecreamau)\nPlease note: We need you to please share the results of each post for our end of product launch evaluation. \nUsage:\n3x months national usage. Including:\nThe client has the rights to share cut downs of hero PR video (6’, 15”, 30”) as paid content across StreetsAU owned channels - up to 4x brand posts for a 4-week period National editorial usage of assets across broadcast, print, online and social media channels (organic)\nOOH amplification (e.g. 1x static image on a billboard)\n1-2x paid online articles in either LADBible and/or Pedestrian TV PR ambassadorship:\nTake part in x5-8 media interviews across TV, radio, online/print news outlets (either in-person/pre-record/phoners)\nTBC pending outreach) Today Show / Sunrise breakfast TV appearance (via live cross) \nNote if breakfast segment requires studio attendance, we will provide travel and accommodation to facilitate \n1x written quote in a media release Thinkerbell to draft on talent’s behalf and share for his approval Approval of PR still imagery and final visual assets MEDIA Client may distribute the Work in an unlimited fashion organically and paid (as per parameters outlined in the section above) during the Usage Term in the following media:\nStreetsAU Instagram page [@streetsicecreamau]\nStreetsAU TikTok page [@streetsicecream]\nStreets Facebook page [www.facebook.com/streetsicecream/]\nIn addition to the above, the Talent shall upload the Work to the Talent’s social media channels, once approval has been given by Agency:\nInstagram...",
+    "token_count": 4160,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "Golden Gaytime",
+    "brand": "Golden Gaytime",
+    "campaign": "Golden Gaytime Campaign 2025",
+    "fee": "$70,000",
+    "fee_numeric": 70000,
+    "deliverables": [
+      "8 x media interviews"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "AUSTRALIA For clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_Golden Gaytime x Keith Schleiger Talent Agreement",
+    "match_confidence": 0.8939052309584447,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "complex"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "complex_tech",
+    "source_document": "Golden_Gaytime_x_Keith_Schleiger_Talent_Agreement.md"
+  }
+}

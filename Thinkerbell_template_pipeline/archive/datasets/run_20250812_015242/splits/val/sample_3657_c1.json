@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3657",
+  "chunk_id": "sample_3657_c1",
+  "text": "Hey team, looking to work with Rowan Bailey for Hungry Jack's. Budget is approx $3,213 - need 3 x Meet and greet, 2 x Product photography, 2 x Press conference. 7 weeks exclusivity, 6 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

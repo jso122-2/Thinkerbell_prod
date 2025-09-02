@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1968",
+  "chunk_id": "sample_1968_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: JB Hi-Fi\n            • Fee: ~$11,281\n            • Deliverables: 1 x TikTok video, 1 x 90-second product demo, 1 x LinkedIn post, 1 x 30-second Instagram reel, 1 x Blog post\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 87,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

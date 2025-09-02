@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4288",
+  "chunk_id": "sample_4288_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Chemist Warehouse\n            • Fee: ~$2,517\n            • Deliverables: 3 x Twitter post\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

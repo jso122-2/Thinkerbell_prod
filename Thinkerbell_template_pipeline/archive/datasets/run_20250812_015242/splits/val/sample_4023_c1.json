@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4023",
+  "chunk_id": "sample_4023_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Fantastic Furniture\n            • Fee: ~$28,995\n            • Deliverables: 1 x Lifestyle photography, 1 x Professional headshots, 2 x LinkedIn post, 1 x Instagram story\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3901",
+  "chunk_id": "sample_3901_c1",
+  "text": "Lily Walker for Chemist Warehouse - $9,914 budget\n            Need: 1 x Instagram post, 3 x Radio interview, 2 x YouTube video\n            3w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

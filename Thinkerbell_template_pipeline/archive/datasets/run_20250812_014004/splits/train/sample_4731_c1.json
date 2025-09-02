@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4731",
+  "chunk_id": "sample_4731_c1",
+  "text": "Need Blake Cox for Queen Fine Foods campaign. Budget around $3,092, looking for 3 x YouTube short. 3 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

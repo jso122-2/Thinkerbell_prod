@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1461",
+  "chunk_id": "sample_1461_c1",
+  "text": "Natalie Adams for Betty's Burgers - $16,167 budget\n            Need: 2 x Article contribution, 2 x Twitter post, 2 x Twitter post, 1 x Instagram story, 2 x Instagram story\n            6w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4055",
+  "chunk_id": "sample_4055_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Grill'd\n            • Fee: ~$3,501\n            • Deliverables: 1 x 15-second TikTok, 1 x Media interview, 1 x Instagram story, 2 x Press conference, 1 x LinkedIn post\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $3,501 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_255",
+  "chunk_id": "sample_255_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Mad Mex\n            • Fee: ~$6,355\n            • Deliverables: 1 x Facebook story, 2 x Twitter post, 2 x Instagram story\n            • Exclusivity: 4 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

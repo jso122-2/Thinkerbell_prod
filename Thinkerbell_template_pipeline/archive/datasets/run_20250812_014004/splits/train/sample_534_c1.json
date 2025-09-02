@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_534",
+  "chunk_id": "sample_534_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Commonwealth Bank\n            • Fee: ~$13,227\n            • Deliverables: 1 x Instagram post, 1 x Facebook post, 1 x Twitter post, 1 x 3-minute vlog, 3 x Instagram story\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

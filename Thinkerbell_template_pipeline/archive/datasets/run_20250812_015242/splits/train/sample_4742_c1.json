@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4742",
+  "chunk_id": "sample_4742_c1",
+  "text": "Sean Roberts for Telstra - $21,145 budget\n            Need: 2 x Press release quote, 1 x Press conference, 1 x Instagram reel, 3 x Podcast guest, 1 x YouTube short\n            12w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

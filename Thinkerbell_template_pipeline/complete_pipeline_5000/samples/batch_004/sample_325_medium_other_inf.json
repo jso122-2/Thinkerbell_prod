@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_325",
+  "generation_timestamp": "2025-08-04T18:29:52.278698",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Ava Johnson\n            • Brand: Nando's\n            • Fee: ~$6,723\n            • Deliverables: 1 x Event photography, 2 x 30-second Instagram reel, 2 x Article contribution, 1 x Facebook post, 2 x 10-minute unboxing\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: October 2025",
+    "token_count": 91,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$6,723",
+    "fee_numeric": 6723,
+    "deliverables": [
+      "1 x Event photography",
+      "2 x 30-second Instagram reel",
+      "2 x Article contribution",
+      "1 x Facebook post",
+      "2 x 10-minute unboxing"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9483644465633919,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.930095136605356,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.270699",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Finance & Insurance"
+  }
+}

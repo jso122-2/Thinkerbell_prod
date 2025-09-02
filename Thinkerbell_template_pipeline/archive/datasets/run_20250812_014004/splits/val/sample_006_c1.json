@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_006",
+  "chunk_id": "sample_006_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for Repco. Budget is approx $23,707 - need 1 x Behind-the-scenes content, 3 x Instagram story, 1 x Facebook story. 7 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

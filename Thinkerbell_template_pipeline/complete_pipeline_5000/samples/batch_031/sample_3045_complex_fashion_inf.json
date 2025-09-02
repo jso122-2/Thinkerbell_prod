@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3045",
+  "generation_timestamp": "2025-08-04T18:30:50.913705",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Ryan Allen\n            • Brand: Witchery\n            • Fee: ~$7,696\n            • Deliverables: 3 x Instagram reel\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: October 2025",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Witchery",
+    "brand": "Witchery",
+    "campaign": "Witchery Campaign",
+    "fee": "$7,696",
+    "fee_numeric": 7696,
+    "deliverables": [
+      "3 x Instagram reel"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7323855219400004,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8245921580939264,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.904705",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

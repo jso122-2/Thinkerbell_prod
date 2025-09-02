@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1243",
+  "chunk_id": "sample_1243_c1",
+  "text": "Justin Mitchell for Lush - $29,080 budget\n            Need: 2 x Instagram post\n            8w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

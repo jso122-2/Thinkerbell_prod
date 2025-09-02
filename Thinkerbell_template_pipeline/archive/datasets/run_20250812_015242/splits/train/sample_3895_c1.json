@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3895",
+  "chunk_id": "sample_3895_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Coles\n            • Fee: ~$13,465\n            • Deliverables: 2 x Facebook post, 1 x 2-minute tutorial\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $13,465 budget",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

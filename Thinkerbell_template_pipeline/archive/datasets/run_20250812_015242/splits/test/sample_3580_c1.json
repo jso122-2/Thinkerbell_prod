@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3580",
+  "chunk_id": "sample_3580_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Zambrero\n            • Fee: ~$2,215\n            • Deliverables: 2 x Instagram post, 1 x Instagram reel, 1 x Instagram post, 3 x Pinterest pin\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: November 2025 mate",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

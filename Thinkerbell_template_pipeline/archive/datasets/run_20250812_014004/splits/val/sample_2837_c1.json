@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2837",
+  "chunk_id": "sample_2837_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: David Jones\n            • Fee: ~$28,468\n            • Deliverables: 2 x Instagram story, 2 x Lifestyle photography, 1 x 3-minute vlog, 3 x Twitter post\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

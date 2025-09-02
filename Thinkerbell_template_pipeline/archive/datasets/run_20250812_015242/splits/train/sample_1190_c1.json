@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1190",
+  "chunk_id": "sample_1190_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: JB Hi-Fi\n            • Fee: ~$3,842\n            • Deliverables: 1 x 30-second Instagram reel, 2 x Instagram story, 1 x 2-minute tutorial, 2 x 2-minute tutorial\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: September 2025\n\nNeed to confirm: deliverables",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

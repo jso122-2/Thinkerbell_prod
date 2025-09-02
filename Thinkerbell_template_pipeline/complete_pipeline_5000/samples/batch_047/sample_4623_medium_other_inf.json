@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4623",
+  "generation_timestamp": "2025-08-04T18:31:23.612051",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Layla Campbell for Amart Furniture. \n            Budget is approx $7,777 - need 3 x 90-second product demo, 1 x Instagram story, 1 x Media interview. \n            6 weeks exclusivity, 3 month engagement. \n            Usage: 10 months. Start date: October 2025.",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Layla Campbell",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$7,777",
+    "fee_numeric": 7777,
+    "deliverables": [
+      "3 x 90-second product demo",
+      "1 x Instagram story",
+      "1 x Media interview"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7370215062282575,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9216363578277094,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:23.602047",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Finance & Insurance"
+  }
+}

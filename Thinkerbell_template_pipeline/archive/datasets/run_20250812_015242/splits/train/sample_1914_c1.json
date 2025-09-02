@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1914",
+  "chunk_id": "sample_1914_c1",
+  "text": "Need Andrew Clark for Officeworks campaign. Budget around $7,024, looking for 2 x Radio interview, 1 x Facebook story. 4 week exclusivity from other electronics brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 6 months.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

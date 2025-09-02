@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2035",
+  "chunk_id": "sample_2035_c1",
+  "text": "Matthew Taylor for Priceline - $4,269 budget\n            Need: 3 x Media interview, 1 x Brand ambassador content, 3 x Social media takeover\n            12w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

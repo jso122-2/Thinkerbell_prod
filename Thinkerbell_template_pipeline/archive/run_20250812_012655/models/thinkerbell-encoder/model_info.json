@@ -1,0 +1,16 @@
+{
+  "base_model": "sentence-transformers/all-mpnet-base-v2",
+  "training_examples": 955,
+  "epochs": 4,
+  "batch_size": 64,
+  "unique_label_combinations": [
+    "brand|campaign|client|deliverables|engagement_term|exclusivity_period|fee|usage_term",
+    "brand|campaign|client|deliverables|engagement_term|exclusivity_scope|fee|usage_term",
+    "brand|campaign|client|deliverables|engagement_term|fee|usage_term",
+    "brand|client|deliverables|engagement_term|exclusivity_period|fee|usage_term",
+    "brand|client|deliverables|engagement_term|fee|usage_term"
+  ],
+  "training_time_seconds": 1151.1821048259735,
+  "best_validation_accuracy": 1.0,
+  "used_weighted_sampler": true
+}

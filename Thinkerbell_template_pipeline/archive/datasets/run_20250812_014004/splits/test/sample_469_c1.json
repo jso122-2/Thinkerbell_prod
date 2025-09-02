@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_469",
+  "chunk_id": "sample_469_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Big W\n            • Fee: ~$21,526\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 4 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

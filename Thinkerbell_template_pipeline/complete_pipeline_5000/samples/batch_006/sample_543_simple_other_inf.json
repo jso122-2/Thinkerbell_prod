@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_543",
+  "generation_timestamp": "2025-08-04T18:29:56.709761",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ryan Allen for Pizza Hut. \n            Budget is approx $16,301 - need 2 x Product photography, 1 x Facebook post, 1 x Event photography, 1 x 90-second product demo, 1 x 30-second Instagram reel. \n            12 weeks exclusivity, 4 month engagement. \n            Usage: 6 months. Start date: October 2025.",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$16,301",
+    "fee_numeric": 16301,
+    "deliverables": [
+      "2 x Product photography",
+      "1 x Facebook post",
+      "1 x Event photography",
+      "1 x 90-second product demo",
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7359401566317689,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8827925110706525,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.699762",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Entertainment"
+  }
+}

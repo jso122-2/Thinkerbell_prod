@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1979",
+  "chunk_id": "sample_1979_c1",
+  "text": "Brandon Nelson for Chemist Warehouse - $31,353 budget\n            Need: 2 x Facebook post\n            4w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

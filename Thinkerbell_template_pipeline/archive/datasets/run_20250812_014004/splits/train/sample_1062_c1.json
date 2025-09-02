@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1062",
+  "chunk_id": "sample_1062_c1",
+  "text": "Hey team, looking to work with Sage Cooper for Kmart. Budget is approx $11,807 - need 3 x Instagram post, 2 x Pinterest pin, 3 x Lifestyle photography, 2 x Facebook post. 9 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2117",
+  "generation_timestamp": "2025-08-04T18:30:31.650820",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Mia White for Officeworks. \n            Budget is approx $25,356 - need 3 x Product photography, 2 x Facebook story. \n            5 weeks exclusivity, 2 month engagement. \n            Usage: 7 months. Start date: December 2025.\n\nAdditional notes: TBC on exact dates, around $25,356 budget",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$25,356",
+    "fee_numeric": 25356,
+    "deliverables": [
+      "3 x Product photography",
+      "2 x Facebook story"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8434603826018028,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9385602552847303,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:31.642826",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Limited Edition",
+    "product_category": "Finance & Insurance"
+  }
+}

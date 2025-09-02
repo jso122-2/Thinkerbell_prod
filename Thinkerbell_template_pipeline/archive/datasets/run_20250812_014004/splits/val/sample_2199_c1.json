@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_2199",
+  "chunk_id": "sample_2199_c1",
+  "text": "Chloe Lewis for JB Hi-Fi - $2,503 budget\n            Need: 3 x Radio interview, 1 x 30-second Instagram reel, 1 x Facebook post, 3 x Media interview\n            4w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

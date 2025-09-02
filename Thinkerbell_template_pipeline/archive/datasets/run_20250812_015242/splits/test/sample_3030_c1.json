@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3030",
+  "chunk_id": "sample_3030_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: IKEA\n            • Fee: ~$3,383\n            • Deliverables: 1 x Podcast guest, 2 x Pinterest pin, 3 x Instagram post, 1 x 5-minute review\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: January 2026 reckon",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

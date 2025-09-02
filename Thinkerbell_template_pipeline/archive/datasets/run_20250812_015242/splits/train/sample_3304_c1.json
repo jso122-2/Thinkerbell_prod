@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3304",
+  "chunk_id": "sample_3304_c1",
+  "text": "David Brown for Roll'd - $14,450 budget\n            Need: 1 x TV appearance, 3 x Pinterest pin, 3 x Store opening, 3 x 30-second Instagram reel, 1 x Media interview\n            4w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

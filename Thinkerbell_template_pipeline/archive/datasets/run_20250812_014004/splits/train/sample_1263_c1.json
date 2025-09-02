@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1263",
+  "chunk_id": "sample_1263_c1",
+  "text": "• Influencer: Hayden Bell\n            • Brand: Chemist Warehouse\n            • Fee: ~$8,981\n            • Deliverables: 1 x 30-second Instagram reel, 1 x YouTube video, 3 x LinkedIn post\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

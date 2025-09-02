@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1280",
+  "generation_timestamp": "2025-08-04T18:30:11.453273",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Grace Young\n            • Brand: Qantas\n            • Fee: ~$3,670\n            • Deliverables: 1 x Pinterest pin, 1 x Live stream, 3 x 30-second Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: December 2025",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$3,670",
+    "fee_numeric": 3670,
+    "deliverables": [
+      "1 x Pinterest pin",
+      "1 x Live stream",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7565377010130647,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.848867465986192,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.443272",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

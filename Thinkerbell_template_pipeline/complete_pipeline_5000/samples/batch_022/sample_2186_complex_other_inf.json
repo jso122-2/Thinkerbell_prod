@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2186",
+  "generation_timestamp": "2025-08-04T18:30:32.340800",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "James Wilson for Kmart - $5,852 budget\n            Need: 2 x TikTok video, 2 x TikTok video, 3 x Radio interview, 2 x TikTok video, 2 x Instagram story\n            4w exclusivity, 6m engmt\n            Usage rights: 12 months\n            Start: November 2025 reckon\n\nNeed to sort out: TBC on final dates",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$5,852",
+    "fee_numeric": 5852,
+    "deliverables": [
+      "2 x TikTok video",
+      "2 x TikTok video",
+      "3 x Radio interview",
+      "2 x TikTok video",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6691143248964906,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7337852870429205,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:32.333799",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

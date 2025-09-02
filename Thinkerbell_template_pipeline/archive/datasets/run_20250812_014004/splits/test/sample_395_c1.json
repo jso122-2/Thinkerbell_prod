@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_395",
+  "chunk_id": "sample_395_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Queen Fine Foods. Budget is approx $34,318 - need 2 x Media interview, 2 x LinkedIn post. 9 weeks exclusivity, 4 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2747",
+  "generation_timestamp": "2025-08-04T18:30:44.639052",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Rowan Bailey for IKEA - $6,617 budget\n            Need: 1 x Live stream, 1 x Professional headshots, 3 x Store opening, 2 x Twitter post, 2 x Radio interview\n            2w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: January 2026\n\nNeed to confirm: exclusivity period",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$6,617",
+    "fee_numeric": 6617,
+    "deliverables": [
+      "1 x Live stream",
+      "1 x Professional headshots",
+      "3 x Store opening",
+      "2 x Twitter post",
+      "2 x Radio interview"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8869800215876056,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8576247057015306,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.631052",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Entertainment"
+  }
+}

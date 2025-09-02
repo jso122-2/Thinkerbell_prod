@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1343",
+  "chunk_id": "sample_1343_c1",
+  "text": "Emma Thompson for Betty's Burgers - $27,733 budget\n            Need: 1 x Instagram post\n            6w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

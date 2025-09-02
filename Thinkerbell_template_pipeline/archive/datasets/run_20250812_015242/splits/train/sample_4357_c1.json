@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4357",
+  "chunk_id": "sample_4357_c1",
+  "text": "Hey team, looking to work with Jordan Phillips for Nando's. Budget is approx $4,002 - need 1 x Facebook post, 3 x Media interview. 10 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1946",
+  "chunk_id": "sample_1946_c1",
+  "text": "Need Layla Campbell for Roll'd campaign. Budget around $9,570, looking for 3 x Event photography, 2 x Brand ambassador content, 1 x Social media takeover, 2 x Lifestyle photography, 3 x Podcast guest. 10 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 12 months. Engagement period: 2 months.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

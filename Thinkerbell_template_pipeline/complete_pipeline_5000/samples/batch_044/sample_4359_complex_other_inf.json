@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4359",
+  "generation_timestamp": "2025-08-04T18:31:18.328952",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Skylar Collins\n            • Brand: Fantastic Furniture\n            • Fee: ~$9,282\n            • Deliverables: 1 x Instagram post, 2 x Radio interview, 3 x Instagram story, 3 x Instagram post\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: January 2026",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$9,282",
+    "fee_numeric": 9282,
+    "deliverables": [
+      "1 x Instagram post",
+      "2 x Radio interview",
+      "3 x Instagram story",
+      "3 x Instagram post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8399621523162951,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7214216852639774,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.317952",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

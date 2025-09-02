@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_325",
+  "chunk_id": "sample_325_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Nando's\n            • Fee: ~$6,723\n            • Deliverables: 1 x Event photography, 2 x 30-second Instagram reel, 2 x Article contribution, 1 x Facebook post, 2 x 10-minute unboxing\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

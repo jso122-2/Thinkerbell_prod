@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_830",
+  "generation_timestamp": "2025-08-04T18:30:02.329903",
+  "generator_version": "v1.0",
+  "batch_id": "batch_009",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Andrew Clark\n            • Brand: Betty's Burgers\n            • Fee: ~$27,425\n            • Deliverables: 1 x Pinterest pin, 1 x Instagram story\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: November 2025",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$27,425",
+    "fee_numeric": 27425,
+    "deliverables": [
+      "1 x Pinterest pin",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7377769610154878,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8122370946551873,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:02.321901",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

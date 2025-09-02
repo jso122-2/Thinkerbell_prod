@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4346",
+  "chunk_id": "sample_4346_c1",
+  "text": "Justin Mitchell for Supercheap Auto - $17,901 budget\n            Need: 1 x 15-second TikTok, 2 x LinkedIn post, 3 x Instagram post, 1 x Instagram post\n            5w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: January 2026\n\nNeed to confirm: exclusivity period",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

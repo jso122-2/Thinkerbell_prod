@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_794",
+  "generation_timestamp": "2025-08-04T18:30:01.172099",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Ava Johnson for Mecca campaign. Budget around $3,956, looking for 2 x 60-second YouTube video. \n            12 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 9 months. \n            Engagement period: 6 months.",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Mecca",
+    "brand": "Mecca",
+    "campaign": "Mecca Campaign",
+    "fee": "$3,956",
+    "fee_numeric": 3956,
+    "deliverables": [
+      "2 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7162724854876343,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8847401051942211,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:01.165131",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

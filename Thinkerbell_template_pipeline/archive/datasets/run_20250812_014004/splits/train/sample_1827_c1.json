@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1827",
+  "chunk_id": "sample_1827_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: Boost Juice\n            • Fee: ~$28,299\n            • Deliverables: 2 x Facebook post, 1 x LinkedIn post, 3 x Brand ambassador content, 1 x Pinterest pin, 2 x 15-second TikTok\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

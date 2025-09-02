@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4221",
+  "chunk_id": "sample_4221_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Betty's Burgers\n            • Fee: ~$10,663\n            • Deliverables: 2 x 90-second product demo\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

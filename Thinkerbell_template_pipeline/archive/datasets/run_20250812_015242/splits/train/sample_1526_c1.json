@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1526",
+  "chunk_id": "sample_1526_c1",
+  "text": "David Brown for Priceline - $22,384 budget\n            Need: 3 x 15-second TikTok, 1 x Podcast guest, 3 x LinkedIn post, 2 x 15-second TikTok, 2 x Media interview\n            10w exclusivity, 5m engmt\n            Usage rights: 12 months\n            Start: January 2026\n\nNeed to sort out: TBC on final dates",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

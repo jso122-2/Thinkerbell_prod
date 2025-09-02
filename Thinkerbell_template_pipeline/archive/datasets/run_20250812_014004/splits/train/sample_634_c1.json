@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_634",
+  "chunk_id": "sample_634_c1",
+  "text": "Zoe Wright for Harvey Norman - $1,739 budget\n            Need: 3 x Facebook post, 3 x 90-second product demo, 1 x Twitter post, 1 x TikTok video, 2 x Article contribution\n            7w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

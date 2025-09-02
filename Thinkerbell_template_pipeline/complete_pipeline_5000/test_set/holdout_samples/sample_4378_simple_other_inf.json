@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4378",
+  "generation_timestamp": "2025-08-04T18:31:18.530951",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Mia White for Red Rooster. \n            Budget is approx $28,319 - need 3 x Brand ambassador content, 2 x TV appearance, 2 x Facebook story, 3 x Pinterest pin, 3 x Live stream. \n            7 weeks exclusivity, 5 month engagement. \n            Usage: 8 months. Start date: December 2025.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$28,319",
+    "fee_numeric": 28319,
+    "deliverables": [
+      "3 x Brand ambassador content",
+      "2 x TV appearance",
+      "2 x Facebook story",
+      "3 x Pinterest pin",
+      "3 x Live stream"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8767053809052504,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9443814783348762,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.521949",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Home & Garden"
+  }
+}

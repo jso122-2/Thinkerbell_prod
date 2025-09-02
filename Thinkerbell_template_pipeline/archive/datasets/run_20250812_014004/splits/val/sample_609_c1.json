@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_609",
+  "chunk_id": "sample_609_c1",
+  "text": "Hey team, looking to work with Peyton Stewart for Nando's. Budget is approx $21,576 - need 3 x Product photography, 2 x 2-minute tutorial, 1 x Lifestyle photography, 3 x Pinterest pin, 3 x Instagram reel. 11 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

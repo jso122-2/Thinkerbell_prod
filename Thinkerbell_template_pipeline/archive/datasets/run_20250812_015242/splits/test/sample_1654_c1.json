@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1654",
+  "chunk_id": "sample_1654_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Boost Juice. Budget is approx $33,302 - need 3 x Facebook post. 8 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

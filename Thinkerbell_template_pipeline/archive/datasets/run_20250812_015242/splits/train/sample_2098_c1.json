@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2098",
+  "chunk_id": "sample_2098_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Bed Bath N' Table\n            • Fee: ~$7,046\n            • Deliverables: 1 x Product photography, 3 x Blog post, 1 x Facebook story, 2 x 3-minute vlog\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

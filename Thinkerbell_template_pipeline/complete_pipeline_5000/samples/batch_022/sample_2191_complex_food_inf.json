@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2191",
+  "generation_timestamp": "2025-08-04T18:30:32.392798",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Michael Rodriguez\n            • Brand: Boost Juice\n            • Fee: ~$3,086\n            • Deliverables: 1 x 2-minute tutorial, 2 x Instagram reel, 2 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: October 2025 ripper\n\nNeed to sort out: TBC on final dates",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Boost Juice",
+    "brand": "Boost Juice",
+    "campaign": "Boost Juice Campaign",
+    "fee": "$3,086",
+    "fee_numeric": 3086,
+    "deliverables": [
+      "1 x 2-minute tutorial",
+      "2 x Instagram reel",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7845629313649934,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7800170020450866,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:32.383802",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

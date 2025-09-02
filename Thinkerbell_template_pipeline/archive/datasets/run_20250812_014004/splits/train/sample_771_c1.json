@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_771",
+  "chunk_id": "sample_771_c1",
+  "text": "Need David Brown for Roll'd campaign. Budget around $21,774, looking for 2 x Facebook post, 3 x YouTube video, 1 x 90-second product demo. 6 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

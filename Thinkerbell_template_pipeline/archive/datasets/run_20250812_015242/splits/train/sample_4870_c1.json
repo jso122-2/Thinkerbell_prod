@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4870",
+  "chunk_id": "sample_4870_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: KFC\n            • Fee: ~$27,146\n            • Deliverables: 1 x 15-second TikTok, 1 x 60-second YouTube video, 3 x Professional headshots\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

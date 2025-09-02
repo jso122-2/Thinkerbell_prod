@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3323",
+  "generation_timestamp": "2025-08-04T18:30:56.792875",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sean Roberts\n            • Brand: Sephora\n            • Fee: ~$22,838\n            • Deliverables: 3 x Facebook post, 3 x Twitter post, 3 x LinkedIn post, 2 x Pinterest pin, 3 x Pinterest pin\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: November 2025",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$22,838",
+    "fee_numeric": 22838,
+    "deliverables": [
+      "3 x Facebook post",
+      "3 x Twitter post",
+      "3 x LinkedIn post",
+      "2 x Pinterest pin",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9462416186959282,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.818934755441845,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:56.780877",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1468",
+  "chunk_id": "sample_1468_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Pillow Talk. Budget is approx $2,972 - need 3 x Store opening. 2 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: January 2026. Additional notes: TBC on exact dates, around $2,972 budget",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

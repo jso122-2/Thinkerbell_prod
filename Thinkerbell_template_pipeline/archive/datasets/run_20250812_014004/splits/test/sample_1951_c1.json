@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1951",
+  "chunk_id": "sample_1951_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: IKEA\n            • Fee: ~$1,838\n            • Deliverables: 3 x 60-second YouTube video, 3 x Press release quote\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

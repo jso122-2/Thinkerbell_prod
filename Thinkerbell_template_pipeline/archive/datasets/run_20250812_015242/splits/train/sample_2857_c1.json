@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2857",
+  "chunk_id": "sample_2857_c1",
+  "text": "Need Lily Walker for Amart Furniture campaign. Budget around $29,883, looking for 1 x TV appearance, 2 x Product photography. 10 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 7 months. Engagement period: 4 months. Additional notes: TBC on exact dates, around $29,883 budget",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

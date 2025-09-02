@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2933",
+  "chunk_id": "sample_2933_c1",
+  "text": "Need David Brown for Woolworths campaign. Budget around $1,791, looking for 2 x Lifestyle photography, 3 x 15-second TikTok, 1 x Instagram post. 9 week exclusivity from other grocery brands. Campaign runs December 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

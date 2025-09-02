@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4495",
+  "chunk_id": "sample_4495_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: IKEA\n            • Fee: ~$9,485\n            • Deliverables: 1 x Media interview\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: September 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

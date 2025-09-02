@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1398",
+  "chunk_id": "sample_1398_c1",
+  "text": "Victoria Carter for Pizza Hut - $27,309 budget\n            Need: 2 x Twitter post, 2 x LinkedIn post, 1 x Article contribution\n            3w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

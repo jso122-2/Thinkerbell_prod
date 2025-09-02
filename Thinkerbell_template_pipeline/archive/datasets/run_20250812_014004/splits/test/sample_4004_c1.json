@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4004",
+  "chunk_id": "sample_4004_c1",
+  "text": "Hey team, looking to work with Rowan Bailey for Telstra. Budget is approx $26,809 - need 1 x Facebook post, 3 x Facebook post. 6 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

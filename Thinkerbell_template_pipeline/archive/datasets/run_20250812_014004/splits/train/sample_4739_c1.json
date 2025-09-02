@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4739",
+  "chunk_id": "sample_4739_c1",
+  "text": "James Wilson for Priceline - $28,380 budget\n            Need: 2 x Event photography\n            9w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

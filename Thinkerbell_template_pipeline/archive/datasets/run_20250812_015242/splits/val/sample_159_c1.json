@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_159",
+  "chunk_id": "sample_159_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Mad Mex. Budget is approx $6,743 - need 3 x 2-minute tutorial, 1 x Instagram reel, 1 x LinkedIn post. 3 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

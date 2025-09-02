@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4633",
+  "generation_timestamp": "2025-08-04T18:31:23.736951",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sophie Anderson for Officeworks campaign. Budget around $25,985, looking for 1 x Press conference, 2 x Radio interview, 2 x Twitter post. \n            8 week exclusivity from other electronics brands. \n            Campaign runs December 2025. Usage rights for 6 months. \n            Engagement period: 4 months.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sophie Anderson",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$25,985",
+    "fee_numeric": 25985,
+    "deliverables": [
+      "1 x Press conference",
+      "2 x Radio interview",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9080750196325003,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8146255610780023,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:23.727868",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Technology & Electronics"
+  }
+}

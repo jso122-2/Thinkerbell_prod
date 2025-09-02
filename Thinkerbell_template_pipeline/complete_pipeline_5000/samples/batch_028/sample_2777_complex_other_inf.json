@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2777",
+  "generation_timestamp": "2025-08-04T18:30:44.976050",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Cameron Parker\n            • Brand: Nando's\n            • Fee: ~$2,265\n            • Deliverables: 2 x YouTube video, 3 x Radio interview, 3 x Lifestyle photography, 1 x Press release quote\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Cameron Parker",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$2,265",
+    "fee_numeric": 2265,
+    "deliverables": [
+      "2 x YouTube video",
+      "3 x Radio interview",
+      "3 x Lifestyle photography",
+      "1 x Press release quote"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.790329195720215,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8145905396600419,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.968050",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Sports & Recreation"
+  }
+}

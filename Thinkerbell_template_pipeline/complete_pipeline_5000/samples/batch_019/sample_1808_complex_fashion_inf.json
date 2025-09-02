@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1808",
+  "generation_timestamp": "2025-08-04T18:30:23.911534",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sophie Anderson for Portmans. \n            Budget is approx $14,454 - need 3 x Pinterest pin, 1 x Pinterest pin. \n            6 weeks exclusivity, 6 month engmt. \n            Usage: 7 months. Start date: December 2025. fair dinkum",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sophie Anderson",
+    "client": "Portmans",
+    "brand": "Portmans",
+    "campaign": "Portmans Campaign",
+    "fee": "$14,454",
+    "fee_numeric": 14454,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8075871057798318,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7318112171357309,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:23.899538",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Limited Edition",
+    "product_category": "Home & Garden"
+  }
+}

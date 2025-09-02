@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3432",
+  "chunk_id": "sample_3432_c1",
+  "text": "Blake Morgan for Adairs - $28,387 budget\n            Need: 1 x Facebook post, 1 x Facebook post, 1 x 10-minute unboxing\n            10w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

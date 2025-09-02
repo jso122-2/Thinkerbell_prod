@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3824",
+  "chunk_id": "sample_3824_c1",
+  "text": "Sean Roberts for Woolworths - $18,959 budget\n            Need: 3 x LinkedIn post, 2 x Lifestyle photography, 2 x Pinterest pin, 2 x Twitter post, 3 x Facebook post\n            12w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025 ripper",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

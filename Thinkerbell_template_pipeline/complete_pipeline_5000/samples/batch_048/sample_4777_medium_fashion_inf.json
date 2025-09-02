@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4777",
+  "generation_timestamp": "2025-08-04T18:31:26.411638",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Scarlett Turner\n            • Brand: Witchery\n            • Fee: ~$1,740\n            • Deliverables: 3 x LinkedIn post, 1 x Article contribution, 2 x LinkedIn post, 1 x 60-second YouTube video\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: January 2026\n\nNeed to confirm: exclusivity period",
+    "token_count": 94,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Witchery",
+    "brand": "Witchery",
+    "campaign": "Witchery Campaign",
+    "fee": "$1,740",
+    "fee_numeric": 1740,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "1 x Article contribution",
+      "2 x LinkedIn post",
+      "1 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7445951257875183,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8931442927260853,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.401637",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Education"
+  }
+}

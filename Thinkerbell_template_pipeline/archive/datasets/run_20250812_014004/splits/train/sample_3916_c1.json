@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3916",
+  "chunk_id": "sample_3916_c1",
+  "text": "Quinn Cook for Bed Bath N' Table - $26,386 budget\n            Need: 1 x Lifestyle photography, 3 x LinkedIn post, 2 x Live stream\n            9w exclus, 2m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

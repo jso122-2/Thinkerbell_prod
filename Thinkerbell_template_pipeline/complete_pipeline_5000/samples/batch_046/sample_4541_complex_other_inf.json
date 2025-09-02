@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4541",
+  "generation_timestamp": "2025-08-04T18:31:21.956326",
+  "generator_version": "v1.0",
+  "batch_id": "batch_046",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Richardson\n            • Brand: Fantastic Furniture\n            • Fee: ~$20,212\n            • Deliverables: 2 x 10-minute unboxing, 2 x Pinterest pin\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: November 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$20,212",
+    "fee_numeric": 20212,
+    "deliverables": [
+      "2 x 10-minute unboxing",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7696857649454308,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7744260731569065,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:21.948328",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

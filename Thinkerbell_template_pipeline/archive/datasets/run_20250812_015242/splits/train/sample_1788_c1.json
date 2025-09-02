@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1788",
+  "chunk_id": "sample_1788_c1",
+  "text": "Grace Young for McDonald's - $34,079 budget\n            Need: 3 x Pinterest pin\n            5w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

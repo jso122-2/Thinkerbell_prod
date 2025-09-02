@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1863",
+  "chunk_id": "sample_1863_c1",
+  "text": "Need Michael Rodriguez for Telstra campaign. Budget around $4,528, looking for 1 x Instagram post, 3 x 30-second Instagram reel. 2 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

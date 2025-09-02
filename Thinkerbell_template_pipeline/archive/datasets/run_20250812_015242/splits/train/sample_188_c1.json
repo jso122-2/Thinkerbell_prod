@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_188",
+  "chunk_id": "sample_188_c1",
+  "text": "Sarah Chen for Myer - $30,441 budget\n            Need: 2 x Facebook story, 3 x Facebook post, 2 x 30-second Instagram reel, 3 x Product photography, 3 x Brand ambassador content\n            6w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

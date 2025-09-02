@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_478",
+  "generation_timestamp": "2025-08-04T18:29:55.015897",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Olivia Davis\n            • Brand: Adairs\n            • Fee: ~$7,706\n            • Deliverables: 2 x Instagram story, 1 x Radio interview, 2 x Twitter post\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$7,706",
+    "fee_numeric": 7706,
+    "deliverables": [
+      "2 x Instagram story",
+      "1 x Radio interview",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8986696942729384,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8295408087447533,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:55.004896",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Fashion & Apparel"
+  }
+}

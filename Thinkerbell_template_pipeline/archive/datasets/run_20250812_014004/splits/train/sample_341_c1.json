@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_341",
+  "chunk_id": "sample_341_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Freedom. Budget is approx $8,074 - need 3 x Facebook post, 3 x Media interview, 3 x Facebook post, 2 x YouTube video. 10 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: October 2025.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

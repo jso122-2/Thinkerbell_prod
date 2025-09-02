@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1952",
+  "chunk_id": "sample_1952_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Kmart\n            • Fee: ~$12,084\n            • Deliverables: 2 x Product photography\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

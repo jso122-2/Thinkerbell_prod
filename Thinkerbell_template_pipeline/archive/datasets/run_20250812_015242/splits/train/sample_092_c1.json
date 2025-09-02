@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_092",
+  "chunk_id": "sample_092_c1",
+  "text": "Andrew Clark for Pillow Talk - $17,190 budget\n            Need: 2 x Product photography\n            5w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: October 2025\n\nNeed to confirm: usage rights",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

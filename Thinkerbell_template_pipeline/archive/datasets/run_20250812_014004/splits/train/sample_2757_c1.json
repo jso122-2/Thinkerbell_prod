@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2757",
+  "chunk_id": "sample_2757_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Supercheap Auto\n            • Fee: ~$18,915\n            • Deliverables: 3 x TikTok video, 3 x Facebook post, 3 x YouTube short\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

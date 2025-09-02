@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_165",
+  "chunk_id": "sample_165_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Domino's\n            • Fee: ~$1,815\n            • Deliverables: 2 x LinkedIn post, 3 x Brand photoshoot, 3 x 15-second TikTok\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

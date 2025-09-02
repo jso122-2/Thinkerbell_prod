@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3279",
+  "chunk_id": "sample_3279_c1",
+  "text": "Need Hayden Bell for David Jones campaign. Budget around $13,636, looking for 2 x YouTube video, 1 x Facebook post, 3 x Store opening, 3 x Twitter post, 3 x Twitter post. 3 week exclusivity from other fashion brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

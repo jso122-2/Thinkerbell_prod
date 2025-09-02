@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4385",
+  "chunk_id": "sample_4385_c1",
+  "text": "Reagan Rogers for Roll'd - $23,349 budget\n            Need: 3 x Brand ambassador content, 1 x Professional headshots, 3 x Instagram post, 3 x Facebook story\n            5w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

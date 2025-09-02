@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1959",
+  "chunk_id": "sample_1959_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Sephora\n            • Fee: ~$18,523\n            • Deliverables: 1 x 5-minute review, 2 x Instagram story, 2 x 60-second YouTube video, 3 x Lifestyle photography\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: January 2026\n\nNeed to confirm: exclusivity period",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4580",
+  "chunk_id": "sample_4580_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: JB Hi-Fi\n            • Fee: ~$2,717\n            • Deliverables: 2 x Instagram post, 3 x 90-second product demo\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

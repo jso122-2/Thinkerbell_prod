@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2766",
+  "chunk_id": "sample_2766_c1",
+  "text": "Hey team, looking to work with Brandon Nelson for Cotton On. Budget is approx $7,830 - need 2 x YouTube short, 1 x Press release quote. 8 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: October 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

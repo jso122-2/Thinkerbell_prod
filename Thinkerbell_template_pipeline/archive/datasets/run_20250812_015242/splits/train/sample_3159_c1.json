@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3159",
+  "chunk_id": "sample_3159_c1",
+  "text": "Morgan Morris for David Jones - $18,643 budget\n            Need: 3 x Lifestyle photography, 1 x 30-second Instagram reel\n            3w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

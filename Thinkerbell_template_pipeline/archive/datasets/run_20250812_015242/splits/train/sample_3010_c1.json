@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3010",
+  "chunk_id": "sample_3010_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Nando's. Budget is approx $2,000 - need 3 x Radio interview, 2 x Social media takeover. 10 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: January 2026. no worries",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

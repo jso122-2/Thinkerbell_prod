@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_205",
+  "chunk_id": "sample_205_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Adairs\n            • Fee: ~$32,834\n            • Deliverables: 3 x Instagram post, 3 x Instagram story, 1 x 15-second TikTok\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

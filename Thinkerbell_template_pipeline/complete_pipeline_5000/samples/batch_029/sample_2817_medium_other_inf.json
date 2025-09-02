@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2817",
+  "generation_timestamp": "2025-08-04T18:30:46.373320",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Layla Campbell for Big W. \n            Budget is approx $11,773 - need 3 x Pinterest pin. \n            7 weeks exclusivity, 3 month engagement. \n            Usage: 10 months. Start date: September 2025.\n\nAdditional notes: TBC on exact dates, around $11,773 budget",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Layla Campbell",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$11,773",
+    "fee_numeric": 11773,
+    "deliverables": [
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7676883406343882,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8850037012525797,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:46.366322",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

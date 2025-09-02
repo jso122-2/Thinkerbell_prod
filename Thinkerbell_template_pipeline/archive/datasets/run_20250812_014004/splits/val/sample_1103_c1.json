@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1103",
+  "chunk_id": "sample_1103_c1",
+  "text": "Michael Rodriguez for Qantas - $11,175 budget\n            Need: 1 x Product launch event, 2 x 60-second YouTube video, 2 x Facebook story, 1 x Instagram story\n            7w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

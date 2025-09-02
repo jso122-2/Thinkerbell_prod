@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4990",
+  "chunk_id": "sample_4990_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Commonwealth Bank. Budget is approx $20,928 - need 2 x Instagram reel, 1 x Twitter post, 3 x Radio interview, 3 x LinkedIn post. 7 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: October 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

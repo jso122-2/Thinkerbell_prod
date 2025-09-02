@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4174",
+  "chunk_id": "sample_4174_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Bed Bath N' Table\n            • Fee: ~$1,609\n            • Deliverables: 1 x Pinterest pin, 1 x YouTube short, 3 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

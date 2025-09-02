@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4403",
+  "chunk_id": "sample_4403_c1",
+  "text": "Scarlett Turner for Qantas - $8,480 budget\n            Need: 2 x Blog post, 1 x Instagram story, 3 x Brand photoshoot, 3 x Instagram story\n            9w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: November 2025\n\nNeed to confirm: deliverables",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

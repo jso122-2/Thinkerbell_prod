@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1090",
+  "chunk_id": "sample_1090_c1",
+  "text": "Need Nathan King for David Jones campaign. Budget around $10,688, looking for 1 x Twitter post, 1 x Instagram story, 1 x 90-second product demo. 3 week exclusivity from other fashion brands. Campaign runs November 2025. Usage rights for 8 months. Engagement period: 4 months. ripper",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

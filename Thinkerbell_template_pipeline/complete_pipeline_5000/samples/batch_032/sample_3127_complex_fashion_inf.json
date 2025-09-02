@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3127",
+  "generation_timestamp": "2025-08-04T18:30:52.692400",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Matthew Taylor for Myer - $3,274 budget\n            Need: 1 x Instagram post, 1 x Product photography, 1 x YouTube short, 3 x Instagram post\n            11w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+    "token_count": 62,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$3,274",
+    "fee_numeric": 3274,
+    "deliverables": [
+      "1 x Instagram post",
+      "1 x Product photography",
+      "1 x YouTube short",
+      "3 x Instagram post"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6474961607305512,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.801086104759215,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:52.685401",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

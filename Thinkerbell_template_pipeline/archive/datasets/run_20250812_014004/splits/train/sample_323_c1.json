@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_323",
+  "chunk_id": "sample_323_c1",
+  "text": "Matthew Taylor for Sephora - $7,424 budget\n            Need: 3 x 2-minute tutorial, 3 x Facebook post\n            5w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: October 2025 ripper",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

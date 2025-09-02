@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1137",
+  "chunk_id": "sample_1137_c1",
+  "text": "Hey team, looking to work with Isabella Garcia for Telstra. Budget is approx $28,748 - need 2 x Instagram post, 1 x 2-minute tutorial, 2 x Lifestyle photography, 1 x LinkedIn post, 1 x 60-second YouTube video. 12 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: October 2025.",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

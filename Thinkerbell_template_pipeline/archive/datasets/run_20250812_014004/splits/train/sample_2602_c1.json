@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2602",
+  "chunk_id": "sample_2602_c1",
+  "text": "Hey team, looking to work with Riley Evans for Adairs. Budget is approx $3,675 - need 2 x Instagram post, 2 x Facebook post, 1 x Pinterest pin, 3 x Radio interview. 10 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

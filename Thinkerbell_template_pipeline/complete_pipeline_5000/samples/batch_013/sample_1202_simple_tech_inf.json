@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1202",
+  "generation_timestamp": "2025-08-04T18:30:10.603227",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Justin Mitchell for Harvey Norman - $4,762 budget\n            Need: 1 x Instagram reel, 2 x Twitter post\n            4w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+    "token_count": 53,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$4,762",
+    "fee_numeric": 4762,
+    "deliverables": [
+      "1 x Instagram reel",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9253844904989328,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8241985026261032,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:10.595234",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Limited Edition",
+    "product_category": "Automotive"
+  }
+}

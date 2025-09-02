@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1704",
+  "chunk_id": "sample_1704_c1",
+  "text": "Ava Johnson for Commonwealth Bank - $3,632 budget\n            Need: 1 x 90-second product demo, 2 x Instagram story, 2 x YouTube video\n            8w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: December 2025\n\nNeed to confirm: usage rights",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

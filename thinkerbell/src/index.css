@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-black font-sans;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-black;
+  }
+  
+  h1 {
+    @apply text-4xl md:text-5xl lg:text-6xl font-black;
+  }
+  
+  h2 {
+    @apply text-2xl md:text-3xl lg:text-4xl font-black;
+  }
+  
+  h3 {
+    @apply text-xl md:text-2xl font-black;
+  }
+}
+
+@layer components {
+  .tb-accent-pink {
+    @apply text-tb-magenta;
+  }
+  
+  .tb-accent-green {
+    @apply text-tb-green-500;
+  }
+  
+  .tb-bg-pink {
+    @apply bg-tb-pink-50 border-tb-pink-200;
+  }
+  
+  .tb-bg-green {
+    @apply bg-tb-green-50 border-tb-green-200;
+  }
+  
+  .tb-button-primary {
+    @apply bg-tb-magenta hover:bg-tb-pink-700 text-white font-bold py-3 px-6 rounded-lg transition-all duration-200 transform hover:scale-105 shadow-lg;
+  }
+  
+  .tb-button-secondary {
+    @apply bg-tb-green-500 hover:bg-tb-green-600 text-white font-bold py-3 px-6 rounded-lg transition-all duration-200 transform hover:scale-105 shadow-lg;
+  }
+  
+  .tb-card {
+    @apply bg-white rounded-2xl shadow-xl border-2 border-gray-100 p-6 transition-all duration-200 hover:shadow-2xl hover:border-tb-pink-200;
+  }
+  
+  .tb-zigzag {
+    background-image: repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 10px,
+      #FF1493 10px,
+      #FF1493 20px
+    );
+    height: 4px;
+    width: 100px;
+  }
+  
+  .tb-zigzag-green {
+    background-image: repeating-linear-gradient(
+      45deg,
+      transparent,
+      transparent 10px,
+      #22c55e 10px,
+      #22c55e 20px
+    );
+    height: 4px;
+    width: 100px;
+  }
+}

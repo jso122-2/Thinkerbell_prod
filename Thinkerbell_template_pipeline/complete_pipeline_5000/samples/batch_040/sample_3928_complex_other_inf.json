@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3928",
+  "generation_timestamp": "2025-08-04T18:31:09.470770",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Brooklyn Edwards for McDonald's. \n            Budget is approx $12,360 - need 1 x TikTok video, 2 x YouTube short, 3 x 30-second Instagram reel, 2 x LinkedIn post, 3 x 15-second TikTok. \n            11 weeks exclusivity, 4 month engagement. \n            Usage: 7 months. Start date: October 2025.",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$12,360",
+    "fee_numeric": 12360,
+    "deliverables": [
+      "1 x TikTok video",
+      "2 x YouTube short",
+      "3 x 30-second Instagram reel",
+      "2 x LinkedIn post",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8213868434448613,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7721393435979925,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:09.461770",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

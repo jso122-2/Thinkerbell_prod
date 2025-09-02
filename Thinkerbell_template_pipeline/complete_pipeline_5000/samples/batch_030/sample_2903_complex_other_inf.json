@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2903",
+  "generation_timestamp": "2025-08-04T18:30:48.211993",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Joshua Hall for Big W - $15,813 budget\n            Need: 1 x Blog post, 1 x Facebook post, 3 x Pinterest pin, 2 x YouTube video, 1 x 15-second TikTok\n            9w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$15,813",
+    "fee_numeric": 15813,
+    "deliverables": [
+      "1 x Blog post",
+      "1 x Facebook post",
+      "3 x Pinterest pin",
+      "2 x YouTube video",
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7918992363882492,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.840874306719017,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:48.199989",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

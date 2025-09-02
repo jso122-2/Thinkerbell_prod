@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_540",
+  "chunk_id": "sample_540_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Nando's\n            • Fee: ~$5,979\n            • Deliverables: 2 x TV appearance, 1 x Pinterest pin, 2 x Facebook story, 3 x Facebook story, 3 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

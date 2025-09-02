@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_902",
+  "chunk_id": "sample_902_c1",
+  "text": "Need Aria Perez for KFC campaign. Budget around $14,836, looking for 3 x Event photography, 1 x Pinterest pin, 1 x Product photography. 7 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

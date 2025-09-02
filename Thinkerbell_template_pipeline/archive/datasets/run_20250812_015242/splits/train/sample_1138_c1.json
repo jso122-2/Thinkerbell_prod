@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1138",
+  "chunk_id": "sample_1138_c1",
+  "text": "Aria Perez for Chemist Warehouse - $19,623 budget\n            Need: 2 x LinkedIn post, 1 x 60-second YouTube video\n            6w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

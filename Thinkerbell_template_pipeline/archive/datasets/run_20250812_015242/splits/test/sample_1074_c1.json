@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1074",
+  "chunk_id": "sample_1074_c1",
+  "text": "Sophie Anderson for Amart Furniture - $23,774 budget\n            Need: 3 x 10-minute unboxing\n            11w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

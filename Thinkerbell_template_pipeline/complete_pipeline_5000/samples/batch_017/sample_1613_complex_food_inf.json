@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1613",
+  "generation_timestamp": "2025-08-04T18:30:19.850309",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Zoe Wright for Guzman y Gomez - $33,674 budget\n            Need: 3 x 2-minute tutorial, 3 x TikTok video, 2 x Instagram post\n            10w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+    "token_count": 58,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "Guzman y Gomez",
+    "brand": "Guzman y Gomez",
+    "campaign": "Guzman y Gomez Campaign",
+    "fee": "$33,674",
+    "fee_numeric": 33674,
+    "deliverables": [
+      "3 x 2-minute tutorial",
+      "3 x TikTok video",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8405026255604596,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8501986262730985,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:19.839308",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Limited Edition",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

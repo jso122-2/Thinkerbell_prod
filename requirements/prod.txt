@@ -1,0 +1,22 @@
+# Production dependencies
+-r base.txt
+
+# Production database driver
+psycopg2>=2.9.0
+
+# Production WSGI server (alternative to uvicorn)
+gunicorn>=21.0.0
+
+# Production monitoring
+prometheus-client>=0.17.0
+sentry-sdk[fastapi]>=1.28.0
+
+# Production optimizations
+orjson>=3.9.0
+ujson>=5.8.0
+
+# SSL/TLS support
+cryptography>=41.0.0
+
+# Production utilities
+python-json-logger>=2.0.0

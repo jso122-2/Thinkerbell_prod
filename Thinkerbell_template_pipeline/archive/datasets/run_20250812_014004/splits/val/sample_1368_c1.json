@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1368",
+  "chunk_id": "sample_1368_c1",
+  "text": "Need Victoria Carter for Woolworths campaign. Budget around $3,757, looking for 1 x Meet and greet, 2 x 90-second product demo, 1 x Event photography, 3 x Product launch event. 12 week exclusivity from other grocery brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 5 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

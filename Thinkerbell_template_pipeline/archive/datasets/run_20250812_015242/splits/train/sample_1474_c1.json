@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1474",
+  "chunk_id": "sample_1474_c1",
+  "text": "Need Natalie Adams for Coles campaign. Budget around $10,464, looking for 1 x 2-minute tutorial, 1 x Instagram story, 2 x LinkedIn post, 1 x 30-second Instagram reel. 9 week exclusivity from other grocery brands. Campaign runs December 2025. Usage rights for 6 months. Engagement period: 6 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

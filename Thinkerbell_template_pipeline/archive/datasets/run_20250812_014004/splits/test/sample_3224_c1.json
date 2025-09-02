@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3224",
+  "chunk_id": "sample_3224_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Myer\n            • Fee: ~$21,828\n            • Deliverables: 2 x Facebook post\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

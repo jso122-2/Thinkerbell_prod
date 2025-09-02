@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1929",
+  "chunk_id": "sample_1929_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Hungry Jack's\n            • Fee: ~$8,900\n            • Deliverables: 2 x Facebook post, 1 x LinkedIn post, 3 x LinkedIn post\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2710",
+  "chunk_id": "sample_2710_c1",
+  "text": "Need Andrew Clark for Coles campaign. Budget around $14,693, looking for 3 x Pinterest pin, 3 x Podcast guest, 3 x Instagram story, 1 x Facebook post. 9 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 4 months.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

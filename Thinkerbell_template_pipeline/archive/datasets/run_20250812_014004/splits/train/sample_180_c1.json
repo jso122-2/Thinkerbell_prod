@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_180",
+  "chunk_id": "sample_180_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Betty's Burgers. Budget is approx $9,006 - need 1 x Media interview, 1 x Behind-the-scenes content, 1 x Facebook story, 3 x Twitter post. 2 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

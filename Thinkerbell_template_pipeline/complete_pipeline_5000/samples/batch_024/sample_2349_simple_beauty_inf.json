@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2349",
+  "generation_timestamp": "2025-08-04T18:30:36.315818",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Brooklyn Edwards for Priceline campaign. Budget around $14,675, looking for 3 x Live stream, 2 x Product photography, 3 x Behind-the-scenes content. \n            6 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 8 months. \n            Engagement period: 5 months.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Priceline",
+    "brand": "Priceline",
+    "campaign": "Priceline Campaign",
+    "fee": "$14,675",
+    "fee_numeric": 14675,
+    "deliverables": [
+      "3 x Live stream",
+      "2 x Product photography",
+      "3 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9388305117253579,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8438489697608471,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:36.300820",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

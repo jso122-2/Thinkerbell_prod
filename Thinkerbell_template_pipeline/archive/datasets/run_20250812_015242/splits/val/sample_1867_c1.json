@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1867",
+  "chunk_id": "sample_1867_c1",
+  "text": "Need Grace Young for Big W campaign. Budget around $1,801, looking for 3 x Facebook post. 8 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 4 months. Additional notes: TBC on exact dates, around $1,801 budget",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_351",
+  "chunk_id": "sample_351_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for Amart Furniture. Budget is approx $14,083 - need 2 x TV appearance, 2 x TV appearance, 3 x Professional headshots, 2 x Facebook post. 2 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: December 2025. Need to confirm: usage rights",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

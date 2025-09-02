@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3957",
+  "chunk_id": "sample_3957_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Supercheap Auto. Budget is approx $20,887 - need 1 x Live stream, 3 x 30-second Instagram reel. 5 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

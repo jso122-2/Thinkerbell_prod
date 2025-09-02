@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_254",
+  "chunk_id": "sample_254_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Boost Juice\n            • Fee: ~$13,498\n            • Deliverables: 3 x YouTube video, 2 x 30-second Instagram reel, 2 x 30-second Instagram reel\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

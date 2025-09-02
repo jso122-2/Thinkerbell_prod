@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3630",
+  "generation_timestamp": "2025-08-04T18:31:03.054851",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Richardson\n            • Brand: Commonwealth Bank\n            • Fee: ~$34,101\n            • Deliverables: 1 x Event photography, 3 x Pinterest pin, 2 x 60-second YouTube video, 2 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$34,101",
+    "fee_numeric": 34101,
+    "deliverables": [
+      "1 x Event photography",
+      "3 x Pinterest pin",
+      "2 x 60-second YouTube video",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7370169462601586,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.817586352440622,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:03.045852",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Fashion & Apparel"
+  }
+}

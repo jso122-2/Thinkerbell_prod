@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_396",
+  "generation_timestamp": "2025-08-04T18:29:53.077213",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Christopher Lee for Pillow Talk. \n            Budget is approx $14,565 - need 3 x 15-second TikTok, 2 x LinkedIn post, 2 x TikTok video. \n            2 weeks exclusivity, 3 month engagement. \n            Usage: 10 months. Start date: November 2025.",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$14,565",
+    "fee_numeric": 14565,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "2 x LinkedIn post",
+      "2 x TikTok video"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9284073284154915,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9208833821863671,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:53.061213",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Limited Edition",
+    "product_category": "Finance & Insurance"
+  }
+}

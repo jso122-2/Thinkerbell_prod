@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3483",
+  "chunk_id": "sample_3483_c1",
+  "text": "River Murphy for Guzman y Gomez - $8,067 budget\n            Need: 3 x YouTube short, 1 x 10-minute unboxing, 3 x Instagram reel, 3 x Brand photoshoot, 2 x Meet and greet\n            9w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

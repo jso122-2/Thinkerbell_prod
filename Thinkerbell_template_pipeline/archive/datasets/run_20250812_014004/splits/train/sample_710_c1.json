@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_710",
+  "chunk_id": "sample_710_c1",
+  "text": "Need Quinn Richardson for Harvey Norman campaign. Budget around $4,848, looking for 3 x Instagram post. 4 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 5 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2069",
+  "chunk_id": "sample_2069_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Cotton On. Budget is approx $17,375 - need 3 x YouTube video, 3 x 15-second TikTok. 2 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2675",
+  "generation_timestamp": "2025-08-04T18:30:42.968963",
+  "generator_version": "v1.0",
+  "batch_id": "batch_027",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Reagan Rogers for Adairs. \n            Budget is approx $2,854 - need 2 x Instagram story, 2 x Instagram story. \n            10 weeks exclusivity, 5 month engagement. \n            Usage: 12 months. Start date: January 2026.",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$2,854",
+    "fee_numeric": 2854,
+    "deliverables": [
+      "2 x Instagram story",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9482041414003176,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8283837372428486,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:42.960965",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

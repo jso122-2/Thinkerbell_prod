@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1088",
+  "generation_timestamp": "2025-08-04T18:30:07.415730",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Matthew Taylor\n            • Brand: Sephora\n            • Fee: ~$6,366\n            • Deliverables: 3 x Media interview, 1 x Pinterest pin, 2 x Product launch event, 3 x Twitter post, 3 x Media interview\n            • Exclusivity: 5 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025\n\nNeed to confirm: exclusivity period",
+    "token_count": 97,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$6,366",
+    "fee_numeric": 6366,
+    "deliverables": [
+      "3 x Media interview",
+      "1 x Pinterest pin",
+      "2 x Product launch event",
+      "3 x Twitter post",
+      "3 x Media interview"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9445599944438557,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8463290718498144,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:07.406237",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

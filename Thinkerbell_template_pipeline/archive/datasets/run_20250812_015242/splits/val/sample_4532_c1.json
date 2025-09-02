@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4532",
+  "chunk_id": "sample_4532_c1",
+  "text": "Need Hayden Bell for Betty's Burgers campaign. Budget around $10,817, looking for 1 x Press release quote, 2 x LinkedIn post, 1 x TikTok video, 2 x Twitter post. 10 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 11 months. Engagement period: 5 months.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

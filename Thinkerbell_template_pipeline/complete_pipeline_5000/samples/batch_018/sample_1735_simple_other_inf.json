@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1735",
+  "generation_timestamp": "2025-08-04T18:30:22.035955",
+  "generator_version": "v1.0",
+  "batch_id": "batch_018",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: River Murphy\n            • Brand: Red Rooster\n            • Fee: ~$4,906\n            • Deliverables: 3 x Facebook post, 1 x 30-second Instagram reel, 1 x Instagram story, 3 x Instagram story\n            • Exclusivity: 4 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: January 2026",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$4,906",
+    "fee_numeric": 4906,
+    "deliverables": [
+      "3 x Facebook post",
+      "1 x 30-second Instagram reel",
+      "1 x Instagram story",
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9031532693032891,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.862896161061227,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:22.027952",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

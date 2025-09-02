@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_274",
+  "chunk_id": "sample_274_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Repco\n            • Fee: ~$1,722\n            • Deliverables: 3 x 90-second product demo, 1 x Product photography, 2 x 30-second Instagram reel\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

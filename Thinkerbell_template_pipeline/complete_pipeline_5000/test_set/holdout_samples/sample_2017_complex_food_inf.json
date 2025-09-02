@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2017",
+  "generation_timestamp": "2025-08-04T18:30:28.802449",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Zoe Wright for Queen Fine Foods campaign. Budget around $14,589, looking for 2 x Blog post, 3 x Pinterest pin. \n            7 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 11 months. \n            Engagement period: 5 months.",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$14,589",
+    "fee_numeric": 14589,
+    "deliverables": [
+      "2 x Blog post",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6461965790204096,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7875606250384333,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:28.792450",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Health & Fitness"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_061",
+  "generation_timestamp": "2025-08-04T18:29:46.598444",
+  "generator_version": "v1.0",
+  "batch_id": "batch_001",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Grace Young for JB Hi-Fi campaign. Budget around $32,433, looking for 2 x 60-second YouTube video, 1 x Instagram story, 1 x YouTube short, 1 x LinkedIn post, 3 x Instagram story. \n            7 week exclusivity from other electronics brands. \n            Campaign runs October 2025. Usage rights for 7 months. \n            Engagement period: 5 months.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 98,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$32,433",
+    "fee_numeric": 32433,
+    "deliverables": [
+      "2 x 60-second YouTube video",
+      "1 x Instagram story",
+      "1 x YouTube short",
+      "1 x LinkedIn post",
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7200743364441955,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7520753169159043,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:46.590448",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Technology & Electronics"
+  }
+}

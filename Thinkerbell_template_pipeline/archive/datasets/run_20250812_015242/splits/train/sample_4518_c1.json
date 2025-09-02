@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4518",
+  "chunk_id": "sample_4518_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for Domino's. Budget is approx $19,419 - need 3 x YouTube video, 2 x Facebook post, 1 x Instagram post. 2 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: October 2025. Additional notes: TBC on exact dates, around $19,419 budget",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

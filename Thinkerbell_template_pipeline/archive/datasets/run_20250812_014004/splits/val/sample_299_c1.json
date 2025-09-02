@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_299",
+  "chunk_id": "sample_299_c1",
+  "text": "Need Victoria Carter for Zambrero campaign. Budget arnd $32,572, looking for 2 x Podcast guest, 3 x Facebook post, 2 x 90-second product demo, 1 x Instagram story. 11 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1412",
+  "chunk_id": "sample_1412_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Chemist Warehouse\n            • Fee: ~$16,772\n            • Deliverables: 1 x 10-minute unboxing\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

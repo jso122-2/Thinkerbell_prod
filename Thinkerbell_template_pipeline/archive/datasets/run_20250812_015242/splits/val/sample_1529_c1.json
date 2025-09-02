@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1529",
+  "chunk_id": "sample_1529_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Witchery\n            • Fee: ~$6,610\n            • Deliverables: 2 x 15-second TikTok\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

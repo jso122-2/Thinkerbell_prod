@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1008",
+  "chunk_id": "sample_1008_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Harvey Norman. Budget is approx $6,490 - need 2 x YouTube video, 2 x Event photography, 3 x 3-minute vlog, 3 x Facebook post, 1 x 5-minute review. 11 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1225",
+  "generation_timestamp": "2025-08-04T18:30:10.841232",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Zoe Wright for Queen Fine Foods - $24,118 budget\n            Need: 2 x YouTube video, 2 x 60-second YouTube video, 2 x 15-second TikTok\n            8w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: November 2025\n\nNeed to confirm: usage rights",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$24,118",
+    "fee_numeric": 24118,
+    "deliverables": [
+      "2 x YouTube video",
+      "2 x 60-second YouTube video",
+      "2 x 15-second TikTok"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7372702316073214,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9349873275102927,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:10.832229",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4672",
+  "generation_timestamp": "2025-08-04T18:31:24.114429",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Michael Rodriguez for Bed Bath N' Table. \n            Budget is approx $16,695 - need 2 x Behind-the-scenes content, 3 x 10-minute unboxing, 2 x 30-second Instagram reel, 1 x YouTube video, 2 x Facebook post. \n            12 weeks exclusivity, 3 month engagement. \n            Usage: 10 months. Start date: October 2025.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$16,695",
+    "fee_numeric": 16695,
+    "deliverables": [
+      "2 x Behind-the-scenes content",
+      "3 x 10-minute unboxing",
+      "2 x 30-second Instagram reel",
+      "1 x YouTube video",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.778234786944204,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.904913093242932,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:24.105401",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Health & Fitness"
+  }
+}

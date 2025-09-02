@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1582",
+  "chunk_id": "sample_1582_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Mad Mex. Budget is approx $3,470 - need 2 x 2-minute tutorial, 1 x 30-second Instagram reel. 10 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

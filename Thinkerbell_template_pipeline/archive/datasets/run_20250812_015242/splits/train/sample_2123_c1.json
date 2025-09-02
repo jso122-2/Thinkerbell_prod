@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2123",
+  "chunk_id": "sample_2123_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Queen Fine Foods. Budget is approx $3,693 - need 2 x LinkedIn post, 3 x YouTube short. 5 weeks exclusivity, 6 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1956",
+  "generation_timestamp": "2025-08-04T18:30:26.850209",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Olivia Davis for Priceline - $30,410 budget\n            Need: 2 x Behind-the-scenes content, 2 x Instagram post, 3 x 15-second TikTok, 1 x YouTube short\n            9w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: December 2025 fair dinkum",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "Priceline",
+    "brand": "Priceline",
+    "campaign": "Priceline Campaign",
+    "fee": "$30,410",
+    "fee_numeric": 30410,
+    "deliverables": [
+      "2 x Behind-the-scenes content",
+      "2 x Instagram post",
+      "3 x 15-second TikTok",
+      "1 x YouTube short"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7511208226724185,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8222823659582469,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:26.839201",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Technology & Electronics"
+  }
+}

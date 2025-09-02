@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3258",
+  "generation_timestamp": "2025-08-04T18:30:55.151966",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Blake Morgan for Kmart campaign. Budget around $20,744, looking for 3 x Lifestyle photography, 1 x Instagram story, 2 x 15-second TikTok, 3 x LinkedIn post, 2 x Lifestyle photography. \n            10 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 7 months. \n            Engagement period: 2 months.",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Blake Morgan",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$20,744",
+    "fee_numeric": 20744,
+    "deliverables": [
+      "3 x Lifestyle photography",
+      "1 x Instagram story",
+      "2 x 15-second TikTok",
+      "3 x LinkedIn post",
+      "2 x Lifestyle photography"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.849271237489201,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8661849456438574,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:55.142449",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

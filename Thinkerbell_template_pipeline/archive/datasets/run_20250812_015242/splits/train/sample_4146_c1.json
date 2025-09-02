@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4146",
+  "chunk_id": "sample_4146_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Supercheap Auto\n            • Fee: ~$6,249\n            • Deliverables: 2 x Pinterest pin\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

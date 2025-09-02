@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4349",
+  "generation_timestamp": "2025-08-04T18:31:18.222980",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Jordan Phillips for Myer campaign. Budget around $6,723, looking for 1 x Lifestyle photography, 1 x YouTube video, 1 x YouTube video, 2 x Facebook story, 2 x LinkedIn post. \n            12 week exclusivity from other fashion brands. \n            Campaign runs November 2025. Usage rights for 8 months. \n            Engagement period: 6 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Jordan Phillips",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$6,723",
+    "fee_numeric": 6723,
+    "deliverables": [
+      "1 x Lifestyle photography",
+      "1 x YouTube video",
+      "1 x YouTube video",
+      "2 x Facebook story",
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9116372573952187,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9211025769529295,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.214951",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

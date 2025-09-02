@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4912",
+  "chunk_id": "sample_4912_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Repco. Budget is approx $11,692 - need 2 x Lifestyle photography. 8 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

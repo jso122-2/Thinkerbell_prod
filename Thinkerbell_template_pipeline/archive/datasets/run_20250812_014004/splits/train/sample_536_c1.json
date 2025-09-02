@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_536",
+  "chunk_id": "sample_536_c1",
+  "text": "Need Hayden Bell for Qantas campaign. Budget around $23,083, looking for 1 x Facebook post, 1 x Facebook post. 11 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 10 months. Engagement period: 2 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4168",
+  "chunk_id": "sample_4168_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Target. Budget is approx $14,620 - need 2 x YouTube short, 2 x YouTube short. 2 weeks exclusivity, 6 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_242",
+  "chunk_id": "sample_242_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Commonwealth Bank\n            • Fee: ~$15,359\n            • Deliverables: 2 x Pinterest pin, 1 x Instagram post, 1 x Instagram reel, 3 x 60-second YouTube video, 3 x Event photography\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

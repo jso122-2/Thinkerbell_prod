@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4726",
+  "generation_timestamp": "2025-08-04T18:31:25.845650",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Rowan Bailey for Myer - $3,358 budget\n            Need: 2 x LinkedIn post, 2 x Instagram story\n            5w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+    "token_count": 51,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$3,358",
+    "fee_numeric": 3358,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8764216727148106,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9331573513494025,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:25.833923",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

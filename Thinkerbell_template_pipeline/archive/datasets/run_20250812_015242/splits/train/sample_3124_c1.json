@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3124",
+  "chunk_id": "sample_3124_c1",
+  "text": "Need Ava Johnson for Adairs campaign. Budget around $2,448, looking for 3 x LinkedIn post, 1 x Instagram story, 2 x Lifestyle photography, 3 x LinkedIn post, 2 x LinkedIn post. 11 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 6 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

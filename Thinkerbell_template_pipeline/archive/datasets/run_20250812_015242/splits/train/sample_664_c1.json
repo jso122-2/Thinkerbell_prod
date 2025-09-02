@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_664",
+  "chunk_id": "sample_664_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Telstra. Budget is approx $16,748 - need 1 x 3-minute vlog, 1 x Instagram story, 2 x 90-second product demo. 6 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

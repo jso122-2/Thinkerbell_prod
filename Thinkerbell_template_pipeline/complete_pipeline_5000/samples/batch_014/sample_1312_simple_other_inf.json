@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1312",
+  "generation_timestamp": "2025-08-04T18:30:12.844745",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: River Murphy\n            • Brand: Fantastic Furniture\n            • Fee: ~$9,622\n            • Deliverables: 3 x Facebook story, 2 x Facebook post, 2 x 30-second Instagram reel, 2 x Lifestyle photography, 2 x Facebook post\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: January 2026",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$9,622",
+    "fee_numeric": 9622,
+    "deliverables": [
+      "3 x Facebook story",
+      "2 x Facebook post",
+      "2 x 30-second Instagram reel",
+      "2 x Lifestyle photography",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.739903616977122,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.865940286411073,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:12.836746",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

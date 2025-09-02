@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1888",
+  "generation_timestamp": "2025-08-04T18:30:24.980531",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Aria Perez for Pillow Talk - $15,070 budget\n            Need: 1 x LinkedIn post, 3 x Pinterest pin, 3 x 15-second TikTok\n            12w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025\n\nNeed to confirm: deliverables",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Aria Perez",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$15,070",
+    "fee_numeric": 15070,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "3 x Pinterest pin",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7698845701144247,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9059301053386241,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:24.972535",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

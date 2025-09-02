@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4090",
+  "generation_timestamp": "2025-08-04T18:31:12.491881",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: River Murphy\n            • Brand: Boost Juice\n            • Fee: ~$8,956\n            • Deliverables: 3 x YouTube short, 1 x Professional headshots, 1 x Lifestyle photography, 1 x Blog post, 2 x Pinterest pin\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: December 2025",
+    "token_count": 89,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Boost Juice",
+    "brand": "Boost Juice",
+    "campaign": "Boost Juice Campaign",
+    "fee": "$8,956",
+    "fee_numeric": 8956,
+    "deliverables": [
+      "3 x YouTube short",
+      "1 x Professional headshots",
+      "1 x Lifestyle photography",
+      "1 x Blog post",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7766803764996482,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7964949773165397,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.469881",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

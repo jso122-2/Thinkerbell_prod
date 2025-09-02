@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2167",
+  "chunk_id": "sample_2167_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Zambrero\n            • Fee: ~$24,016\n            • Deliverables: 2 x Instagram story, 2 x Instagram reel\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3250",
+  "chunk_id": "sample_3250_c1",
+  "text": "Aria Perez for Guzman y Gomez - $2,659 budget\n            Need: 3 x Press release quote, 2 x Instagram story\n            9w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

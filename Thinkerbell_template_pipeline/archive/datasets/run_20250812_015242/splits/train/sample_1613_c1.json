@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1613",
+  "chunk_id": "sample_1613_c1",
+  "text": "Zoe Wright for Guzman y Gomez - $33,674 budget\n            Need: 3 x 2-minute tutorial, 3 x TikTok video, 2 x Instagram post\n            10w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

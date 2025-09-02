@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4942",
+  "generation_timestamp": "2025-08-04T18:31:30.452335",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Brandon Nelson for Bunnings campaign. Budget around $3,968, looking for 2 x Social media takeover, 1 x Press conference, 1 x Instagram story, 2 x Twitter post. \n            12 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 11 months. \n            Engagement period: 2 months.",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brandon Nelson",
+    "client": "Bunnings",
+    "brand": "Bunnings",
+    "campaign": "Bunnings Campaign",
+    "fee": "$3,968",
+    "fee_numeric": 3968,
+    "deliverables": [
+      "2 x Social media takeover",
+      "1 x Press conference",
+      "1 x Instagram story",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.877997791613485,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8649393624843497,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.441332",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

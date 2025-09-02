@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_002_093",
+  "generation_timestamp": "2025-08-12T12:06:05.667377",
+  "batch_id": 2,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "entertainment",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "Ogilvy has engaged Sarah Chen to provide services for the Virgin Australia Spring Campaign on behalf of Virgin Australia. As the festive season draws near, Australians are seeking better entertainment solutions. As the campaign's subject matter expert, Sarah Chen will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in entertainment.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Virgin Australia and the Influencer for Virgin Australia Discovery Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $6,133 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 2 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 3 months\n- Exclusivity Period: 6 weeks\n- Territory: Australia\n- Usage Rights: 6 months from campaign launch\n- Content Rights: Virgin Australia retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 193,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Virgin Australia",
+    "brand": "Virgin Australia",
+    "campaign": "Virgin Australia Entertainment Campaign 2025",
+    "fee": "$35,544",
+    "fee_numeric": 35544,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x TikTok video",
+      "2 x Instagram stories"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "24 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_QUEEN _ The Condos Talent Agreement_21.02.25 [SIGNED]",
+    "match_confidence": 0.863,
+    "fallback_templates": [
+      "profile_QUEEN _ The Tanna Tribe Talent Agreement_UPDATED_24.02.2025 [SIGNED]",
+      "profile_Mattel Brickshop x Craig Contract FINAL.docx LOWNDES SIGNED (1) (1)",
+      "profile_TKB Influencer Agreement_Jamie Durie x Cabot_s EasyDeck"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "entertainment",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.884,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.85,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

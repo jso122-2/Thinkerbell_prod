@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2310",
+  "chunk_id": "sample_2310_c1",
+  "text": "Chloe Lewis for Adairs - $13,642 budget\n            Need: 1 x Instagram post\n            12w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

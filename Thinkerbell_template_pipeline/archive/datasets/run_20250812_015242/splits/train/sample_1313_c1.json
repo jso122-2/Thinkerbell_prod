@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1313",
+  "chunk_id": "sample_1313_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Red Rooster\n            • Fee: ~$1,955\n            • Deliverables: 1 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

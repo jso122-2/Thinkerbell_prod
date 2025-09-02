@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3382",
+  "chunk_id": "sample_3382_c1",
+  "text": "Hey team, looking to work with Sage Reed for Kmart. Budget is approx $33,923 - need 2 x 2-minute tutorial, 2 x Product photography. 10 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1156",
+  "generation_timestamp": "2025-08-04T18:30:09.159852",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Morgan Morris for Subway - $33,514 budg\n            Need: 3 x TV appearance, 2 x LinkedIn post, 2 x 15-second TikTok\n            10w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+    "token_count": 56,
+    "requires_chunking": false,
+    "text_style": "formal",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Subway",
+    "brand": "Subway",
+    "campaign": "Subway Campaign",
+    "fee": "$33,514",
+    "fee_numeric": 33514,
+    "deliverables": [
+      "3 x TV appearance",
+      "2 x LinkedIn post",
+      "2 x 15-second TikTok"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6870061106165917,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7745438629590478,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:09.149853",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "New Season",
+    "product_category": "Sports & Recreation"
+  }
+}

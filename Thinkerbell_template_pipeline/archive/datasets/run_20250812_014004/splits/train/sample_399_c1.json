@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_399",
+  "chunk_id": "sample_399_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: JB Hi-Fi\n            • Fee: ~$6,969\n            • Deliverables: 3 x Twitter post, 2 x Pinterest pin, 3 x Blog post, 3 x Pinterest pin\n            • Exclusivity: 4 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

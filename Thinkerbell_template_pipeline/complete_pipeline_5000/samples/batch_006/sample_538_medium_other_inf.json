@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_538",
+  "generation_timestamp": "2025-08-04T18:29:56.651762",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Lily Walker for Nando's - $10,124 budget\n            Need: 2 x Facebook post, 2 x Media interview, 3 x Blog post, 1 x 60-second YouTube video, 2 x YouTube video\n            9w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: December 2025\n\nNeed to confirm: usage rights",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$10,124",
+    "fee_numeric": 10124,
+    "deliverables": [
+      "2 x Facebook post",
+      "2 x Media interview",
+      "3 x Blog post",
+      "1 x 60-second YouTube video",
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9157332379411002,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.924072242779339,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.642759",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Food & Beverage"
+  }
+}

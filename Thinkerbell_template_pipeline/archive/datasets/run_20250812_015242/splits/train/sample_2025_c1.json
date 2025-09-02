@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2025",
+  "chunk_id": "sample_2025_c1",
+  "text": "Matthew Taylor for Coles - $2,715 budget\n            Need: 2 x Instagram reel, 1 x Twitter post, 1 x Instagram story\n            9w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: October 2025 reckon",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4186",
+  "chunk_id": "sample_4186_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: McDonald's\n            • Fee: ~$8,518\n            • Deliverables: 2 x TV appearance, 2 x Lifestyle photography\n            • Exclusivity: 4 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: October 2025 ripper",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

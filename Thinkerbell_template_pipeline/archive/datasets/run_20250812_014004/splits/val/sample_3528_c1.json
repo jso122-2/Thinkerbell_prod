@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3528",
+  "chunk_id": "sample_3528_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Sephora\n            • Fee: ~$24,102\n            • Deliverables: 1 x Press release quote, 1 x Twitter post\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: December 2025 ripper",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

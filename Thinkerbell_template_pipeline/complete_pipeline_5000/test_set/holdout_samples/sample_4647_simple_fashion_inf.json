@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4647",
+  "generation_timestamp": "2025-08-04T18:31:23.872404",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Brooklyn Edwards for Cotton On - $3,213 budget\n            Need: 1 x Twitter post, 1 x Twitter post, 2 x Product launch event, 3 x LinkedIn post\n            11w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$3,213",
+    "fee_numeric": 3213,
+    "deliverables": [
+      "1 x Twitter post",
+      "1 x Twitter post",
+      "2 x Product launch event",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8163029240577226,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.904640788913366,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:23.864399",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Education"
+  }
+}

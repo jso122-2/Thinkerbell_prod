@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1603",
+  "generation_timestamp": "2025-08-04T18:30:19.726309",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Natalie Adams for Betty's Burgers campaign. Budget around $3,680, looking for 2 x Instagram story, 3 x Meet and greet, 3 x Social media takeover. \n            6 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 11 months. \n            Engagement period: 4 months.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$3,680",
+    "fee_numeric": 3680,
+    "deliverables": [
+      "2 x Instagram story",
+      "3 x Meet and greet",
+      "3 x Social media takeover"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9177702178343731,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9239603161772441,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:19.718310",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

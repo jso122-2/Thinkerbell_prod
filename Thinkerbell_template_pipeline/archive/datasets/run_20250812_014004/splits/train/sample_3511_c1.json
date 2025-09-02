@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3511",
+  "chunk_id": "sample_3511_c1",
+  "text": "Scarlett Turner for IKEA - $2,171 budget\n            Need: 3 x Twitter post, 1 x Product launch event\n            2w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

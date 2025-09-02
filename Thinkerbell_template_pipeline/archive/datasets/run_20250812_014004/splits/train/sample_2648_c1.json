@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2648",
+  "chunk_id": "sample_2648_c1",
+  "text": "Hey team, looking to work with Grace Young for Priceline. Budget is approx $3,294 - need 2 x Lifestyle photography, 2 x Instagram story, 1 x Twitter post. 4 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

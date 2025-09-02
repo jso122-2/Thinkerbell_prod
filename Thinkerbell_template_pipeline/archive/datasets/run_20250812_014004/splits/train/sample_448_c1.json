@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_448",
+  "chunk_id": "sample_448_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Pizza Hut\n            • Fee: ~$12,220\n            • Deliverables: 1 x Instagram reel, 3 x YouTube short, 3 x 90-second product demo, 2 x Facebook story\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: September 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

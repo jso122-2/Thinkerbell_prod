@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1958",
+  "generation_timestamp": "2025-08-04T18:30:26.881206",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Blake Morgan\n            • Brand: Lush\n            • Fee: ~$12,906\n            • Deliverables: 2 x Instagram post, 3 x Press conference, 2 x YouTube video, 3 x Twitter post\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $12,906 budget",
+    "token_count": 95,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Blake Morgan",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$12,906",
+    "fee_numeric": 12906,
+    "deliverables": [
+      "2 x Instagram post",
+      "3 x Press conference",
+      "2 x YouTube video",
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9204396360302312,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8184540018821074,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:26.869203",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

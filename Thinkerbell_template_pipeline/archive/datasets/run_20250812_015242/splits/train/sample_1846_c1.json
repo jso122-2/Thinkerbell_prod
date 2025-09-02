@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1846",
+  "chunk_id": "sample_1846_c1",
+  "text": "Need Sean Roberts for Coles campaign. Budget around $2,826, looking for 3 x 30-second Instagram reel, 3 x Event photography. 8 week exclusivity from other grocery brands. Campaign runs October 2025. Usage rights for 7 months. Engagement period: 3 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

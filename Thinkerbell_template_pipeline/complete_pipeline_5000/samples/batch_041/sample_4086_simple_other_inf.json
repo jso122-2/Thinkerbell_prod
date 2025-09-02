@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4086",
+  "generation_timestamp": "2025-08-04T18:31:12.409882",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Brooklyn Edwards for Domino's campaign. Budget around $26,456, looking for 2 x Professional headshots, 3 x TikTok video, 2 x Radio interview. \n            5 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 11 months. \n            Engagement period: 2 months.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$26,456",
+    "fee_numeric": 26456,
+    "deliverables": [
+      "2 x Professional headshots",
+      "3 x TikTok video",
+      "2 x Radio interview"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9221027854317285,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9162375971125993,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.399885",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Home & Garden"
+  }
+}

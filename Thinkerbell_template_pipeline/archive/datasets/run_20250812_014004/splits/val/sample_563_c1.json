@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_563",
+  "chunk_id": "sample_563_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Mad Mex. Budget is approx $16,359 - need 3 x YouTube video, 1 x Instagram post, 2 x LinkedIn post. 11 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

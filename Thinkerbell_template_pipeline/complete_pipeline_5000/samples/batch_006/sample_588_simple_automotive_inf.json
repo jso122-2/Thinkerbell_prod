@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_588",
+  "generation_timestamp": "2025-08-04T18:29:57.213761",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Skylar Collins\n            • Brand: Repco\n            • Fee: ~$8,502\n            • Deliverables: 2 x Instagram story, 2 x Social media takeover, 3 x 10-minute unboxing, 1 x Lifestyle photography, 3 x Professional headshots\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: September 2025",
+    "token_count": 93,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Repco",
+    "brand": "Repco",
+    "campaign": "Repco Campaign",
+    "fee": "$8,502",
+    "fee_numeric": 8502,
+    "deliverables": [
+      "2 x Instagram story",
+      "2 x Social media takeover",
+      "3 x 10-minute unboxing",
+      "1 x Lifestyle photography",
+      "3 x Professional headshots"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8065479781890845,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9299512614648522,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:57.203762",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Home & Garden"
+  }
+}

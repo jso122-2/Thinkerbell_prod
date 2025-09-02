@@ -1,0 +1,42 @@
+2025-08-12 12:05:51,064 | INFO     | ThinkerBellPipeline | [START] ThinkerBell Pipeline initialized
+2025-08-12 12:05:51,064 | INFO     | ThinkerBellPipeline | [DIR] Output directory: thinkerbell_output
+2025-08-12 12:05:51,064 | INFO     | ThinkerBellPipeline | [TARGET] Target samples: 500
+2025-08-12 12:05:51,065 | INFO     | ThinkerBellPipeline | [START] Starting ThinkerBell Pipeline execution...
+2025-08-12 12:05:51,065 | INFO     | ThinkerBellPipeline | [SETUP] Setting up environment...
+2025-08-12 12:05:51,070 | INFO     | ThinkerBellPipeline | [OK] Environment setup complete
+2025-08-12 12:05:51,071 | INFO     | ThinkerBellPipeline | [SETUP] Initializing pipeline components...
+2025-08-12 12:05:54,370 | INFO     | ThinkerBellPipeline | [OK] All components initialized successfully
+2025-08-12 12:05:54,370 | INFO     | ThinkerBellPipeline | [LOAD] Loading template files...
+2025-08-12 12:05:54,372 | INFO     | ThinkerBellPipeline | [SEARCH] Found 13 template files
+2025-08-12 12:05:55,297 | INFO     | ThinkerBellPipeline | [OK] Loaded 13 templates successfully
+2025-08-12 12:05:55,297 | INFO     | ThinkerBellPipeline | [SETUP] Building style profiles...
+2025-08-12 12:06:05,466 | INFO     | ThinkerBellPipeline | [OK] Created 13 style profiles
+2025-08-12 12:06:05,466 | INFO     | ThinkerBellPipeline | [STATS] Pipeline plan: 5 batches of ~100 samples
+2025-08-12 12:06:05,467 | INFO     | ThinkerBellPipeline | [PROCESS] Generating batch 1 (100 samples)...
+2025-08-12 12:06:05,508 | INFO     | ThinkerBellPipeline | [OK] Batch 1 complete: 100 samples in 0.0s
+2025-08-12 12:06:05,620 | INFO     | ThinkerBellPipeline | [PROGRESS] Progress: 100/500 samples (20.0%)
+2025-08-12 12:06:05,621 | INFO     | ThinkerBellPipeline | [PROCESS] Generating batch 2 (100 samples)...
+2025-08-12 12:06:05,669 | INFO     | ThinkerBellPipeline | [OK] Batch 2 complete: 100 samples in 0.0s
+2025-08-12 12:06:05,756 | INFO     | ThinkerBellPipeline | [PROGRESS] Progress: 200/500 samples (40.0%)
+2025-08-12 12:06:05,757 | INFO     | ThinkerBellPipeline | [PROCESS] Generating batch 3 (100 samples)...
+2025-08-12 12:06:05,797 | INFO     | ThinkerBellPipeline | [OK] Batch 3 complete: 100 samples in 0.0s
+2025-08-12 12:06:05,885 | INFO     | ThinkerBellPipeline | [PROGRESS] Progress: 300/500 samples (60.0%)
+2025-08-12 12:06:05,885 | INFO     | ThinkerBellPipeline | [PROCESS] Generating batch 4 (100 samples)...
+2025-08-12 12:06:05,923 | INFO     | ThinkerBellPipeline | [OK] Batch 4 complete: 100 samples in 0.0s
+2025-08-12 12:06:06,004 | INFO     | ThinkerBellPipeline | [PROGRESS] Progress: 400/500 samples (80.0%)
+2025-08-12 12:06:06,004 | INFO     | ThinkerBellPipeline | [PROCESS] Generating batch 5 (100 samples)...
+2025-08-12 12:06:06,044 | INFO     | ThinkerBellPipeline | [OK] Batch 5 complete: 100 samples in 0.0s
+2025-08-12 12:06:06,125 | INFO     | ThinkerBellPipeline | [PROGRESS] Progress: 500/500 samples (100.0%)
+2025-08-12 12:06:06,125 | INFO     | ThinkerBellPipeline | [OK] Retrieved mapping diagnostics summary
+2025-08-12 12:06:06,126 | INFO     | ThinkerBellPipeline | [OK] Saved mapping diagnostics to thinkerbell_output\diagnostics\mapping_diagnostics.json
+2025-08-12 12:06:06,128 | INFO     | ThinkerBellPipeline | [OK] Saved pipeline statistics to thinkerbell_output\diagnostics\pipeline_stats.json
+2025-08-12 12:06:06,130 | INFO     | ThinkerBellPipeline | Template diversity validation passed: 13 templates, diversity score: 0.987
+2025-08-12 12:06:06,130 | INFO     | ThinkerBellPipeline | [COMPLETE] Pipeline execution completed!
+2025-08-12 12:06:06,130 | INFO     | ThinkerBellPipeline | [STATS] Final results: 500 samples generated
+2025-08-12 12:06:06,131 | INFO     | ThinkerBellPipeline | [TIME] Total runtime: 0h 0m 15s
+2025-08-12 12:06:06,131 | INFO     | ThinkerBellPipeline | [OK] Success rate: 100.0%
+2025-08-12 12:06:06,131 | INFO     | ThinkerBellPipeline | [STATS] Validation rate: 100.0%
+2025-08-12 12:06:06,131 | INFO     | ThinkerBellPipeline | [TEMPLATES] Template diversity: 13 unique templates, diversity score: 0.987
+2025-08-12 12:06:06,131 | INFO     | ThinkerBellPipeline | [CLASSIFICATION] Industry accuracy: 100.0%, average confidence: 0.850
+2025-08-12 12:06:06,131 | INFO     | ThinkerBellPipeline | [CLASSIFICATION] Brand-industry corrections: 0
+2025-08-12 12:06:06,131 | INFO     | ThinkerBellPipeline | [DIR] Output saved to: thinkerbell_output

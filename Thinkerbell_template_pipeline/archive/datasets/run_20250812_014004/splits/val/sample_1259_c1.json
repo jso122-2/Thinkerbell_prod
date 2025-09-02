@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1259",
+  "chunk_id": "sample_1259_c1",
+  "text": "Scarlett Turner for Portmans - $1,819 budget\n            Need: 3 x Radio interview, 2 x Radio interview, 1 x Instagram reel\n            10w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: October 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

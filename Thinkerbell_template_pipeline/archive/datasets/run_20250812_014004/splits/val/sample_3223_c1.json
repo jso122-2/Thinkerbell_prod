@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3223",
+  "chunk_id": "sample_3223_c1",
+  "text": "Victoria Carter for Repco - $24,417 budget\n            Need: 3 x LinkedIn post, 2 x Blog post, 2 x Radio interview, 2 x 15-second TikTok\n            2w exclus, 2m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_032",
+  "generation_timestamp": "2025-08-04T18:29:46.332444",
+  "generator_version": "v1.0",
+  "batch_id": "batch_001",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Olivia Davis\n            • Brand: JB Hi-Fi\n            • Fee: ~$9,345\n            • Deliverables: 1 x Instagram story, 1 x Event photography\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $9,345 budget",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$9,345",
+    "fee_numeric": 9345,
+    "deliverables": [
+      "1 x Instagram story",
+      "1 x Event photography"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9303420727879863,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8722300142962697,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:46.325447",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_304",
+  "chunk_id": "sample_304_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Pillow Talk\n            • Fee: ~$26,788\n            • Deliverables: 2 x 30-second Instagram reel, 2 x LinkedIn post, 1 x YouTube video, 1 x Product photography, 1 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

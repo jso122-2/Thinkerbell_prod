@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3541",
+  "chunk_id": "sample_3541_c1",
+  "text": "Daniel Martinez for Priceline - $8,457 budget\n            Need: 1 x Radio interview\n            8w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

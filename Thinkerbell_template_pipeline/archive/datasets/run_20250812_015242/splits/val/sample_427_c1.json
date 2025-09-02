@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_427",
+  "chunk_id": "sample_427_c1",
+  "text": "Natalie Adams for Autobarn - $28,712 budget\n            Need: 2 x Facebook post, 2 x Instagram reel\n            6w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4102",
+  "chunk_id": "sample_4102_c1",
+  "text": "Rowan Bailey for Myer - $1,972 budget\n            Need: 3 x Instagram post, 3 x Pinterest pin, 1 x YouTube video, 3 x Instagram story\n            11w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

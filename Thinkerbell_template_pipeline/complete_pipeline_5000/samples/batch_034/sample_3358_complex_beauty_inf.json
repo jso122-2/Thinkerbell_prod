@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3358",
+  "generation_timestamp": "2025-08-04T18:30:57.150874",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Victoria Carter for Chemist Warehouse - $3,774 budg\n            Need: 1 x 60-second YouTube video, 3 x Facebook post\n            4w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+    "token_count": 56,
+    "requires_chunking": false,
+    "text_style": "formal",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$3,774",
+    "fee_numeric": 3774,
+    "deliverables": [
+      "1 x 60-second YouTube video",
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8224917918009189,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8433113470087034,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.141877",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

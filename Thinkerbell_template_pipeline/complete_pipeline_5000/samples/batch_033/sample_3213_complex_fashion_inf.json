@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3213",
+  "generation_timestamp": "2025-08-04T18:30:54.688822",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Reagan Rogers for Country Road campaign. Budget around $3,564, looking for 2 x Instagram post. \n            3 week exclusivity from other fashion brands. \n            Campaign runs December 2025. Usage rights for 10 months. \n            Engagement period: 6 months. fair dinkum",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Country Road",
+    "brand": "Country Road",
+    "campaign": "Country Road Campaign",
+    "fee": "$3,564",
+    "fee_numeric": 3564,
+    "deliverables": [
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7734985928324876,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7714815750841151,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:54.679823",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

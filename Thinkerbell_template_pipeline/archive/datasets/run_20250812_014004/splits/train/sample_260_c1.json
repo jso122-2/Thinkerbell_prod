@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_260",
+  "chunk_id": "sample_260_c1",
+  "text": "Sean Roberts for Telstra - $2,838 budget\n            Need: 2 x Event photography\n            11w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

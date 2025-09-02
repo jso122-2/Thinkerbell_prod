@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3008",
+  "chunk_id": "sample_3008_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Woolworths\n            • Fee: ~$32,748\n            • Deliverables: 1 x Press conference, 3 x TikTok video, 1 x Instagram post, 2 x 60-second YouTube video, 3 x Lifestyle photography\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

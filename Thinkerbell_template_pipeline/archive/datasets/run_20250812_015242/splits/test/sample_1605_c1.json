@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1605",
+  "chunk_id": "sample_1605_c1",
+  "text": "Reagan Rogers for Nando's - $5,699 budget\n            Need: 1 x Facebook post, 2 x Radio interview, 3 x Twitter post, 1 x Twitter post\n            8w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: September 2025\n\nAdditional notes: TBC on exact dates, around $5,699 budget",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1807",
+  "chunk_id": "sample_1807_c1",
+  "text": "Need Morgan Morris for Supercheap Auto campaign. Budget around $2,071, looking for 3 x Brand ambassador content. 3 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 6 months. Engagement period: 6 months.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

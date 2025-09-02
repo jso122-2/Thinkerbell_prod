@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_571",
+  "chunk_id": "sample_571_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Mecca\n            • Fee: ~$12,647\n            • Deliverables: 3 x Instagram post, 1 x Instagram post, 2 x 30-second Instagram reel, 1 x TV appearance, 3 x Facebook story\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $12,647 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

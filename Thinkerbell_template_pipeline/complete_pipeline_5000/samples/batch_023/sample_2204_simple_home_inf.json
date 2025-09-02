@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2204",
+  "generation_timestamp": "2025-08-04T18:30:33.499758",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Scarlett Turner\n            • Brand: IKEA\n            • Fee: ~$10,519\n            • Deliverables: 2 x Professional headshots, 3 x Facebook post, 1 x YouTube video\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: September 2025",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$10,519",
+    "fee_numeric": 10519,
+    "deliverables": [
+      "2 x Professional headshots",
+      "3 x Facebook post",
+      "1 x YouTube video"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8610328962058669,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.942467927726975,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:33.491761",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

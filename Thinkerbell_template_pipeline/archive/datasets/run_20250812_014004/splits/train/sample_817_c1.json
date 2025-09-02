@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_817",
+  "chunk_id": "sample_817_c1",
+  "text": "Hey team, looking to work with Christopher Lee for Kmart. Budget is approx $29,890 - need 1 x Facebook story, 3 x LinkedIn post. 5 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

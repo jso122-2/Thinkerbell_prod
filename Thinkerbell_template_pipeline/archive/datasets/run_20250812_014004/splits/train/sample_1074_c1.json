@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1074",
+  "chunk_id": "sample_1074_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Witchery\n            • Fee: ~$8,454\n            • Deliverables: 3 x Product launch event, 3 x Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

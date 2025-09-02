@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1556",
+  "generation_timestamp": "2025-08-04T18:30:17.616686",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Blake Cox for JB Hi-Fi campaign. Budget around $2,404, looking for 3 x YouTube short, 2 x Radio interview, 1 x Lifestyle photography, 2 x Pinterest pin. \n            7 week exclus from other electronics brands. \n            Campaign runs December 2025. Usage rights for 9 months. \n            Engagement period: 2 months. no worries",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Blake Cox",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$2,404",
+    "fee_numeric": 2404,
+    "deliverables": [
+      "3 x YouTube short",
+      "2 x Radio interview",
+      "1 x Lifestyle photography",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6858743195974315,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7814333587716219,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.608688",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

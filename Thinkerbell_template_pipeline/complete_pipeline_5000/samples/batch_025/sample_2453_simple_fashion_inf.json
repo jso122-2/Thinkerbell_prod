@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2453",
+  "generation_timestamp": "2025-08-04T18:30:38.637328",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sophie Anderson\n            • Brand: Cotton On\n            • Fee: ~$3,876\n            • Deliverables: 3 x TikTok video\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: January 2026",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sophie Anderson",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$3,876",
+    "fee_numeric": 3876,
+    "deliverables": [
+      "3 x TikTok video"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8840473702267466,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.924751692411214,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:38.629332",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Automotive"
+  }
+}

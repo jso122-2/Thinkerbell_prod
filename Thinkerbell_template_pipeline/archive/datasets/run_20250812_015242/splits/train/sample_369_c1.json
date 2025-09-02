@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_369",
+  "chunk_id": "sample_369_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Grill'd\n            • Fee: ~$4,043\n            • Deliverables: 2 x Social media takeover, 1 x Pinterest pin, 3 x Instagram post, 3 x Pinterest pin\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

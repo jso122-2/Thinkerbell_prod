@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2931",
+  "generation_timestamp": "2025-08-04T18:30:48.628554",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Skylar Collins for Pillow Talk - $9,242 budget\n            Need: 1 x 30-second Instagram reel, 2 x Twitter post, 1 x 2-minute tutorial, 3 x LinkedIn post, 3 x Instagram reel\n            9w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$9,242",
+    "fee_numeric": 9242,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "2 x Twitter post",
+      "1 x 2-minute tutorial",
+      "3 x LinkedIn post",
+      "3 x Instagram reel"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7711537160957312,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8120976916520558,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:48.618553",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4398",
+  "generation_timestamp": "2025-08-04T18:31:18.727952",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Andrew Clark\n            • Brand: Coles\n            • Fee: ~$5,203\n            • Deliverables: 3 x YouTube video, 2 x Behind-the-scenes content, 2 x Meet and greet, 1 x Lifestyle photography\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: November 2025",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$5,203",
+    "fee_numeric": 5203,
+    "deliverables": [
+      "3 x YouTube video",
+      "2 x Behind-the-scenes content",
+      "2 x Meet and greet",
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9157424480936548,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8268367850167037,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.718952",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Automotive"
+  }
+}

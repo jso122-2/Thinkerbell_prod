@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_415",
+  "generation_timestamp": "2025-08-04T18:29:54.226897",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: River Murphy\n            • Brand: Hungry Jack's\n            • Fee: ~$4,479\n            • Deliverables: 2 x Product photography, 2 x YouTube short, 1 x 10-minute unboxing\n            • Exclusivity: 4 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$4,479",
+    "fee_numeric": 4479,
+    "deliverables": [
+      "2 x Product photography",
+      "2 x YouTube short",
+      "1 x 10-minute unboxing"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8820854183869608,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9084885221239326,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.218895",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

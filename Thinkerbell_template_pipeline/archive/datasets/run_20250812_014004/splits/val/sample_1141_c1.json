@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1141",
+  "chunk_id": "sample_1141_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Pizza Hut\n            • Fee: ~$13,940\n            • Deliverables: 1 x Product photography\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

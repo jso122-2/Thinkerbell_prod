@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_668",
+  "generation_timestamp": "2025-08-04T18:29:58.881870",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Brandon Nelson for Nando's - $3,358 budget\n            Need: 1 x Facebook story\n            4w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+    "token_count": 47,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brandon Nelson",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$3,358",
+    "fee_numeric": 3358,
+    "deliverables": [
+      "1 x Facebook story"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.756113600323416,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.854128279862439,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.872841",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

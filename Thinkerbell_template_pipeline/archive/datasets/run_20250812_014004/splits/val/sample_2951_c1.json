@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2951",
+  "chunk_id": "sample_2951_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Commonwealth Bank\n            • Fee: ~$6,817\n            • Deliverables: 1 x TV appearance, 3 x 2-minute tutorial\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

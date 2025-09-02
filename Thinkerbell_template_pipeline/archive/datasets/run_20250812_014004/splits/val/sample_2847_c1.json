@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2847",
+  "chunk_id": "sample_2847_c1",
+  "text": "Hey team, looking to work with Skylar Collins for KFC. Budget is approx $7,856 - need 3 x Facebook post, 3 x Twitter post, 1 x 15-second TikTok. 8 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: November 2025.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

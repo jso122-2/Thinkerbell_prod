@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1064",
+  "chunk_id": "sample_1064_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Kmart\n            • Fee: ~$21,006\n            • Deliverables: 2 x Lifestyle photography, 2 x Lifestyle photography, 2 x 15-second TikTok\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $21,006 budget\n\nNeed to confirm: usage rights",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

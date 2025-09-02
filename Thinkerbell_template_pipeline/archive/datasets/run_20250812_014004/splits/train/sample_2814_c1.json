@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2814",
+  "chunk_id": "sample_2814_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Lush\n            • Fee: ~$4,365\n            • Deliverables: 2 x Media interview, 1 x 3-minute vlog, 3 x Lifestyle photography, 1 x Instagram reel, 1 x Instagram reel\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

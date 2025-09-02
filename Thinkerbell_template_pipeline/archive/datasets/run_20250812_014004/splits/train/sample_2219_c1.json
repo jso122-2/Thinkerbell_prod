@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2219",
+  "chunk_id": "sample_2219_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Bunnings\n            • Fee: ~$16,546\n            • Deliverables: 3 x Facebook post\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

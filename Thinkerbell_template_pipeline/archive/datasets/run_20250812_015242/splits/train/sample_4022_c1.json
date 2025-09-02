@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4022",
+  "chunk_id": "sample_4022_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Woolworths\n            • Fee: ~$20,404\n            • Deliverables: 3 x Instagram reel, 2 x 30-second Instagram reel, 1 x Brand photoshoot, 1 x TikTok video\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

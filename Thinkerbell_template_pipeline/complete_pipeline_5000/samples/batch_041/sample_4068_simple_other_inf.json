@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4068",
+  "generation_timestamp": "2025-08-04T18:31:12.186907",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Riley Evans for Fantastic Furniture campaign. Budget around $4,394, looking for 1 x LinkedIn post, 1 x Lifestyle photography, 3 x TikTok video, 2 x 15-second TikTok, 2 x Pinterest pin. \n            10 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 12 months. \n            Engagement period: 3 months.",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$4,394",
+    "fee_numeric": 4394,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "1 x Lifestyle photography",
+      "3 x TikTok video",
+      "2 x 15-second TikTok",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8757290485942957,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8977884957388933,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.173882",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3143",
+  "generation_timestamp": "2025-08-04T18:30:52.857399",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Chloe Lewis for Sportsgirl. \n            Budget is approx $11,284 - need 3 x 15-second TikTok, 3 x TikTok video, 1 x Press conference, 3 x Press conference. \n            7 weeks exclusivity, 3 month engagement. \n            Usage: 11 months. Start date: October 2025.",
+    "token_count": 74,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$11,284",
+    "fee_numeric": 11284,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "3 x TikTok video",
+      "1 x Press conference",
+      "3 x Press conference"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7612861148402188,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7297002255833452,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:52.847399",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Automotive"
+  }
+}

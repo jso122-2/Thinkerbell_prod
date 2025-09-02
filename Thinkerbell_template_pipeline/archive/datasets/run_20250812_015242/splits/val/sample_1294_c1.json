@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1294",
+  "chunk_id": "sample_1294_c1",
+  "text": "Lily Walker for Priceline - $8,580 budget\n            Need: 2 x Lifestyle photography, 2 x Event photography\n            9w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

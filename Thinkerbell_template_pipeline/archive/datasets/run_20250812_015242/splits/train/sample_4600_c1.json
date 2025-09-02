@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4600",
+  "chunk_id": "sample_4600_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Red Rooster\n            • Fee: ~$27,408\n            • Deliverables: 2 x Product photography, 2 x Facebook post\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

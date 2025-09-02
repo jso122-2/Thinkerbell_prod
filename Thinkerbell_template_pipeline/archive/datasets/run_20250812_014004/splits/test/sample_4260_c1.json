@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4260",
+  "chunk_id": "sample_4260_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Target\n            • Fee: ~$9,349\n            • Deliverables: 3 x Product launch event\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: October 2025 reckon",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

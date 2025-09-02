@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4074",
+  "chunk_id": "sample_4074_c1",
+  "text": "Aria Perez for Zambrero - $9,810 budget\n            Need: 1 x Radio interview, 3 x Meet and greet, 3 x YouTube video, 1 x Facebook story\n            11w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

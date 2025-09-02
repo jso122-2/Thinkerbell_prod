@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_173",
+  "chunk_id": "sample_173_c1",
+  "text": "Tyler Scott for Officeworks - $2,112 budget\n            Need: 2 x Press release quote, 2 x Brand photoshoot, 2 x 60-second YouTube video\n            7w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $2,112 budget",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

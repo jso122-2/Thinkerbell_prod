@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1571",
+  "chunk_id": "sample_1571_c1",
+  "text": "Scarlett Turner for Guzman y Gomez - $33,641 budget\n            Need: 1 x Instagram reel, 2 x Behind-the-scenes content\n            3w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

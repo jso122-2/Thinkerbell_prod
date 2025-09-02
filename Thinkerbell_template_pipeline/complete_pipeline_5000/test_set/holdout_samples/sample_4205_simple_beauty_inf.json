@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4205",
+  "generation_timestamp": "2025-08-04T18:31:15.644524",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Ava Johnson\n            • Brand: Lush\n            • Fee: ~$1,950\n            • Deliverables: 3 x Facebook post, 1 x Pinterest pin, 2 x Twitter post\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: December 2025",
+    "token_count": 74,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$1,950",
+    "fee_numeric": 1950,
+    "deliverables": [
+      "3 x Facebook post",
+      "1 x Pinterest pin",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7012634105828937,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9153684762491648,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:15.637523",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Health & Fitness"
+  }
+}

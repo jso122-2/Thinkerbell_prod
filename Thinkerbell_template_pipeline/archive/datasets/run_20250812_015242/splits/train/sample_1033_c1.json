@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1033",
+  "chunk_id": "sample_1033_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Target\n            • Fee: ~$12,773\n            • Deliverables: 1 x Instagram reel, 1 x Radio interview, 3 x 90-second product demo, 2 x Instagram story, 3 x Instagram story\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1972",
+  "chunk_id": "sample_1972_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Lush\n            • Fee: ~$18,455\n            • Deliverables: 3 x 15-second TikTok, 1 x Facebook post, 2 x 5-minute review, 1 x Instagram post\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

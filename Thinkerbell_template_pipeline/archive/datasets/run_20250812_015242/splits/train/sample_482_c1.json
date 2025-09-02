@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_482",
+  "chunk_id": "sample_482_c1",
+  "text": "• Influencer: Hayden Howard\n            • Brand: Qantas\n            • Fee: ~$3,780\n            • Deliverables: 3 x Podcast guest, 1 x Lifestyle photography\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

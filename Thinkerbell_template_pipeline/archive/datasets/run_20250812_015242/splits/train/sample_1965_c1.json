@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1965",
+  "chunk_id": "sample_1965_c1",
+  "text": "Need Peyton Stewart for Myer campaign. Budget around $7,119, looking for 1 x Live stream, 3 x Instagram reel, 1 x LinkedIn post. 11 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 7 months. Engagement period: 5 months. Additional notes: TBC on exact dates, around $7,119 budget",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

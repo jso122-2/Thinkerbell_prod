@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_131",
+  "chunk_id": "sample_131_c1",
+  "text": "Need Lily Walker for IKEA campaign. Budget around $29,340, looking for 3 x LinkedIn post, 3 x LinkedIn post, 2 x Press conference, 2 x 5-minute review. 12 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 9 months. Engagement period: 2 months.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

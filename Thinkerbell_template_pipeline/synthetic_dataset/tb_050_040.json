@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_050_040",
+  "generation_timestamp": "2025-08-12T14:46:11.308846",
+  "batch_id": 50,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "food",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "Publicis has engaged Sebastian Hall to provide services for the New food Series on behalf of Farm Fresh. In response to recent challenges in the food sector, Australians are seeking better food solutions. As the campaign's content creator, Sebastian Hall will deliver key messages across media and social channels. This campaign supports the brand's presence in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Farm Fresh and the Influencer for Farm Fresh Taste Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $7,409 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 1 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 4 months\n- Exclusivity Period: 6 weeks\n- Territory: Australia\n- Usage Rights: 24 months from campaign launch\n- Content Rights: Farm Fresh retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 248,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Farm Fresh",
+    "brand": "Farm Fresh",
+    "campaign": "Farm Fresh Fresh Campaign 2025",
+    "fee": "$6,007",
+    "fee_numeric": 6007,
+    "deliverables": [
+      "2 x Instagram posts",
+      "3 x Instagram stories"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "4 months",
+    "usage_term": "24 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT",
+    "match_confidence": 0.843,
+    "fallback_templates": [
+      "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff",
+      "profile_Golden Gaytime x Keith Schleiger Talent Agreement",
+      "profile_Mattel Brickshop x Craig Contract FINAL.docx LOWNDES SIGNED (1) (1)"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "food",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.968,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.876,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

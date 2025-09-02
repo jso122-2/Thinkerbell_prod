@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1649",
+  "chunk_id": "sample_1649_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Cotton On. Budget is approx $4,773 - need 3 x YouTube short, 1 x Professional headshots, 1 x Pinterest pin, 3 x Instagram post. 8 weeks exclusivity, 3 month engmt. Usage: 10 months. Start date: December 2025.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3505",
+  "chunk_id": "sample_3505_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for Subway. Budget is approx $14,870 - need 1 x Instagram story, 1 x Pinterest pin. 4 weeks exclusivity, 2 month engagement. Usage: 9 months. Start date: October 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

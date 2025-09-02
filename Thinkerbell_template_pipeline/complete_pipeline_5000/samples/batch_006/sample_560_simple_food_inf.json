@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_560",
+  "generation_timestamp": "2025-08-04T18:29:56.908760",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Skylar Collins for Queen Fine Foods. \n            Budget is approx $7,848 - need 3 x Facebook post, 2 x Instagram post, 1 x Twitter post, 3 x TikTok video, 1 x Twitter post. \n            3 weeks exclusivity, 3 month engagement. \n            Usage: 8 months. Start date: September 2025.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$7,848",
+    "fee_numeric": 7848,
+    "deliverables": [
+      "3 x Facebook post",
+      "2 x Instagram post",
+      "1 x Twitter post",
+      "3 x TikTok video",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9350955896879947,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.862384486169054,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.897758",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Fashion & Apparel"
+  }
+}

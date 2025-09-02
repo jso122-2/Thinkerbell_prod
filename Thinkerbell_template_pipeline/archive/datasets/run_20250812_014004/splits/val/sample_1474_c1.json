@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1474",
+  "chunk_id": "sample_1474_c1",
+  "text": "Need James Wilson for Betty's Burgers campaign. Budget around $22,503, looking for 3 x Facebook post, 3 x Professional headshots, 2 x Facebook story. 12 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

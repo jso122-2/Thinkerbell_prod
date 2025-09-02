@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1153",
+  "chunk_id": "sample_1153_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: KFC\n            • Fee: ~$2,103\n            • Deliverables: 1 x LinkedIn post, 2 x Instagram post\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

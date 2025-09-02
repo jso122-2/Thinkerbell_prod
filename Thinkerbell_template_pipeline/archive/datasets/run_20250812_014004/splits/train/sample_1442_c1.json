@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1442",
+  "chunk_id": "sample_1442_c1",
+  "text": "Hey team, looking to work with Chloe Lewis for Officeworks. Budget is approx $2,402 - need 3 x Lifestyle photography. 2 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

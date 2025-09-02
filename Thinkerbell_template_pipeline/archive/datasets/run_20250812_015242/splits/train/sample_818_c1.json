@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_818",
+  "chunk_id": "sample_818_c1",
+  "text": "Zoe Wright for Country Road - $3,283 budget\n            Need: 2 x Facebook post, 2 x Blog post\n            3w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

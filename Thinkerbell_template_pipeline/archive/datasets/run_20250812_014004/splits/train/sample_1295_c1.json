@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1295",
+  "chunk_id": "sample_1295_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Chemist Warehouse. Budget is approx $28,621 - need 2 x Lifestyle photography, 3 x Live stream. 11 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1038",
+  "chunk_id": "sample_1038_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Subway\n            • Fee: ~$12,171\n            • Deliverables: 3 x Brand ambassador content, 3 x 15-second TikTok, 1 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

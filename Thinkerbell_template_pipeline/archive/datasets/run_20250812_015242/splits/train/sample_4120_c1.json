@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4120",
+  "chunk_id": "sample_4120_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Nando's. Budget is approx $13,001 - need 3 x Radio interview, 1 x Product launch event. 2 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

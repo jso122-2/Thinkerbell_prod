@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3473",
+  "generation_timestamp": "2025-08-04T18:30:59.411755",
+  "generator_version": "v1.0",
+  "batch_id": "batch_035",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Daniel Martinez for JB Hi-Fi - $12,263 budget\n            Need: 2 x YouTube video\n            4w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: November 2025\n\nAdditional notes: TBC on exact dates, around $12,263 budget\n\nNeed to confirm: exclusivity period",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$12,263",
+    "fee_numeric": 12263,
+    "deliverables": [
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7349323013529371,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9483812866011199,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:59.402753",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

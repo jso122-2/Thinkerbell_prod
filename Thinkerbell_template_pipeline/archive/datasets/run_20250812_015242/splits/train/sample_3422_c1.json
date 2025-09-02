@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3422",
+  "chunk_id": "sample_3422_c1",
+  "text": "Zoe Wright for Autobarn - $5,473 budget\n            Need: 3 x YouTube video, 2 x Pinterest pin\n            10w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

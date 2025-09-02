@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1251",
+  "chunk_id": "sample_1251_c1",
+  "text": "• Influencer: Jordan Phillips\n            • Brand: Qantas\n            • Fee: ~$8,751\n            • Deliverables: 1 x Instagram story, 2 x Product photography, 1 x 30-second Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

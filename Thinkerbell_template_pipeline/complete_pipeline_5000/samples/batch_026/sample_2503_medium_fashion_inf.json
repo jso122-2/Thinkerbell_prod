@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2503",
+  "generation_timestamp": "2025-08-04T18:30:40.209518",
+  "generator_version": "v1.0",
+  "batch_id": "batch_026",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Daniel Martinez\n            • Brand: Myer\n            • Fee: ~$2,879\n            • Deliverables: 2 x Instagram story, 3 x 5-minute review, 2 x Twitter post, 1 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $2,879 budget",
+    "token_count": 96,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$2,879",
+    "fee_numeric": 2879,
+    "deliverables": [
+      "2 x Instagram story",
+      "3 x 5-minute review",
+      "2 x Twitter post",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9105606169456836,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8614848972958857,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:40.201517",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Sports & Recreation"
+  }
+}

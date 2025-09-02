@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4783",
+  "chunk_id": "sample_4783_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: IKEA\n            • Fee: ~$18,630\n            • Deliverables: 3 x Instagram post, 1 x Facebook post, 3 x Pinterest pin, 1 x 15-second TikTok\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: October 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

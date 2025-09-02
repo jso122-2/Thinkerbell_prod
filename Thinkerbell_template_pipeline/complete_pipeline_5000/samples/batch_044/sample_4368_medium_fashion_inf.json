@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4368",
+  "generation_timestamp": "2025-08-04T18:31:18.434949",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need James Wilson for Myer campaign. Budget around $15,035, looking for 2 x Instagram reel, 2 x TikTok video, 3 x Instagram story. \n            8 week exclusivity from other fashion brands. \n            Campaign runs September 2025. Usage rights for 12 months. \n            Engagement period: 5 months.\n\nAdditional notes: TBC on exact dates, around $15,035 budget\n\nNeed to confirm: deliverables",
+    "token_count": 98,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$15,035",
+    "fee_numeric": 15035,
+    "deliverables": [
+      "2 x Instagram reel",
+      "2 x TikTok video",
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9092858568201532,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9225595785433325,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.426950",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

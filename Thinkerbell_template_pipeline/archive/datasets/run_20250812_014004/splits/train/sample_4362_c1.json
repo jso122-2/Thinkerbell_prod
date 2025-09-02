@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4362",
+  "chunk_id": "sample_4362_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Mecca\n            • Fee: ~$3,105\n            • Deliverables: 3 x Instagram story\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

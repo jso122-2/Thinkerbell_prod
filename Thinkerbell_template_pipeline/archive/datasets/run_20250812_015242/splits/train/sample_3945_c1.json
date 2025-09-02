@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3945",
+  "chunk_id": "sample_3945_c1",
+  "text": "Michael Rodriguez for Betty's Burgers - $3,415 budget\n            Need: 1 x Social media takeover, 2 x 90-second product demo\n            7w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

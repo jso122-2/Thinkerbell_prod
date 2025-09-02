@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2317",
+  "chunk_id": "sample_2317_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Country Road\n            • Fee: ~$4,201\n            • Deliverables: 2 x Pinterest pin, 2 x Twitter post, 1 x Brand photoshoot, 1 x Radio interview, 3 x Facebook post\n            • Exclusivity: 5 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $4,201 budget\n\nNeed to confirm: exclusivity period",
+  "token_count": 101,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1586",
+  "chunk_id": "sample_1586_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Queen Fine Foods\n            • Fee: ~$33,195\n            • Deliverables: 3 x LinkedIn post, 2 x Product launch event, 1 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3924",
+  "chunk_id": "sample_3924_c1",
+  "text": "• Influencer: Hayden Howard\n            • Brand: Domino's\n            • Fee: ~$5,581\n            • Deliverables: 2 x Facebook post, 2 x Product photography, 2 x Podcast guest\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $5,581 budget\n\nNeed to confirm: deliverables",
+  "token_count": 89,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

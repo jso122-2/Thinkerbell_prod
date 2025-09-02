@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1317",
+  "generation_timestamp": "2025-08-04T18:30:12.895741",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sage Cooper for Repco - $11,188 budget\n            Need: 2 x LinkedIn post, 2 x 2-minute tutorial, 1 x LinkedIn post, 3 x YouTube video\n            8w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+    "token_count": 61,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Repco",
+    "brand": "Repco",
+    "campaign": "Repco Campaign",
+    "fee": "$11,188",
+    "fee_numeric": 11188,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "2 x 2-minute tutorial",
+      "1 x LinkedIn post",
+      "3 x YouTube video"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.943501782011442,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9081383773071696,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:12.886747",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

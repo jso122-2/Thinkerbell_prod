@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1942",
+  "chunk_id": "sample_1942_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Red Rooster\n            • Fee: ~$10,190\n            • Deliverables: 3 x 30-second Instagram reel, 3 x Product photography\n            • Exclusivity: 4 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

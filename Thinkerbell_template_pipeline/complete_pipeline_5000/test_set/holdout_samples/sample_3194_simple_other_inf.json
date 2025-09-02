@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3194",
+  "generation_timestamp": "2025-08-04T18:30:53.396304",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sage Reed for Red Rooster - $2,476 budget\n            Need: 3 x 90-second product demo, 2 x Instagram post, 2 x Product launch event, 2 x YouTube short\n            11w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$2,476",
+    "fee_numeric": 2476,
+    "deliverables": [
+      "3 x 90-second product demo",
+      "2 x Instagram post",
+      "2 x Product launch event",
+      "2 x YouTube short"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7534860815804735,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8363975878523403,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:53.387306",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Automotive"
+  }
+}

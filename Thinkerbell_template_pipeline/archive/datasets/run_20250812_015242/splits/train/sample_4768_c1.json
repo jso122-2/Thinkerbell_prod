@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4768",
+  "chunk_id": "sample_4768_c1",
+  "text": "Tyler Scott for Target - $31,955 budget\n            Need: 3 x Blog post, 1 x Facebook post, 2 x 90-second product demo\n            2w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

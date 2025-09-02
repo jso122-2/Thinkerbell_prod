@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_348",
+  "chunk_id": "sample_348_c1",
+  "text": "Michael Rodriguez for Supercheap Auto - $25,639 budget\n            Need: 2 x 60-second YouTube video, 1 x Product launch event, 1 x LinkedIn post\n            9w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: November 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

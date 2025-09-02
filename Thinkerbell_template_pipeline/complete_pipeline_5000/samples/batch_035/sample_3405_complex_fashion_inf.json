@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3405",
+  "generation_timestamp": "2025-08-04T18:30:58.698754",
+  "generator_version": "v1.0",
+  "batch_id": "batch_035",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with River Murphy for Portmans. \n            Budget is approx $7,219 - need 3 x Event photography, 1 x LinkedIn post, 2 x Facebook post. \n            7 weeks exclusivity, 6 month engagement. \n            Usage: 8 months. Start date: January 2026.",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Portmans",
+    "brand": "Portmans",
+    "campaign": "Portmans Campaign",
+    "fee": "$7,219",
+    "fee_numeric": 7219,
+    "deliverables": [
+      "3 x Event photography",
+      "1 x LinkedIn post",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8088755373890993,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7644440018125686,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:58.689757",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Entertainment"
+  }
+}

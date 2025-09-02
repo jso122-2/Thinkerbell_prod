@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3206",
+  "generation_timestamp": "2025-08-04T18:30:54.618823",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Riley Evans for JB Hi-Fi - $23,325 budget\n            Need: 1 x LinkedIn post, 1 x 30-second Instagram reel\n            12w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$23,325",
+    "fee_numeric": 23325,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.810353947052392,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8463782490913381,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:54.610825",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Travel & Tourism"
+  }
+}

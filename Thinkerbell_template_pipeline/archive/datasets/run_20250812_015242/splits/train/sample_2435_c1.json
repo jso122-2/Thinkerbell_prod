@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2435",
+  "chunk_id": "sample_2435_c1",
+  "text": "Need Cameron Parker for Sephora campaign. Budget around $9,422, looking for 3 x Instagram post, 3 x Instagram story, 1 x Brand photoshoot, 1 x 60-second YouTube video. 10 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 7 months. Engagement period: 5 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

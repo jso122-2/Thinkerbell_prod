@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2493",
+  "chunk_id": "sample_2493_c1",
+  "text": "James Wilson for Pizza Hut - $14,246 budget\n            Need: 3 x LinkedIn post\n            5w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

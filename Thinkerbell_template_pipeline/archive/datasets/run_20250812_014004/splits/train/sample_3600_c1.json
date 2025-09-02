@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3600",
+  "chunk_id": "sample_3600_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Roll'd\n            • Fee: ~$20,571\n            • Deliverables: 3 x Facebook story, 1 x LinkedIn post\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2932",
+  "generation_timestamp": "2025-08-04T18:30:48.638557",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Brooklyn Edwards for Lush campaign. Budget around $14,086, looking for 1 x Instagram post, 1 x Pinterest pin, 1 x Instagram post, 1 x Media interview, 2 x Product launch event. \n            2 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 8 months. \n            Engagement period: 5 months.\n\nNeed to confirm: deliverables",
+    "token_count": 95,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$14,086",
+    "fee_numeric": 14086,
+    "deliverables": [
+      "1 x Instagram post",
+      "1 x Pinterest pin",
+      "1 x Instagram post",
+      "1 x Media interview",
+      "2 x Product launch event"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7634817102940942,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8432100537275771,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:48.629553",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

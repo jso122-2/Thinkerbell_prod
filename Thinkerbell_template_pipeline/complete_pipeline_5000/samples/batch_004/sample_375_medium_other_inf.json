@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_375",
+  "generation_timestamp": "2025-08-04T18:29:52.828698",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sage Reed for Red Rooster - $4,071 budget\n            Need: 2 x Press conference, 2 x 2-minute tutorial, 3 x Facebook post\n            11w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+    "token_count": 58,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$4,071",
+    "fee_numeric": 4071,
+    "deliverables": [
+      "2 x Press conference",
+      "2 x 2-minute tutorial",
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8967739739341833,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9197843496287408,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.821698",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "New Season",
+    "product_category": "Entertainment"
+  }
+}

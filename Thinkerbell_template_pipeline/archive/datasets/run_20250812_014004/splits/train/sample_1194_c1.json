@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1194",
+  "chunk_id": "sample_1194_c1",
+  "text": "Hey team, looking to work with Blake Cox for Woolworths. Budget is approx $16,163 - need 1 x Instagram post. 4 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

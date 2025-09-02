@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3012",
+  "generation_timestamp": "2025-08-04T18:30:50.502066",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "River Murphy for Woolworths - $24,254 budget\n            Need: 3 x Instagram story, 2 x Product photography, 3 x 2-minute tutorial, 1 x YouTube video, 3 x Product photography\n            3w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$24,254",
+    "fee_numeric": 24254,
+    "deliverables": [
+      "3 x Instagram story",
+      "2 x Product photography",
+      "3 x 2-minute tutorial",
+      "1 x YouTube video",
+      "3 x Product photography"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7789050879611912,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9302250362272055,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.493069",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Food & Beverage"
+  }
+}

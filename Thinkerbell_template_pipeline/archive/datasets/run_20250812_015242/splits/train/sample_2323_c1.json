@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2323",
+  "chunk_id": "sample_2323_c1",
+  "text": "Hey team, looking to work with Christopher Lee for Sephora. Budget is approx $4,587 - need 2 x Instagram post, 1 x 90-second product demo, 2 x Professional headshots. 12 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: November 2025. no worries",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

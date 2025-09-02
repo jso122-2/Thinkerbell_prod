@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1522",
+  "chunk_id": "sample_1522_c1",
+  "text": "Need Michael Rodriguez for Country Road campaign. Budget around $12,859, looking for 2 x Twitter post. 8 week exclus from other fashion brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

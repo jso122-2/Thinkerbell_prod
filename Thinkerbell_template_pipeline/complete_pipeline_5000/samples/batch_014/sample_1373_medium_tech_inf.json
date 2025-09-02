@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1373",
+  "generation_timestamp": "2025-08-04T18:30:13.552746",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Victoria Carter for Harvey Norman. \n            Budget is approx $2,960 - need 2 x Behind-the-scenes content, 2 x Twitter post, 3 x Lifestyle photography, 2 x Store opening, 2 x Podcast guest. \n            8 weeks exclusivity, 2 month engagement. \n            Usage: 6 months. Start date: September 2025.\n\nAdditional notes: TBC on exact dates, around $2,960 budget",
+    "token_count": 98,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$2,960",
+    "fee_numeric": 2960,
+    "deliverables": [
+      "2 x Behind-the-scenes content",
+      "2 x Twitter post",
+      "3 x Lifestyle photography",
+      "2 x Store opening",
+      "2 x Podcast guest"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8661906561313133,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8604652437379526,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:13.540742",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

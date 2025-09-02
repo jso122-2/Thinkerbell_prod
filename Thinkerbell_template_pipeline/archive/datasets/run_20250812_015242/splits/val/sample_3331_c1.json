@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3331",
+  "chunk_id": "sample_3331_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Chemist Warehouse\n            • Fee: ~$12,763\n            • Deliverables: 1 x Facebook post\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

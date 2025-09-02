@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2070",
+  "generation_timestamp": "2025-08-04T18:30:29.679875",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Scarlett Turner\n            • Brand: Roll'd\n            • Fee: ~$3,735\n            • Deliverables: 2 x Product launch event, 2 x 15-second TikTok, 2 x Article contribution, 1 x 90-second product demo\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: October 2025",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$3,735",
+    "fee_numeric": 3735,
+    "deliverables": [
+      "2 x Product launch event",
+      "2 x 15-second TikTok",
+      "2 x Article contribution",
+      "1 x 90-second product demo"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8029543072115369,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8382493406393565,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:29.669354",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Finance & Insurance"
+  }
+}

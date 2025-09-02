@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1187",
+  "generation_timestamp": "2025-08-04T18:30:09.522849",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for JB Hi-Fi - $8,793 budg\n            Need: 3 x TikTok video, 1 x 30-second Instagram reel, 3 x Instagram reel\n            12w exclus, 3m engmt\n            Usage rights: 8 months\n            Start: January 2026",
+    "token_count": 56,
+    "requires_chunking": false,
+    "text_style": "formal",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$8,793",
+    "fee_numeric": 8793,
+    "deliverables": [
+      "3 x TikTok video",
+      "1 x 30-second Instagram reel",
+      "3 x Instagram reel"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7997698295247316,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.817739312550045,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:09.512852",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

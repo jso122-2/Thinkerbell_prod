@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1393",
+  "chunk_id": "sample_1393_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Myer\n            • Fee: ~$32,620\n            • Deliverables: 1 x Pinterest pin, 1 x Instagram post\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: September 2025\n\nNeed to confirm: deliverables",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

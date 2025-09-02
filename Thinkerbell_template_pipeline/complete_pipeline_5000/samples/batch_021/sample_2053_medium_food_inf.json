@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2053",
+  "generation_timestamp": "2025-08-04T18:30:29.400449",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hayden Howard for Guzman y Gomez - $22,559 budget\n            Need: 1 x YouTube short, 3 x YouTube short, 3 x Twitter post\n            10w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: November 2025\n\nAdditional notes: TBC on exact dates, around $22,559 budget",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Guzman y Gomez",
+    "brand": "Guzman y Gomez",
+    "campaign": "Guzman y Gomez Campaign",
+    "fee": "$22,559",
+    "fee_numeric": 22559,
+    "deliverables": [
+      "1 x YouTube short",
+      "3 x YouTube short",
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8141731838361174,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8694558784400668,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:29.380451",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Health & Fitness"
+  }
+}

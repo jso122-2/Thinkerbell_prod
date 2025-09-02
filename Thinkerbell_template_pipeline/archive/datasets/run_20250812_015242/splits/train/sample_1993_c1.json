@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1993",
+  "chunk_id": "sample_1993_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Commonwealth Bank\n            • Fee: ~$1,819\n            • Deliverables: 1 x LinkedIn post, 3 x Podcast guest, 2 x YouTube short, 2 x YouTube short, 1 x YouTube short\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

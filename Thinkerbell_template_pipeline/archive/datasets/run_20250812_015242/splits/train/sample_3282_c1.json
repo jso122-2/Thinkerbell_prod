@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3282",
+  "chunk_id": "sample_3282_c1",
+  "text": "Need Zoe Wright for Adairs campaign. Budget around $2,215, looking for 2 x Lifestyle photography, 3 x 90-second product demo. 8 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

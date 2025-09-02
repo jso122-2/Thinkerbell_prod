@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1160",
+  "generation_timestamp": "2025-08-04T18:30:09.203851",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Zoe Wright\n            • Brand: Sportsgirl\n            • Fee: ~$1,935\n            • Deliverables: 3 x Instagram story, 1 x Pinterest pin, 2 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$1,935",
+    "fee_numeric": 1935,
+    "deliverables": [
+      "3 x Instagram story",
+      "1 x Pinterest pin",
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8246050878802488,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8244674112457061,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:09.194850",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Fashion & Apparel"
+  }
+}

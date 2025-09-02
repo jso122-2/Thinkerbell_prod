@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1332",
+  "chunk_id": "sample_1332_c1",
+  "text": "Need Emma Thompson for Country Road campaign. Budget around $12,729, looking for 1 x Radio interview. 9 week exclusivity from other fashion brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 2 months. fair dinkum",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

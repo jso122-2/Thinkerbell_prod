@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_639",
+  "chunk_id": "sample_639_c1",
+  "text": "Brooklyn Edwards for McDonald's - $10,474 budget\n            Need: 3 x Product launch event, 1 x Instagram post, 3 x Instagram post, 3 x Instagram post\n            3w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

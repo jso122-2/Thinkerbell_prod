@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4046",
+  "chunk_id": "sample_4046_c1",
+  "text": "Need Blake Cox for Myer campaign. Budget around $3,764, looking for 2 x Instagram story. 4 week exclusivity from other fashion brands. Campaign runs September 2025. Usage rights for 6 months. Engagement period: 6 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

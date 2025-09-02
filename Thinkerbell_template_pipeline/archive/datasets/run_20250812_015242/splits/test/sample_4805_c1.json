@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4805",
+  "chunk_id": "sample_4805_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Telstra. Budget is approx $5,891 - need 2 x 90-second product demo, 3 x 90-second product demo, 3 x 60-second YouTube video, 1 x 30-second Instagram reel. 5 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: November 2025.",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

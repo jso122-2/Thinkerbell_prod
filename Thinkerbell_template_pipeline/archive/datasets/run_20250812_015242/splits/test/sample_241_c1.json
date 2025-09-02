@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_241",
+  "chunk_id": "sample_241_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Red Rooster\n            • Fee: ~$5,656\n            • Deliverables: 2 x Brand ambassador content\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

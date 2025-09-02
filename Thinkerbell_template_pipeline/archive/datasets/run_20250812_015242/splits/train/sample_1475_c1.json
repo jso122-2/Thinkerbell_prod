@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1475",
+  "chunk_id": "sample_1475_c1",
+  "text": "Matthew Taylor for Priceline - $9,625 budget\n            Need: 3 x YouTube short, 3 x Press release quote, 3 x LinkedIn post\n            7w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

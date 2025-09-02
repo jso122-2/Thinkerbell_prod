@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1164",
+  "chunk_id": "sample_1164_c1",
+  "text": "David Brown for Target - $1,596 budget\n            Need: 2 x Twitter post\n            10w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

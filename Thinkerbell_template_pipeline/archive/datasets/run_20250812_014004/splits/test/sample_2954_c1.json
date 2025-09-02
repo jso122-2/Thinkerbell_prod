@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2954",
+  "chunk_id": "sample_2954_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Betty's Burgers. Budget is approx $17,615 - need 1 x TikTok video. 4 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

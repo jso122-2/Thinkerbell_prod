@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2924",
+  "chunk_id": "sample_2924_c1",
+  "text": "Need Tyler Scott for Cotton On campaign. Budget around $34,733, looking for 2 x Professional headshots, 1 x Media interview, 3 x Instagram post. 4 week exclusivity from other fashion brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 2 months. Additional notes: TBC on exact dates, around $34,733 budget",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

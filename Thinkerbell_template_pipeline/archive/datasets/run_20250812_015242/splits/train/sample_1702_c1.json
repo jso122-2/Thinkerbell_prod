@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1702",
+  "chunk_id": "sample_1702_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Pillow Talk\n            • Fee: ~$5,823\n            • Deliverables: 2 x Instagram reel, 3 x 2-minute tutorial, 3 x LinkedIn post\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

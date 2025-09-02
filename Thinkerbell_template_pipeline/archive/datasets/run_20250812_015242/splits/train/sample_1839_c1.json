@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1839",
+  "chunk_id": "sample_1839_c1",
+  "text": "Blake Morgan for Bunnings - $5,369 budget\n            Need: 2 x LinkedIn post\n            6w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

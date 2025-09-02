@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2100",
+  "chunk_id": "sample_2100_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Big W. \n            Budget is approx $10,486 - need 2 x Instagram post, 2 x LinkedIn post, 1 x Pinterest pin, 3 x Facebook post. 11 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

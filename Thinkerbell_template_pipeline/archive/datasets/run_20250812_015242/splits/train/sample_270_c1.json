@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_270",
+  "chunk_id": "sample_270_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Freedom\n            • Fee: ~$4,139\n            • Deliverables: 1 x TV appearance\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

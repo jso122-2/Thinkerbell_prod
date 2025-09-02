@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4025",
+  "generation_timestamp": "2025-08-04T18:31:11.693881",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Isabella Garcia for Red Rooster campaign. Budget around $16,630, looking for 3 x 30-second Instagram reel, 1 x Facebook post, 2 x 90-second product demo. \n            2 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 7 months. \n            Engagement period: 6 months.",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Isabella Garcia",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$16,630",
+    "fee_numeric": 16630,
+    "deliverables": [
+      "3 x 30-second Instagram reel",
+      "1 x Facebook post",
+      "2 x 90-second product demo"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7645694617629716,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9250956428411695,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:11.682886",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

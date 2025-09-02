@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1018",
+  "chunk_id": "sample_1018_c1",
+  "text": "Sophie Anderson for Repco - $19,737 budget\n            Need: 1 x TV appearance, 3 x Lifestyle photography\n            4w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

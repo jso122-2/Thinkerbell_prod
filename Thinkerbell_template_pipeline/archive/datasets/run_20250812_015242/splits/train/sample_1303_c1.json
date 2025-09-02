@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1303",
+  "chunk_id": "sample_1303_c1",
+  "text": "Need Victoria Carter for Mad Mex campaign. Budget around $4,506, looking for 2 x 10-minute unboxing, 2 x Facebook post, 3 x 90-second product demo, 3 x Instagram post. 2 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

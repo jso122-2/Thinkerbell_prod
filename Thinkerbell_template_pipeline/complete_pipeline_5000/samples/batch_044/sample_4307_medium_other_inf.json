@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4307",
+  "generation_timestamp": "2025-08-04T18:31:17.808949",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Mia White for Qantas. \n            Budget is approx $4,634 - need 2 x Pinterest pin, 1 x Pinterest pin. \n            5 weeks exclusivity, 6 month engagement. \n            Usage: 12 months. Start date: November 2025.\n\nAdditional notes: TBC on exact dates, around $4,634 budget",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$4,634",
+    "fee_numeric": 4634,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8045961716927887,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8480437554697265,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:17.799953",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

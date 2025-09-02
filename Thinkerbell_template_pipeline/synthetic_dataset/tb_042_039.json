@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_042_039",
+  "generation_timestamp": "2025-08-12T14:46:01.246246",
+  "batch_id": 42,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "food",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "The Projects has engaged Charlotte Miller to provide expertise for the Organic Food Co Signature Campaign on behalf of Organic Food Co. As the festive season draws near, Australians are seeking better food solutions. As the campaign's brand partner, Charlotte Miller will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Organic Food Co and the Influencer for Organic Food Co Flavour Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $14,989 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 3 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 6 months\n- Exclusivity Period: 4 weeks\n- Territory: Australia\n- Usage Rights: 18 months from campaign launch\n- Content Rights: Organic Food Co retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 253,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Organic Food Co",
+    "brand": "Organic Food Co",
+    "campaign": "Organic Food Co Natural Campaign 2025",
+    "fee": "$14,989",
+    "fee_numeric": 14989,
+    "deliverables": [
+      "2 x Instagram posts",
+      "3 x Instagram stories"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "6 months",
+    "usage_term": "24 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_QUEEN _ The Condos Talent Agreement_21.02.25 [SIGNED]",
+    "match_confidence": 0.869,
+    "fallback_templates": [
+      "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff",
+      "profile_Golden Gaytime x Keith Schleiger Talent Agreement",
+      "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT  (1)"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "food",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.918,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.856,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

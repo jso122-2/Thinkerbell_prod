@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1678",
+  "chunk_id": "sample_1678_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Coles\n            • Fee: ~$3,518\n            • Deliverables: 2 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: October 2025 no worries",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

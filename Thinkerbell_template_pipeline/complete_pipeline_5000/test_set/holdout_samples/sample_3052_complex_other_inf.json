@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3052",
+  "generation_timestamp": "2025-08-04T18:30:50.987703",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Jordan Phillips for Nando's. \n            Budget is approx $23,376 - need 3 x YouTube video, 1 x 2-minute tutorial. \n            6 weeks exclusivity, 2 month engmt. \n            Usage: 9 months. Start date: October 2025.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Jordan Phillips",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$23,376",
+    "fee_numeric": 23376,
+    "deliverables": [
+      "3 x YouTube video",
+      "1 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.839668399701225,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.768475265709977,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.978703",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

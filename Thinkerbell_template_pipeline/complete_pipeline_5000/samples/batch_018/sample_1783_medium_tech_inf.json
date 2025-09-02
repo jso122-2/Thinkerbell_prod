@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1783",
+  "generation_timestamp": "2025-08-04T18:30:22.506950",
+  "generator_version": "v1.0",
+  "batch_id": "batch_018",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Hayden Howard for Telstra. \n            Budget is approx $2,615 - need 2 x Podcast guest, 1 x Press conference, 1 x TikTok video, 1 x 30-second Instagram reel, 3 x Facebook post. \n            4 weeks exclusivity, 3 month engagement. \n            Usage: 9 months. Start date: September 2025.\n\nAdditional notes: TBC on exact dates, around $2,615 budget",
+    "token_count": 95,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$2,615",
+    "fee_numeric": 2615,
+    "deliverables": [
+      "2 x Podcast guest",
+      "1 x Press conference",
+      "1 x TikTok video",
+      "1 x 30-second Instagram reel",
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7621273566420678,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8144288498940849,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:22.498949",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Education"
+  }
+}

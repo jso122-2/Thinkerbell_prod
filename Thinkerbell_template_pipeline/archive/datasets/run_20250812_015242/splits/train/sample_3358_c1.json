@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3358",
+  "chunk_id": "sample_3358_c1",
+  "text": "Victoria Carter for Chemist Warehouse - $3,774 budg\n            Need: 1 x 60-second YouTube video, 3 x Facebook post\n            4w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

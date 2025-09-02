@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_794",
+  "chunk_id": "sample_794_c1",
+  "text": "Need Ava Johnson for Mecca campaign. Budget around $3,956, looking for 2 x 60-second YouTube video. 12 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 9 months. Engagement period: 6 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

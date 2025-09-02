@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1345",
+  "chunk_id": "sample_1345_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Roll'd\n            • Fee: ~$8,340\n            • Deliverables: 2 x Facebook story, 3 x Brand ambassador content, 1 x 90-second product demo, 3 x 2-minute tutorial\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $8,340 budget",
+  "token_count": 92,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

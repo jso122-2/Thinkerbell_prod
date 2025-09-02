@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1593",
+  "chunk_id": "sample_1593_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Adairs\n            • Fee: ~$21,720\n            • Deliverables: 3 x LinkedIn post\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

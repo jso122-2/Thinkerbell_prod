@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_934",
+  "chunk_id": "sample_934_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: McDonald's\n            • Fee: ~$26,459\n            • Deliverables: 2 x Pinterest pin, 3 x 2-minute tutorial\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1774",
+  "chunk_id": "sample_1774_c1",
+  "text": "Need Sage Reed for Myer campaign. Budget around $12,464, looking for 1 x Facebook post, 2 x 2-minute tutorial, 1 x 90-second product demo. 8 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 10 months. Engagement period: 6 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

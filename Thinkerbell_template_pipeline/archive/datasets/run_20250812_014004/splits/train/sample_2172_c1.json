@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2172",
+  "chunk_id": "sample_2172_c1",
+  "text": "Blake Cox for David Jones - $22,602 budget\n            Need: 1 x Media interview, 2 x Instagram story\n            10w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

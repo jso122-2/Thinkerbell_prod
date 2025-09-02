@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_023",
+  "generation_timestamp": "2025-08-04T18:29:46.246444",
+  "generator_version": "v1.0",
+  "batch_id": "batch_001",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Scarlett Turner for Sportsgirl - $34,780 budg\n            Need: 2 x Podcast guest\n            12w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+    "token_count": 48,
+    "requires_chunking": false,
+    "text_style": "formal",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$34,780",
+    "fee_numeric": 34780,
+    "deliverables": [
+      "2 x Podcast guest"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6374538542022911,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7893707656618993,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:46.237443",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Fashion & Apparel"
+  }
+}

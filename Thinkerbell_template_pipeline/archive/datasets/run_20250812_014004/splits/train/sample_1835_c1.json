@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1835",
+  "chunk_id": "sample_1835_c1",
+  "text": "Need Jordan Phillips for Qantas campaign. Budget around $1,831, looking for 1 x Brand photoshoot, 1 x Twitter post, 1 x Facebook post. 10 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 4 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

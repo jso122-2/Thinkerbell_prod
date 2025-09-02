@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2489",
+  "generation_timestamp": "2025-08-04T18:30:39.064332",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Mia White\n            • Brand: Chemist Warehouse\n            • Fee: ~$15,619\n            • Deliverables: 3 x LinkedIn post\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: December 2025",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$15,619",
+    "fee_numeric": 15619,
+    "deliverables": [
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7165009949954996,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8164517928519801,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:39.055329",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

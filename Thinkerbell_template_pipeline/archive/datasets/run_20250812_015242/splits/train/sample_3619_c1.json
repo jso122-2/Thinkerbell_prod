@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3619",
+  "chunk_id": "sample_3619_c1",
+  "text": "Hey team, looking to work with Grace Young for Kmart. Budget is approx $4,002 - need 3 x Instagram post. 9 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1050",
+  "chunk_id": "sample_1050_c1",
+  "text": "Morgan Morris for Cotton On - $28,855 budget\n            Need: 3 x Facebook post, 3 x Instagram post, 1 x Pinterest pin, 3 x Press conference, 3 x Facebook story\n            4w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $28,855 budget",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

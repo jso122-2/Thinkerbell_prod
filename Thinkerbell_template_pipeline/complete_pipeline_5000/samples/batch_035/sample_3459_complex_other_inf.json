@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3459",
+  "generation_timestamp": "2025-08-04T18:30:59.271753",
+  "generator_version": "v1.0",
+  "batch_id": "batch_035",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sophie Anderson for Domino's campaign. Budget around $4,336, looking for 3 x LinkedIn post, 1 x TV appearance, 2 x Facebook post, 1 x Twitter post. \n            10 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 7 months. \n            Engagement period: 2 months.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sophie Anderson",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$4,336",
+    "fee_numeric": 4336,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "1 x TV appearance",
+      "2 x Facebook post",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6499022515957481,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7788467092851364,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:59.263757",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Finance & Insurance"
+  }
+}

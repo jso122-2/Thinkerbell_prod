@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3501",
+  "chunk_id": "sample_3501_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Bed Bath N' Table\n            • Fee: ~$13,748\n            • Deliverables: 2 x Instagram story, 1 x Pinterest pin, 2 x Instagram post\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

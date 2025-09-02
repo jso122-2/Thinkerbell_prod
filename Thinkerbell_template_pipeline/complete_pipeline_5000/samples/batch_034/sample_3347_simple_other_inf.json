@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3347",
+  "generation_timestamp": "2025-08-04T18:30:57.045906",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sophie Anderson\n            • Brand: Roll'd\n            • Fee: ~$21,764\n            • Deliverables: 3 x Radio interview\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sophie Anderson",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$21,764",
+    "fee_numeric": 21764,
+    "deliverables": [
+      "3 x Radio interview"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9239328568305447,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8167825084587531,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.037875",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

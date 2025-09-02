@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2509",
+  "chunk_id": "sample_2509_c1",
+  "text": "Need Sarah Chen for Cotton On campaign. Budget around $3,343, looking for 3 x Live stream. 4 week exclusivity from other fashion brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

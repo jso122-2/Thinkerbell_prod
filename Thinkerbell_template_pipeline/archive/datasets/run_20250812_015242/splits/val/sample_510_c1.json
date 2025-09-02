@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_510",
+  "chunk_id": "sample_510_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Harvey Norman\n            • Fee: ~$29,731\n            • Deliverables: 2 x Pinterest pin, 3 x Article contribution, 1 x Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_998",
+  "generation_timestamp": "2025-08-04T18:30:05.265061",
+  "generator_version": "v1.0",
+  "batch_id": "batch_010",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Scarlett Turner for Chemist Warehouse. \n            Budget is approx $32,633 - need 2 x Meet and greet, 3 x Product photography, 3 x YouTube short, 1 x 3-minute vlog, 2 x LinkedIn post. \n            6 weeks exclusivity, 6 month engagement. \n            Usage: 12 months. Start date: December 2025.",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$32,633",
+    "fee_numeric": 32633,
+    "deliverables": [
+      "2 x Meet and greet",
+      "3 x Product photography",
+      "3 x YouTube short",
+      "1 x 3-minute vlog",
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7785278060431543,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9364969663231729,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:05.255062",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

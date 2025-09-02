@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2041",
+  "chunk_id": "sample_2041_c1",
+  "text": "Need Sean Roberts for Boost Juice campaign. Budget around $33,902, looking for 2 x 90-second product demo, 1 x Radio interview, 2 x Instagram post. 6 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

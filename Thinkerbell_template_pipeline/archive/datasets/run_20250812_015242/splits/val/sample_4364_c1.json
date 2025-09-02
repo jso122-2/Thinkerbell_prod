@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4364",
+  "chunk_id": "sample_4364_c1",
+  "text": "Hey team, looking to work with Blake Cox for Adairs. Budget is approx $33,163 - need 1 x Radio interview, 1 x Instagram post, 2 x LinkedIn post. 5 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

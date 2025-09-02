@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_165",
+  "generation_timestamp": "2025-08-04T18:29:48.684176",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hannah Green\n            • Brand: Domino's\n            • Fee: ~$1,815\n            • Deliverables: 2 x LinkedIn post, 3 x Brand photoshoot, 3 x 15-second TikTok\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$1,815",
+    "fee_numeric": 1815,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "3 x Brand photoshoot",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7592062646819494,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8483491747703287,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:48.674178",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

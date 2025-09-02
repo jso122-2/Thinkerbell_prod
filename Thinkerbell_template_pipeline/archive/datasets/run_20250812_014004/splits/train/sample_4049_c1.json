@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4049",
+  "chunk_id": "sample_4049_c1",
+  "text": "Michael Rodriguez for Grill'd - $15,899 budget\n            Need: 3 x 2-minute tutorial, 1 x 15-second TikTok, 3 x Instagram story\n            5w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

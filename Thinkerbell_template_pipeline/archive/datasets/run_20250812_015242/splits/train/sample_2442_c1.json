@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2442",
+  "chunk_id": "sample_2442_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Sportsgirl. Budget is approx $7,233 - need 1 x Instagram post, 2 x Instagram post, 3 x Media interview. 8 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: November 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

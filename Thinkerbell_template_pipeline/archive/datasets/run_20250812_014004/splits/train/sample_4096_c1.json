@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4096",
+  "chunk_id": "sample_4096_c1",
+  "text": "Morgan Morris for Sportsgirl - $20,604 budget\n            Need: 3 x Meet and greet, 1 x Professional headshots, 2 x Meet and greet, 3 x Instagram post, 1 x Twitter post\n            4w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1063",
+  "chunk_id": "sample_1063_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Myer\n            • Fee: ~$1,854\n            • Deliverables: 3 x LinkedIn post, 1 x Facebook post, 1 x Instagram story, 2 x 5-minute review, 3 x TikTok video\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4857",
+  "chunk_id": "sample_4857_c1",
+  "text": "Hey team, looking to work with Hayden Bell for Lush. Budget is approx $20,673 - need 1 x 60-second YouTube video. 9 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

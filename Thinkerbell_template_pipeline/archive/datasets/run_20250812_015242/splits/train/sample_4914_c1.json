@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4914",
+  "chunk_id": "sample_4914_c1",
+  "text": "Hey team, looking to work with Chloe Lewis for Betty's Burgers. Budget is approx $34,009 - need 1 x Article contribution. 3 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

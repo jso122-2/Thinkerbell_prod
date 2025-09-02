@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1346",
+  "generation_timestamp": "2025-08-04T18:30:13.238743",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Peyton Stewart\n            • Brand: David Jones\n            • Fee: ~$25,967\n            • Deliverables: 3 x Professional headshots, 1 x Facebook post\n            • Exclusivity: 4 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: November 2025",
+    "token_count": 74,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Peyton Stewart",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$25,967",
+    "fee_numeric": 25967,
+    "deliverables": [
+      "3 x Professional headshots",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7440222453870065,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7690775944214321,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:13.229747",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

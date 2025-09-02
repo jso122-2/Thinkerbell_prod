@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2049",
+  "chunk_id": "sample_2049_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Betty's Burgers\n            • Fee: ~$5,648\n            • Deliverables: 3 x Article contribution, 2 x Facebook post\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

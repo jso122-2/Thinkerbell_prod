@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1401",
+  "chunk_id": "sample_1401_c1",
+  "text": "Reagan Rogers for Hungry Jack's - $2,989 budget\n            Need: 2 x Product photography, 1 x Press release quote, 2 x 15-second TikTok, 1 x Instagram post\n            11w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

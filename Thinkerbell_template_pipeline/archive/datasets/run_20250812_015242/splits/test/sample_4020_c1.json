@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4020",
+  "chunk_id": "sample_4020_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: JB Hi-Fi\n            • Fee: ~$16,171\n            • Deliverables: 2 x Instagram story, 3 x Media interview, 3 x Pinterest pin, 3 x TikTok video, 2 x Lifestyle photography\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

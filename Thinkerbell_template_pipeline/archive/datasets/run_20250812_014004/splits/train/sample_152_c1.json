@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_152",
+  "chunk_id": "sample_152_c1",
+  "text": "Natalie Adams for Mecca - $30,694 budget\n            Need: 2 x Blog post, 3 x Facebook post\n            7w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

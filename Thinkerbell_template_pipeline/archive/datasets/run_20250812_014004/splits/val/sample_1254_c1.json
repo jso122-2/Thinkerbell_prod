@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1254",
+  "chunk_id": "sample_1254_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Zambrero\n            • Fee: ~$20,975\n            • Deliverables: 1 x Twitter post, 1 x Article contribution, 3 x YouTube video, 3 x Article contribution\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

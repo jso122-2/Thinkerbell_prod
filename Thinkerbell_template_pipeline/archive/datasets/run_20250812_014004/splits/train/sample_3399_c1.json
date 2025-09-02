@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3399",
+  "chunk_id": "sample_3399_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: David Jones\n            • Fee: ~$29,190\n            • Deliverables: 2 x TikTok video, 3 x Pinterest pin, 1 x 2-minute tutorial, 2 x 15-second TikTok, 2 x Instagram story\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 86,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

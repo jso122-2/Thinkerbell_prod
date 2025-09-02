@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4556",
+  "chunk_id": "sample_4556_c1",
+  "text": "Nathan King for Woolworths - $3,221 budget\n            Need: 2 x YouTube video, 2 x LinkedIn post, 1 x Facebook story, 1 x Professional headshots\n            7w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $3,221 budget",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

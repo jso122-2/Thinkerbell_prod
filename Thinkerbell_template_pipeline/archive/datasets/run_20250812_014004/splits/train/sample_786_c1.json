@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_786",
+  "chunk_id": "sample_786_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Freedom\n            • Fee: ~$4,774\n            • Deliverables: 1 x Facebook story, 3 x Instagram post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

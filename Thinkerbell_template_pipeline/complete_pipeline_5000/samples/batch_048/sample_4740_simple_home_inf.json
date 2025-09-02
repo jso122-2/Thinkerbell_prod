@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4740",
+  "generation_timestamp": "2025-08-04T18:31:26.014121",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Tyler Scott\n            • Brand: Bed Bath N' Table\n            • Fee: ~$18,107\n            • Deliverables: 1 x Live stream, 3 x Live stream, 1 x Pinterest pin, 3 x Pinterest pin, 2 x Instagram reel\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: November 2025",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Tyler Scott",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$18,107",
+    "fee_numeric": 18107,
+    "deliverables": [
+      "1 x Live stream",
+      "3 x Live stream",
+      "1 x Pinterest pin",
+      "3 x Pinterest pin",
+      "2 x Instagram reel"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8591553074794063,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8159257761920378,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.003121",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Health & Fitness"
+  }
+}

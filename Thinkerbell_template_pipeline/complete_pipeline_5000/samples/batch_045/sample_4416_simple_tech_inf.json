@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4416",
+  "generation_timestamp": "2025-08-04T18:31:19.822441",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Christopher Lee for Commonwealth Bank campaign. Budget around $2,060, looking for 2 x 15-second TikTok, 1 x Twitter post, 3 x Instagram reel. \n            11 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 10 months. \n            Engagement period: 2 months.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$2,060",
+    "fee_numeric": 2060,
+    "deliverables": [
+      "2 x 15-second TikTok",
+      "1 x Twitter post",
+      "3 x Instagram reel"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8018352588050037,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9141873350314788,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:19.815441",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

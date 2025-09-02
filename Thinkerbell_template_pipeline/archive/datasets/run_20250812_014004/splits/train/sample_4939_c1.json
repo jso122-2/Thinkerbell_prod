@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4939",
+  "chunk_id": "sample_4939_c1",
+  "text": "Emma Thompson for Supercheap Auto - $25,835 budget\n            Need: 1 x TikTok video, 1 x Event photography\n            3w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

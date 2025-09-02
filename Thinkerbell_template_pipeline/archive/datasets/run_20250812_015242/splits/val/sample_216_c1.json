@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_216",
+  "chunk_id": "sample_216_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for Supercheap Auto. Budget is approx $2,353 - need 2 x Social media takeover, 2 x TikTok video, 2 x YouTube short. 7 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

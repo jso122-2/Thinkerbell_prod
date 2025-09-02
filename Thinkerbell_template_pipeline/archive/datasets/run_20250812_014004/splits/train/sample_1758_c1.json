@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1758",
+  "chunk_id": "sample_1758_c1",
+  "text": "Peyton Stewart for IKEA - $4,997 budget\n            Need: 3 x YouTube short, 1 x Press conference, 1 x YouTube short\n            5w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: September 2025 no worries",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

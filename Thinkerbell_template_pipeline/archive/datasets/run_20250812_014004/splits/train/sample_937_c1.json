@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_937",
+  "chunk_id": "sample_937_c1",
+  "text": "Hey team, looking to work with Peyton Stewart for Qantas. Budget is approx $28,572 - need 1 x LinkedIn post. 9 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

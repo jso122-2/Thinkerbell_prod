@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2682",
+  "chunk_id": "sample_2682_c1",
+  "text": "Hey team, looking to work with Skylar Collins for David Jones. Budget is approx $7,146 - need 1 x Pinterest pin, 1 x Radio interview. 12 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

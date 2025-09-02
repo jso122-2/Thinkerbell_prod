@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4896",
+  "chunk_id": "sample_4896_c1",
+  "text": "Quinn Richardson for Bed Bath N' Table - $21,839 budget\n            Need: 1 x Meet and greet, 2 x YouTube video\n            6w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

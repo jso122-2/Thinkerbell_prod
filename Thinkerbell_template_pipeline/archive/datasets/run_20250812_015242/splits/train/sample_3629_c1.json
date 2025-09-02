@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3629",
+  "chunk_id": "sample_3629_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Portmans\n            • Fee: ~$29,607\n            • Deliverables: 3 x 15-second TikTok, 1 x Facebook story, 1 x Media interview, 1 x Twitter post, 2 x Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

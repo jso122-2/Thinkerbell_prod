@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4619",
+  "chunk_id": "sample_4619_c1",
+  "text": "Hey team, looking to work with Blake Cox for Sportsgirl. Budget is approx $19,621 - need 3 x Media interview, 3 x Instagram story. 4 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

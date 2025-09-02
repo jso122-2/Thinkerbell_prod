@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1344",
+  "chunk_id": "sample_1344_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Sportsgirl. Budget is approx $1,711 - need 2 x Media interview, 3 x Lifestyle photography, 2 x Facebook story, 2 x Facebook post, 2 x Twitter post. 12 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

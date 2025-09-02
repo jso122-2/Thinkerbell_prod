@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2684",
+  "chunk_id": "sample_2684_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Witchery\n            • Fee: ~$21,601\n            • Deliverables: 1 x Facebook post, 3 x 30-second Instagram reel, 1 x Behind-the-scenes content, 2 x Twitter post\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

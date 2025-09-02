@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2135",
+  "chunk_id": "sample_2135_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: David Jones\n            • Fee: ~$22,978\n            • Deliverables: 2 x Instagram post, 3 x LinkedIn post, 3 x Twitter post\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4018",
+  "chunk_id": "sample_4018_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: IKEA\n            • Fee: ~$2,522\n            • Deliverables: 2 x Instagram post, 2 x Instagram reel, 1 x Product photography\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2835",
+  "chunk_id": "sample_2835_c1",
+  "text": "Need Blake Cox for Telstra campaign. Budget around $8,319, looking for 1 x Instagram story, 2 x Press conference, 1 x Event photography, 1 x Instagram post, 1 x Facebook post. 6 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 6 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

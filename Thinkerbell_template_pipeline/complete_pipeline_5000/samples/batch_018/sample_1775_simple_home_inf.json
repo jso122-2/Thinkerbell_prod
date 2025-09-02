@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1775",
+  "generation_timestamp": "2025-08-04T18:30:22.430948",
+  "generator_version": "v1.0",
+  "batch_id": "batch_018",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Bell\n            • Brand: Freedom\n            • Fee: ~$33,427\n            • Deliverables: 3 x Brand photoshoot, 3 x Press release quote, 1 x 30-second Instagram reel, 2 x Professional headshots, 2 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$33,427",
+    "fee_numeric": 33427,
+    "deliverables": [
+      "3 x Brand photoshoot",
+      "3 x Press release quote",
+      "1 x 30-second Instagram reel",
+      "2 x Professional headshots",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9352666824013152,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8658176102960758,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:22.421949",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Fashion & Apparel"
+  }
+}

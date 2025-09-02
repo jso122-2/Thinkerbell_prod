@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3221",
+  "chunk_id": "sample_3221_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Harvey Norman\n            • Fee: ~$4,839\n            • Deliverables: 2 x Live stream\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

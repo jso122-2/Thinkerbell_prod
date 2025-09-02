@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_087",
+  "chunk_id": "sample_087_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Officeworks\n            • Fee: ~$4,278\n            • Deliverables: 3 x Pinterest pin, 2 x Media interview, 3 x Instagram post, 2 x Lifestyle photography, 1 x Facebook post\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: January 2026 fair dinkum",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

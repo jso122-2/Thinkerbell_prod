@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_869",
+  "generation_timestamp": "2025-08-04T18:30:02.705991",
+  "generator_version": "v1.0",
+  "batch_id": "batch_009",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Isabella Garcia for Qantas campaign. Budget around $13,607, looking for 3 x Social media takeover, 2 x LinkedIn post. \n            9 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 8 months. \n            Engagement period: 2 months.",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Isabella Garcia",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$13,607",
+    "fee_numeric": 13607,
+    "deliverables": [
+      "3 x Social media takeover",
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7802925775386518,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7531288111454688,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:02.695994",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Health & Fitness"
+  }
+}

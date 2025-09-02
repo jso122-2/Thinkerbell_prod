@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3418",
+  "chunk_id": "sample_3418_c1",
+  "text": "Need Nathan King for Repco campaign. Budget around $22,944, looking for 3 x Lifestyle photography. 6 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 5 months. Additional notes: TBC on exact dates, around $22,944 budget",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4174",
+  "generation_timestamp": "2025-08-04T18:31:14.371291",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Cook\n            • Brand: Bed Bath N' Table\n            • Fee: ~$1,609\n            • Deliverables: 1 x Pinterest pin, 1 x YouTube short, 3 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: October 2025",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$1,609",
+    "fee_numeric": 1609,
+    "deliverables": [
+      "1 x Pinterest pin",
+      "1 x YouTube short",
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7178935073521844,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8080770083081221,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:14.363292",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1943",
+  "chunk_id": "sample_1943_c1",
+  "text": "Hayden Bell for Adairs - $11,755 budget\n            Need: 3 x Instagram story\n            3w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

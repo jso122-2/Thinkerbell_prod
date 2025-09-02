@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3823",
+  "chunk_id": "sample_3823_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Sportsgirl\n            • Fee: ~$20,894\n            • Deliverables: 2 x Pinterest pin, 1 x Pinterest pin, 3 x Media interview, 3 x Facebook post, 1 x YouTube short\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

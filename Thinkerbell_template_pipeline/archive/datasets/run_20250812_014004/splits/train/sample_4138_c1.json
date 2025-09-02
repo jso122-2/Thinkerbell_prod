@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4138",
+  "chunk_id": "sample_4138_c1",
+  "text": "Olivia Davis for Qantas - $8,968 budget\n            Need: 1 x Live stream, 3 x Radio interview, 2 x Facebook post\n            8w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1911",
+  "chunk_id": "sample_1911_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Mecca\n            • Fee: ~$3,090\n            • Deliverables: 1 x Instagram story, 3 x Instagram story, 2 x Product photography, 1 x Instagram story, 1 x 15-second TikTok\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

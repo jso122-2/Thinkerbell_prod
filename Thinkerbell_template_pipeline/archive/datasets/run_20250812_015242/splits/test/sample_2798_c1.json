@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2798",
+  "chunk_id": "sample_2798_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Freedom\n            • Fee: ~$11,238\n            • Deliverables: 1 x Brand photoshoot, 2 x 10-minute unboxing\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

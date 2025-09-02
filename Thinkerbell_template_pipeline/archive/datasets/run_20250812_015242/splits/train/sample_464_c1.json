@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_464",
+  "chunk_id": "sample_464_c1",
+  "text": "Reagan Rogers for Subway - $2,809 budg\n            Need: 1 x YouTube video\n            2w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

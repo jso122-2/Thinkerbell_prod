@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1452",
+  "generation_timestamp": "2025-08-04T18:30:15.373036",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Hayden Howard for Guzman y Gomez. \n            Budget is approx $3,330 - need 3 x 15-second TikTok, 3 x Facebook post, 1 x Twitter post, 3 x 30-second Instagram reel. \n            2 weeks exclusivity, 3 month engagement. \n            Usage: 12 months. Start date: September 2025.\n\nNeed to confirm: usage rights",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Guzman y Gomez",
+    "brand": "Guzman y Gomez",
+    "campaign": "Guzman y Gomez Campaign",
+    "fee": "$3,330",
+    "fee_numeric": 3330,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "3 x Facebook post",
+      "1 x Twitter post",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7287416362835348,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9258949141142212,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.364042",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Finance & Insurance"
+  }
+}

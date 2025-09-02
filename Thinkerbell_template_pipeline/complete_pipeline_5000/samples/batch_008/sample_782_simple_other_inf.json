@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_782",
+  "generation_timestamp": "2025-08-04T18:30:01.062100",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Tyler Scott for Betty's Burgers. \n            Budget is approx $18,563 - need 3 x LinkedIn post. \n            4 weeks exclusivity, 6 month engagement. \n            Usage: 11 months. Start date: December 2025.",
+    "token_count": 59,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Tyler Scott",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$18,563",
+    "fee_numeric": 18563,
+    "deliverables": [
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8697120334224374,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9491783908018814,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:01.055102",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Home & Garden"
+  }
+}

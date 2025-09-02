@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1901",
+  "chunk_id": "sample_1901_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Myer\n            • Fee: ~$4,356\n            • Deliverables: 3 x Pinterest pin, 1 x Instagram story, 2 x Instagram post, 3 x Instagram post, 3 x 30-second Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

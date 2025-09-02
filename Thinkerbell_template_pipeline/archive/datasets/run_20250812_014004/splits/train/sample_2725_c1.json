@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2725",
+  "chunk_id": "sample_2725_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Sephora. Budget is approx $33,910 - need 1 x Facebook post, 3 x Facebook story, 1 x YouTube video, 2 x Facebook story, 2 x Press conference. 9 weeks exclusivity, 5 month engagement. Usage: 11 months. Start date: September 2025.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

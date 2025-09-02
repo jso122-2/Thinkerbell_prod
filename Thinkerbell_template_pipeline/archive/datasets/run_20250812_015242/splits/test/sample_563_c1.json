@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_563",
+  "chunk_id": "sample_563_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: JB Hi-Fi\n            • Fee: ~$2,231\n            • Deliverables: 2 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

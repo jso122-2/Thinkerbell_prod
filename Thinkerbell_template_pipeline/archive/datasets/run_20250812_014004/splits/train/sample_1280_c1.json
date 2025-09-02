@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1280",
+  "chunk_id": "sample_1280_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Qantas\n            • Fee: ~$3,670\n            • Deliverables: 1 x Pinterest pin, 1 x Live stream, 3 x 30-second Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

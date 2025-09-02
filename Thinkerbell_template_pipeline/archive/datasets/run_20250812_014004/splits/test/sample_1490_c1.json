@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1490",
+  "chunk_id": "sample_1490_c1",
+  "text": "Hey team, looking to work with River Murphy for Amart Furniture. Budget is approx $14,455 - need 2 x Facebook post, 3 x TikTok video. 10 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: November 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

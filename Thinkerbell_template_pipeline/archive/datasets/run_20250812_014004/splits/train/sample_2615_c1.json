@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2615",
+  "chunk_id": "sample_2615_c1",
+  "text": "Need Hayden Howard for Target campaign. Budget around $17,382, looking for 2 x Facebook post, 1 x Pinterest pin. 4 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 4 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_994",
+  "chunk_id": "sample_994_c1",
+  "text": "Chloe Lewis for Coles - $26,808 budget\n            Need: 3 x Twitter post, 3 x Lifestyle photography\n            11w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

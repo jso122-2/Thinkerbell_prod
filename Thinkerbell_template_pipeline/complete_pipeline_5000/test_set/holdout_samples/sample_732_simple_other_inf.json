@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_732",
+  "generation_timestamp": "2025-08-04T18:30:00.584451",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ava Johnson for Subway. \n            Budget is approx $4,498 - need 2 x Facebook post. \n            10 weeks exclusivity, 4 month engagement. \n            Usage: 8 months. Start date: December 2025.",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Subway",
+    "brand": "Subway",
+    "campaign": "Subway Campaign",
+    "fee": "$4,498",
+    "fee_numeric": 4498,
+    "deliverables": [
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9475544971957518,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8745090686793152,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:00.577456",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

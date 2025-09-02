@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2758",
+  "generation_timestamp": "2025-08-04T18:30:44.773047",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Matthew Taylor\n            • Brand: Qantas\n            • Fee: ~$27,639\n            • Deliverables: 1 x 2-minute tutorial\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$27,639",
+    "fee_numeric": 27639,
+    "deliverables": [
+      "1 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7141470106490077,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9036184402445904,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.763050",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Health & Fitness"
+  }
+}

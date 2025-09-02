@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3601",
+  "chunk_id": "sample_3601_c1",
+  "text": "Hey team, looking to work with Chloe Lewis for Qantas. Budget is approx $3,679 - need 3 x Instagram story. 11 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: January 2026.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

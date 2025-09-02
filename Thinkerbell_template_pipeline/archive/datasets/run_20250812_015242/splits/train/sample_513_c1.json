@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_513",
+  "chunk_id": "sample_513_c1",
+  "text": "Need Hayden Howard for Cotton On campaign. Budget around $2,834, looking for 3 x Facebook post, 2 x Twitter post, 2 x Product photography, 2 x Product photography, 3 x Facebook story. 9 week exclusivity from other fashion brands. Campaign runs September 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

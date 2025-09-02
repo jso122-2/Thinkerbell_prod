@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_021",
+  "chunk_id": "sample_021_c1",
+  "text": "Need Brandon Nelson for Mad Mex campaign. Budget around $10,775, looking for 2 x Product photography, 1 x 90-second product demo, 1 x TikTok video, 2 x 90-second product demo, 1 x 15-second TikTok. 11 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 3 months. Additional notes: TBC on exact dates, around $10,775 budget",
+  "token_count": 103,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1557",
+  "chunk_id": "sample_1557_c1",
+  "text": "Hey team, looking to work with Nathan King for Fantastic Furniture. Budget is approx $4,585 - need 3 x Store opening. 6 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

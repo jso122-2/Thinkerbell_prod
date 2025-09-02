@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4986",
+  "chunk_id": "sample_4986_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Kmart\n            • Fee: ~$3,607\n            • Deliverables: 2 x Social media takeover, 1 x Twitter post, 2 x Instagram story, 3 x Brand photoshoot\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: October 2025 reckon",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

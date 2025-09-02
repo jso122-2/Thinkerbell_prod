@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1158",
+  "chunk_id": "sample_1158_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Priceline\n            • Fee: ~$25,205\n            • Deliverables: 3 x Pinterest pin\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

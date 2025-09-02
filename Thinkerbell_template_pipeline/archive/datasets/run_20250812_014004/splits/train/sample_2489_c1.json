@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2489",
+  "chunk_id": "sample_2489_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Chemist Warehouse\n            • Fee: ~$15,619\n            • Deliverables: 3 x LinkedIn post\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

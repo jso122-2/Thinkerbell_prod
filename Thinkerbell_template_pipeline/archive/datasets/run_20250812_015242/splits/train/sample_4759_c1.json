@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4759",
+  "chunk_id": "sample_4759_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Country Road\n            • Fee: ~$2,032\n            • Deliverables: 3 x 30-second Instagram reel, 1 x 2-minute tutorial, 3 x LinkedIn post, 3 x Instagram post\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: September 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 88,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

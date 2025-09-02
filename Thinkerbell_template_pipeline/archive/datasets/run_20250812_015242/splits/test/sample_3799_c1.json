@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3799",
+  "chunk_id": "sample_3799_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Lush\n            • Fee: ~$17,605\n            • Deliverables: 1 x LinkedIn post\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

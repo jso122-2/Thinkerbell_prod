@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_proc_20250815_144820_5013",
+  "generation_timestamp": "2025-08-15T14:48:20.604273",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "complex",
+    "industry": "tech",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# Mattel Brickshop x Craig Contract FINALdocx LOWNDES SIGNED 1 1\n\nInfluencer Agreement COMPANY DATE OF AGREEMENT 7/05/2025 BETWEEN Thinkerbell Pty Ltd (ABN 99 618 397 658) of Wurundjeri Country, L3/41-43 Stewart St, Richmond VIC, 3121 (“Agency”)\nAND Lowndes Marketing Pty Ltd (ABN 56 135 546 664) of 14 Gardonia Place Albany Creek QLD 4035] (“Influencer”)\nDOC ID 1317075073/V1 BACKGROUND A. The Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the product launch for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:\nCLIENT MATTEL PTY LTD ABN 60 000 660 962 658 Church St, Cremorne VIC 3121 BRAND Mattel for Mattel Brick Shop solution Mattel Brick Shop product launch Mattel Brick Shop Australia Launch - Hot Wheels TERM 3 months from the Mattel Brickshop product launch live date, plus any Rollover Term exercised under clause 3.\nThe indicative launch date is w/c 7th July 2025, with the term therefore ending w/c 6th October 2025.\nWORK/S The following materials will be produced by the Influencer during the Usage Term.\nPhotoshoot:\n● Attendance at 1 full day photoshoot in Melbourne to capture key visual assets for earned media (imagery, VNR), paid social, static images for digital, film.\n● Photoshoot will be on 30 May 2025\n● Mattel will cover travel costs (accommodation, flights, per diems) for Craig Lowndes and Talent Manager to attend shoot\n● Mattel will provide wardrobe for Craig Lowndes, Craig to bring 1 x pair of suitable shoes & pants with him to the shoot for contingency Thinkerbell will be producing the following from this shoot for Mattel:\n● 1 x 15”-30” social video for Craig Lowndes' social channel (4:5, 9:16, 16:9)\n● 1 x 15”-30” Mattel Paid Social Video (4:5, 9:16, 16:9)\n● 1 x 60”-90” VNR (16:9)\n● 10 x key stills (1:1, 9:16, 16:9) to be used across social, PR, Mattel website and Digital Display Social Media:\nThe following will be shared on Craig Lowndes' instagram and facebook pages.\n● 1x Instagram Reel\n● 1x story set (3 frames each)\nDOC ID 1317075073/V1\n● 1x FB post (could be repurposed IG post)\nThinkerbell will provide Craig with a brief for social posts and indicative copy ahead of live date.\nMedia interviews:\n● 1x written Q+A - we'd do first draft of responses, Craig Lowndes would approve\n● 1x quote in press release\n● 2-3 interviews to include TV, radio, online and print - if any media interviews request Craig Lowndes to be in-person/ in-studio, Mattel will cover the cost of travel related expenses incurred Other:\n● 1 x briefing session with Craig Lowndes on photoshoot/ product launch (in person or virtual)\n● Craig Lowndes to sign Mattel Brickshop solution including certificate of authenticity to go to buyer of ‘Craigs Car’ listing on carsales\n● IP usage is for the Term only (3 months), not in perpetuity.\nA brief of the materials will be provided to the Agency for approval prior to commencement of producing the materials.\nMEDIA Client may distribute the Work in an unlimited fashion during the Usage Term in the following media:\n● Mattel Facebook page: https://www.facebook.com/Mattel/\n● Mattel Instagram page https://www.instagram.com/mattel/?hl=en\n● Mattel Brick Shop instagram page https://www.instagram.com/mattelbrickshop/\n● Mattel TikTok page https://www.tiktok.com/@mattel?lang=en\n● Mattel Website page - https://shop.mattel.com.au/ ;and\n● PR materials - Press release, media commentary/ interviews, pitch notes as part of media strategy roll out In addition to the above, the Influencer shall upload the Work to the Influencer’s social media channels, once approval has been given by Agency:\n● Instagram handle - craiglowndes888\n● Facebook page - https://www.facebook.com/craiglowndesofficial/\nThe Work must remain published on the Influencer’s social media channels\n(outlined above) for the remainder of the Usage Term once posted. For clarity,\nthe Works may remain published on the Media (and do not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term.\nThe Influencer agrees that the Agency will have rights to amplify the Influencer’s Work in the Media.\nThe Influencer shall not, for a period of twenty-four (24) hours after a Work is published on their social media channels, post, share, re-tweet or re-gram any DOC ID 1317075073/V1 other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work.\nTERRITORY [AUSTRALIA]\nFor clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party.\nUSAGE TERMS 3 months from the first live date, pl...",
+    "token_count": 4259,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "Mattel",
+    "brand": "Mattel",
+    "campaign": "Mattel Campaign 2025",
+    "fee": "$60,000",
+    "fee_numeric": 60000,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x Story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_Mattel Brickshop x Craig Contract FINAL LOWNDES SIGNED (1) (1)",
+    "match_confidence": 0.9304613321642,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "complex"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "complex_tech",
+    "source_document": "Mattel_Brickshop_x_Craig_Contract_FINALdocx_LOWNDES_SIGNED_1_1.md"
+  }
+}

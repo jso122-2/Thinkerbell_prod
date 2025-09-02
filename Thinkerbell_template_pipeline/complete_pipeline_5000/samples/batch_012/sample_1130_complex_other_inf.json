@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1130",
+  "generation_timestamp": "2025-08-04T18:30:08.849851",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sean Roberts for Pizza Hut campaign. Budget around $25,578, looking for 1 x Pinterest pin, 2 x Product photography. \n            11 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 11 months. \n            Engagement period: 2 months.",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$25,578",
+    "fee_numeric": 25578,
+    "deliverables": [
+      "1 x Pinterest pin",
+      "2 x Product photography"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6777650561746632,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7914840956051422,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:08.838853",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Automotive"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_801",
+  "chunk_id": "sample_801_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Guzman y Gomez\n            • Fee: ~$3,670\n            • Deliverables: 2 x Instagram post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: October 2025 no worries",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

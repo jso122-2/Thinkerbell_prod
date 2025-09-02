@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_475",
+  "chunk_id": "sample_475_c1",
+  "text": "Scarlett Turner for Grill'd - $10,155 budget\n            Need: 2 x 2-minute tutorial, 1 x 60-second YouTube video, 1 x YouTube short\n            4w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2693",
+  "generation_timestamp": "2025-08-04T18:30:43.144967",
+  "generator_version": "v1.0",
+  "batch_id": "batch_027",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "River Murphy for Fantastic Furniture - $34,821 budget\n            Need: 1 x YouTube video, 2 x 90-second product demo, 1 x 15-second TikTok\n            6w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+    "token_count": 62,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$34,821",
+    "fee_numeric": 34821,
+    "deliverables": [
+      "1 x YouTube video",
+      "2 x 90-second product demo",
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9130620152437641,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9362318188196227,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:43.136969",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Entertainment"
+  }
+}

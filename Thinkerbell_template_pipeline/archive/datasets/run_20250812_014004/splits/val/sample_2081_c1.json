@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2081",
+  "chunk_id": "sample_2081_c1",
+  "text": "Need Victoria Carter for JB Hi-Fi campaign. Budget around $19,969, looking for 1 x Brand photoshoot, 2 x 15-second TikTok, 2 x Product photography, 3 x Instagram post, 1 x Facebook post. 5 week exclusivity from other electronics brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

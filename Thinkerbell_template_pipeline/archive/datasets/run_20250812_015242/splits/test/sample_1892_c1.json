@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1892",
+  "chunk_id": "sample_1892_c1",
+  "text": "Need Isabella Garcia for McDonald's campaign. Budget around $3,105, looking for 3 x Instagram post, 3 x 5-minute review, 1 x Facebook post, 3 x Instagram post. 5 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 5 months. Need to confirm: deliverables",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

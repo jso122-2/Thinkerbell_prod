@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1535",
+  "chunk_id": "sample_1535_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Adairs\n            • Fee: ~$12,552\n            • Deliverables: 2 x Instagram story, 3 x LinkedIn post, 3 x Instagram post, 1 x Facebook story, 2 x Instagram post\n            • Exclusivity: 4 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

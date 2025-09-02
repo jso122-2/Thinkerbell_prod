@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_677",
+  "chunk_id": "sample_677_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Guzman y Gomez\n            • Fee: ~$3,418\n            • Deliverables: 2 x Media interview, 3 x Live stream, 2 x Facebook story\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_282",
+  "chunk_id": "sample_282_c1",
+  "text": "Hey team, looking to work with Quinn Richardson for Fantastic Furniture. Budget is approx $2,377 - need 2 x Store opening, 3 x Product photography, 2 x 2-minute tutorial, 3 x Event photography, 3 x Instagram post. 7 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1409",
+  "chunk_id": "sample_1409_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: IKEA\n            • Fee: ~$31,775\n            • Deliverables: 3 x Facebook post, 3 x Twitter post\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: January 2026 fair dinkum",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_613",
+  "chunk_id": "sample_613_c1",
+  "text": "Kevin Baker for KFC - $12,155 budget\n            Need: 3 x Press conference\n            11w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: October 2025\n\nNeed to confirm: usage rights",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

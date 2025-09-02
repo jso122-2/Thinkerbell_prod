@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1601",
+  "chunk_id": "sample_1601_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Myer. Budget is approx $2,212 - need 3 x 15-second TikTok. 3 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

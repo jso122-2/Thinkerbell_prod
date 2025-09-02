@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_861",
+  "chunk_id": "sample_861_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Qantas\n            • Fee: ~$12,047\n            • Deliverables: 2 x Twitter post, 1 x 2-minute tutorial, 3 x 30-second Instagram reel, 3 x Instagram story\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_316",
+  "chunk_id": "sample_316_c1",
+  "text": "Hey team, looking to work with Aria Perez for Pizza Hut. Budget is approx $26,757 - need 2 x Behind-the-scenes content, 2 x Instagram reel, 3 x Radio interview, 3 x Twitter post. 12 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: October 2025.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

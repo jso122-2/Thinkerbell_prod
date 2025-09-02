@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2477",
+  "chunk_id": "sample_2477_c1",
+  "text": "• Influencer: Aria Perez\n            • Brand: Bed Bath N' Table\n            • Fee: ~$15,773\n            • Deliverables: 1 x Pinterest pin, 3 x 30-second Instagram reel, 1 x LinkedIn post, 1 x Media interview\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

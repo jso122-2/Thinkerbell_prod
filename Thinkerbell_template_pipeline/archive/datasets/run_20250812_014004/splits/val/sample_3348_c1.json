@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3348",
+  "chunk_id": "sample_3348_c1",
+  "text": "Need Sophie Anderson for Qantas campaign. Budget around $4,335, looking for 3 x Pinterest pin, 2 x TikTok video. 2 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 11 months. Engagement period: 6 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

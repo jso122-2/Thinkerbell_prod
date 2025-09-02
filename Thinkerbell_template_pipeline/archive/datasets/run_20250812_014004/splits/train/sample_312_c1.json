@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_312",
+  "chunk_id": "sample_312_c1",
+  "text": "Quinn Cook for Priceline - $1,678 budget\n            Need: 1 x Blog post, 2 x Twitter post, 3 x Pinterest pin, 3 x Instagram post, 2 x Product photography\n            6w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

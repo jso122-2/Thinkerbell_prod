@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3986",
+  "chunk_id": "sample_3986_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Big W\n            • Fee: ~$8,286\n            • Deliverables: 1 x LinkedIn post, 2 x Twitter post, 3 x Twitter post, 1 x Facebook story\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

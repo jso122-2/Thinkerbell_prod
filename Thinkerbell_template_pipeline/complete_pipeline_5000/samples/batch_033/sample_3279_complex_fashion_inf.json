@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3279",
+  "generation_timestamp": "2025-08-04T18:30:55.368476",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Bell for David Jones campaign. Budget around $13,636, looking for 2 x YouTube video, 1 x Facebook post, 3 x Store opening, 3 x Twitter post, 3 x Twitter post. \n            3 week exclusivity from other fashion brands. \n            Campaign runs November 2025. Usage rights for 11 months. \n            Engagement period: 2 months.",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$13,636",
+    "fee_numeric": 13636,
+    "deliverables": [
+      "2 x YouTube video",
+      "1 x Facebook post",
+      "3 x Store opening",
+      "3 x Twitter post",
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7506030657383925,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8078333340755383,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:55.360453",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Automotive"
+  }
+}

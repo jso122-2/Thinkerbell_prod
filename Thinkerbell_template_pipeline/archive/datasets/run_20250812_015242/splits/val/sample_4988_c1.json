@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4988",
+  "chunk_id": "sample_4988_c1",
+  "text": "Brandon Nelson for Autobarn - $5,788 budget\n            Need: 2 x 5-minute review\n            7w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

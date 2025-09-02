@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_682",
+  "chunk_id": "sample_682_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Priceline\n            • Fee: ~$7,160\n            • Deliverables: 2 x LinkedIn post, 1 x TikTok video\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

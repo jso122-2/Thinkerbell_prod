@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_620",
+  "chunk_id": "sample_620_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Repco. Budget is approx $21,746 - need 1 x Instagram reel. 5 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

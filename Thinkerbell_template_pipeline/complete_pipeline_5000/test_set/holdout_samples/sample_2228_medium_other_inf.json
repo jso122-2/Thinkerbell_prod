@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2228",
+  "generation_timestamp": "2025-08-04T18:30:33.733759",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Morgan Morris\n            • Brand: Fantastic Furniture\n            • Fee: ~$10,409\n            • Deliverables: 1 x Twitter post, 1 x Facebook story, 1 x Store opening\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: September 2025\n\nNeed to confirm: exclusivity period",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$10,409",
+    "fee_numeric": 10409,
+    "deliverables": [
+      "1 x Twitter post",
+      "1 x Facebook story",
+      "1 x Store opening"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7426990776611486,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.891890048339547,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:33.725760",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Health & Fitness"
+  }
+}

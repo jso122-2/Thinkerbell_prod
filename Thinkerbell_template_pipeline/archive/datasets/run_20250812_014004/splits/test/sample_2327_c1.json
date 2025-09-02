@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2327",
+  "chunk_id": "sample_2327_c1",
+  "text": "Hey team, looking to work with River Murphy for Commonwealth Bank. Budget is approx $14,481 - need 3 x Instagram story. 4 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

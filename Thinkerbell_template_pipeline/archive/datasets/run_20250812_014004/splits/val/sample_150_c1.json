@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_150",
+  "chunk_id": "sample_150_c1",
+  "text": "Christopher Lee for McDonald's - $21,331 budget\n            Need: 2 x Instagram post, 1 x LinkedIn post, 2 x Twitter post, 1 x Twitter post\n            4w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

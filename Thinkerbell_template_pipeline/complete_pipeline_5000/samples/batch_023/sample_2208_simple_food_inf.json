@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2208",
+  "generation_timestamp": "2025-08-04T18:30:33.536760",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Skylar Collins for Mad Mex. \n            Budget is approx $10,130 - need 1 x Radio interview. \n            2 weeks exclusivity, 6 month engagement. \n            Usage: 11 months. Start date: September 2025.",
+    "token_count": 59,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Mad Mex",
+    "brand": "Mad Mex",
+    "campaign": "Mad Mex Campaign",
+    "fee": "$10,130",
+    "fee_numeric": 10130,
+    "deliverables": [
+      "1 x Radio interview"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8129201857831531,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9078621861535352,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:33.528759",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Home & Garden"
+  }
+}

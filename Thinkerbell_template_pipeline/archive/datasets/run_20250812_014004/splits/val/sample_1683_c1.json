@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1683",
+  "chunk_id": "sample_1683_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Priceline\n            • Fee: ~$31,158\n            • Deliverables: 2 x Radio interview, 2 x Press release quote, 1 x YouTube short, 1 x Radio interview, 1 x Product photography\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

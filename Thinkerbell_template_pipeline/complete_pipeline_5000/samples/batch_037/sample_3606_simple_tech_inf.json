@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3606",
+  "generation_timestamp": "2025-08-04T18:31:02.784851",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Chloe Lewis for Telstra campaign. Budget around $18,677, looking for 2 x Facebook post, 3 x Facebook story, 2 x Instagram post, 2 x Podcast guest, 2 x Twitter post. \n            7 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 12 months. \n            Engagement period: 6 months.",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$18,677",
+    "fee_numeric": 18677,
+    "deliverables": [
+      "2 x Facebook post",
+      "3 x Facebook story",
+      "2 x Instagram post",
+      "2 x Podcast guest",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8192107498097398,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9344237026441357,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:02.770850",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

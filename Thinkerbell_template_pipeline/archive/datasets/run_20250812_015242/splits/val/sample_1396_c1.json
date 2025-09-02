@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1396",
+  "chunk_id": "sample_1396_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Betty's Burgers\n            • Fee: ~$19,100\n            • Deliverables: 3 x 10-minute unboxing\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

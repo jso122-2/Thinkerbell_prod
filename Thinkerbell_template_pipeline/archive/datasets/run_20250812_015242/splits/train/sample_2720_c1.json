@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2720",
+  "chunk_id": "sample_2720_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Pillow Talk. Budget is approx $4,234 - need 1 x Facebook post, 2 x Radio interview, 3 x Instagram reel, 3 x 2-minute tutorial. 2 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

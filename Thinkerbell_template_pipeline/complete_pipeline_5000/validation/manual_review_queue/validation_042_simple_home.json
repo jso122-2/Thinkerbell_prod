@@ -1,0 +1,68 @@
+{
+  "sample_id": "validation_042",
+  "generation_timestamp": "2025-08-04T18:29:45.908447",
+  "generator_version": "v1.0",
+  "batch_id": "validation_batch",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Isabella Garcia for Freedom - $2,109 budget\n            Need: 3 x Product photography, 3 x 60-second YouTube video, 1 x Media interview, 2 x Instagram post\n            4w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Isabella Garcia",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$2,109",
+    "fee_numeric": 2109,
+    "deliverables": [
+      "3 x Product photography",
+      "3 x 60-second YouTube video",
+      "1 x Media interview",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8249812133993435,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8486703046656975,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:45.894446",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

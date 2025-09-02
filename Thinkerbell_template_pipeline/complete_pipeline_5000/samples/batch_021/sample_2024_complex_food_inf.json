@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2024",
+  "generation_timestamp": "2025-08-04T18:30:28.919447",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Cook\n            • Brand: Guzman y Gomez\n            • Fee: ~$7,036\n            • Deliverables: 2 x Media interview, 2 x Meet and greet\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: September 2025",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Guzman y Gomez",
+    "brand": "Guzman y Gomez",
+    "campaign": "Guzman y Gomez Campaign",
+    "fee": "$7,036",
+    "fee_numeric": 7036,
+    "deliverables": [
+      "2 x Media interview",
+      "2 x Meet and greet"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8241329458371193,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8134517249183851,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:28.903449",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Automotive"
+  }
+}

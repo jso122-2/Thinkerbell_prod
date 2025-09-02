@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3558",
+  "chunk_id": "sample_3558_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Freedom\n            • Fee: ~$2,935\n            • Deliverables: 1 x Facebook post, 1 x Twitter post, 2 x Instagram story, 3 x Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

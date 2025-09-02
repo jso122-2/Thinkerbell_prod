@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_635",
+  "chunk_id": "sample_635_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Adairs\n            • Fee: ~$6,249\n            • Deliverables: 3 x 60-second YouTube video, 1 x Pinterest pin, 1 x Facebook post, 2 x Pinterest pin\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

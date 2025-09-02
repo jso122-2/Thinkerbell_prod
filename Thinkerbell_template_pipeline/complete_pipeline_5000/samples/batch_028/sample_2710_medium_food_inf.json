@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2710",
+  "generation_timestamp": "2025-08-04T18:30:44.264047",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Andrew Clark for Coles campaign. Budget around $14,693, looking for 3 x Pinterest pin, 3 x Podcast guest, 3 x Instagram story, 1 x Facebook post. \n            9 week exclusivity from other grocery brands. \n            Campaign runs January 2026. Usage rights for 10 months. \n            Engagement period: 4 months.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$14,693",
+    "fee_numeric": 14693,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "3 x Podcast guest",
+      "3 x Instagram story",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9114602929511291,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8298684303692203,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.256046",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Travel & Tourism"
+  }
+}

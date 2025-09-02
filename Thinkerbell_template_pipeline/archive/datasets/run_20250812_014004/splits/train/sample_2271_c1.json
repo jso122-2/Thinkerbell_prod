@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2271",
+  "chunk_id": "sample_2271_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Autobarn\n            • Fee: ~$33,747\n            • Deliverables: 3 x 2-minute tutorial, 2 x Meet and greet, 1 x LinkedIn post, 2 x 60-second YouTube video\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

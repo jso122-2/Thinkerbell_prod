@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4493",
+  "chunk_id": "sample_4493_c1",
+  "text": "Hey team, looking to work with Morgan Morris for Priceline. Budget is approx $20,767 - need 2 x Facebook story. 4 weeks exclusivity, 5 month engmt. Usage: 7 months. Start date: September 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

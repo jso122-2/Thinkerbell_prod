@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3018",
+  "chunk_id": "sample_3018_c1",
+  "text": "Zoe Wright for Bunnings - $12,193 budget\n            Need: 1 x Twitter post, 3 x Radio interview\n            10w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

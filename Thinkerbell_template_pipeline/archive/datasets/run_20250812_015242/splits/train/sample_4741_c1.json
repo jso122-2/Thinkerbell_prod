@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4741",
+  "chunk_id": "sample_4741_c1",
+  "text": "Hannah Green for Pizza Hut - $28,868 budget\n            Need: 1 x Facebook story\n            2w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2352",
+  "generation_timestamp": "2025-08-04T18:30:36.367817",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sean Roberts for Betty's Burgers - $15,034 budget\n            Need: 2 x Facebook post, 2 x Radio interview, 1 x Instagram story\n            10w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+    "token_count": 59,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$15,034",
+    "fee_numeric": 15034,
+    "deliverables": [
+      "2 x Facebook post",
+      "2 x Radio interview",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7404213083102592,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9150237890343805,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:36.354819",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

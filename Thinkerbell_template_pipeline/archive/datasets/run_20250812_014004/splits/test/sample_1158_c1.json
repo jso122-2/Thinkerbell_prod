@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1158",
+  "chunk_id": "sample_1158_c1",
+  "text": "Need Riley Evans for Boost Juice campaign. Budget around $22,081, looking for 2 x TV appearance, 1 x LinkedIn post, 1 x 2-minute tutorial, 2 x Facebook story. 12 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 10 months. Engagement period: 3 months.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

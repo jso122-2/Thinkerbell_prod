@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1423",
+  "chunk_id": "sample_1423_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Lush\n            • Fee: ~$2,584\n            • Deliverables: 1 x Instagram reel, 2 x Lifestyle photography\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

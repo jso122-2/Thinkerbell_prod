@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1511",
+  "chunk_id": "sample_1511_c1",
+  "text": "Need Sean Roberts for Autobarn campaign. Budget around $3,972, looking for 2 x Instagram story. 10 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

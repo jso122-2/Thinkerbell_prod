@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4757",
+  "generation_timestamp": "2025-08-04T18:31:26.190633",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Cook\n            • Brand: Kmart\n            • Fee: ~$2,570\n            • Deliverables: 3 x Lifestyle photography, 3 x Instagram story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: December 2025",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$2,570",
+    "fee_numeric": 2570,
+    "deliverables": [
+      "3 x Lifestyle photography",
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7333625043187211,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.887883027003758,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.178635",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

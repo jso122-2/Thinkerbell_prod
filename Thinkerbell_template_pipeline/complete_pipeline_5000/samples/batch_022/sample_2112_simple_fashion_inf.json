@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2112",
+  "generation_timestamp": "2025-08-04T18:30:31.603310",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Howard\n            • Brand: Portmans\n            • Fee: ~$10,781\n            • Deliverables: 3 x 15-second TikTok, 1 x Twitter post, 3 x 30-second Instagram reel\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Portmans",
+    "brand": "Portmans",
+    "campaign": "Portmans Campaign",
+    "fee": "$10,781",
+    "fee_numeric": 10781,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "1 x Twitter post",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9267276241502065,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8318116182932586,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:31.595307",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

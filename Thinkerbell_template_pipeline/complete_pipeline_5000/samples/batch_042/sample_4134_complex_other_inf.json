@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4134",
+  "generation_timestamp": "2025-08-04T18:31:13.939321",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Joshua Hall for McDonald's. \n            Budget is approx $14,087 - need 2 x Lifestyle photography, 3 x Pinterest pin, 1 x Media interview, 2 x Facebook post, 1 x 10-minute unboxing. \n            9 weeks exclusivity, 6 month engagement. \n            Usage: 6 months. Start date: September 2025. no worries",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$14,087",
+    "fee_numeric": 14087,
+    "deliverables": [
+      "2 x Lifestyle photography",
+      "3 x Pinterest pin",
+      "1 x Media interview",
+      "2 x Facebook post",
+      "1 x 10-minute unboxing"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8388995629100103,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8381227109094495,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:13.929299",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Technology & Electronics"
+  }
+}

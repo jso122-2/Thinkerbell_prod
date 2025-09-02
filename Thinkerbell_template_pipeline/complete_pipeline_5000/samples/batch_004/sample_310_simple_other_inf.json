@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_310",
+  "generation_timestamp": "2025-08-04T18:29:52.129698",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Tyler Scott for Domino's - $15,165 budget\n            Need: 2 x Behind-the-scenes content\n            7w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+    "token_count": 50,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Tyler Scott",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$15,165",
+    "fee_numeric": 15165,
+    "deliverables": [
+      "2 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7435769976492252,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8708271244975243,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.121698",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_604",
+  "generation_timestamp": "2025-08-04T18:29:58.253852",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Hayden Bell\n            • Brand: Priceline\n            • Fee: ~$6,593\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: September 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "Priceline",
+    "brand": "Priceline",
+    "campaign": "Priceline Campaign",
+    "fee": "$6,593",
+    "fee_numeric": 6593,
+    "deliverables": [
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7177237944760655,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8475778912006567,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.245854",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Limited Edition",
+    "product_category": "Food & Beverage"
+  }
+}

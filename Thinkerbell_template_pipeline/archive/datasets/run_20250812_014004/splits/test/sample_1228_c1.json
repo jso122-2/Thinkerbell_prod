@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1228",
+  "chunk_id": "sample_1228_c1",
+  "text": "Isabella Garcia for Big W - $14,433 budg\n            Need: 1 x Instagram story, 1 x LinkedIn post\n            10w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

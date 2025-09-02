@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2142",
+  "chunk_id": "sample_2142_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Sephora\n            • Fee: ~$31,446\n            • Deliverables: 2 x Facebook story, 3 x 30-second Instagram reel\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3933",
+  "chunk_id": "sample_3933_c1",
+  "text": "James Wilson for Officeworks - $2,445 budget\n            Need: 2 x Media interview, 1 x 60-second YouTube video\n            9w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

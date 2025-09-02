@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3200",
+  "chunk_id": "sample_3200_c1",
+  "text": "Sage Reed for Country Road - $27,238 budget\n            Need: 3 x Lifestyle photography, 3 x Product photography\n            3w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: November 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

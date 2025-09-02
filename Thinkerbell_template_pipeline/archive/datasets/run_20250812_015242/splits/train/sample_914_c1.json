@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_914",
+  "chunk_id": "sample_914_c1",
+  "text": "Hayden Bell for Telstra - $1,934 budget\n            Need: 3 x 30-second Instagram reel, 3 x Media interview\n            11w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

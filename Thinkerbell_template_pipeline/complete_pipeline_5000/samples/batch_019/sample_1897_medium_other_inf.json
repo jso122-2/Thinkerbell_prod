@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1897",
+  "generation_timestamp": "2025-08-04T18:30:25.069534",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need David Brown for Domino's campaign. Budget around $5,964, looking for 1 x Facebook post, 1 x Pinterest pin, 3 x Instagram post, 3 x Facebook story, 1 x Lifestyle photography. \n            11 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 11 months. \n            Engagement period: 4 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$5,964",
+    "fee_numeric": 5964,
+    "deliverables": [
+      "1 x Facebook post",
+      "1 x Pinterest pin",
+      "3 x Instagram post",
+      "3 x Facebook story",
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8758699751648393,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9349027312890273,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:25.056536",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

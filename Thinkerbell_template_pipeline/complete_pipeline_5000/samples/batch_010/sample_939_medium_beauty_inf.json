@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_939",
+  "generation_timestamp": "2025-08-04T18:30:04.564610",
+  "generator_version": "v1.0",
+  "batch_id": "batch_010",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Victoria Carter for Mecca - $4,643 budget\n            Need: 2 x Pinterest pin, 3 x 90-second product demo, 2 x Facebook post\n            11w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+    "token_count": 58,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Mecca",
+    "brand": "Mecca",
+    "campaign": "Mecca Campaign",
+    "fee": "$4,643",
+    "fee_numeric": 4643,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "3 x 90-second product demo",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7888653696698131,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8295056205634874,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:04.555608",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

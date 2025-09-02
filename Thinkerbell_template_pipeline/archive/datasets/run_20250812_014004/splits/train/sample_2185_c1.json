@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2185",
+  "chunk_id": "sample_2185_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for Priceline. Budget is approx $32,389 - need 1 x YouTube short, 3 x Facebook post, 2 x 2-minute tutorial, 3 x LinkedIn post. 9 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

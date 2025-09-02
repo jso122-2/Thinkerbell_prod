@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4267",
+  "chunk_id": "sample_4267_c1",
+  "text": "Hey team, looking to work with Nathan King for Pizza Hut. Budget is approx $28,936 - need 1 x Event photography, 3 x 60-second YouTube video, 1 x 2-minute tutorial, 1 x Product photography. 5 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

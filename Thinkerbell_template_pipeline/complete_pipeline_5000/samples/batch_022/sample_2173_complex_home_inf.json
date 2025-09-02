@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2173",
+  "generation_timestamp": "2025-08-04T18:30:32.219798",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sarah Chen for Adairs campaign. Budget around $14,277, looking for 2 x Media interview, 1 x Pinterest pin, 3 x Pinterest pin. \n            4 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 7 months. \n            Engagement period: 6 months.",
+    "token_count": 74,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sarah Chen",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$14,277",
+    "fee_numeric": 14277,
+    "deliverables": [
+      "2 x Media interview",
+      "1 x Pinterest pin",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8004606920215586,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8314494196759549,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:32.211802",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Limited Edition",
+    "product_category": "Sports & Recreation"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3685",
+  "chunk_id": "sample_3685_c1",
+  "text": "Scarlett Turner for Supercheap Auto - $10,060 budget\n            Need: 3 x Instagram story\n            5w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

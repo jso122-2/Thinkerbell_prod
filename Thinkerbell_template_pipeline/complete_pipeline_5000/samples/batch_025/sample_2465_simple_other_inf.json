@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2465",
+  "generation_timestamp": "2025-08-04T18:30:38.758329",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for Big W - $17,344 budget\n            Need: 3 x 90-second product demo, 2 x Facebook post, 1 x 15-second TikTok\n            7w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+    "token_count": 59,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$17,344",
+    "fee_numeric": 17344,
+    "deliverables": [
+      "3 x 90-second product demo",
+      "2 x Facebook post",
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8509529567425935,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9461017118973556,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:38.748330",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "New Season",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1936",
+  "chunk_id": "sample_1936_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Domino's\n            • Fee: ~$12,259\n            • Deliverables: 1 x Radio interview\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

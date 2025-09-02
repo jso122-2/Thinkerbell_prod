@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2826",
+  "chunk_id": "sample_2826_c1",
+  "text": "Need Chloe Lewis for Coles campaign. Budget around $3,619, looking for 2 x Instagram story, 1 x Media interview, 3 x Media interview, 1 x 2-minute tutorial. 11 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 4 months.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

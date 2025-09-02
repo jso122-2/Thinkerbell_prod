@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1996",
+  "chunk_id": "sample_1996_c1",
+  "text": "Natalie Adams for Telstra - $34,925 budget\n            Need: 3 x Store opening, 1 x Radio interview\n            2w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

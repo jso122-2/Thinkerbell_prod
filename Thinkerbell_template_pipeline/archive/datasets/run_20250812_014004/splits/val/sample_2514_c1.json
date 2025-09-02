@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2514",
+  "chunk_id": "sample_2514_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Grill'd. Budget is approx $1,861 - need 2 x Blog post, 1 x Instagram post, 3 x Blog post. 12 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1763",
+  "chunk_id": "sample_1763_c1",
+  "text": "Tyler Scott for Pillow Talk - $16,151 budget\n            Need: 1 x Meet and greet\n            8w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

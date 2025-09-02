@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2712",
+  "chunk_id": "sample_2712_c1",
+  "text": "• Influencer: Hayden Bell\n            • Brand: Zambrero\n            • Fee: ~$21,913\n            • Deliverables: 3 x Media interview, 2 x Lifestyle photography, 2 x Twitter post, 1 x Twitter post, 1 x Instagram story\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

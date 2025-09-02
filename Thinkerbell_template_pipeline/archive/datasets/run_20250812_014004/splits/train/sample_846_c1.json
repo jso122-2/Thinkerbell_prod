@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_846",
+  "chunk_id": "sample_846_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Cotton On\n            • Fee: ~$1,938\n            • Deliverables: 3 x Store opening, 1 x Twitter post, 1 x LinkedIn post, 1 x TV appearance, 2 x Pinterest pin\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

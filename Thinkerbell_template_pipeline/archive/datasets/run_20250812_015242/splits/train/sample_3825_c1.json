@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3825",
+  "chunk_id": "sample_3825_c1",
+  "text": "Quinn Cook for Portmans - $12,685 budget\n            Need: 3 x Podcast guest, 1 x 15-second TikTok\n            4w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

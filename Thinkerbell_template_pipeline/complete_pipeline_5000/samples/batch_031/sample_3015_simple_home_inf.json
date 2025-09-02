@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3015",
+  "generation_timestamp": "2025-08-04T18:30:50.532070",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Andrew Clark for Freedom - $31,419 budget\n            Need: 1 x Live stream, 3 x Instagram story, 1 x Brand photoshoot, 3 x YouTube short\n            7w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+    "token_count": 62,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$31,419",
+    "fee_numeric": 31419,
+    "deliverables": [
+      "1 x Live stream",
+      "3 x Instagram story",
+      "1 x Brand photoshoot",
+      "3 x YouTube short"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8563807233918828,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8620992763588544,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.523069",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

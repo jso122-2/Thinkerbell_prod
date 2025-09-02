@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3169",
+  "generation_timestamp": "2025-08-04T18:30:53.123793",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ava Johnson for Witchery. \n            Budget is approx $8,042 - need 2 x Instagram post, 3 x LinkedIn post. \n            8 weeks exclusivity, 4 month engagement. \n            Usage: 11 months. Start date: September 2025. fair dinkum",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Witchery",
+    "brand": "Witchery",
+    "campaign": "Witchery Campaign",
+    "fee": "$8,042",
+    "fee_numeric": 8042,
+    "deliverables": [
+      "2 x Instagram post",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8075914567257356,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8428947937914189,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:53.114795",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3469",
+  "chunk_id": "sample_3469_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Woolworths\n            • Fee: ~$6,085\n            • Deliverables: 2 x LinkedIn post, 1 x Pinterest pin, 2 x Instagram reel, 1 x 90-second product demo\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

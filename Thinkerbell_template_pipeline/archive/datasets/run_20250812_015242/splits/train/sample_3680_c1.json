@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3680",
+  "chunk_id": "sample_3680_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Grill'd. Budget is approx $24,819 - need 2 x Instagram post, 1 x YouTube short. 3 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1424",
+  "generation_timestamp": "2025-08-04T18:30:15.089037",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Lily Walker\n            • Brand: Sephora\n            • Fee: ~$3,017\n            • Deliverables: 2 x Facebook post, 3 x Facebook post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$3,017",
+    "fee_numeric": 3017,
+    "deliverables": [
+      "2 x Facebook post",
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7456875239330415,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7537278204516931,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.079040",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Education"
+  }
+}

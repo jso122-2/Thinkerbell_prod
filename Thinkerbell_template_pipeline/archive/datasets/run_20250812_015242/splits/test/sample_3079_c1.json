@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3079",
+  "chunk_id": "sample_3079_c1",
+  "text": "Brooklyn Edwards for McDonald's - $8,025 budget\n            Need: 1 x Event photography\n            7w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: October 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

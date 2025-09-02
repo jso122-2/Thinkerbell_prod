@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1201",
+  "chunk_id": "sample_1201_c1",
+  "text": "Christopher Lee for Woolworths - $8,343 budget\n            Need: 2 x 30-second Instagram reel, 2 x Brand ambassador content\n            12w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

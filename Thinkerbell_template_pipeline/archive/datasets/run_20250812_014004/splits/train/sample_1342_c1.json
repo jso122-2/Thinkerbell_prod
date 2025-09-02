@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1342",
+  "chunk_id": "sample_1342_c1",
+  "text": "Hey team, looking to work with Mia White for Subway. Budget is approx $32,477 - need 1 x Live stream. 3 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

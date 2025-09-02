@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_100",
+  "chunk_id": "sample_100_c1",
+  "text": "Hey team, looking to work with Mia White for McDonald's. Budget is approx $26,709 - need 3 x 15-second TikTok, 2 x Instagram post. 8 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

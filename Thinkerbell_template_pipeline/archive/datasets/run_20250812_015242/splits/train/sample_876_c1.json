@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_876",
+  "chunk_id": "sample_876_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Coles\n            • Fee: ~$21,131\n            • Deliverables: 3 x 15-second TikTok, 1 x Instagram post, 1 x Facebook story, 1 x LinkedIn post\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

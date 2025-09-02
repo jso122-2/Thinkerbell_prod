@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3553",
+  "chunk_id": "sample_3553_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Roll'd\n            • Fee: ~$33,617\n            • Deliverables: 3 x 90-second product demo, 3 x Lifestyle photography, 1 x Facebook post, 1 x Radio interview\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

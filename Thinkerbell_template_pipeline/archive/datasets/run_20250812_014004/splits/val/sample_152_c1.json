@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_152",
+  "chunk_id": "sample_152_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Zambrero\n            • Fee: ~$21,732\n            • Deliverables: 1 x Radio interview\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

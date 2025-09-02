@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3800",
+  "chunk_id": "sample_3800_c1",
+  "text": "Need Sage Cooper for JB Hi-Fi campaign. Budget around $33,194, looking for 1 x Instagram story, 1 x Brand photoshoot, 3 x Instagram story, 1 x Twitter post. 7 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 6 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

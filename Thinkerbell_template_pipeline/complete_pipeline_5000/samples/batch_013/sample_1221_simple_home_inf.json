@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1221",
+  "generation_timestamp": "2025-08-04T18:30:10.797230",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Victoria Carter for IKEA. \n            Budget is approx $1,700 - need 1 x 60-second YouTube video, 2 x Instagram story, 1 x 2-minute tutorial, 3 x YouTube short. \n            9 weeks exclusivity, 4 month engagement. \n            Usage: 7 months. Start date: January 2026.",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$1,700",
+    "fee_numeric": 1700,
+    "deliverables": [
+      "1 x 60-second YouTube video",
+      "2 x Instagram story",
+      "1 x 2-minute tutorial",
+      "3 x YouTube short"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8960202079343093,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.92126209713987,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:10.783232",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

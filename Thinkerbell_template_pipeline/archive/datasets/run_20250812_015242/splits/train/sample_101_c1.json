@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_101",
+  "chunk_id": "sample_101_c1",
+  "text": "Hey team, looking to work with Morgan Morris for Mad Mex. Budget is approx $15,335 - need 3 x Twitter post, 1 x LinkedIn post, 2 x Lifestyle photography. 9 weeks exclusivity, 5 month engagement. Usage: 11 months. Start date: January 2026. Need to confirm: deliverables",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4696",
+  "chunk_id": "sample_4696_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Big W\n            • Fee: ~$25,107\n            • Deliverables: 2 x Radio interview\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

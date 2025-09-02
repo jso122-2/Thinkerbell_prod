@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4614",
+  "chunk_id": "sample_4614_c1",
+  "text": "Need Morgan Morris for Country Road campaign. Budget around $17,757, looking for 3 x 5-minute review, 3 x 90-second product demo, 3 x Twitter post, 1 x 2-minute tutorial. 2 week exclusivity from other fashion brands. Campaign runs December 2025. Usage rights for 6 months. Engagement period: 3 months.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3107",
+  "generation_timestamp": "2025-08-04T18:30:52.497407",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Peyton Stewart for Country Road campaign. Budget around $32,357, looking for 3 x Product photography, 3 x Facebook post, 2 x 30-second Instagram reel. \n            11 week exclusivity from other fashion brands. \n            Campaign runs September 2025. Usage rights for 11 months. \n            Engagement period: 3 months.",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Peyton Stewart",
+    "client": "Country Road",
+    "brand": "Country Road",
+    "campaign": "Country Road Campaign",
+    "fee": "$32,357",
+    "fee_numeric": 32357,
+    "deliverables": [
+      "3 x Product photography",
+      "3 x Facebook post",
+      "2 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7976573023692484,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9491945035979683,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:52.487399",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "New Season",
+    "product_category": "Automotive"
+  }
+}

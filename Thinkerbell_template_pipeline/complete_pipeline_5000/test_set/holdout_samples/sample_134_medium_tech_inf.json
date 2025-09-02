@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_134",
+  "generation_timestamp": "2025-08-04T18:29:48.333810",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Morgan Morris\n            • Brand: Telstra\n            • Fee: ~$26,167\n            • Deliverables: 1 x Pinterest pin, 3 x Pinterest pin, 3 x Twitter post, 3 x Twitter post, 3 x 90-second product demo\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: September 2025",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$26,167",
+    "fee_numeric": 26167,
+    "deliverables": [
+      "1 x Pinterest pin",
+      "3 x Pinterest pin",
+      "3 x Twitter post",
+      "3 x Twitter post",
+      "3 x 90-second product demo"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.931178974178915,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8487973125542075,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:48.324814",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Health & Fitness"
+  }
+}

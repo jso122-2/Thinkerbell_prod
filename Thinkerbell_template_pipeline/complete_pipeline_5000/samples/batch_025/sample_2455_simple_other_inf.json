@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2455",
+  "generation_timestamp": "2025-08-04T18:30:38.655329",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Skylar Collins\n            • Brand: Fantastic Furniture\n            • Fee: ~$13,358\n            • Deliverables: 3 x Facebook post\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: November 2025",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$13,358",
+    "fee_numeric": 13358,
+    "deliverables": [
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7566837619450613,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9155845476825428,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:38.648333",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

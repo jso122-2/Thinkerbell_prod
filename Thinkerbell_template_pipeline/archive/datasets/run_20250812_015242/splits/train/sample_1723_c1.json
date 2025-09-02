@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1723",
+  "chunk_id": "sample_1723_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Commonwealth Bank\n            • Fee: ~$20,603\n            • Deliverables: 1 x 2-minute tutorial, 1 x Twitter post, 1 x Pinterest pin, 3 x 60-second YouTube video\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

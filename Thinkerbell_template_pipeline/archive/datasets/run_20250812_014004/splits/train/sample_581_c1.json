@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_581",
+  "chunk_id": "sample_581_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Officeworks\n            • Fee: ~$6,287\n            • Deliverables: 3 x LinkedIn post, 1 x TV appearance, 3 x Facebook post\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

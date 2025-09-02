@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_438",
+  "chunk_id": "sample_438_c1",
+  "text": "Ava Johnson for Commonwealth Bank - $21,557 budget\n            Need: 3 x Instagram post, 2 x Twitter post, 2 x Facebook post, 3 x Instagram post, 3 x 15-second TikTok\n            3w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: January 2026\n\nAdditional notes: TBC on exact dates, around $21,557 budget",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

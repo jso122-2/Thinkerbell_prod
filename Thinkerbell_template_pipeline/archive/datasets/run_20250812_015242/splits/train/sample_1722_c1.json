@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1722",
+  "chunk_id": "sample_1722_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Amart Furniture. Budget is approx $2,302 - need 1 x Facebook post, 1 x YouTube video, 2 x Media interview, 3 x YouTube video, 3 x Twitter post. 11 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

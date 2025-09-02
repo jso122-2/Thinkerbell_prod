@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4507",
+  "generation_timestamp": "2025-08-04T18:31:21.619325",
+  "generator_version": "v1.0",
+  "batch_id": "batch_046",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Nathan King for Amart Furniture campaign. Budget around $9,636, looking for 1 x Instagram post, 3 x LinkedIn post, 1 x Social media takeover, 3 x Instagram post, 3 x Facebook post. \n            7 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 10 months. \n            Engagement period: 6 months.",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$9,636",
+    "fee_numeric": 9636,
+    "deliverables": [
+      "1 x Instagram post",
+      "3 x LinkedIn post",
+      "1 x Social media takeover",
+      "3 x Instagram post",
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8595249321051137,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8568543356260039,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:21.611327",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

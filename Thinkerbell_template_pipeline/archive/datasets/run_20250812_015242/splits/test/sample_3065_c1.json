@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3065",
+  "chunk_id": "sample_3065_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: McDonald's\n            • Fee: ~$12,934\n            • Deliverables: 1 x Pinterest pin\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

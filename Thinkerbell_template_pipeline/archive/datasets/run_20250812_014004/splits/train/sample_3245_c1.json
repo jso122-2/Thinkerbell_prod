@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3245",
+  "chunk_id": "sample_3245_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Woolworths\n            • Fee: ~$30,589\n            • Deliverables: 2 x 60-second YouTube video, 1 x Instagram post, 3 x Live stream, 2 x Pinterest pin, 3 x Radio interview\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

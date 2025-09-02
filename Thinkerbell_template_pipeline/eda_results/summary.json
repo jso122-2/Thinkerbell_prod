@@ -1,0 +1,93 @@
+{
+  "dataset_overview": {
+    "total_chunks": 4880,
+    "splits": {
+      "train": 3256,
+      "test": 821,
+      "val": 803
+    },
+    "unique_documents": 4266
+  },
+  "label_stats": {
+    "unique_atomic_labels": 9,
+    "atomic_label_frequency": {
+      "brand": 4880,
+      "client": 4880,
+      "deliverables": 4880,
+      "engagement_term": 4880,
+      "fee": 4880,
+      "usage_term": 4880,
+      "campaign": 4800,
+      "exclusivity_period": 2465,
+      "exclusivity_scope": 1198
+    },
+    "unique_label_combos": 5,
+    "label_combo_frequency": {
+      "brand+campaign+client+deliverables+engagement_term+exclusivity_period+fee+usage_term": 2406,
+      "brand+campaign+client+deliverables+engagement_term+exclusivity_scope+fee+usage_term": 1198,
+      "brand+campaign+client+deliverables+engagement_term+fee+usage_term": 1196,
+      "brand+client+deliverables+engagement_term+exclusivity_period+fee+usage_term": 59,
+      "brand+client+deliverables+engagement_term+fee+usage_term": 21
+    }
+  },
+  "text_length_stats": {
+    "character_length": {
+      "mean": 274.0079918032787,
+      "std": 48.492077622999986,
+      "min": 176,
+      "max": 471,
+      "median": 272.0
+    },
+    "token_length": {
+      "mean": 66.33360655737705,
+      "std": 12.124625184847883,
+      "min": 39,
+      "max": 116,
+      "median": 66.0
+    }
+  },
+  "split_stats": {
+    "train": {
+      "chunks": 3256,
+      "unique_label_combos": 5,
+      "avg_text_length_chars": 273.44103194103195,
+      "avg_text_length_tokens": 66.13513513513513
+    },
+    "val": {
+      "chunks": 803,
+      "unique_label_combos": 5,
+      "avg_text_length_chars": 274.74346201743464,
+      "avg_text_length_tokens": 66.73723536737235
+    },
+    "test": {
+      "chunks": 821,
+      "unique_label_combos": 5,
+      "avg_text_length_chars": 275.537149817296,
+      "avg_text_length_tokens": 66.72594397076736
+    }
+  },
+  "label_combo_overlap": {
+    "train_val_overlap": 1.0,
+    "train_test_overlap": 1.0,
+    "val_test_overlap": 1.0,
+    "common_to_all_splits": 5
+  },
+  "similarity_analysis": {
+    "train_val": {
+      "max_similarity": 1.0000003576278687,
+      "avg_similarity": 0.49703478813171387,
+      "max_similarity_items": {
+        "train_index": 253,
+        "val_index": 59
+      }
+    },
+    "train_test": {
+      "max_similarity": 1.000000238418579,
+      "avg_similarity": 0.4979144334793091,
+      "max_similarity_items": {
+        "train_index": 121,
+        "test_index": 36
+      }
+    }
+  }
+}

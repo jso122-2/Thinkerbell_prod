@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1910",
+  "chunk_id": "sample_1910_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: McDonald's\n            • Fee: ~$14,132\n            • Deliverables: 2 x 15-second TikTok\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

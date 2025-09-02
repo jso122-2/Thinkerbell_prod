@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_402",
+  "generation_timestamp": "2025-08-04T18:29:54.086711",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sage Reed for Woolworths. \n            Budget is approx $4,646 - need 3 x Facebook post, 1 x Radio interview, 2 x Store opening. \n            9 weeks exclusivity, 5 month engagement. \n            Usage: 12 months. Start date: September 2025.",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$4,646",
+    "fee_numeric": 4646,
+    "deliverables": [
+      "3 x Facebook post",
+      "1 x Radio interview",
+      "2 x Store opening"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.784050194509036,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8214728283859948,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.078288",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

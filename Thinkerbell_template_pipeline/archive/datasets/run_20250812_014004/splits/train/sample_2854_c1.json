@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2854",
+  "chunk_id": "sample_2854_c1",
+  "text": "Need David Brown for McDonald's campaign. Budget around $20,758, looking for 1 x Store opening, 3 x Pinterest pin, 3 x 2-minute tutorial, 3 x 60-second YouTube video. 6 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 4 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

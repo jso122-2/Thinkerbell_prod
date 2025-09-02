@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_608",
+  "generation_timestamp": "2025-08-04T18:29:58.291853",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Skylar Collins for Mecca campaign. Budget around $28,430, looking for 1 x YouTube short, 1 x LinkedIn post. \n            10 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 12 months. \n            Engagement period: 6 months.",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Mecca",
+    "brand": "Mecca",
+    "campaign": "Mecca Campaign",
+    "fee": "$28,430",
+    "fee_numeric": 28430,
+    "deliverables": [
+      "1 x YouTube short",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8571667995226588,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9463445305953795,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.283853",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

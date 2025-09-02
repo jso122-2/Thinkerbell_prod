@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_713",
+  "chunk_id": "sample_713_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Grill'd\n            • Fee: ~$2,502\n            • Deliverables: 1 x Article contribution, 1 x Lifestyle photography, 2 x Facebook story, 3 x Twitter post, 1 x 5-minute review\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

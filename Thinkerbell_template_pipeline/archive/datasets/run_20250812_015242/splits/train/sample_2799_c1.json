@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2799",
+  "chunk_id": "sample_2799_c1",
+  "text": "Blake Morgan for McDonald's - $30,152 budget\n            Need: 3 x 30-second Instagram reel, 2 x Product photography, 2 x YouTube short\n            2w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

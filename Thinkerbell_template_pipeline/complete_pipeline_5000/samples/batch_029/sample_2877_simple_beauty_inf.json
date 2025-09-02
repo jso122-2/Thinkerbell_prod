@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2877",
+  "generation_timestamp": "2025-08-04T18:30:46.978316",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Michael Rodriguez for Sephora - $12,607 budget\n            Need: 1 x Instagram post, 3 x Instagram post, 2 x Facebook post, 2 x Event photography, 1 x Lifestyle photography\n            7w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$12,607",
+    "fee_numeric": 12607,
+    "deliverables": [
+      "1 x Instagram post",
+      "3 x Instagram post",
+      "2 x Facebook post",
+      "2 x Event photography",
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7935564447035578,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.944159751614792,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:46.969321",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Food & Beverage"
+  }
+}

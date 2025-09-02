@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4795",
+  "generation_timestamp": "2025-08-04T18:31:26.605148",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Joshua Hall for JB Hi-Fi. \n            Budget is approx $30,994 - need 1 x Meet and greet, 2 x Facebook story, 2 x 2-minute tutorial, 3 x 60-second YouTube video, 3 x LinkedIn post. \n            3 weeks exclusivity, 5 month engagement. \n            Usage: 8 months. Start date: September 2025.",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$30,994",
+    "fee_numeric": 30994,
+    "deliverables": [
+      "1 x Meet and greet",
+      "2 x Facebook story",
+      "2 x 2-minute tutorial",
+      "3 x 60-second YouTube video",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6660442890464627,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7520073672636324,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.591149",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Health & Fitness"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_400",
+  "chunk_id": "sample_400_c1",
+  "text": "Hannah Green for Commonwealth Bank - $32,060 budget\n            Need: 1 x Twitter post, 2 x LinkedIn post, 1 x Facebook post\n            10w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

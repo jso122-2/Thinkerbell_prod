@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4406",
+  "chunk_id": "sample_4406_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Chemist Warehouse\n            • Fee: ~$3,028\n            • Deliverables: 3 x Instagram reel, 3 x Radio interview, 3 x Media interview\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: November 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1609",
+  "chunk_id": "sample_1609_c1",
+  "text": "Hey team, looking to work with Lily Walker for Nando's. Budget is approx $2,697 - need 1 x Podcast guest, 3 x YouTube short, 1 x LinkedIn post, 2 x 90-second product demo, 2 x Instagram story. 5 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: January 2026. Additional notes: TBC on exact dates, around $2,697 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

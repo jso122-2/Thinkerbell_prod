@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_326",
+  "chunk_id": "sample_326_c1",
+  "text": "Justin Mitchell for Bunnings - $6,515 budget\n            Need: 2 x Instagram story, 1 x 30-second Instagram reel, 2 x YouTube short, 1 x LinkedIn post, 3 x YouTube short\n            7w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_603",
+  "chunk_id": "sample_603_c1",
+  "text": "Hannah Green for Portmans - $3,607 budget\n            Need: 1 x Instagram post, 1 x TikTok video, 3 x Media interview, 3 x LinkedIn post, 1 x LinkedIn post\n            9w exclusivity, 5m engmt\n            Usage rights: 7 months\n            Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

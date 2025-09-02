@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2275",
+  "chunk_id": "sample_2275_c1",
+  "text": "Layla Campbell for Woolworths - $1,521 budget\n            Need: 1 x YouTube short\n            11w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

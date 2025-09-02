@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4053",
+  "generation_timestamp": "2025-08-04T18:31:12.030882",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Andrew Clark for McDonald's. \n            Budget is approx $7,345 - need 2 x Facebook post, 3 x 90-second product demo, 1 x Brand photoshoot, 1 x Instagram story, 1 x Media interview. \n            10 weeks exclusivity, 4 month engagement. \n            Usage: 12 months. Start date: September 2025.",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$7,345",
+    "fee_numeric": 7345,
+    "deliverables": [
+      "2 x Facebook post",
+      "3 x 90-second product demo",
+      "1 x Brand photoshoot",
+      "1 x Instagram story",
+      "1 x Media interview"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.817663897782501,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7964832447227428,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.016886",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Food & Beverage"
+  }
+}

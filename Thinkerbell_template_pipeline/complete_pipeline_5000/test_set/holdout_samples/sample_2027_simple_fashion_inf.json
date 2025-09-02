@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2027",
+  "generation_timestamp": "2025-08-04T18:30:28.977448",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Riley Evans for David Jones - $16,230 budget\n            Need: 3 x Pinterest pin, 2 x Product launch event, 3 x TikTok video, 3 x 30-second Instagram reel\n            9w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$16,230",
+    "fee_numeric": 16230,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "2 x Product launch event",
+      "3 x TikTok video",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8668978273257831,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8319499664891968,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:28.962450",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

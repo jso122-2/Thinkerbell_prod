@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4206",
+  "chunk_id": "sample_4206_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Hungry Jack's\n            • Fee: ~$14,447\n            • Deliverables: 2 x Brand photoshoot, 2 x Product photography, 1 x Facebook post, 1 x 90-second product demo, 2 x Instagram story\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

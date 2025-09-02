@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1711",
+  "chunk_id": "sample_1711_c1",
+  "text": "Morgan Morris for Commonwealth Bank - $11,155 budget\n            Need: 3 x Instagram story, 2 x 60-second YouTube video\n            3w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

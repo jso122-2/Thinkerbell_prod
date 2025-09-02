@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3338",
+  "chunk_id": "sample_3338_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for McDonald's. Budget is approx $30,708 - need 3 x 30-second Instagram reel, 2 x Professional headshots, 1 x Twitter post. 8 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

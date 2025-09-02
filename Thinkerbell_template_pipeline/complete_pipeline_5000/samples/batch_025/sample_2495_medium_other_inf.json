@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2495",
+  "generation_timestamp": "2025-08-04T18:30:39.123324",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Andrew Clark for Big W. \n            Budget is approx $4,306 - need 1 x Product photography, 3 x Blog post, 3 x Blog post, 3 x Lifestyle photography, 3 x Pinterest pin. \n            3 weeks exclusivity, 2 month engagement. \n            Usage: 9 months. Start date: December 2025.\n\nNeed to confirm: deliverables",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$4,306",
+    "fee_numeric": 4306,
+    "deliverables": [
+      "1 x Product photography",
+      "3 x Blog post",
+      "3 x Blog post",
+      "3 x Lifestyle photography",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8941259578073791,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9409796737215358,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:39.116325",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Sports & Recreation"
+  }
+}

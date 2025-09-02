@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4881",
+  "chunk_id": "sample_4881_c1",
+  "text": "• Influencer: Hayden Bell\n            • Brand: IKEA\n            • Fee: ~$14,637\n            • Deliverables: 3 x Facebook story, 1 x 10-minute unboxing, 1 x YouTube video\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4520",
+  "chunk_id": "sample_4520_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Sportsgirl\n            • Fee: ~$25,329\n            • Deliverables: 1 x Facebook story, 3 x Media interview\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

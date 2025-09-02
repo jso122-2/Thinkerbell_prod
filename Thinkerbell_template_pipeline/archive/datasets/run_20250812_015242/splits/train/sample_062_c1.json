@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_062",
+  "chunk_id": "sample_062_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Betty's Burgers\n            • Fee: ~$2,165\n            • Deliverables: 3 x LinkedIn post, 1 x Facebook story, 2 x Radio interview, 2 x Press release quote, 2 x 90-second product demo\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

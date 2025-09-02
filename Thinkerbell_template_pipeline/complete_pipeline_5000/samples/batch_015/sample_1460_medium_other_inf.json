@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1460",
+  "generation_timestamp": "2025-08-04T18:30:15.451036",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Michael Rodriguez for Domino's campaign. Budget around $4,066, looking for 1 x 3-minute vlog, 2 x Pinterest pin, 2 x Media interview, 3 x Brand photoshoot. \n            3 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 8 months. \n            Engagement period: 5 months.\n\nNeed to confirm: usage rights",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$4,066",
+    "fee_numeric": 4066,
+    "deliverables": [
+      "1 x 3-minute vlog",
+      "2 x Pinterest pin",
+      "2 x Media interview",
+      "3 x Brand photoshoot"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7097072588800672,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.83593375665106,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.442044",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

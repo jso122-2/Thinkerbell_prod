@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3938",
+  "chunk_id": "sample_3938_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: KFC\n            • Fee: ~$2,159\n            • Deliverables: 3 x TikTok video, 3 x Radio interview, 2 x 60-second YouTube video, 2 x TikTok video, 3 x Instagram reel\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

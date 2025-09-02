@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2349",
+  "chunk_id": "sample_2349_c1",
+  "text": "Need Brooklyn Edwards for Priceline campaign. Budget around $14,675, looking for 3 x Live stream, 2 x Product photography, 3 x Behind-the-scenes content. 6 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

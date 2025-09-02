@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3784",
+  "chunk_id": "sample_3784_c1",
+  "text": "Hey team, looking to work with River Murphy for JB Hi-Fi. Budget is approx $11,610 - need 2 x Pinterest pin, 3 x Behind-the-scenes content, 3 x Twitter post, 1 x 60-second YouTube video. 12 weeks exclusivity, 5 month engmt. Usage: 11 months. Start date: January 2026.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

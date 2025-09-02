@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2407",
+  "chunk_id": "sample_2407_c1",
+  "text": "Hey team, looking to work with Quinn Cook for Mecca. Budget is approx $14,524 - need 1 x Brand photoshoot. 11 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

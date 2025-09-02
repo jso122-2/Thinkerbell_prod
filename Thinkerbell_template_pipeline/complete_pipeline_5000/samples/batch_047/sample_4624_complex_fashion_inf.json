@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4624",
+  "generation_timestamp": "2025-08-04T18:31:23.627047",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: River Murphy\n            • Brand: Country Road\n            • Fee: ~$6,621\n            • Deliverables: 3 x Pinterest pin, 2 x Twitter post, 3 x LinkedIn post, 2 x 60-second YouTube video\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: October 2025",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Country Road",
+    "brand": "Country Road",
+    "campaign": "Country Road Campaign",
+    "fee": "$6,621",
+    "fee_numeric": 6621,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "2 x Twitter post",
+      "3 x LinkedIn post",
+      "2 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8263702560834677,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7306287431563462,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:23.613047",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

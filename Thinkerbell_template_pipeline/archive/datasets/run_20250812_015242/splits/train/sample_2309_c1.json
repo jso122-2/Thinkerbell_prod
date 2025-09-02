@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2309",
+  "chunk_id": "sample_2309_c1",
+  "text": "• Influencer: Hayden Howard\n            • Brand: Freedom\n            • Fee: ~$1,738\n            • Deliverables: 3 x Instagram reel, 2 x Instagram post, 3 x TikTok video\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

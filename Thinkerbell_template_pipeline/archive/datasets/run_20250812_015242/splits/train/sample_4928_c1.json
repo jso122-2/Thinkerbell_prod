@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4928",
+  "chunk_id": "sample_4928_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: KFC\n            • Fee: ~$12,037\n            • Deliverables: 1 x Twitter post, 1 x 15-second TikTok, 3 x Facebook post\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_613",
+  "generation_timestamp": "2025-08-04T18:29:58.341852",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Kevin Baker for KFC - $12,155 budget\n            Need: 3 x Press conference\n            11w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: October 2025\n\nNeed to confirm: usage rights",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Kevin Baker",
+    "client": "KFC",
+    "brand": "KFC",
+    "campaign": "KFC Campaign",
+    "fee": "$12,155",
+    "fee_numeric": 12155,
+    "deliverables": [
+      "3 x Press conference"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7747081811438553,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9395842232123586,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.333853",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

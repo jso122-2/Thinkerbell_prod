@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3714",
+  "chunk_id": "sample_3714_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Sephora\n            • Fee: ~$7,306\n            • Deliverables: 2 x Product launch event, 2 x Media interview, 3 x Twitter post, 2 x YouTube short\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

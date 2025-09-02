@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1252",
+  "generation_timestamp": "2025-08-04T18:30:11.178271",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Kevin Baker for Hungry Jack's. \n            Budget is approx $21,314 - need 2 x Pinterest pin, 3 x Media interview, 2 x 30-second Instagram reel, 3 x TikTok video, 3 x 15-second TikTok. \n            6 weeks exclusivity, 4 month engmt. \n            Usage: 6 months. Start date: December 2025. no worries",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Kevin Baker",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$21,314",
+    "fee_numeric": 21314,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "3 x Media interview",
+      "2 x 30-second Instagram reel",
+      "3 x TikTok video",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8270270082322061,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8011690762908469,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.159272",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Sports & Recreation"
+  }
+}

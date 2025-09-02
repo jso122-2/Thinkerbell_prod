@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2046",
+  "chunk_id": "sample_2046_c1",
+  "text": "Matthew Taylor for Chemist Warehouse - $11,002 budget\n            Need: 3 x YouTube video\n            3w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

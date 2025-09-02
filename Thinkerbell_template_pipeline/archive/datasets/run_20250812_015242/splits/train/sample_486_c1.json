@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_486",
+  "chunk_id": "sample_486_c1",
+  "text": "Kevin Baker for Lush - $13,592 budget\n            Need: 1 x Media interview\n            7w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

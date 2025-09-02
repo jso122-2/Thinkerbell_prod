@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_146",
+  "chunk_id": "sample_146_c1",
+  "text": "• Influencer: Chloe Lewis\n            • Brand: Country Road\n            • Fee: ~$2,771\n            • Deliverables: 1 x Twitter post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

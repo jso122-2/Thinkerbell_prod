@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1646",
+  "chunk_id": "sample_1646_c1",
+  "text": "Peyton Stewart for Grill'd - $2,823 budget\n            Need: 3 x 60-second YouTube video, 1 x Product photography\n            8w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

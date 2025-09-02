@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3438",
+  "chunk_id": "sample_3438_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Sportsgirl\n            • Fee: ~$24,317\n            • Deliverables: 1 x Product launch event, 1 x Twitter post\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

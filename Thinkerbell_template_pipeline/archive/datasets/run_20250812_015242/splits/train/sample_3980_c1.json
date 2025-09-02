@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3980",
+  "chunk_id": "sample_3980_c1",
+  "text": "David Brown for Country Road - $25,373 budget\n            Need: 3 x Facebook post, 1 x Store opening\n            8w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

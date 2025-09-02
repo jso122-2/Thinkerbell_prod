@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2739",
+  "chunk_id": "sample_2739_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Bunnings. Budget is approx $4,375 - need 3 x LinkedIn post, 3 x Professional headshots, 2 x Instagram story, 3 x 60-second YouTube video, 1 x 5-minute review. 11 weeks exclus, 5 month engmt. Usage: 6 months. Start date: January 2026.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

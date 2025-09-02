@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1013",
+  "chunk_id": "sample_1013_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Betty's Burgers\n            • Fee: ~$12,908\n            • Deliverables: 2 x YouTube short\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $12,908 budget",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

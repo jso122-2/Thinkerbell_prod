@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3197",
+  "chunk_id": "sample_3197_c1",
+  "text": "Jordan Phillips for McDonald's - $2,788 budget\n            Need: 1 x Facebook post, 1 x LinkedIn post, 3 x Product photography, 1 x YouTube video\n            12w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

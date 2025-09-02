@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_387",
+  "generation_timestamp": "2025-08-04T18:29:52.961701",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with James Wilson for KFC. \n            Budget is approx $7,841 - need 1 x Facebook post, 1 x YouTube short, 1 x YouTube short, 2 x Instagram story. \n            9 weeks exclusivity, 6 month engagement. \n            Usage: 9 months. Start date: September 2025.\n\nAdditional notes: TBC on exact dates, around $7,841 budget\n\nNeed to confirm: exclusivity period",
+    "token_count": 95,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "KFC",
+    "brand": "KFC",
+    "campaign": "KFC Campaign",
+    "fee": "$7,841",
+    "fee_numeric": 7841,
+    "deliverables": [
+      "1 x Facebook post",
+      "1 x YouTube short",
+      "1 x YouTube short",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.810615698559782,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9292495910214742,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.950702",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

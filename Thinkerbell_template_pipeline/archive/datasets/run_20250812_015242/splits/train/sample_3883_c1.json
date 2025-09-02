@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3883",
+  "chunk_id": "sample_3883_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Betty's Burgers\n            • Fee: ~$12,605\n            • Deliverables: 3 x Pinterest pin, 2 x Facebook post, 1 x Lifestyle photography\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: December 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1283",
+  "chunk_id": "sample_1283_c1",
+  "text": "Need Sage Reed for Freedom campaign. Budget around $2,166, looking for 1 x 2-minute tutorial, 1 x TV appearance, 1 x Facebook story, 3 x Radio interview. 8 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

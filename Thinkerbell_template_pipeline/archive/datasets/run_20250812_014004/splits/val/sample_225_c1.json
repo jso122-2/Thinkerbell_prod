@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_225",
+  "chunk_id": "sample_225_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Grill'd\n            • Fee: ~$2,672\n            • Deliverables: 2 x Pinterest pin, 2 x Pinterest pin, 3 x TV appearance, 1 x Instagram story, 1 x YouTube short\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $2,672 budget",
+  "token_count": 97,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

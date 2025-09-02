@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1028",
+  "generation_timestamp": "2025-08-04T18:30:06.705077",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Nathan King for Supercheap Auto campaign. Budget around $2,319, looking for 2 x Lifestyle photography, 3 x 30-second Instagram reel, 1 x Press release quote, 2 x Instagram post. \n            9 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 8 months. \n            Engagement period: 6 months.",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "Supercheap Auto",
+    "brand": "Supercheap Auto",
+    "campaign": "Supercheap Auto Campaign",
+    "fee": "$2,319",
+    "fee_numeric": 2319,
+    "deliverables": [
+      "2 x Lifestyle photography",
+      "3 x 30-second Instagram reel",
+      "1 x Press release quote",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7482167075591365,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9454865659062108,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.697079",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Health & Fitness"
+  }
+}

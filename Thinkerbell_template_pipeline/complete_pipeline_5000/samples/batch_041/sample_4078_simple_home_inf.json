@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4078",
+  "generation_timestamp": "2025-08-04T18:31:12.315884",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Matthew Taylor\n            • Brand: Adairs\n            • Fee: ~$30,448\n            • Deliverables: 2 x Facebook post, 2 x Facebook post, 2 x Facebook post, 2 x Twitter post\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: November 2025",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$30,448",
+    "fee_numeric": 30448,
+    "deliverables": [
+      "2 x Facebook post",
+      "2 x Facebook post",
+      "2 x Facebook post",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.941854637616072,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8415324563463952,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.300883",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_766",
+  "chunk_id": "sample_766_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Red Rooster\n            • Fee: ~$11,265\n            • Deliverables: 2 x 90-second product demo, 2 x TikTok video, 2 x LinkedIn post, 1 x TikTok video, 1 x Twitter post\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

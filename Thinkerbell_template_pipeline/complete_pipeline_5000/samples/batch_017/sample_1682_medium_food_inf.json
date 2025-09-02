@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1682",
+  "generation_timestamp": "2025-08-04T18:30:20.550308",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Scarlett Turner for Queen Fine Foods - $4,581 budget\n            Need: 3 x LinkedIn post, 2 x 30-second Instagram reel, 3 x Media interview, 1 x Product launch event, 2 x Facebook post\n            8w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$4,581",
+    "fee_numeric": 4581,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "2 x 30-second Instagram reel",
+      "3 x Media interview",
+      "1 x Product launch event",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8666270812447999,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8741735922499767,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:20.539307",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Health & Fitness"
+  }
+}

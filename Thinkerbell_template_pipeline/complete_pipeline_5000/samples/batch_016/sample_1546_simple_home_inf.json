@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1546",
+  "generation_timestamp": "2025-08-04T18:30:17.501683",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Victoria Carter for Adairs campaign. Budget around $19,975, looking for 1 x 90-second product demo. \n            3 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 6 months. \n            Engagement period: 2 months.",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$19,975",
+    "fee_numeric": 19975,
+    "deliverables": [
+      "1 x 90-second product demo"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7710130926368296,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8365012922334121,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.493681",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "New Season",
+    "product_category": "Education"
+  }
+}

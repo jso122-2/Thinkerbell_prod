@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_015",
+  "chunk_id": "sample_015_c1",
+  "text": "Blake Cox for Commonwealth Bank - $2,008 budget\n            Need: 2 x Instagram story, 2 x Instagram story, 2 x LinkedIn post, 2 x Pinterest pin, 3 x Pinterest pin\n            10w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

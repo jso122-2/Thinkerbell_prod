@@ -1,0 +1,29 @@
+{
+  "batch_id": 3,
+  "sample_count": 100,
+  "generation_timestamp": "2025-08-12T12:06:05.884325",
+  "config_snapshot": {
+    "samples_target": 500,
+    "batch_size": 100,
+    "output_dir": "./thinkerbell_output",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "coherence_threshold": 0.4,
+    "templates_dir": "./Thinkerbell_template_pipeline/thinkerbell/data",
+    "style_profiles_dir": "./style_profiles",
+    "max_retries": 3,
+    "chunk_max_tokens": 512,
+    "chunk_overlap": 50,
+    "parallel_workers": 4,
+    "min_text_length": 100,
+    "max_text_length": 5000,
+    "validation_strict": false,
+    "offline_mode": false,
+    "log_level": "INFO",
+    "save_diagnostics": true,
+    "save_intermediate": true,
+    "ood_ratio": 0.2,
+    "enable_monitoring": true,
+    "checkpoint_interval": 500
+  }
+}

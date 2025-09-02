@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1178",
+  "chunk_id": "sample_1178_c1",
+  "text": "Need Reagan Rogers for Coles campaign. Budget around $33,994, looking for 1 x Instagram story. 10 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

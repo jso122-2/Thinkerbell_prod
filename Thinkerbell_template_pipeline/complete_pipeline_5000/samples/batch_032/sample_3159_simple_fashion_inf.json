@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3159",
+  "generation_timestamp": "2025-08-04T18:30:53.024793",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Morgan Morris for David Jones - $18,643 budget\n            Need: 3 x Lifestyle photography, 1 x 30-second Instagram reel\n            3w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$18,643",
+    "fee_numeric": 18643,
+    "deliverables": [
+      "3 x Lifestyle photography",
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8944018693931747,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8994471363051616,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:53.016794",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

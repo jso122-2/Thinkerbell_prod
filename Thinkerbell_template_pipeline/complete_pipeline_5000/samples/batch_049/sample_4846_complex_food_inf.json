@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4846",
+  "generation_timestamp": "2025-08-04T18:31:28.254275",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Lily Walker\n            • Brand: Boost Juice\n            • Fee: ~$12,514\n            • Deliverables: 3 x 5-minute review, 2 x YouTube video, 3 x Pinterest pin, 3 x 60-second YouTube video, 1 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: October 2025 ripper",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Boost Juice",
+    "brand": "Boost Juice",
+    "campaign": "Boost Juice Campaign",
+    "fee": "$12,514",
+    "fee_numeric": 12514,
+    "deliverables": [
+      "3 x 5-minute review",
+      "2 x YouTube video",
+      "3 x Pinterest pin",
+      "3 x 60-second YouTube video",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8333417107240912,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7851823938952692,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:28.245273",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

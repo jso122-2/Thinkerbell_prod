@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3102",
+  "chunk_id": "sample_3102_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Queen Fine Foods. Budget is approx $10,230 - need 3 x Facebook post, 1 x Pinterest pin, 3 x Twitter post. 9 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

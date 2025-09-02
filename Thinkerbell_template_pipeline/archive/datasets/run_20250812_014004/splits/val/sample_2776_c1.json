@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2776",
+  "chunk_id": "sample_2776_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Qantas\n            • Fee: ~$23,698\n            • Deliverables: 3 x Pinterest pin\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

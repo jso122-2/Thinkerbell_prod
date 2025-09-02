@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3724",
+  "generation_timestamp": "2025-08-04T18:31:05.235498",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sean Roberts\n            • Brand: Cotton On\n            • Fee: ~$2,628\n            • Deliverables: 2 x Facebook post\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $2,628 budget",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$2,628",
+    "fee_numeric": 2628,
+    "deliverables": [
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8268203784039244,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9429102196765722,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.223496",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Fashion & Apparel"
+  }
+}

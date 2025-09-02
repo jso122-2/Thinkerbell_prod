@@ -1,0 +1,63 @@
+{
+  "sample_id": "tb_050_009",
+  "generation_timestamp": "2025-08-12T14:46:10.874333",
+  "batch_id": 50,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "entertainment",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "Thinkerbell has engaged Isabella Martinez to provide services for the Music World Launch Campaign on behalf of Music World. With the rise of retail innovation in Australia, Australians are seeking better retail solutions. As the campaign's brand partner, Isabella Martinez will deliver key messages via media and social channels. This campaign reinforces the brand's leadership in retail.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Music World and the Influencer for Music World Lifestyle Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $6,280 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 2 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 1 months\n- Exclusivity Period: 8 weeks\n- Territory: Australia\n- Usage Rights: 6 months from campaign launch\n- Content Rights: Music World retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 249,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Music World",
+    "brand": "Music World",
+    "campaign": "Music World Adventure Campaign 2025",
+    "fee": "$6,280",
+    "fee_numeric": 6280,
+    "deliverables": [
+      "3 x Instagram posts",
+      "1 x Media interview"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "1 months",
+    "usage_term": "6 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_QUEEN _ The Condos Talent Agreement_21.02.25 [SIGNED]",
+    "match_confidence": 0.871,
+    "fallback_templates": [
+      "profile_Dove Advanced Care Body Wash  Launch_Jhyll Teplin Agreement",
+      "profile_Golden Gaytime x Keith Schleiger Talent Agreement"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "retail",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.85,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.843,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

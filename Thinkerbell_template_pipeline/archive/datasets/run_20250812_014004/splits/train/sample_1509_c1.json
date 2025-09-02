@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1509",
+  "chunk_id": "sample_1509_c1",
+  "text": "Sophie Anderson for Zambrero - $4,475 budget\n            Need: 2 x Meet and greet, 3 x Instagram reel, 1 x Instagram story, 2 x Radio interview, 1 x Brand photoshoot\n            3w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

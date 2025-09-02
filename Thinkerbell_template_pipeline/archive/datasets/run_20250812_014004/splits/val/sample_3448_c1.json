@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3448",
+  "chunk_id": "sample_3448_c1",
+  "text": "Matthew Taylor for Hungry Jack's - $3,842 budget\n            Need: 2 x 90-second product demo, 3 x 90-second product demo, 3 x Product launch event\n            7w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

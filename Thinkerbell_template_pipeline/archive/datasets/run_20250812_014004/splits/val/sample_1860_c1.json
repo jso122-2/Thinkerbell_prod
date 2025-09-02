@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1860",
+  "chunk_id": "sample_1860_c1",
+  "text": "Morgan Morris for Cotton On - $27,725 budget\n            Need: 3 x LinkedIn post, 2 x Lifestyle photography, 2 x 3-minute vlog, 2 x Instagram story\n            6w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

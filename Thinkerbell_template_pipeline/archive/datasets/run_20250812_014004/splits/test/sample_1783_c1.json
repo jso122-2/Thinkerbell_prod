@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1783",
+  "chunk_id": "sample_1783_c1",
+  "text": "Hey team, looking to work with Hayden Howard for Telstra. Budget is approx $2,615 - need 2 x Podcast guest, 1 x Press conference, 1 x TikTok video, 1 x 30-second Instagram reel, 3 x Facebook post. 4 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: September 2025. Additional notes: TBC on exact dates, around $2,615 budget",
+  "token_count": 95,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

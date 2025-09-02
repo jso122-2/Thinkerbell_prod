@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_561",
+  "generation_timestamp": "2025-08-04T18:29:56.922760",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hannah Green for Woolworths - $3,551 budget\n            Need: 2 x 3-minute vlog, 3 x Media interview, 3 x LinkedIn post, 2 x Instagram reel, 2 x Instagram story\n            3w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$3,551",
+    "fee_numeric": 3551,
+    "deliverables": [
+      "2 x 3-minute vlog",
+      "3 x Media interview",
+      "3 x LinkedIn post",
+      "2 x Instagram reel",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7571450924083596,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9072354488484048,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.910759",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

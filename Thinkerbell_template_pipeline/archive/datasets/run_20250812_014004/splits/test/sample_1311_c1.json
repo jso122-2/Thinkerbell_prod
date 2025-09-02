@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1311",
+  "chunk_id": "sample_1311_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Woolworths\n            • Fee: ~$3,772\n            • Deliverables: 1 x Facebook post, 3 x Instagram story, 1 x 30-second Instagram reel, 1 x 30-second Instagram reel\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $3,772 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

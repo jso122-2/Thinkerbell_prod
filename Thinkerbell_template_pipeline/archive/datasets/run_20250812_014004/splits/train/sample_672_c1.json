@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_672",
+  "chunk_id": "sample_672_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Repco\n            • Fee: ~$16,834\n            • Deliverables: 1 x Pinterest pin, 1 x Behind-the-scenes content, 1 x Pinterest pin, 2 x 60-second YouTube video\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

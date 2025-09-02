@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_692",
+  "chunk_id": "sample_692_c1",
+  "text": "• Influencer: Hayden Howard\n            • Brand: Kmart\n            • Fee: ~$25,025\n            • Deliverables: 1 x Media interview, 2 x Behind-the-scenes content\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: September 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

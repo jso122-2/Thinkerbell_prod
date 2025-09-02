@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_454",
+  "chunk_id": "sample_454_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Qantas\n            • Fee: ~$11,403\n            • Deliverables: 1 x Product photography, 2 x LinkedIn post\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: November 2025 fair dinkum\n\nNeed to sort out: TBC on final dates",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

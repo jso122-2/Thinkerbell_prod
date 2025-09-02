@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_328",
+  "chunk_id": "sample_328_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Guzman y Gomez\n            • Fee: ~$2,410\n            • Deliverables: 2 x LinkedIn post, 1 x Instagram reel, 1 x 30-second Instagram reel\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

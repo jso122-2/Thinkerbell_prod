@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1009",
+  "chunk_id": "sample_1009_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Pizza Hut\n            • Fee: ~$12,099\n            • Deliverables: 2 x 15-second TikTok, 2 x Twitter post\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

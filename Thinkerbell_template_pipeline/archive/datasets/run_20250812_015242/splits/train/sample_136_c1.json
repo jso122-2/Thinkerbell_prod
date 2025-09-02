@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_136",
+  "chunk_id": "sample_136_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Adairs\n            • Fee: ~$2,187\n            • Deliverables: 1 x LinkedIn post, 2 x Facebook post\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

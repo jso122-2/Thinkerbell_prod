@@ -1,0 +1,27 @@
+{
+  "dataset_info": {
+    "name": "Thinkerbell Synthetic Influencer Agreements",
+    "version": "v1.0",
+    "generation_date": "2025-08-04T18:31:33.283233",
+    "total_samples": 5000,
+    "batches_generated": 50
+  },
+  "generator_config": {
+    "use_semantic_smoothing": false,
+    "use_text_preprocessing": true,
+    "use_ood_contamination": true,
+    "contamination_ratio": 0.2
+  },
+  "directory_structure": {
+    "output_dir": "complete_pipeline_5000",
+    "samples_dir": "complete_pipeline_5000\\samples",
+    "validation_dir": "complete_pipeline_5000\\validation",
+    "test_set_dir": "complete_pipeline_5000\\test_set"
+  },
+  "generation_metrics": {
+    "total_samples": 5000,
+    "batches_generated": 50,
+    "validation_passed": 0,
+    "quality_scores": {}
+  }
+}

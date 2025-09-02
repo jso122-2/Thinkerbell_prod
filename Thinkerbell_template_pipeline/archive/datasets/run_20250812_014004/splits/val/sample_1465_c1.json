@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1465",
+  "chunk_id": "sample_1465_c1",
+  "text": "Cameron Parker for Adairs - $2,572 budget\n            Need: 2 x Twitter post, 2 x Live stream, 1 x Brand photoshoot, 2 x TV appearance\n            4w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

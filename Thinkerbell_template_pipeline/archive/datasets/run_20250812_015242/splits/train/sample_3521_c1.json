@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3521",
+  "chunk_id": "sample_3521_c1",
+  "text": "Hey team, looking to work with Nathan King for Qantas. Budget is approx $2,926 - need 3 x 60-second YouTube video, 2 x Twitter post, 3 x 30-second Instagram reel, 2 x Facebook post. 4 weeks exclusivity, 6 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

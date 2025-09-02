@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_089",
+  "chunk_id": "sample_089_c1",
+  "text": "Sophie Anderson for Commonwealth Bank - $2,522 budget\n            Need: 2 x Press conference, 2 x YouTube short\n            9w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: November 2025\n\nAdditional notes: TBC on exact dates, around $2,522 budget",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

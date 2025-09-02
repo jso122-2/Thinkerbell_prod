@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4939",
+  "generation_timestamp": "2025-08-04T18:31:30.414331",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Emma Thompson for Supercheap Auto - $25,835 budget\n            Need: 1 x TikTok video, 1 x Event photography\n            3w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Emma Thompson",
+    "client": "Supercheap Auto",
+    "brand": "Supercheap Auto",
+    "campaign": "Supercheap Auto Campaign",
+    "fee": "$25,835",
+    "fee_numeric": 25835,
+    "deliverables": [
+      "1 x TikTok video",
+      "1 x Event photography"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7767980458375207,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8115733722000834,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.399205",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Automotive"
+  }
+}

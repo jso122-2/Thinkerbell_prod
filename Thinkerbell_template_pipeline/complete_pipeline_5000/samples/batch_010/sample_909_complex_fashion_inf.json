@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_909",
+  "generation_timestamp": "2025-08-04T18:30:04.173607",
+  "generator_version": "v1.0",
+  "batch_id": "batch_010",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Layla Campbell for Witchery - $3,243 budget\n            Need: 3 x Twitter post, 3 x Twitter post, 1 x Facebook post, 3 x YouTube short\n            3w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+    "token_count": 61,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Layla Campbell",
+    "client": "Witchery",
+    "brand": "Witchery",
+    "campaign": "Witchery Campaign",
+    "fee": "$3,243",
+    "fee_numeric": 3243,
+    "deliverables": [
+      "3 x Twitter post",
+      "3 x Twitter post",
+      "1 x Facebook post",
+      "3 x YouTube short"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6504536834363497,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8183504742834914,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:04.165611",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

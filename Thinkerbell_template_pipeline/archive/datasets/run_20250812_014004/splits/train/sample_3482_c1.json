@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3482",
+  "chunk_id": "sample_3482_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: JB Hi-Fi\n            • Fee: ~$31,158\n            • Deliverables: 2 x Twitter post\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

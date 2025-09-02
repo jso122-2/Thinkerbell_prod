@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1827",
+  "generation_timestamp": "2025-08-04T18:30:24.118532",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Zoe Wright\n            • Brand: Boost Juice\n            • Fee: ~$28,299\n            • Deliverables: 2 x Facebook post, 1 x LinkedIn post, 3 x Brand ambassador content, 1 x Pinterest pin, 2 x 15-second TikTok\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: November 2025",
+    "token_count": 89,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "Boost Juice",
+    "brand": "Boost Juice",
+    "campaign": "Boost Juice Campaign",
+    "fee": "$28,299",
+    "fee_numeric": 28299,
+    "deliverables": [
+      "2 x Facebook post",
+      "1 x LinkedIn post",
+      "3 x Brand ambassador content",
+      "1 x Pinterest pin",
+      "2 x 15-second TikTok"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7878694981560248,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8523227133561728,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:24.110538",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

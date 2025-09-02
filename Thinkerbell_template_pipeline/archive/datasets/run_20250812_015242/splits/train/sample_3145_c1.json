@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3145",
+  "chunk_id": "sample_3145_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Myer\n            • Fee: ~$2,538\n            • Deliverables: 3 x Store opening\n            • Exclusivity: 5 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

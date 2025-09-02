@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1089",
+  "chunk_id": "sample_1089_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Fantastic Furniture. Budget is approx $4,294 - need 1 x Instagram story. 2 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

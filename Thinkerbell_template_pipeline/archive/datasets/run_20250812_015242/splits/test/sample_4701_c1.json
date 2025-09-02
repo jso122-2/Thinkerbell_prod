@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4701",
+  "chunk_id": "sample_4701_c1",
+  "text": "Andrew Clark for Cotton On - $2,872 budget\n            Need: 2 x Media interview, 1 x Press release quote, 3 x 60-second YouTube video, 3 x 2-minute tutorial, 1 x Pinterest pin\n            4w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

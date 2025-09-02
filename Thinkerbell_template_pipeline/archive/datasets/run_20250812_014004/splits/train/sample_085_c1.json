@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_085",
+  "chunk_id": "sample_085_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Witchery\n            • Fee: ~$17,408\n            • Deliverables: 3 x Instagram post, 3 x Twitter post, 2 x Instagram post, 3 x Instagram story, 2 x Lifestyle photography\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

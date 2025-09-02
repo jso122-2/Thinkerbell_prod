@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_758",
+  "chunk_id": "sample_758_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Big W\n            • Fee: ~$16,213\n            • Deliverables: 3 x LinkedIn post, 3 x Instagram story, 3 x Brand ambassador content, 2 x Radio interview, 2 x Facebook post\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

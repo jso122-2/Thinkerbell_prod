@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4749",
+  "chunk_id": "sample_4749_c1",
+  "text": "James Wilson for Chemist Warehouse - $4,284 budget\n            Need: 3 x Blog post\n            2w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: December 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

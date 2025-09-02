@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_478",
+  "chunk_id": "sample_478_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Adairs\n            • Fee: ~$7,706\n            • Deliverables: 2 x Instagram story, 1 x Radio interview, 2 x Twitter post\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

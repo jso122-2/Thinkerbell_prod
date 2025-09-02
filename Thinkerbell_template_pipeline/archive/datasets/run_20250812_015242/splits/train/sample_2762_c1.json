@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2762",
+  "chunk_id": "sample_2762_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Harvey Norman\n            • Fee: ~$3,778\n            • Deliverables: 3 x Facebook story, 2 x Radio interview, 1 x Press release quote, 1 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: September 2025\n\nNeed to confirm: deliverables",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

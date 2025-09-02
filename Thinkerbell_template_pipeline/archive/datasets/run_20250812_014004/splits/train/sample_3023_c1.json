@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3023",
+  "chunk_id": "sample_3023_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Fantastic Furniture\n            • Fee: ~$23,470\n            • Deliverables: 1 x 90-second product demo, 2 x Instagram post, 2 x Meet and greet, 1 x Instagram reel, 2 x 90-second product demo\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

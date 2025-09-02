@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1214",
+  "chunk_id": "sample_1214_c1",
+  "text": "Hey team, looking to work with Nathan King for David Jones. Budget is approx $12,019 - need 3 x Instagram post, 2 x Podcast guest. 9 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

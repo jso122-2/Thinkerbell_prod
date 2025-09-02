@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4224",
+  "chunk_id": "sample_4224_c1",
+  "text": "• Influencer: Hayden Bell\n            • Brand: Domino's\n            • Fee: ~$21,263\n            • Deliverables: 3 x 60-second YouTube video, 3 x Instagram story, 2 x Radio interview\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

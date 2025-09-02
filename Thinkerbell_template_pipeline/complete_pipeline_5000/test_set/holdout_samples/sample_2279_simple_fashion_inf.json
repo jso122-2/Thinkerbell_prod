@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2279",
+  "generation_timestamp": "2025-08-04T18:30:34.330758",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Bell for Portmans campaign. Budget around $13,716, looking for 1 x YouTube video. \n            5 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 11 months. \n            Engagement period: 6 months.",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "Portmans",
+    "brand": "Portmans",
+    "campaign": "Portmans Campaign",
+    "fee": "$13,716",
+    "fee_numeric": 13716,
+    "deliverables": [
+      "1 x YouTube video"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8714404735271614,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.874624480310011,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:34.321758",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Limited Edition",
+    "product_category": "Sports & Recreation"
+  }
+}

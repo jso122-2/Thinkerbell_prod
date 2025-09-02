@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_127",
+  "chunk_id": "sample_127_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Telstra. Budget is approx $11,397 - need 3 x Radio interview. 9 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

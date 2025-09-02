@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_510",
+  "chunk_id": "sample_510_c1",
+  "text": "Sean Roberts for Amart Furniture - $10,434 budg\n            Need: 1 x Media interview, 3 x Facebook post, 3 x LinkedIn post, 3 x Professional headshots\n            10w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

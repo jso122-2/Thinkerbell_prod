@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4272",
+  "chunk_id": "sample_4272_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Target. Budget is approx $6,674 - need 2 x Social media takeover. 5 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

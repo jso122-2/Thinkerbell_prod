@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_3322",
+  "chunk_id": "sample_3322_c1",
+  "text": "Matthew Taylor for JB Hi-Fi - $4,302 budget\n            Need: 1 x Product photography, 3 x 15-second TikTok, 1 x TikTok video\n            3w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: January 2026\n\nNeed to sort out: TBC on final dates",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

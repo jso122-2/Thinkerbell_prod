@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4059",
+  "chunk_id": "sample_4059_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: Officeworks\n            • Fee: ~$2,519\n            • Deliverables: 1 x Twitter post, 1 x TV appearance, 2 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: December 2025\n\nNeed to confirm: deliverables",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

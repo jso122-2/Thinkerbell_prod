@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1802",
+  "chunk_id": "sample_1802_c1",
+  "text": "Need Chloe Lewis for IKEA campaign. Budget around $2,862, looking for 1 x Pinterest pin, 1 x Instagram story, 2 x Facebook post, 2 x Pinterest pin. 10 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

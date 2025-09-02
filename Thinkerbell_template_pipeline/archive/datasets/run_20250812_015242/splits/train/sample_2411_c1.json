@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2411",
+  "chunk_id": "sample_2411_c1",
+  "text": "Hey team, looking to work with Joshua Hall for David Jones. Budget is approx $24,196 - need 1 x Instagram post, 1 x Media interview. 7 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: November 2025. Need to confirm: exclusivity period",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

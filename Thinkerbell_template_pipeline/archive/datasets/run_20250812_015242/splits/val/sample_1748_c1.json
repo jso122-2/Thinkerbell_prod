@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1748",
+  "chunk_id": "sample_1748_c1",
+  "text": "Hey team, looking to work with Hannah Green for Roll'd. Budget is approx $5,312 - need 1 x LinkedIn post, 1 x 5-minute review. 11 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3453",
+  "chunk_id": "sample_3453_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Domino's. Budget is approx $4,794 - need 3 x Radio interview, 1 x Pinterest pin. 12 weeks exclusivity, 4 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4827",
+  "generation_timestamp": "2025-08-04T18:31:28.036183",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Lily Walker for Pillow Talk - $29,759 budget\n            Need: 3 x Product photography, 1 x Instagram post, 2 x Pinterest pin\n            11w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025\n\nNeed to confirm: deliverables",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$29,759",
+    "fee_numeric": 29759,
+    "deliverables": [
+      "3 x Product photography",
+      "1 x Instagram post",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7614201252971124,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9099403196821394,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:28.027181",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "New Season",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2305",
+  "generation_timestamp": "2025-08-04T18:30:35.649819",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for Mecca - $32,830 budget\n            Need: 3 x Radio interview, 1 x Product launch event\n            7w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+    "token_count": 53,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Mecca",
+    "brand": "Mecca",
+    "campaign": "Mecca Campaign",
+    "fee": "$32,830",
+    "fee_numeric": 32830,
+    "deliverables": [
+      "3 x Radio interview",
+      "1 x Product launch event"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7451235980224928,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9170343685850582,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:35.637819",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4090",
+  "chunk_id": "sample_4090_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Boost Juice\n            • Fee: ~$8,956\n            • Deliverables: 3 x YouTube short, 1 x Professional headshots, 1 x Lifestyle photography, 1 x Blog post, 2 x Pinterest pin\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

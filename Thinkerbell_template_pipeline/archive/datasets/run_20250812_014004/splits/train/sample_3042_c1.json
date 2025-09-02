@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3042",
+  "chunk_id": "sample_3042_c1",
+  "text": "Need Christopher Lee for Mecca campaign. Budget around $1,762, looking for 1 x Product launch event, 3 x 15-second TikTok. 10 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

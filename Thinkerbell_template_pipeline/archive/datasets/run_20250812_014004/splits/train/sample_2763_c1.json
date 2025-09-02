@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2763",
+  "chunk_id": "sample_2763_c1",
+  "text": "Hey team, looking to work with Joshua Hall for Target. Budget is approx $13,408 - need 3 x Blog post, 1 x 90-second product demo, 1 x Facebook post, 2 x 30-second Instagram reel. 8 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2915",
+  "chunk_id": "sample_2915_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Hungry Jack's\n            • Fee: ~$3,570\n            • Deliverables: 2 x TikTok video, 1 x Facebook post, 2 x Pinterest pin, 2 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

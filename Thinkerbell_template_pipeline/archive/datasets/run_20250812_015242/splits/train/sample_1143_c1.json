@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1143",
+  "chunk_id": "sample_1143_c1",
+  "text": "Hannah Green for Woolworths - $3,057 budget\n            Need: 3 x 5-minute review, 3 x 2-minute tutorial, 3 x 2-minute tutorial\n            6w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

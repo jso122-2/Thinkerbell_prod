@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4317",
+  "chunk_id": "sample_4317_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Nando's\n            • Fee: ~$18,678\n            • Deliverables: 1 x Media interview, 1 x Facebook post\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_proc_20250815_144820_7778",
+  "generation_timestamp": "2025-08-15T14:48:20.561272",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "complex",
+    "industry": "tech",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# HORT   Australian Onions Talent Agreement Jane De Graaff\n\nInfluencerAgreementINDIVIDUAL DATE OF AGREEMENT01/10/2024 BETWEEN Thinkerbell (ABN 99 618 397 658) of 261-265 Chalmers St, Redfern, NSW, 2016 (“Agency”)\n \nAND Jane De Graaff of [insert address]\n(“Influencer”) \nThis version of the agreement is for influencers who are individuals without an ABN or any representation.\n \nBACKGROUNDA. Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the product launch for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:\nCLIENT Hort Innovation (ABN 71 602 100 149) of Level 7/141 Walker St, North Sydney NSW 2060 BRAND Australian Onions solution Australian Onions product launch Over vs Under TERM 1.5 week (Thursday 24 April 2025 to Saturday 3 May 2025)\nWORK/S The following materials will be produced by the Influencer during the Usage Term.\n1 x cooking segment on Today Extra on Monday 28 April, 2025 All cooking props and ingredients to be provided by Thinkerbell on-set Take part in x3-5 interviews with news media promoting the ‘over vs under’ debate for Australian Onions.\nThese can be either over the phone or email Q&A with radio, print and online media. TV can also be included if interviews are remote (ie they share it via a Zoom link)\nMEDIA Client may re-share any posts that news media share with Jane De Graaf referenced (ie an IG story share) in an unlimited fashion during the Usage Term in the following media:\nAustralian Onions Facebook page [https://www.facebook.com/australianonions/]\nAustralian Onions Instagram page [@aussieonions)\nTERRITORY AUSTRALIA For clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party.\nUSAGE TERMS PR activity to occur between Thursday 24 April 2025 to Saturday 3 May 2025.\nFEE A total of $2,500 to be paid (+GST). \nPlease note: The return flights came to $962.55 - this is to be covered by TKB directly. This means we’ll pay you directly a total amount of $1,737.45 (+GST) once an invoice is shared.\n## PAYMENT TERMS\n\nPayment Terms:\n100% to be paid upon receiving invoice. In any Rollover Term, 100% of the payment shall be made once the delivered and accepted Work is first published on the Influencer’s social media channels for that specific Rollover Term.\nOTHER CONSIDERATION N/A INITIAL DELIVERY DATE First interview to occur on Thursday 24 April, 2025. \nLast interview to occur by Saturday 3 May, 2025.\nToday Extra cooking segment to occur on Monday 28 April, 2025, in Sydney at Nine studio.\nPlease refer to the talent briefing doc for further details on all ## DELIVERABLES\n\ndeliverables.\nCONTACT PERSON FOR EACH PARTY Thinkerbell Joanna Partridge, Lead Earned Thinker joannapartridge@thinkerbell.com \n0402 664 343 \nTaylor York, Head Earned Thinker tayloryork@thinkerbell.com \n0420 484 029 Talent Jane De Graaff, Foodie Talent jane@janedegraaff.com \n0404 850 564 ## EXCLUSIVITY\n\nEXCLUSIVITY N/A ## SPECIAL CONDITIONS\n\nSPECIAL CONDITIONS The Influencer shall conform to the key messages, post and reporting mandatories, wardrobe brief, and delivery dates as per the Talent Briefing document provided separately.\nGENERAL TERMS 1.1 The Influencer must:\n(a) create and publish the Work outlined in the ## COMMERCIAL TERMS\n\nCommercial Terms in compliance with this Agreement; and\n(b) provide the ## USAGE RIGHTS\n\nUsage Rights,\nall of the above collectively the “Services”. \n1.2 The Influencer shall provide the Services subject to this Agreement and the ## COMMERCIAL TERMS\n\nCommercial Terms (including but not limited to the ## EXCLUSIVITY\n\nExclusivity and ## SPECIAL CONDITIONS\n\nSpecial Conditions), and shall comply with any reasonable directions of the Agency or the Client, during the Term. \n1.3 The Influencer undertakes and agrees to deliver the Work to the Agency on or before the Initial Delivery Date or any other date agreed between the parties, and each other agreed delivery date for any Rollover Term (as applicable) (collectively referred to in this Agreement as the “Delivery Date”).\n1.4 The payment of the Fee shall include the additional right for the Agency to require any necessary and reasonable amendments/alterations to the Work, to be completed by the Influencer, before publication, at no extra charge.\n1.5 The Work shall conform to the requirements as outlined in the ## COMMERCIAL TERMS\n\nCommercial Terms, and any style guides or other requirements that may be instructed by Agency (or the Client) including but not limited to complying with the AANA Code of Ethics, the AIMCO Code of Practice and the rules of the relevant social media platforms unless otherwise expressly agreed.\n1.6 Unless otherwise agreed, all...",
+    "token_count": 3233,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "the parties as to its subject matter",
+    "brand": "the parties as to its subject matter",
+    "campaign": "the parties as to its subject matter Campaign 2025",
+    "fee": "$2,500",
+    "fee_numeric": 2500,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x Story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "AUSTRALIA For clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff",
+    "match_confidence": 0.9355228598273077,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "complex"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "complex_tech",
+    "source_document": "HORT___Australian_Onions_Talent_Agreement_Jane_De_Graaff.md"
+  }
+}

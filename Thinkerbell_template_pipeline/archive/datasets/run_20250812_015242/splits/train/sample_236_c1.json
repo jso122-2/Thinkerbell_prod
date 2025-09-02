@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_236",
+  "chunk_id": "sample_236_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Adairs\n            • Fee: ~$1,528\n            • Deliverables: 1 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

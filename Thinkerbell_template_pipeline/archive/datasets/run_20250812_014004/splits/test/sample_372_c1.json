@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_372",
+  "chunk_id": "sample_372_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Bed Bath N' Table\n            • Fee: ~$7,639\n            • Deliverables: 1 x Facebook post, 3 x Facebook story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $7,639 budget",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

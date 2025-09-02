@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2321",
+  "chunk_id": "sample_2321_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: KFC\n            • Fee: ~$8,539\n            • Deliverables: 2 x Instagram story, 3 x LinkedIn post, 1 x Pinterest pin\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

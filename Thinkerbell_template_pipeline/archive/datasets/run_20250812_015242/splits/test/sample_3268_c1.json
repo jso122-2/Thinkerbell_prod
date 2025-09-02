@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3268",
+  "chunk_id": "sample_3268_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Roll'd\n            • Fee: ~$24,252\n            • Deliverables: 1 x Media interview, 2 x Instagram post, 3 x Pinterest pin, 2 x Instagram post\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

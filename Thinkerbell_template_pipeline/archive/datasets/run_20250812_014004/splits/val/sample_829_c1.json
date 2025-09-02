@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_829",
+  "chunk_id": "sample_829_c1",
+  "text": "Hey team, looking to work with Layla Campbell for Bunnings. Budget is approx $31,671 - need 3 x Instagram post, 1 x Facebook story, 1 x Instagram story. 8 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

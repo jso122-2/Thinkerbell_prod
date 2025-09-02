@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1799",
+  "chunk_id": "sample_1799_c1",
+  "text": "Quinn Richardson for IKEA - $19,011 budget\n            Need: 1 x Instagram reel, 3 x Meet and greet, 3 x Instagram post, 1 x Instagram post, 1 x Behind-the-scenes content\n            8w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

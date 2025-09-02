@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1819",
+  "chunk_id": "sample_1819_c1",
+  "text": "Hey team, looking to work with Chloe Lewis for Country Road. Budget is approx $23,248 - need 2 x Twitter post, 2 x 5-minute review, 2 x Meet and greet. 10 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

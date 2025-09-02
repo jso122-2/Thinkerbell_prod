@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4200",
+  "chunk_id": "sample_4200_c1",
+  "text": "Hey team, looking to work with Rowan Bailey for JB Hi-Fi. Budget is approx $33,459 - need 1 x Pinterest pin, 2 x LinkedIn post. 5 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3634",
+  "generation_timestamp": "2025-08-04T18:31:03.100849",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Brandon Nelson for Commonwealth Bank - $13,899 budget\n            Need: 1 x 15-second TikTok\n            4w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: September 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 60,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brandon Nelson",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$13,899",
+    "fee_numeric": 13899,
+    "deliverables": [
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7792785017591919,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7465665276107363,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:03.087850",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

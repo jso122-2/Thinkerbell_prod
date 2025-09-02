@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2929",
+  "chunk_id": "sample_2929_c1",
+  "text": "Daniel Martinez for Bed Bath N' Table - $27,970 budget\n            Need: 3 x Instagram story, 3 x Social media takeover, 3 x Instagram post\n            6w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

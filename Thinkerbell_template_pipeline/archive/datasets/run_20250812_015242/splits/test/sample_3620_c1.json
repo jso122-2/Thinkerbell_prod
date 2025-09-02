@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3620",
+  "chunk_id": "sample_3620_c1",
+  "text": "Need Blake Cox for Zambrero campaign. Budget around $3,254, looking for 2 x TV appearance, 2 x Facebook post, 3 x Instagram reel, 3 x 30-second Instagram reel, 1 x Instagram post. 6 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 4 months.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

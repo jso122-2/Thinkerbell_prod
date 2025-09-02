@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1695",
+  "generation_timestamp": "2025-08-04T18:30:20.687309",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sage Cooper for Queen Fine Foods. \n            Budget is approx $1,837 - need 1 x TikTok video, 1 x 15-second TikTok, 2 x Lifestyle photography, 2 x Instagram story. \n            4 weeks exclusivity, 4 month engagement. \n            Usage: 7 months. Start date: September 2025.",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$1,837",
+    "fee_numeric": 1837,
+    "deliverables": [
+      "1 x TikTok video",
+      "1 x 15-second TikTok",
+      "2 x Lifestyle photography",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7300737888800186,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9458999614250362,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:20.673310",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3072",
+  "generation_timestamp": "2025-08-04T18:30:51.205706",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Isabella Garcia for Nando's. \n            Budget is approx $1,564 - need 1 x Radio interview, 2 x Instagram post, 1 x TV appearance, 3 x Twitter post, 2 x 10-minute unboxing. \n            11 weeks exclusivity, 3 month engagement. \n            Usage: 9 months. Start date: January 2026.\n\nAdditional notes: TBC on exact dates, around $1,564 budget",
+    "token_count": 94,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Isabella Garcia",
+    "client": "Nando's",
+    "brand": "Nando's",
+    "campaign": "Nando's Campaign",
+    "fee": "$1,564",
+    "fee_numeric": 1564,
+    "deliverables": [
+      "1 x Radio interview",
+      "2 x Instagram post",
+      "1 x TV appearance",
+      "3 x Twitter post",
+      "2 x 10-minute unboxing"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8293137157877523,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9453935516985237,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:51.196704",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

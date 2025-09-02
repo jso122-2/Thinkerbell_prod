@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1272",
+  "chunk_id": "sample_1272_c1",
+  "text": "Need James Wilson for David Jones campaign. Budget around $4,743, looking for 1 x 90-second product demo, 1 x Live stream, 3 x LinkedIn post, 1 x 30-second Instagram reel, 1 x 3-minute vlog. 9 week exclusivity from other fashion brands. Campaign runs November 2025. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

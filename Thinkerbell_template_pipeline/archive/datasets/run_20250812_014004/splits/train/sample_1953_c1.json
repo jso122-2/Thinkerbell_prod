@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1953",
+  "chunk_id": "sample_1953_c1",
+  "text": "Need Sarah Chen for Nando's campaign. Budget around $14,101, looking for 1 x Instagram reel, 2 x Brand photoshoot, 2 x 30-second Instagram reel, 2 x 30-second Instagram reel, 1 x Twitter post. 10 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 4 months.",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

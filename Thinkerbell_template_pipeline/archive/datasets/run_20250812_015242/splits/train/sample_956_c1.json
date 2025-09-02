@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_956",
+  "chunk_id": "sample_956_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Bunnings. Budget is approx $17,365 - need 1 x Radio interview, 2 x Meet and greet, 1 x Brand photoshoot, 2 x Instagram story. 6 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: November 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1815",
+  "generation_timestamp": "2025-08-04T18:30:23.987533",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sage Cooper for David Jones - $18,631 budget\n            Need: 3 x Press conference, 3 x Instagram story, 2 x 30-second Instagram reel\n            5w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: October 2025\n\nAdditional notes: TBC on exact dates, around $18,631 budget",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$18,631",
+    "fee_numeric": 18631,
+    "deliverables": [
+      "3 x Press conference",
+      "3 x Instagram story",
+      "2 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.889491799673462,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8500627011705975,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:23.979537",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Home & Garden"
+  }
+}

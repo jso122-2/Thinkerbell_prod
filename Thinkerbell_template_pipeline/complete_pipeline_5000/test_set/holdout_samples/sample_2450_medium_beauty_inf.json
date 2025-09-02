@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2450",
+  "generation_timestamp": "2025-08-04T18:30:38.609329",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Olivia Davis\n            • Brand: Sephora\n            • Fee: ~$3,960\n            • Deliverables: 2 x Pinterest pin, 1 x Instagram post, 2 x Brand photoshoot, 1 x YouTube short, 1 x 30-second Instagram reel\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: November 2025\n\nNeed to confirm: usage rights",
+    "token_count": 96,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$3,960",
+    "fee_numeric": 3960,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "1 x Instagram post",
+      "2 x Brand photoshoot",
+      "1 x YouTube short",
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7743567893714948,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9196405875215204,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:38.601325",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1514",
+  "generation_timestamp": "2025-08-04T18:30:17.063686",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: David Brown\n            • Brand: Myer\n            • Fee: ~$1,657\n            • Deliverables: 1 x Instagram story\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $1,657 budget",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$1,657",
+    "fee_numeric": 1657,
+    "deliverables": [
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8646387739971108,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9274454346906058,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.049688",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Education"
+  }
+}

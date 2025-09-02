@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3059",
+  "chunk_id": "sample_3059_c1",
+  "text": "Need Justin Mitchell for Red Rooster campaign. Budget around $8,859, looking for 2 x YouTube short, 2 x TikTok video, 2 x Product photography. 4 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

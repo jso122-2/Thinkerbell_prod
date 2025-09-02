@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1226",
+  "chunk_id": "sample_1226_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Freedom\n            • Fee: ~$18,189\n            • Deliverables: 1 x Instagram story\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

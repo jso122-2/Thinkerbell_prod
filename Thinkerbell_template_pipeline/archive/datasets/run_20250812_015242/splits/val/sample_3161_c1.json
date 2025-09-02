@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3161",
+  "chunk_id": "sample_3161_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Mad Mex\n            • Fee: ~$9,975\n            • Deliverables: 2 x 30-second Instagram reel, 1 x Article contribution, 2 x 30-second Instagram reel, 1 x 15-second TikTok, 1 x 2-minute tutorial\n            • Exclusivity: 4 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $9,975 budget\n\nNeed to confirm: exclusivity period",
+  "token_count": 116,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

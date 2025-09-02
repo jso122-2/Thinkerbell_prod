@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_175",
+  "chunk_id": "sample_175_c1",
+  "text": "Mia White for Mecca - $27,675 budget\n            Need: 1 x Instagram story, 1 x 2-minute tutorial, 2 x 15-second TikTok\n            9w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

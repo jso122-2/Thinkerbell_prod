@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1541",
+  "chunk_id": "sample_1541_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Betty's Burgers\n            • Fee: ~$34,268\n            • Deliverables: 3 x 15-second TikTok\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

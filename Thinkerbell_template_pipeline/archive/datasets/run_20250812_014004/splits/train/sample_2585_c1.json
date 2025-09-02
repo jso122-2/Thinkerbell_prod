@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2585",
+  "chunk_id": "sample_2585_c1",
+  "text": "Sophie Anderson for Bed Bath N' Table - $1,558 budget\n            Need: 3 x Professional headshots\n            11w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

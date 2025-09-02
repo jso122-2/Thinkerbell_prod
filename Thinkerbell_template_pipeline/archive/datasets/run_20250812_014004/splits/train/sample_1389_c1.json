@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1389",
+  "chunk_id": "sample_1389_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Country Road\n            • Fee: ~$7,901\n            • Deliverables: 2 x YouTube short, 1 x 60-second YouTube video, 2 x 60-second YouTube video\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_1159",
+  "chunk_id": "sample_1159_c1",
+  "text": "Brooklyn Edwards for JB Hi-Fi - $21,185 budget\n            Need: 2 x Instagram post, 3 x 90-second product demo, 3 x YouTube short, 3 x TikTok video\n            12w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

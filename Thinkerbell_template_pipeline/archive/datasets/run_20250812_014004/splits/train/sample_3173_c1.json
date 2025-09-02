@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3173",
+  "chunk_id": "sample_3173_c1",
+  "text": "Kevin Baker for Telstra - $23,942 budget\n            Need: 1 x LinkedIn post, 2 x Meet and greet, 1 x 90-second product demo, 1 x LinkedIn post\n            12w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

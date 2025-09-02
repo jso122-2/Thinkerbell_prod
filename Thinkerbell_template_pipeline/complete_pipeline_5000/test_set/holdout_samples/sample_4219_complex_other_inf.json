@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4219",
+  "generation_timestamp": "2025-08-04T18:31:15.803529",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Justin Mitchell for Subway. \n            Budget is approx $1,817 - need 3 x Instagram story, 2 x LinkedIn post, 2 x Brand photoshoot, 1 x Lifestyle photography. \n            3 weeks exclusivity, 6 month engagement. \n            Usage: 9 months. Start date: December 2025.",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Subway",
+    "brand": "Subway",
+    "campaign": "Subway Campaign",
+    "fee": "$1,817",
+    "fee_numeric": 1817,
+    "deliverables": [
+      "3 x Instagram story",
+      "2 x LinkedIn post",
+      "2 x Brand photoshoot",
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8368538523418915,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8515046370361714,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:15.793527",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

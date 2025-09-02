@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_401",
+  "chunk_id": "sample_401_c1",
+  "text": "Natalie Adams for Kmart - $13,953 budget\n            Need: 3 x Instagram post\n            9w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

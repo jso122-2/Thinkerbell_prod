@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1859",
+  "generation_timestamp": "2025-08-04T18:30:24.519535",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Hayden Bell for Autobarn. \n            Budget is approx $3,776 - need 2 x 15-second TikTok, 2 x Pinterest pin, 2 x TV appearance, 3 x Twitter post, 1 x Lifestyle photography. \n            12 weeks exclusivity, 5 month engagement. \n            Usage: 11 months. Start date: January 2026.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "Autobarn",
+    "brand": "Autobarn",
+    "campaign": "Autobarn Campaign",
+    "fee": "$3,776",
+    "fee_numeric": 3776,
+    "deliverables": [
+      "2 x 15-second TikTok",
+      "2 x Pinterest pin",
+      "2 x TV appearance",
+      "3 x Twitter post",
+      "1 x Lifestyle photography"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7565692448856115,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8454200206520832,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:24.503536",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Food & Beverage"
+  }
+}

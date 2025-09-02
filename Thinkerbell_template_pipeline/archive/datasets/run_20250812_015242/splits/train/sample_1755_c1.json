@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1755",
+  "chunk_id": "sample_1755_c1",
+  "text": "Lily Walker for Bed Bath N' Table - $28,273 budget\n            Need: 1 x YouTube video, 3 x Instagram post, 1 x 10-minute unboxing\n            11w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

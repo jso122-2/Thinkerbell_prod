@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3409",
+  "chunk_id": "sample_3409_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Boost Juice\n            • Fee: ~$32,017\n            • Deliverables: 2 x 10-minute unboxing\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

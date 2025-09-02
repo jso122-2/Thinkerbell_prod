@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3613",
+  "generation_timestamp": "2025-08-04T18:31:02.879852",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Skylar Collins for Commonwealth Bank. \n            Budget is approx $26,186 - need 1 x Pinterest pin. \n            10 weeks exclusivity, 5 month engagement. \n            Usage: 6 months. Start date: December 2025.",
+    "token_count": 61,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$26,186",
+    "fee_numeric": 26186,
+    "deliverables": [
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9149629090042765,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8896239718662028,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:02.869850",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "New Season",
+    "product_category": "Travel & Tourism"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3692",
+  "chunk_id": "sample_3692_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Pillow Talk\n            • Fee: ~$4,442\n            • Deliverables: 3 x Twitter post, 2 x Blog post, 1 x Social media takeover, 1 x Facebook post\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

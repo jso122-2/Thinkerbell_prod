@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3284",
+  "chunk_id": "sample_3284_c1",
+  "text": "Need Ava Johnson for Domino's campaign. Budget around $5,479, looking for 2 x 5-minute review, 2 x Instagram post, 2 x TikTok video. 7 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 2 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

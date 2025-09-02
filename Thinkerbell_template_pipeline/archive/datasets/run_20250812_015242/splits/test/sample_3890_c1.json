@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3890",
+  "chunk_id": "sample_3890_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Zambrero\n            • Fee: ~$21,991\n            • Deliverables: 3 x LinkedIn post, 1 x Lifestyle photography, 1 x TV appearance, 3 x LinkedIn post\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: September 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_792",
+  "chunk_id": "sample_792_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Mecca\n            • Fee: ~$10,257\n            • Deliverables: 1 x Pinterest pin, 3 x Media interview, 2 x Instagram reel, 3 x 2-minute tutorial, 3 x 15-second TikTok\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1279",
+  "chunk_id": "sample_1279_c1",
+  "text": "Morgan Morris for Priceline - $6,512 budget\n            Need: 1 x Event photography, 1 x Twitter post, 2 x 2-minute tutorial\n            3w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

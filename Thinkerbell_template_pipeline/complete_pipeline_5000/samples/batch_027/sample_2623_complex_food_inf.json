@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2623",
+  "generation_timestamp": "2025-08-04T18:30:42.392968",
+  "generator_version": "v1.0",
+  "batch_id": "batch_027",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Peyton Stewart for Queen Fine Foods - $2,190 budget\n            Need: 1 x Twitter post, 3 x 15-second TikTok, 1 x 60-second YouTube video, 1 x LinkedIn post\n            9w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: October 2025 reckon",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Peyton Stewart",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$2,190",
+    "fee_numeric": 2190,
+    "deliverables": [
+      "1 x Twitter post",
+      "3 x 15-second TikTok",
+      "1 x 60-second YouTube video",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7482742543298109,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8124013313418328,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:42.379965",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

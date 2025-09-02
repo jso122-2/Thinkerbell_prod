@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1292",
+  "chunk_id": "sample_1292_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Portmans\n            • Fee: ~$4,459\n            • Deliverables: 1 x Instagram story, 3 x Facebook post, 1 x Instagram story, 2 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

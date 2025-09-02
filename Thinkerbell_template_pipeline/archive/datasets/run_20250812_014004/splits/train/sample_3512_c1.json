@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3512",
+  "chunk_id": "sample_3512_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Roll'd. Budget is approx $4,158 - need 2 x 60-second YouTube video, 2 x 90-second product demo, 1 x Twitter post, 1 x Instagram post, 2 x Instagram post. 12 weeks exclusivity, 4 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

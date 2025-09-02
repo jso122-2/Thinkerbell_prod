@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2326",
+  "generation_timestamp": "2025-08-04T18:30:36.025820",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Victoria Carter for Sephora. \n            Budget is approx $4,989 - need 2 x Radio interview, 1 x Instagram post, 1 x TV appearance, 2 x 30-second Instagram reel, 1 x YouTube short. \n            7 weeks exclusivity, 5 month engagement. \n            Usage: 11 months. Start date: November 2025.",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$4,989",
+    "fee_numeric": 4989,
+    "deliverables": [
+      "2 x Radio interview",
+      "1 x Instagram post",
+      "1 x TV appearance",
+      "2 x 30-second Instagram reel",
+      "1 x YouTube short"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6962857215134888,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8334600778384695,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:36.015818",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

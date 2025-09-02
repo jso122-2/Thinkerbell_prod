@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_368",
+  "chunk_id": "sample_368_c1",
+  "text": "Chloe Lewis for Woolworths - $13,596 budget\n            Need: 2 x LinkedIn post\n            9w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "session_info": {
+    "timestamp": "2025-08-12T12:06:05.432941",
+    "total_failures": 0,
+    "session_stats": {
+      "total_mappings_attempted": 26,
+      "successful_mappings": 26,
+      "failed_mappings": 0,
+      "failure_types": {},
+      "unknown_industries": 0,
+      "unknown_complexities": 0,
+      "profile_selection_failures": 0
+    }
+  },
+  "failures": [],
+  "summary": {
+    "total_failures": 0,
+    "session_stats": {
+      "total_mappings_attempted": 26,
+      "successful_mappings": 26,
+      "failed_mappings": 0,
+      "failure_types": {},
+      "unknown_industries": 0,
+      "unknown_complexities": 0,
+      "profile_selection_failures": 0
+    },
+    "failure_breakdown": {
+      "by_type": {},
+      "unknown_industries": 0,
+      "unknown_complexities": 0,
+      "profile_selection_failures": 0
+    },
+    "success_rate": 100.0
+  }
+}

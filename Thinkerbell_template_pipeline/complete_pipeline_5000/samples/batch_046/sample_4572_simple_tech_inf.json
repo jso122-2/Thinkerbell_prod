@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4572",
+  "generation_timestamp": "2025-08-04T18:31:22.242330",
+  "generator_version": "v1.0",
+  "batch_id": "batch_046",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Andrew Clark\n            • Brand: Harvey Norman\n            • Fee: ~$20,034\n            • Deliverables: 1 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: January 2026",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$20,034",
+    "fee_numeric": 20034,
+    "deliverables": [
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8896737560058839,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8460985230688687,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:22.234328",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Winter Range",
+    "product_category": "Entertainment"
+  }
+}

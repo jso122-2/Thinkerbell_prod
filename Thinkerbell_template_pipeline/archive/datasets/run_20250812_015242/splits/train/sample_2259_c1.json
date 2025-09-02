@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2259",
+  "chunk_id": "sample_2259_c1",
+  "text": "Sarah Chen for Bed Bath N' Table - $14,277 budget\n            Need: 1 x Meet and greet, 2 x Facebook story\n            11w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

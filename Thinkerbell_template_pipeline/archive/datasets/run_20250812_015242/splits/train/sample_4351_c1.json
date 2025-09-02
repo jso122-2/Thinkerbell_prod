@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4351",
+  "chunk_id": "sample_4351_c1",
+  "text": "Hey team, looking to work with Mia White for David Jones. Budget is approx $4,266 - need 3 x YouTube short, 1 x 90-second product demo, 3 x TikTok video, 1 x Radio interview, 2 x Article contribution. 10 weeks exclusivity, 4 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

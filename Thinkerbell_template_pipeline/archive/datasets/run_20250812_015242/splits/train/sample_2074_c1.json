@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2074",
+  "chunk_id": "sample_2074_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: Chemist Warehouse\n            • Fee: ~$7,259\n            • Deliverables: 3 x Twitter post, 1 x TikTok video, 3 x Facebook post, 2 x 2-minute tutorial, 1 x Behind-the-scenes content\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

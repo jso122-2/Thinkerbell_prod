@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_007",
+  "chunk_id": "sample_007_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Big W\n            • Fee: ~$15,842\n            • Deliverables: 1 x 15-second TikTok, 3 x 3-minute vlog, 3 x Social media takeover, 2 x Press release quote, 2 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 86,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

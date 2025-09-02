@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_241",
+  "chunk_id": "sample_241_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Woolworths\n            • Fee: ~$6,563\n            • Deliverables: 3 x Facebook post\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

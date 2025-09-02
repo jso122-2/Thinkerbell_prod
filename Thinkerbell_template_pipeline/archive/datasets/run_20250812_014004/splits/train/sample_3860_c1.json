@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3860",
+  "chunk_id": "sample_3860_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Autobarn\n            • Fee: ~$2,820\n            • Deliverables: 3 x YouTube short\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

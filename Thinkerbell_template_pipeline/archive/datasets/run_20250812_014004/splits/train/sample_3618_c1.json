@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3618",
+  "chunk_id": "sample_3618_c1",
+  "text": "Need Victoria Carter for Adairs campaign. Budget around $6,232, looking for 2 x Event photography. 10 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 6 months. Engagement period: 3 months.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

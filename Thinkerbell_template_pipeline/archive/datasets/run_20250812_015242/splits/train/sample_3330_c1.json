@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3330",
+  "chunk_id": "sample_3330_c1",
+  "text": "Hey team, looking to work with Justin Mitchell for Zambrero. Budget is approx $2,710 - need 3 x Media interview, 1 x 3-minute vlog, 3 x 90-second product demo. 7 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1165",
+  "chunk_id": "sample_1165_c1",
+  "text": "Brandon Nelson for Chemist Warehouse - $11,871 budget\n            Need: 3 x 3-minute vlog, 3 x Store opening, 1 x LinkedIn post\n            2w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

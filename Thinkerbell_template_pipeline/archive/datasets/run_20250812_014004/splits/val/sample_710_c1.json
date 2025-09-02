@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_710",
+  "chunk_id": "sample_710_c1",
+  "text": "Hey team, looking to work with Mia White for Telstra. Budget is approx $6,453 - need 3 x Instagram post, 1 x LinkedIn post. 3 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

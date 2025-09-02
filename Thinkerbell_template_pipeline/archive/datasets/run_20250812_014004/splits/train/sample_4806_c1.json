@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4806",
+  "chunk_id": "sample_4806_c1",
+  "text": "Hey team, looking to work with Christopher Lee for Sephora. Budget is approx $30,509 - need 1 x Radio interview, 1 x Instagram reel, 2 x LinkedIn post. 5 weeks exclusivity, 4 month engagement. Usage: 10 months. Start date: September 2025. Need to confirm: exclusivity period",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

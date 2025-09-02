@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2125",
+  "chunk_id": "sample_2125_c1",
+  "text": "Hey team, looking to work with Sage Cooper for Betty's Burgers. Budget is approx $28,845 - need 1 x YouTube video, 1 x Instagram reel, 3 x Press release quote. 7 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

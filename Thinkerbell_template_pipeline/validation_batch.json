@@ -1,0 +1,252 @@
+[
+  {
+    "id": "fallback_sample_001",
+    "raw_input_text": "This is a fallback sample 1 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 1",
+      "client": "Sample Client 1",
+      "fee": "$1000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168418",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_002",
+    "raw_input_text": "This is a fallback sample 2 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 2",
+      "client": "Sample Client 2",
+      "fee": "$2000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168450",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_003",
+    "raw_input_text": "This is a fallback sample 3 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 3",
+      "client": "Sample Client 3",
+      "fee": "$3000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168454",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_004",
+    "raw_input_text": "This is a fallback sample 4 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 4",
+      "client": "Sample Client 4",
+      "fee": "$4000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168458",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_005",
+    "raw_input_text": "This is a fallback sample 5 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 5",
+      "client": "Sample Client 5",
+      "fee": "$5000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168462",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_006",
+    "raw_input_text": "This is a fallback sample 6 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 6",
+      "client": "Sample Client 6",
+      "fee": "$6000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168465",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_007",
+    "raw_input_text": "This is a fallback sample 7 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 7",
+      "client": "Sample Client 7",
+      "fee": "$7000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168468",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_008",
+    "raw_input_text": "This is a fallback sample 8 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 8",
+      "client": "Sample Client 8",
+      "fee": "$8000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168473",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_009",
+    "raw_input_text": "This is a fallback sample 9 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 9",
+      "client": "Sample Client 9",
+      "fee": "$9000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168477",
+      "sample_type": "validation"
+    }
+  },
+  {
+    "id": "fallback_sample_010",
+    "raw_input_text": "This is a fallback sample 10 for validation. It contains basic influencer agreement content with placeholder information.",
+    "extracted_fields": {
+      "influencer": "Sample Influencer 10",
+      "client": "Sample Client 10",
+      "fee": "$10000",
+      "deliverables": [
+        "Instagram post",
+        "Story"
+      ],
+      "exclusivity_period": "2 weeks",
+      "engagement_term": "3 months",
+      "usage_term": "6 months",
+      "territory": "Australia"
+    },
+    "template_match": "template_1",
+    "complexity_level": "simple",
+    "confidence_score": 0.8,
+    "metadata": {
+      "generation_method": "fallback",
+      "timestamp": "2025-08-04T17:31:48.168480",
+      "sample_type": "validation"
+    }
+  }
+]

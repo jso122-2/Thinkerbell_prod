@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1389",
+  "chunk_id": "sample_1389_c1",
+  "text": "River Murphy for IKEA - $12,827 budget\n            Need: 2 x YouTube short, 2 x TikTok video, 3 x Social media takeover, 3 x Twitter post\n            2w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

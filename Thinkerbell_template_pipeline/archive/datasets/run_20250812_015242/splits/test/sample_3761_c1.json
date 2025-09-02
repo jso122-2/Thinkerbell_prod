@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3761",
+  "chunk_id": "sample_3761_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Mad Mex. Budget is approx $30,269 - need 3 x Lifestyle photography. 6 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

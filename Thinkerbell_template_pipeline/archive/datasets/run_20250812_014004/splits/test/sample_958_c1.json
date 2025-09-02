@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_958",
+  "chunk_id": "sample_958_c1",
+  "text": "Hey team, looking to work with Nathan King for Pizza Hut. Budget is approx $2,715 - need 2 x Facebook post, 1 x Instagram story. 8 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

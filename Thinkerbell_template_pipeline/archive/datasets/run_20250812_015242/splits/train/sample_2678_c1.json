@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2678",
+  "chunk_id": "sample_2678_c1",
+  "text": "Need Victoria Carter for McDonald's campaign. Budget around $28,119, looking for 2 x 60-second YouTube video, 3 x 60-second YouTube video, 1 x 90-second product demo, 2 x 2-minute tutorial, 3 x Live stream. 10 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 4 months. Additional notes: TBC on exact dates, around $28,119 budget",
+  "token_count": 101,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

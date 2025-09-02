@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4412",
+  "chunk_id": "sample_4412_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: Big W\n            • Fee: ~$12,558\n            • Deliverables: 2 x Instagram reel, 3 x Facebook post, 2 x Radio interview, 3 x Twitter post, 3 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $12,558 budget",
+  "token_count": 94,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

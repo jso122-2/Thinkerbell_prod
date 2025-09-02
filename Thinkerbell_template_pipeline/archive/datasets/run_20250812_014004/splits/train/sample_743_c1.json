@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_743",
+  "chunk_id": "sample_743_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Domino's\n            • Fee: ~$8,721\n            • Deliverables: 2 x Instagram story, 1 x Media interview, 3 x Facebook story\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

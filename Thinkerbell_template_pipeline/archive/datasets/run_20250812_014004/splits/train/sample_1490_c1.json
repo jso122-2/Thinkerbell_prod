@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1490",
+  "chunk_id": "sample_1490_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Coles\n            • Fee: ~$10,034\n            • Deliverables: 2 x Instagram post, 1 x Facebook post, 1 x LinkedIn post\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

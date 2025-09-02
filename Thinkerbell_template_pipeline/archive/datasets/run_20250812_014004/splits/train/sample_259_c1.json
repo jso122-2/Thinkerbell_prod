@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_259",
+  "chunk_id": "sample_259_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Witchery\n            • Fee: ~$20,126\n            • Deliverables: 3 x Instagram reel, 2 x 60-second YouTube video, 1 x Pinterest pin, 2 x 90-second product demo\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $20,126 budget\n\nNeed to confirm: exclusivity period",
+  "token_count": 102,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

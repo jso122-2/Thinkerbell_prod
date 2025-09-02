@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3723",
+  "chunk_id": "sample_3723_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Telstra\n            • Fee: ~$4,721\n            • Deliverables: 3 x 10-minute unboxing, 1 x 2-minute tutorial, 1 x Instagram story, 3 x Meet and greet\n            • Exclusivity: 5 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

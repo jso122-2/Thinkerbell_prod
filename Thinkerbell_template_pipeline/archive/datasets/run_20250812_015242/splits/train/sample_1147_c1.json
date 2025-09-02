@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1147",
+  "chunk_id": "sample_1147_c1",
+  "text": "Hey team, looking to work with Layla Campbell for Telstra. Budget is approx $33,983 - need 3 x Facebook post, 2 x Facebook post, 2 x YouTube short. 10 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

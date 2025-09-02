@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4501",
+  "generation_timestamp": "2025-08-04T18:31:21.560207",
+  "generator_version": "v1.0",
+  "batch_id": "batch_046",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for Red Rooster - $1,791 budget\n            Need: 1 x Facebook story, 3 x 15-second TikTok, 3 x Facebook story\n            2w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+    "token_count": 58,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$1,791",
+    "fee_numeric": 1791,
+    "deliverables": [
+      "1 x Facebook story",
+      "3 x 15-second TikTok",
+      "3 x Facebook story"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7294412937707861,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8249967227125172,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:21.550719",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Limited Edition",
+    "product_category": "Finance & Insurance"
+  }
+}

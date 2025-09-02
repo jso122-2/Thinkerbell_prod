@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4327",
+  "chunk_id": "sample_4327_c1",
+  "text": "Emma Thompson for Pizza Hut - $4,026 budget\n            Need: 3 x Radio interview, 1 x Product launch event, 2 x Social media takeover\n            9w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $4,026 budget",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

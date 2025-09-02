@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_258",
+  "generation_timestamp": "2025-08-04T18:29:50.632438",
+  "generator_version": "v1.0",
+  "batch_id": "batch_003",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Grace Young\n            • Brand: Telstra\n            • Fee: ~$3,384\n            • Deliverables: 2 x Instagram story, 3 x 15-second TikTok\n            • Exclusivity: 4 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: November 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$3,384",
+    "fee_numeric": 3384,
+    "deliverables": [
+      "2 x Instagram story",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.926599173762251,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8024137656236563,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:50.623440",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Limited Edition",
+    "product_category": "Fashion & Apparel"
+  }
+}

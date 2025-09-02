@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_739",
+  "generation_timestamp": "2025-08-04T18:30:00.663079",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Hannah Green for Woolworths. \n            Budget is approx $7,070 - need 3 x Twitter post, 3 x Instagram post. \n            9 weeks exclusivity, 4 month engagement. \n            Usage: 7 months. Start date: December 2025.\n\nAdditional notes: TBC on exact dates, around $7,070 budget",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$7,070",
+    "fee_numeric": 7070,
+    "deliverables": [
+      "3 x Twitter post",
+      "3 x Instagram post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7183607471301018,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8939654081315224,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:00.651904",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Sports & Recreation"
+  }
+}

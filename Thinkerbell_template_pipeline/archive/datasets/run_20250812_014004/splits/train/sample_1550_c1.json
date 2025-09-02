@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1550",
+  "chunk_id": "sample_1550_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Woolworths\n            • Fee: ~$28,124\n            • Deliverables: 3 x 3-minute vlog\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

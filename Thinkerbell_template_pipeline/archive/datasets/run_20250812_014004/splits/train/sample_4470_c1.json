@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4470",
+  "chunk_id": "sample_4470_c1",
+  "text": "Riley Evans for McDonald's - $2,122 budget\n            Need: 1 x Instagram post\n            10w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

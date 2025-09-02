@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1420",
+  "chunk_id": "sample_1420_c1",
+  "text": "Chloe Lewis for Boost Juice - $21,297 budget\n            Need: 2 x TV appearance\n            9w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

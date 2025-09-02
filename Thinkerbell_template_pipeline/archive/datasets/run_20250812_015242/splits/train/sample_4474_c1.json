@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4474",
+  "chunk_id": "sample_4474_c1",
+  "text": "Need Hayden Bell for Coles campaign. Budget around $6,205, looking for 2 x Instagram post, 2 x LinkedIn post. 10 week exclusivity from other grocery brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 3 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

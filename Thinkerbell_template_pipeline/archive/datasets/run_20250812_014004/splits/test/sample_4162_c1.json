@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4162",
+  "chunk_id": "sample_4162_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Pizza Hut\n            • Fee: ~$2,539\n            • Deliverables: 2 x Twitter post, 2 x Product photography, 2 x Twitter post, 1 x Instagram post, 3 x LinkedIn post\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

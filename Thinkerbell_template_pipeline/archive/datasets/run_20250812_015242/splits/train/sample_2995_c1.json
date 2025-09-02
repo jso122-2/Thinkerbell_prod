@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2995",
+  "chunk_id": "sample_2995_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Autobarn\n            • Fee: ~$6,875\n            • Deliverables: 2 x Behind-the-scenes content, 2 x Live stream\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

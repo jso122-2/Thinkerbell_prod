@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_230",
+  "chunk_id": "sample_230_c1",
+  "text": "Hey team, looking to work with Jordan Phillips for Qantas. Budget is approx $24,427 - need 1 x Press release quote, 2 x Facebook post, 1 x Instagram story, 1 x Product photography, 3 x 60-second YouTube video. 7 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

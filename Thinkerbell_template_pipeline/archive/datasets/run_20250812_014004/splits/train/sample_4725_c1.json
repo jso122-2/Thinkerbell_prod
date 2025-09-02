@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4725",
+  "chunk_id": "sample_4725_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Domino's\n            • Fee: ~$8,586\n            • Deliverables: 2 x Radio interview\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

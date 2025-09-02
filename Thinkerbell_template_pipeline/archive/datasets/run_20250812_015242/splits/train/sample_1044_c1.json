@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1044",
+  "chunk_id": "sample_1044_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Boost Juice\n            • Fee: ~$10,598\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: November 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

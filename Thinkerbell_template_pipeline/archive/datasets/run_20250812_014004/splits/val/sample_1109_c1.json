@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1109",
+  "chunk_id": "sample_1109_c1",
+  "text": "Andrew Clark for Telstra - $3,532 budget\n            Need: 1 x LinkedIn post, 1 x 60-second YouTube video\n            8w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

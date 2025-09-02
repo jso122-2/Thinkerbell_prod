@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2330",
+  "chunk_id": "sample_2330_c1",
+  "text": "Need Jordan Phillips for Telstra campaign. Budget around $1,746, looking for 3 x Instagram post. 12 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 8 months. Engagement period: 4 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

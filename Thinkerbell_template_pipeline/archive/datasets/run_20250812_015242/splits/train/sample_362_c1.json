@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_362",
+  "chunk_id": "sample_362_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Woolworths\n            • Fee: ~$5,882\n            • Deliverables: 2 x Press conference, 1 x Instagram story, 1 x Facebook post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

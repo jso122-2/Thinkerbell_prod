@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1995",
+  "chunk_id": "sample_1995_c1",
+  "text": "Hey team, looking to work with Sage Reed for Kmart. Budget is approx $1,944 - need 1 x Twitter post, 1 x Meet and greet, 1 x Twitter post. 5 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: January 2026. Need to sort out: TBC on final dates",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

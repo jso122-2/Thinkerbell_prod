@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1799",
+  "generation_timestamp": "2025-08-04T18:30:22.663949",
+  "generator_version": "v1.0",
+  "batch_id": "batch_018",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Quinn Richardson for IKEA - $19,011 budget\n            Need: 1 x Instagram reel, 3 x Meet and greet, 3 x Instagram post, 1 x Instagram post, 1 x Behind-the-scenes content\n            8w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$19,011",
+    "fee_numeric": 19011,
+    "deliverables": [
+      "1 x Instagram reel",
+      "3 x Meet and greet",
+      "3 x Instagram post",
+      "1 x Instagram post",
+      "1 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6826949049894686,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.797729569470874,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:22.653951",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_943",
+  "chunk_id": "sample_943_c1",
+  "text": "Need Peyton Stewart for Telstra campaign. Budget around $11,791, looking for 1 x YouTube video, 1 x Instagram reel. 12 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2528",
+  "chunk_id": "sample_2528_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Mad Mex. Budget is approx $25,123 - need 2 x Social media takeover, 1 x Blog post. 4 weeks exclusivity, 6 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

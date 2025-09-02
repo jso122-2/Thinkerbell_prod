@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1913",
+  "chunk_id": "sample_1913_c1",
+  "text": "Grace Young for Autobarn - $10,670 budget\n            Need: 2 x Facebook post, 3 x Professional headshots, 2 x 2-minute tutorial, 2 x Pinterest pin\n            2w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

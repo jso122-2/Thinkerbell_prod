@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_350",
+  "chunk_id": "sample_350_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Pizza Hut. Budget is approx $22,170 - need 3 x YouTube short. 9 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

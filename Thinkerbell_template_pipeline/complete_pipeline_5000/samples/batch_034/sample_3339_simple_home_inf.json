@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3339",
+  "generation_timestamp": "2025-08-04T18:30:56.967875",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Christopher Lee\n            • Brand: Freedom\n            • Fee: ~$29,047\n            • Deliverables: 3 x Instagram story, 2 x 30-second Instagram reel, 3 x Pinterest pin, 2 x YouTube video, 2 x Event photography\n            • Exclusivity: 5 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: November 2025",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$29,047",
+    "fee_numeric": 29047,
+    "deliverables": [
+      "3 x Instagram story",
+      "2 x 30-second Instagram reel",
+      "3 x Pinterest pin",
+      "2 x YouTube video",
+      "2 x Event photography"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8907458061325664,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8149931734668987,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:56.959876",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

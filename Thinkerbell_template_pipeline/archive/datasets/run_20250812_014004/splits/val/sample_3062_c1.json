@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3062",
+  "chunk_id": "sample_3062_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Woolworths\n            • Fee: ~$24,501\n            • Deliverables: 1 x Twitter post\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

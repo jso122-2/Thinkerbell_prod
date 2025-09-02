@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2870",
+  "chunk_id": "sample_2870_c1",
+  "text": "Hey team, looking to work with Victoria Carter for Repco. Budget is approx $7,352 - need 2 x 30-second Instagram reel, 2 x Twitter post. 8 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

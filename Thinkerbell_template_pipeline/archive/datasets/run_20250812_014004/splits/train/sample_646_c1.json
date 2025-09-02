@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_646",
+  "chunk_id": "sample_646_c1",
+  "text": "Justin Mitchell for Telstra - $12,014 budget\n            Need: 3 x LinkedIn post, 3 x TV appearance, 2 x Instagram story, 1 x Product photography\n            8w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

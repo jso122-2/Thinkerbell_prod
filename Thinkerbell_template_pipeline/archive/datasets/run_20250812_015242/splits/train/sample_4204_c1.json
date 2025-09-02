@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4204",
+  "chunk_id": "sample_4204_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Officeworks\n            • Fee: ~$29,116\n            • Deliverables: 2 x 15-second TikTok, 2 x Facebook post\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2640",
+  "chunk_id": "sample_2640_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Officeworks\n            • Fee: ~$29,380\n            • Deliverables: 3 x 5-minute review\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

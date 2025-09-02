@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_506",
+  "generation_timestamp": "2025-08-04T18:29:56.340265",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Blake Cox\n            • Brand: Officeworks\n            • Fee: ~$17,882\n            • Deliverables: 3 x 60-second YouTube video\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: September 2025",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Blake Cox",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$17,882",
+    "fee_numeric": 17882,
+    "deliverables": [
+      "3 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9324612215025846,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8392258328788286,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.329536",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_719",
+  "chunk_id": "sample_719_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Myer. Budget is approx $1,823 - need 2 x 2-minute tutorial, 2 x Product photography, 3 x 90-second product demo. 8 weeks exclusivity, 4 month engagement. Usage: 10 months. Start date: December 2025. Additional notes: TBC on exact dates, around $1,823 budget",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

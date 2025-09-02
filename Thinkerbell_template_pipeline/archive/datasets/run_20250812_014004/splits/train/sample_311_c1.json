@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_311",
+  "chunk_id": "sample_311_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Qantas. Budget is approx $1,998 - need 2 x 2-minute tutorial, 3 x Instagram story, 3 x Media interview. 8 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

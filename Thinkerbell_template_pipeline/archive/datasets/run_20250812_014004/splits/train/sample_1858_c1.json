@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1858",
+  "chunk_id": "sample_1858_c1",
+  "text": "Natalie Adams for Boost Juice - $4,131 budget\n            Need: 2 x Lifestyle photography, 3 x Instagram story, 2 x Press release quote, 2 x LinkedIn post, 2 x Instagram post\n            10w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

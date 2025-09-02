@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2144",
+  "chunk_id": "sample_2144_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Red Rooster\n            • Fee: ~$20,185\n            • Deliverables: 2 x Facebook post, 2 x Product photography, 2 x Pinterest pin, 3 x 90-second product demo, 2 x 30-second Instagram reel\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: January 2026\n\nNeed to confirm: usage rights",
+  "token_count": 89,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

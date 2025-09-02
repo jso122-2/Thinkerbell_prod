@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3529",
+  "chunk_id": "sample_3529_c1",
+  "text": "Hey team, looking to work with Lily Walker for Boost Juice. Budget is approx $12,404 - need 3 x TV appearance. 11 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: January 2026. Need to confirm: usage rights",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

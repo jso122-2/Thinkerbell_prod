@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2301",
+  "chunk_id": "sample_2301_c1",
+  "text": "Need Daniel Martinez for KFC campaign. Budget arnd $4,387, looking for 2 x TV appearance. 10 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 9 months. Engagement period: 4 months. Need to sort out: TBC on final dates",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

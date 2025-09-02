@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4609",
+  "generation_timestamp": "2025-08-04T18:31:23.479048",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Howard for Portmans campaign. Budget around $1,563, looking for 2 x 2-minute tutorial, 1 x Facebook post, 1 x Instagram story, 2 x Instagram story, 3 x Facebook post. \n            10 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 8 months. \n            Engagement period: 4 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Portmans",
+    "brand": "Portmans",
+    "campaign": "Portmans Campaign",
+    "fee": "$1,563",
+    "fee_numeric": 1563,
+    "deliverables": [
+      "2 x 2-minute tutorial",
+      "1 x Facebook post",
+      "1 x Instagram story",
+      "2 x Instagram story",
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.746744022527493,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8218622792547476,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:23.470046",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1336",
+  "chunk_id": "sample_1336_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Subway\n            • Fee: ~$29,723\n            • Deliverables: 3 x Pinterest pin, 3 x Blog post, 2 x Pinterest pin, 2 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

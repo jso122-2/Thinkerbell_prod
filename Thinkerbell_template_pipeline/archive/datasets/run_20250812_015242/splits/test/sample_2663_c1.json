@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2663",
+  "chunk_id": "sample_2663_c1",
+  "text": "Need Peyton Stewart for Priceline campaign. Budget around $3,778, looking for 1 x Store opening, 1 x 60-second YouTube video, 1 x Instagram story, 2 x 5-minute review, 2 x Media interview. 9 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 6 months.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

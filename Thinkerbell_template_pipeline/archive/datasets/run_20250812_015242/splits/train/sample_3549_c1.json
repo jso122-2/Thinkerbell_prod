@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3549",
+  "chunk_id": "sample_3549_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for IKEA. Budget is approx $25,788 - need 3 x 15-second TikTok, 3 x Press conference, 2 x Brand photoshoot, 3 x Instagram post, 1 x YouTube short. 5 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: October 2025.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

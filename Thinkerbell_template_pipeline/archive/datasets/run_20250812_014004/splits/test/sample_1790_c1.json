@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1790",
+  "chunk_id": "sample_1790_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Kmart\n            • Fee: ~$22,700\n            • Deliverables: 2 x 3-minute vlog, 3 x YouTube short, 1 x Product photography\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

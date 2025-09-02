@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3174",
+  "generation_timestamp": "2025-08-04T18:30:53.179797",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Lily Walker for Zambrero campaign. Budget around $4,087, looking for 2 x Instagram post, 1 x Pinterest pin, 3 x TikTok video, 1 x Instagram story. \n            3 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 6 months. \n            Engagement period: 3 months.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$4,087",
+    "fee_numeric": 4087,
+    "deliverables": [
+      "2 x Instagram post",
+      "1 x Pinterest pin",
+      "3 x TikTok video",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7384333416127412,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7852379294469688,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:53.169794",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

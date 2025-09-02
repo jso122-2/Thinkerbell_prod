@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2078",
+  "chunk_id": "sample_2078_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for Amart Furniture. Budget is approx $13,948 - need 2 x Instagram story, 3 x Instagram post, 3 x Press conference. 10 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

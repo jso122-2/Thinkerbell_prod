@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1116",
+  "chunk_id": "sample_1116_c1",
+  "text": "Hannah Green for Commonwealth Bank - $11,536 budget\n            Need: 3 x 30-second Instagram reel, 3 x 90-second product demo, 2 x 15-second TikTok, 2 x 90-second product demo\n            2w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

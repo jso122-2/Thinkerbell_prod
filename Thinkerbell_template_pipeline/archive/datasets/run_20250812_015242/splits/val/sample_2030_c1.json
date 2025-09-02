@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2030",
+  "chunk_id": "sample_2030_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Guzman y Gomez\n            • Fee: ~$11,749\n            • Deliverables: 2 x TV appearance, 3 x Instagram story, 1 x 60-second YouTube video, 3 x Instagram story\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

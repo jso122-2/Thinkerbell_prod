@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1899",
+  "generation_timestamp": "2025-08-04T18:30:25.091534",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Morgan Morris\n            • Brand: Coles\n            • Fee: ~$32,751\n            • Deliverables: 2 x Pinterest pin, 3 x 2-minute tutorial, 3 x LinkedIn post, 1 x Facebook post\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: January 2026",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Coles",
+    "brand": "Coles",
+    "campaign": "Coles Campaign",
+    "fee": "$32,751",
+    "fee_numeric": 32751,
+    "deliverables": [
+      "2 x Pinterest pin",
+      "3 x 2-minute tutorial",
+      "3 x LinkedIn post",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.743172174899151,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7563656402549223,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:25.082537",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2733",
+  "generation_timestamp": "2025-08-04T18:30:44.485047",
+  "generator_version": "v1.0",
+  "batch_id": "batch_028",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Lily Walker for Telstra campaign. Budget around $7,459, looking for 2 x YouTube video, 3 x Pinterest pin. \n            9 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 12 months. \n            Engagement period: 2 months.\n\nAdditional notes: TBC on exact dates, around $7,459 budget",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$7,459",
+    "fee_numeric": 7459,
+    "deliverables": [
+      "2 x YouTube video",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7037990493214539,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9207666295854989,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:44.477051",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

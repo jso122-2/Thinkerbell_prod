@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1537",
+  "chunk_id": "sample_1537_c1",
+  "text": "Need Andrew Clark for Chemist Warehouse campaign. Budget around $13,368, looking for 3 x LinkedIn post. 6 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 3 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

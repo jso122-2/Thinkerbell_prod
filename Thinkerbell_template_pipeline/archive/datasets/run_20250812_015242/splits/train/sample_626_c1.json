@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_626",
+  "chunk_id": "sample_626_c1",
+  "text": "Sage Reed for Woolworths - $2,931 budget\n            Need: 1 x Press release quote, 2 x Facebook story, 2 x Twitter post, 2 x TV appearance\n            2w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

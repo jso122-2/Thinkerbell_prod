@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3312",
+  "chunk_id": "sample_3312_c1",
+  "text": "Hey team, looking to work with Layla Campbell for Domino's. Budget is approx $12,008 - need 2 x Facebook post, 1 x TikTok video. 2 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

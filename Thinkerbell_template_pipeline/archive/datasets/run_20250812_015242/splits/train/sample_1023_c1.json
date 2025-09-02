@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1023",
+  "chunk_id": "sample_1023_c1",
+  "text": "Need Cameron Parker for Woolworths campaign. Budget around $4,904, looking for 2 x 10-minute unboxing, 1 x Pinterest pin. 5 week exclus from other grocery brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 6 months. no worries",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

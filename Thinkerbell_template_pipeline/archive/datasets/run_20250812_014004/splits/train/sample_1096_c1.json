@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1096",
+  "chunk_id": "sample_1096_c1",
+  "text": "Layla Campbell for Roll'd - $2,475 budget\n            Need: 3 x LinkedIn post, 3 x Radio interview, 3 x Instagram story, 1 x 60-second YouTube video\n            10w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

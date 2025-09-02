@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_023",
+  "chunk_id": "sample_023_c1",
+  "text": "Jordan Phillips for Pizza Hut - $3,172 budget\n            Need: 3 x Brand photoshoot, 3 x Pinterest pin, 2 x Twitter post, 2 x Pinterest pin, 2 x 15-second TikTok\n            7w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: September 2025\n\nAdditional notes: TBC on exact dates, around $3,172 budget",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

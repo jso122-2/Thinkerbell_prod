@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3087",
+  "chunk_id": "sample_3087_c1",
+  "text": "Zoe Wright for Bed Bath N' Table - $9,102 budget\n            Need: 2 x Store opening, 2 x Radio interview\n            5w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

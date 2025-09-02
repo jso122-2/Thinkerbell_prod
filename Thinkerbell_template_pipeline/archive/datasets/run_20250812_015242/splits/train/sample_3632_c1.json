@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3632",
+  "chunk_id": "sample_3632_c1",
+  "text": "Blake Morgan for Lush - $3,095 budget\n            Need: 3 x Radio interview, 1 x Live stream, 2 x Instagram story, 1 x LinkedIn post\n            4w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

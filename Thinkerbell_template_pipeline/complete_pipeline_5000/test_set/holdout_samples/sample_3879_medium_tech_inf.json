@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3879",
+  "generation_timestamp": "2025-08-04T18:31:07.900989",
+  "generator_version": "v1.0",
+  "batch_id": "batch_039",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Jordan Phillips\n            • Brand: Telstra\n            • Fee: ~$4,742\n            • Deliverables: 3 x YouTube video, 3 x Facebook story, 1 x Podcast guest, 2 x YouTube video, 1 x LinkedIn post\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: January 2026",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Jordan Phillips",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$4,742",
+    "fee_numeric": 4742,
+    "deliverables": [
+      "3 x YouTube video",
+      "3 x Facebook story",
+      "1 x Podcast guest",
+      "2 x YouTube video",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8838688485801214,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.802200921639867,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:07.891988",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Education"
+  }
+}

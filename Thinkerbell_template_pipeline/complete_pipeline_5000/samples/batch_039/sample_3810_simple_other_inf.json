@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3810",
+  "generation_timestamp": "2025-08-04T18:31:07.126987",
+  "generator_version": "v1.0",
+  "batch_id": "batch_039",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Joshua Hall for Big W campaign. Budget around $1,873, looking for 2 x Social media takeover, 1 x Press release quote, 1 x Facebook post, 2 x 15-second TikTok, 1 x TikTok video. \n            8 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 8 months. \n            Engagement period: 4 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$1,873",
+    "fee_numeric": 1873,
+    "deliverables": [
+      "2 x Social media takeover",
+      "1 x Press release quote",
+      "1 x Facebook post",
+      "2 x 15-second TikTok",
+      "1 x TikTok video"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9149850394395561,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8678956487351306,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:07.117991",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

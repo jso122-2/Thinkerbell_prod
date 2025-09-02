@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1630",
+  "chunk_id": "sample_1630_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Betty's Burgers\n            • Fee: ~$3,489\n            • Deliverables: 3 x Brand ambassador content, 1 x 5-minute review\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

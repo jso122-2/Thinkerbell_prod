@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1370",
+  "chunk_id": "sample_1370_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Mecca\n            • Fee: ~$16,015\n            • Deliverables: 1 x Radio interview, 3 x Pinterest pin, 1 x Professional headshots, 2 x Facebook post, 1 x Pinterest pin\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4902",
+  "chunk_id": "sample_4902_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Pizza Hut\n            • Fee: ~$3,893\n            • Deliverables: 3 x 60-second YouTube video, 1 x 90-second product demo, 1 x Brand photoshoot\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

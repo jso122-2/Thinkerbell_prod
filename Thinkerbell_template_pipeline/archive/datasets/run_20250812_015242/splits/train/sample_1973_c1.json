@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1973",
+  "chunk_id": "sample_1973_c1",
+  "text": "Tyler Scott for Chemist Warehouse - $18,500 budget\n            Need: 3 x YouTube short, 3 x Instagram post, 1 x Pinterest pin\n            3w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: November 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3661",
+  "chunk_id": "sample_3661_c1",
+  "text": "Need Daniel Martinez for Woolworths campaign. Budget around $12,180, looking for 2 x Instagram story, 2 x 5-minute review. 11 week exclusivity from other grocery brands. Campaign runs November 2025. Usage rights for 12 months. Engagement period: 2 months.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

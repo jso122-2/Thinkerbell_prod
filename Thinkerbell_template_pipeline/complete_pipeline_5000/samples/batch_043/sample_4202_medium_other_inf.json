@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4202",
+  "generation_timestamp": "2025-08-04T18:31:15.616522",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Riley Evans\n            • Brand: Kmart\n            • Fee: ~$6,266\n            • Deliverables: 1 x LinkedIn post, 3 x Product photography, 2 x Behind-the-scenes content, 2 x Media interview, 1 x TV appearance\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: September 2025",
+    "token_count": 89,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$6,266",
+    "fee_numeric": 6266,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "3 x Product photography",
+      "2 x Behind-the-scenes content",
+      "2 x Media interview",
+      "1 x TV appearance"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7088250383779403,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8413012980897224,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:15.607524",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

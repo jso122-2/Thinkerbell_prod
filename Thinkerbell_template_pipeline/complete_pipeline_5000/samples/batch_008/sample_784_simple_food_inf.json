@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_784",
+  "generation_timestamp": "2025-08-04T18:30:01.082103",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Matthew Taylor for Woolworths. \n            Budget is approx $3,711 - need 1 x Meet and greet, 2 x TikTok video, 2 x Instagram reel, 2 x Facebook post, 2 x Instagram post. \n            11 weeks exclusivity, 2 month engagement. \n            Usage: 10 months. Start date: October 2025.",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$3,711",
+    "fee_numeric": 3711,
+    "deliverables": [
+      "1 x Meet and greet",
+      "2 x TikTok video",
+      "2 x Instagram reel",
+      "2 x Facebook post",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8042174829392028,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8299469196672556,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:01.073103",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

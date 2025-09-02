@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3130",
+  "chunk_id": "sample_3130_c1",
+  "text": "Hey team, looking to work with Layla Campbell for Woolworths. Budget is approx $4,894 - need 3 x Professional headshots, 3 x YouTube video. 4 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

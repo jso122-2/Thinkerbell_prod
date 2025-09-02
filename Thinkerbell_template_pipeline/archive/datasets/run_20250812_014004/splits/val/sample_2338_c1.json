@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2338",
+  "chunk_id": "sample_2338_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Boost Juice\n            • Fee: ~$28,085\n            • Deliverables: 1 x 30-second Instagram reel\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

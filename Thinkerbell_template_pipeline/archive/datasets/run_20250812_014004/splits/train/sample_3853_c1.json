@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_3853",
+  "chunk_id": "sample_3853_c1",
+  "text": "Quinn Cook for JB Hi-Fi - $2,379 budget\n            Need: 1 x Facebook post, 1 x TV appearance, 1 x Twitter post, 3 x 30-second Instagram reel, 3 x YouTube video\n            10w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

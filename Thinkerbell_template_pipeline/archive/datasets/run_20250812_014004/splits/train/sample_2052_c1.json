@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2052",
+  "chunk_id": "sample_2052_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Qantas\n            • Fee: ~$15,871\n            • Deliverables: 1 x LinkedIn post, 3 x LinkedIn post, 2 x 2-minute tutorial\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: September 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

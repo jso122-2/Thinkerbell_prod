@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1738",
+  "chunk_id": "sample_1738_c1",
+  "text": "Need Scarlett Turner for Hungry Jack's campaign. Budget around $31,966, looking for 3 x Facebook story, 2 x Podcast guest, 1 x 30-second Instagram reel, 3 x LinkedIn post. 4 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 7 months. Engagement period: 5 months.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

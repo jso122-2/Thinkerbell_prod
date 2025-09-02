@@ -1,0 +1,25 @@
+{
+  "total_failures": 0,
+  "session_stats": {
+    "total_mappings_attempted": 0,
+    "successful_mappings": 0,
+    "failed_mappings": 0,
+    "failure_types": {},
+    "unknown_industries": 0,
+    "unknown_complexities": 0,
+    "profile_selection_failures": 0
+  },
+  "failure_breakdown": {
+    "by_type": {},
+    "unknown_industries": 0,
+    "unknown_complexities": 0,
+    "profile_selection_failures": 0
+  },
+  "success_rate": 0.0,
+  "timestamp": "2025-08-12T13:23:52.400686",
+  "processing_time": 0.0,
+  "total_mappings_attempted": 0,
+  "successful_mappings": 0,
+  "failed_mappings": 0,
+  "common_failure_reasons": []
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3982",
+  "chunk_id": "sample_3982_c1",
+  "text": "Hey team, looking to work with Olivia Davis for Portmans. Budget is approx $15,467 - need 1 x 90-second product demo, 1 x Blog post, 1 x Facebook post. 8 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

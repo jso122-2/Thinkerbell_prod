@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1407",
+  "generation_timestamp": "2025-08-04T18:30:14.916043",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Joshua Hall for Woolworths campaign. Budget around $3,781, looking for 2 x Facebook post, 1 x Twitter post, 2 x Instagram story, 2 x Press release quote, 3 x Press conference. \n            3 week exclusivity from other grocery brands. \n            Campaign runs November 2025. Usage rights for 8 months. \n            Engagement period: 4 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$3,781",
+    "fee_numeric": 3781,
+    "deliverables": [
+      "2 x Facebook post",
+      "1 x Twitter post",
+      "2 x Instagram story",
+      "2 x Press release quote",
+      "3 x Press conference"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.88836882517596,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8303216117654341,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:14.906041",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Automotive"
+  }
+}

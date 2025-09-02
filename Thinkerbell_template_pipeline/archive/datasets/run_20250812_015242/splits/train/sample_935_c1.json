@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_935",
+  "chunk_id": "sample_935_c1",
+  "text": "Need Quinn Cook for Bunnings campaign. Budget around $21,427, looking for 3 x Radio interview, 2 x Twitter post, 3 x TV appearance, 3 x Lifestyle photography, 3 x 30-second Instagram reel. 4 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 8 months. Engagement period: 2 months. Additional notes: TBC on exact dates, around $21,427 budget",
+  "token_count": 95,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

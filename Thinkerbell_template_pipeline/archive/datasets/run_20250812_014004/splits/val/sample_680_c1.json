@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_680",
+  "chunk_id": "sample_680_c1",
+  "text": "Andrew Clark for Coles - $11,210 budget\n            Need: 1 x Pinterest pin, 2 x YouTube video, 1 x Radio interview\n            10w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

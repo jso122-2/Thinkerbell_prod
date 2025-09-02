@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3808",
+  "generation_timestamp": "2025-08-04T18:31:07.104988",
+  "generator_version": "v1.0",
+  "batch_id": "batch_039",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Blake Cox for Queen Fine Foods campaign. Budget around $4,072, looking for 1 x Facebook post, 3 x Instagram post, 1 x 60-second YouTube video, 3 x LinkedIn post, 2 x Facebook post. \n            4 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 6 months. \n            Engagement period: 6 months.\n\nAdditional notes: TBC on exact dates, around $4,072 budget",
+    "token_count": 103,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Blake Cox",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$4,072",
+    "fee_numeric": 4072,
+    "deliverables": [
+      "1 x Facebook post",
+      "3 x Instagram post",
+      "1 x 60-second YouTube video",
+      "3 x LinkedIn post",
+      "2 x Facebook post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7894866774297751,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9376413591439712,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:07.088992",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

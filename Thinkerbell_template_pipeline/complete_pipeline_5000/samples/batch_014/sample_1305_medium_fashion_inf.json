@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1305",
+  "generation_timestamp": "2025-08-04T18:30:12.777774",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Ava Johnson for Sportsgirl - $18,574 budget\n            Need: 2 x 30-second Instagram reel, 3 x TikTok video, 2 x Behind-the-scenes content, 2 x Twitter post\n            8w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $18,574 budget",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$18,574",
+    "fee_numeric": 18574,
+    "deliverables": [
+      "2 x 30-second Instagram reel",
+      "3 x TikTok video",
+      "2 x Behind-the-scenes content",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7635289604096258,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8319980772742376,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:12.768742",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Health & Fitness"
+  }
+}

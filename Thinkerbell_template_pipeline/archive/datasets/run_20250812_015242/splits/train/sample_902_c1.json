@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_902",
+  "chunk_id": "sample_902_c1",
+  "text": "Hey team, looking to work with Tyler Scott for Coles. Budget is approx $1,934 - need 1 x Twitter post, 3 x Media interview. 3 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

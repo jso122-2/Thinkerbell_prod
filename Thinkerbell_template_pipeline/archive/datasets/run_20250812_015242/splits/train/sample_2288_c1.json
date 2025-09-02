@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2288",
+  "chunk_id": "sample_2288_c1",
+  "text": "Hayden Bell for Mecca - $2,326 budget\n            Need: 2 x TV appearance, 3 x Radio interview\n            11w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

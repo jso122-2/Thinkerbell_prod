@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4567",
+  "chunk_id": "sample_4567_c1",
+  "text": "Hey team, looking to work with Grace Young for Subway. Budget is approx $16,957 - need 1 x LinkedIn post, 1 x Lifestyle photography. 12 weeks exclusivity, 6 month engagement. Usage: 10 months. Start date: January 2026. mate",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

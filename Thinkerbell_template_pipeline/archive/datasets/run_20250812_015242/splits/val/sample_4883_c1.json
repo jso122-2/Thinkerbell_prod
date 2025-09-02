@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4883",
+  "chunk_id": "sample_4883_c1",
+  "text": "Rowan Bailey for Qantas - $31,163 budget\n            Need: 3 x Instagram reel\n            12w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

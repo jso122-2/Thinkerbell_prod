@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_759",
+  "chunk_id": "sample_759_c1",
+  "text": "Natalie Adams for Zambrero - $9,961 budget\n            Need: 1 x Media interview, 1 x Twitter post, 2 x YouTube video\n            3w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

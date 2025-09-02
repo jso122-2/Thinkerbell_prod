@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1604",
+  "chunk_id": "sample_1604_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Roll'd\n            • Fee: ~$2,247\n            • Deliverables: 3 x 90-second product demo, 3 x YouTube video, 1 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

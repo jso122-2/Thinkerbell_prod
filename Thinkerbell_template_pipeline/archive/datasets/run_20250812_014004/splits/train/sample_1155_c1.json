@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1155",
+  "chunk_id": "sample_1155_c1",
+  "text": "Hannah Green for Officeworks - $20,359 budget\n            Need: 1 x Pinterest pin\n            9w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

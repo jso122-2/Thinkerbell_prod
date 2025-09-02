@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4344",
+  "chunk_id": "sample_4344_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: David Jones\n            • Fee: ~$2,483\n            • Deliverables: 1 x Product photography, 3 x 30-second Instagram reel\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: September 2025 reckon",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

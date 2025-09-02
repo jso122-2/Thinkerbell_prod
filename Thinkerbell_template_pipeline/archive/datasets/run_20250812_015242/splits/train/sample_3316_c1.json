@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3316",
+  "chunk_id": "sample_3316_c1",
+  "text": "Need Blake Morgan for JB Hi-Fi campaign. Budget around $11,263, looking for 2 x 90-second product demo, 3 x 90-second product demo. 2 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 3 months.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

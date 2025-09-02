@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_087",
+  "generation_timestamp": "2025-08-04T18:29:46.853444",
+  "generator_version": "v1.0",
+  "batch_id": "batch_001",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Christopher Lee\n            • Brand: Officeworks\n            • Fee: ~$4,278\n            • Deliverables: 3 x Pinterest pin, 2 x Media interview, 3 x Instagram post, 2 x Lifestyle photography, 1 x Facebook post\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: January 2026 fair dinkum",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$4,278",
+    "fee_numeric": 4278,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "2 x Media interview",
+      "3 x Instagram post",
+      "2 x Lifestyle photography",
+      "1 x Facebook post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8079039424619046,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7399936482010525,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:46.844443",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Health & Fitness"
+  }
+}

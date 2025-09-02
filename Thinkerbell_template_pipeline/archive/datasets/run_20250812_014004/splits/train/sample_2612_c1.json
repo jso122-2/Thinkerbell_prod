@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2612",
+  "chunk_id": "sample_2612_c1",
+  "text": "Tyler Scott for Repco - $13,245 budget\n            Need: 3 x Instagram story, 3 x Facebook post, 1 x Twitter post, 3 x Brand photoshoot\n            3w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: December 2025 ripper",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

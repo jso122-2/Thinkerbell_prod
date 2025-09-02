@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3407",
+  "chunk_id": "sample_3407_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Bed Bath N' Table. Budget is approx $3,599 - need 3 x 2-minute tutorial, 1 x Pinterest pin, 3 x YouTube video, 2 x Pinterest pin, 3 x Facebook post. 12 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

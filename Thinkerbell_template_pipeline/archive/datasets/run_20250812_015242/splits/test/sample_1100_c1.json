@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1100",
+  "chunk_id": "sample_1100_c1",
+  "text": "Need Rowan Bailey for Harvey Norman campaign. Budget around $4,490, looking for 1 x 2-minute tutorial, 1 x 2-minute tutorial, 3 x TV appearance. 4 week exclusivity from other electronics brands. Campaign runs December 2025. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

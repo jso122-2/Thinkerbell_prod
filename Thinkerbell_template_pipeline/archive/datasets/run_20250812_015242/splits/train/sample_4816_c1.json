@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4816",
+  "chunk_id": "sample_4816_c1",
+  "text": "Need Natalie Adams for Officeworks campaign. Budget around $4,320, looking for 2 x Product photography, 2 x Media interview, 2 x 90-second product demo. 10 week exclusivity from other electronics brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 6 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

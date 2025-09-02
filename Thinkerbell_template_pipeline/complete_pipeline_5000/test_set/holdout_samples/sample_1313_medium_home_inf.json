@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1313",
+  "generation_timestamp": "2025-08-04T18:30:12.854743",
+  "generator_version": "v1.0",
+  "batch_id": "batch_014",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Mia White\n            • Brand: Freedom\n            • Fee: ~$28,944\n            • Deliverables: 3 x 3-minute vlog, 2 x Instagram story, 2 x Facebook post, 2 x Product photography\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: November 2025\n\nNeed to confirm: usage rights",
+    "token_count": 89,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$28,944",
+    "fee_numeric": 28944,
+    "deliverables": [
+      "3 x 3-minute vlog",
+      "2 x Instagram story",
+      "2 x Facebook post",
+      "2 x Product photography"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8229754973435801,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8975812645875962,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:12.845743",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

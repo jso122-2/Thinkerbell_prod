@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4563",
+  "chunk_id": "sample_4563_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Queen Fine Foods\n            • Fee: ~$10,182\n            • Deliverables: 1 x Pinterest pin, 3 x 15-second TikTok, 2 x 5-minute review\n            • Exclusivity: 5 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

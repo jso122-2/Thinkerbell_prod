@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3083",
+  "chunk_id": "sample_3083_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Target\n            • Fee: ~$32,201\n            • Deliverables: 3 x Facebook post, 3 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

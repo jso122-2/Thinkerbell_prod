@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_621",
+  "chunk_id": "sample_621_c1",
+  "text": "Need Lily Walker for Priceline campaign. Budget around $9,713, looking for 2 x 5-minute review, 2 x Media interview, 1 x Instagram story, 3 x Facebook post, 3 x Press release quote. 12 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 6 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

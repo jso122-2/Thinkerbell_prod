@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4685",
+  "chunk_id": "sample_4685_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Mecca. Budget is approx $23,421 - need 1 x Product photography, 1 x Instagram story. 7 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

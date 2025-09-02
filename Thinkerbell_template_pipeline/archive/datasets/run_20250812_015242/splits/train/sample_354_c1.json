@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_354",
+  "chunk_id": "sample_354_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Portmans\n            • Fee: ~$12,636\n            • Deliverables: 3 x Product photography, 2 x YouTube short, 2 x Facebook story, 3 x Twitter post\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

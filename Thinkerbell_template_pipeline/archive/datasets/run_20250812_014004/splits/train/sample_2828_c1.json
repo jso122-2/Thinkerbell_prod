@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2828",
+  "chunk_id": "sample_2828_c1",
+  "text": "Ava Johnson for Qantas - $3,912 budget\n            Need: 3 x Store opening, 1 x Live stream, 1 x 15-second TikTok, 2 x Facebook post\n            12w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

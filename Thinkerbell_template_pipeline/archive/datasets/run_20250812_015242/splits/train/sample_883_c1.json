@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_883",
+  "chunk_id": "sample_883_c1",
+  "text": "Brandon Nelson for Adairs - $3,874 budget\n            Need: 3 x Professional headshots, 3 x Twitter post, 2 x Lifestyle photography, 3 x 2-minute tutorial, 1 x 15-second TikTok\n            6w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

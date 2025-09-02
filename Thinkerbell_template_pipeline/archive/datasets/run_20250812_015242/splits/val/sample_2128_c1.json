@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2128",
+  "chunk_id": "sample_2128_c1",
+  "text": "Rowan Bailey for Harvey Norman - $9,841 budget\n            Need: 1 x 10-minute unboxing, 2 x 90-second product demo, 3 x YouTube video, 1 x 2-minute tutorial\n            12w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: September 2025 no worries",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

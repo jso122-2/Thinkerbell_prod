@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_402",
+  "chunk_id": "sample_402_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Queen Fine Foods\n            • Fee: ~$33,036\n            • Deliverables: 3 x Instagram story, 2 x Instagram story, 3 x Social media takeover, 3 x Instagram post\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $33,036 budget",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

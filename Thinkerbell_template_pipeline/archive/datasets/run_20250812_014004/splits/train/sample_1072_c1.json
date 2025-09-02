@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1072",
+  "chunk_id": "sample_1072_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Cotton On\n            • Fee: ~$2,358\n            • Deliverables: 1 x Pinterest pin, 1 x YouTube video, 3 x Media interview, 1 x Store opening\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

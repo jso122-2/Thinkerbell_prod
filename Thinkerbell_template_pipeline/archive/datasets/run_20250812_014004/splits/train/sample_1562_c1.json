@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1562",
+  "chunk_id": "sample_1562_c1",
+  "text": "Need Joshua Hall for Pizza Hut campaign. Budget around $3,813, looking for 1 x Twitter post, 3 x Instagram story, 1 x LinkedIn post, 2 x Facebook post. 9 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 3 months.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

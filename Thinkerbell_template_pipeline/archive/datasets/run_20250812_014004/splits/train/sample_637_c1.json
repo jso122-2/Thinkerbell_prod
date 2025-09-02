@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_637",
+  "chunk_id": "sample_637_c1",
+  "text": "Need Grace Young for David Jones campaign. Budget around $29,465, looking for 1 x Twitter post, 1 x 5-minute review, 1 x Pinterest pin. 6 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 11 months. Engagement period: 6 months.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

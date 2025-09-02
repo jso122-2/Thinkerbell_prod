@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_619",
+  "chunk_id": "sample_619_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Amart Furniture\n            • Fee: ~$9,206\n            • Deliverables: 3 x Pinterest pin, 1 x Radio interview\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

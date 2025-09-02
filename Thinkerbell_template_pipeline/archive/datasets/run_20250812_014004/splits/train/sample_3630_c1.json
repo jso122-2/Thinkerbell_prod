@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3630",
+  "chunk_id": "sample_3630_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Commonwealth Bank\n            • Fee: ~$34,101\n            • Deliverables: 1 x Event photography, 3 x Pinterest pin, 2 x 60-second YouTube video, 2 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_702",
+  "chunk_id": "sample_702_c1",
+  "text": "Quinn Richardson for Coles - $2,402 budget\n            Need: 1 x Facebook post, 1 x Facebook post\n            3w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

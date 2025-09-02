@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_936",
+  "chunk_id": "sample_936_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Mecca\n            • Fee: ~$26,445\n            • Deliverables: 3 x LinkedIn post, 2 x Instagram story, 2 x Social media takeover\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1320",
+  "chunk_id": "sample_1320_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for Roll'd. Budget is approx $9,798 - need 3 x 90-second product demo, 3 x YouTube video, 2 x Store opening. 5 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

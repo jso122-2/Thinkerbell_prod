@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4178",
+  "generation_timestamp": "2025-08-04T18:31:14.407290",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Jordan Phillips\n            • Brand: Woolworths\n            • Fee: ~$24,062\n            • Deliverables: 3 x Instagram post, 2 x Instagram story, 2 x Professional headshots, 1 x YouTube video, 2 x Lifestyle photography\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: September 2025",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Jordan Phillips",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$24,062",
+    "fee_numeric": 24062,
+    "deliverables": [
+      "3 x Instagram post",
+      "2 x Instagram story",
+      "2 x Professional headshots",
+      "1 x YouTube video",
+      "2 x Lifestyle photography"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.826855086019164,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8436300605484356,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:14.400293",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_705",
+  "chunk_id": "sample_705_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for Supercheap Auto. Budget is approx $3,782 - need 1 x 60-second YouTube video, 1 x Instagram story. 11 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

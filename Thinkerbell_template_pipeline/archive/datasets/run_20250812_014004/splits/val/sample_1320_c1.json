@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1320",
+  "chunk_id": "sample_1320_c1",
+  "text": "Hey team, looking to work with Quinn Cook for Pizza Hut. Budget is approx $2,754 - need 1 x TV appearance, 1 x 90-second product demo, 3 x 3-minute vlog, 1 x Instagram story, 3 x 30-second Instagram reel. 5 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 84,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

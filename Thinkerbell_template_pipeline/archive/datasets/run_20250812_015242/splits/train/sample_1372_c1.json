@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1372",
+  "chunk_id": "sample_1372_c1",
+  "text": "• Influencer: Jordan Phillips\n            • Brand: Boost Juice\n            • Fee: ~$10,937\n            • Deliverables: 1 x LinkedIn post, 2 x Professional headshots, 2 x Instagram post\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $10,937 budget",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

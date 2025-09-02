@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2048",
+  "generation_timestamp": "2025-08-04T18:30:29.289449",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Scarlett Turner\n            • Brand: Cotton On\n            • Fee: ~$8,290\n            • Deliverables: 3 x 15-second TikTok\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: January 2026 reckon",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$8,290",
+    "fee_numeric": 8290,
+    "deliverables": [
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.667703377061258,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7765966829384541,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:29.264449",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Health & Fitness"
+  }
+}

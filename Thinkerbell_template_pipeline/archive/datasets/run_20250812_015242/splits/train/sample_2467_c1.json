@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2467",
+  "chunk_id": "sample_2467_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Country Road\n            • Fee: ~$16,678\n            • Deliverables: 1 x 10-minute unboxing\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

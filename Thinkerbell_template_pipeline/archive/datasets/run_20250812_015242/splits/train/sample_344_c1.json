@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_344",
+  "chunk_id": "sample_344_c1",
+  "text": "Hey team, looking to work with Joshua Hall for McDonald's. Budget is approx $23,442 - need 1 x Pinterest pin, 1 x LinkedIn post. 9 weeks exclusivity, 4 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

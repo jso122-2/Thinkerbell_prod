@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1782",
+  "chunk_id": "sample_1782_c1",
+  "text": "Sean Roberts for Repco - $18,544 budget\n            Need: 1 x Social media takeover\n            8w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

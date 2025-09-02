@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2972",
+  "generation_timestamp": "2025-08-04T18:30:49.123551",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "River Murphy for Bunnings - $19,874 budget\n            Need: 1 x Facebook post, 2 x Facebook post, 2 x YouTube video, 3 x Brand photoshoot\n            8w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025\n\nAdditional notes: TBC on exact dates, around $19,874 budget\n\nNeed to confirm: usage rights",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "Bunnings",
+    "brand": "Bunnings",
+    "campaign": "Bunnings Campaign",
+    "fee": "$19,874",
+    "fee_numeric": 19874,
+    "deliverables": [
+      "1 x Facebook post",
+      "2 x Facebook post",
+      "2 x YouTube video",
+      "3 x Brand photoshoot"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8505295648359917,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8028594341166185,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:49.113552",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1073",
+  "chunk_id": "sample_1073_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Cotton On\n            • Fee: ~$3,854\n            • Deliverables: 3 x Pinterest pin, 3 x Lifestyle photography\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3796",
+  "chunk_id": "sample_3796_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Chemist Warehouse\n            • Fee: ~$16,507\n            • Deliverables: 3 x Instagram post, 3 x Pinterest pin, 3 x Twitter post, 3 x LinkedIn post\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

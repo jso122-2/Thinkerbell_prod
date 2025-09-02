@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_476",
+  "generation_timestamp": "2025-08-04T18:29:54.993899",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Grace Young for Target - $28,872 budget\n            Need: 3 x Pinterest pin, 3 x Instagram reel\n            8w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+    "token_count": 51,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Grace Young",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$28,872",
+    "fee_numeric": 28872,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "3 x Instagram reel"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9388218675083709,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9243790974187999,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.984896",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Home & Garden"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2574",
+  "chunk_id": "sample_2574_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Supercheap Auto. Budget is approx $9,357 - need 2 x Facebook story. 10 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

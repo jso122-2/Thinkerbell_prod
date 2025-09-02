@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2059",
+  "chunk_id": "sample_2059_c1",
+  "text": "Hey team, looking to work with Quinn Cook for Supercheap Auto. Budget is approx $33,819 - need 3 x 15-second TikTok. 4 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: January 2026.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

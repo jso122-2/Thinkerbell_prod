@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4420",
+  "generation_timestamp": "2025-08-04T18:31:19.860443",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Quinn Cook for Target campaign. Budget around $31,282, looking for 1 x 30-second Instagram reel, 1 x Twitter post. \n            8 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 11 months. \n            Engagement period: 5 months.",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$31,282",
+    "fee_numeric": 31282,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8119639880059306,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7355892080373975,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:19.853440",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

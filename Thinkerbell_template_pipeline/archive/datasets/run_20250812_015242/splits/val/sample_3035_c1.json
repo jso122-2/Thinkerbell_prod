@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3035",
+  "chunk_id": "sample_3035_c1",
+  "text": "Need James Wilson for JB Hi-Fi campaign. Budget around $28,726, looking for 1 x Facebook story, 1 x TikTok video, 2 x Instagram story, 3 x 15-second TikTok, 1 x Product photography. 5 week exclusivity from other electronics brands. Campaign runs November 2025. Usage rights for 8 months. Engagement period: 3 months.",
+  "token_count": 84,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

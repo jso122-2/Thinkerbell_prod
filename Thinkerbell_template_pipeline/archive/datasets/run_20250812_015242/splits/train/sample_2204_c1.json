@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2204",
+  "chunk_id": "sample_2204_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: IKEA\n            • Fee: ~$10,519\n            • Deliverables: 2 x Professional headshots, 3 x Facebook post, 1 x YouTube video\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

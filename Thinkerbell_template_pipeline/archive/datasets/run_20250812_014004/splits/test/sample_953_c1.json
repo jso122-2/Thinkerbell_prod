@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_953",
+  "chunk_id": "sample_953_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Boost Juice\n            • Fee: ~$4,883\n            • Deliverables: 3 x YouTube short, 1 x Instagram story, 1 x Meet and greet\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

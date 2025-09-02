@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4257",
+  "generation_timestamp": "2025-08-04T18:31:16.219526",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Quinn Richardson for Autobarn - $23,285 budget\n            Need: 1 x Product photography, 1 x Instagram post\n            8w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Autobarn",
+    "brand": "Autobarn",
+    "campaign": "Autobarn Campaign",
+    "fee": "$23,285",
+    "fee_numeric": 23285,
+    "deliverables": [
+      "1 x Product photography",
+      "1 x Instagram post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8057233475480914,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8874900451054876,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:16.210527",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Technology & Electronics"
+  }
+}

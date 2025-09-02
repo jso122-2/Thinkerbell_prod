@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1059",
+  "chunk_id": "sample_1059_c1",
+  "text": "Hey team, looking to work with David Brown for Woolworths. Budget is approx $4,216 - need 2 x Product photography, 2 x Press release quote, 3 x Pinterest pin, 1 x Instagram reel. 10 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

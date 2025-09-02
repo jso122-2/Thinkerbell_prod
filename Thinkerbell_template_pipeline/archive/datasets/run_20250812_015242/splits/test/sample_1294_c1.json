@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1294",
+  "chunk_id": "sample_1294_c1",
+  "text": "Need Sarah Chen for Domino's camp. Budget around $2,342, looking for 1 x Radio interview, 1 x Instagram post. 3 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 6 months.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

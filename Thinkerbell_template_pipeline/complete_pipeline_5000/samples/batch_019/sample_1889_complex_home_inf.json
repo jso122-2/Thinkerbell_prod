@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1889",
+  "generation_timestamp": "2025-08-04T18:30:24.989532",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sean Roberts\n            • Brand: Bunnings\n            • Fee: ~$2,326\n            • Deliverables: 3 x Pinterest pin, 1 x 90-second product demo, 3 x Product photography, 3 x TV appearance, 3 x Instagram post\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: October 2025",
+    "token_count": 89,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Bunnings",
+    "brand": "Bunnings",
+    "campaign": "Bunnings Campaign",
+    "fee": "$2,326",
+    "fee_numeric": 2326,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "1 x 90-second product demo",
+      "3 x Product photography",
+      "3 x TV appearance",
+      "3 x Instagram post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7248200672349334,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8214430774614907,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:24.981532",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Automotive"
+  }
+}

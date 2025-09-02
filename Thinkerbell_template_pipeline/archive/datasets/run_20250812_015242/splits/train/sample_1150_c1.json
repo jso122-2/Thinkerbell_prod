@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1150",
+  "chunk_id": "sample_1150_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Repco. Budget is approx $34,524 - need 1 x 30-second Instagram reel, 1 x Instagram story, 3 x Instagram post, 3 x Social media takeover, 2 x Instagram post. 12 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

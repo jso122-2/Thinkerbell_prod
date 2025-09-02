@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_310",
+  "chunk_id": "sample_310_c1",
+  "text": "Tyler Scott for Domino's - $15,165 budget\n            Need: 2 x Behind-the-scenes content\n            7w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: November 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

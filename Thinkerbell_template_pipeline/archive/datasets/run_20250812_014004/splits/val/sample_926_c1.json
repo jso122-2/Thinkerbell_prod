@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_926",
+  "chunk_id": "sample_926_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Mad Mex\n            • Fee: ~$3,559\n            • Deliverables: 1 x Pinterest pin, 2 x Instagram reel, 2 x Instagram story, 2 x 30-second Instagram reel, 2 x Facebook post\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 84,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

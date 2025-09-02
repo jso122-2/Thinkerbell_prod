@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3738",
+  "generation_timestamp": "2025-08-04T18:31:05.388495",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need David Brown for Grill'd campaign. Budget around $3,849, looking for 2 x Social media takeover, 3 x 15-second TikTok, 3 x Twitter post, 3 x YouTube short, 1 x Podcast guest. \n            2 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 10 months. \n            Engagement period: 6 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Grill'd",
+    "brand": "Grill'd",
+    "campaign": "Grill'd Campaign",
+    "fee": "$3,849",
+    "fee_numeric": 3849,
+    "deliverables": [
+      "2 x Social media takeover",
+      "3 x 15-second TikTok",
+      "3 x Twitter post",
+      "3 x YouTube short",
+      "1 x Podcast guest"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8675302428100052,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8948250602047961,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.380499",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

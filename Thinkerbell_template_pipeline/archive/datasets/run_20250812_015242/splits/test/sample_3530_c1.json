@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3530",
+  "chunk_id": "sample_3530_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for Roll'd. Budget is approx $4,695 - need 2 x Facebook post, 3 x Product photography, 3 x Twitter post. 6 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

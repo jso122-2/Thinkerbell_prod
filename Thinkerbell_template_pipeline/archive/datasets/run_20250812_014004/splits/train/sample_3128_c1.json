@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3128",
+  "chunk_id": "sample_3128_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Guzman y Gomez\n            • Fee: ~$21,668\n            • Deliverables: 1 x Facebook story, 1 x Radio interview, 3 x Press release quote, 1 x Radio interview\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: September 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

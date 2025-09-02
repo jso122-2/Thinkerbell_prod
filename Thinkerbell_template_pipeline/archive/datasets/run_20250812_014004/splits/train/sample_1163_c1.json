@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1163",
+  "chunk_id": "sample_1163_c1",
+  "text": "Need Ryan Allen for JB Hi-Fi campaign. Budget around $30,509, looking for 1 x 90-second product demo, 2 x 30-second Instagram reel, 2 x Lifestyle photography. 4 week exclusivity from other electronics brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 6 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

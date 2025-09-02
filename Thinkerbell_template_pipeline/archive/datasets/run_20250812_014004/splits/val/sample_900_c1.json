@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_900",
+  "chunk_id": "sample_900_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Kmart\n            • Fee: ~$12,508\n            • Deliverables: 2 x Event photography, 3 x 90-second product demo, 1 x Blog post, 3 x Facebook post\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

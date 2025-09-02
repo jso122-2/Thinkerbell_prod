@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1348",
+  "chunk_id": "sample_1348_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Qantas\n            • Fee: ~$1,895\n            • Deliverables: 3 x 2-minute tutorial\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

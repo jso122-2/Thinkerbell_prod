@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2690",
+  "chunk_id": "sample_2690_c1",
+  "text": "Need Emma Thompson for David Jones campaign. Budget around $28,314, looking for 2 x Live stream. 6 week exclusivity from other fashion brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 2 months. Additional notes: TBC on exact dates, around $28,314 budget",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

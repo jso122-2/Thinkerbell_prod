@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3454",
+  "chunk_id": "sample_3454_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Amart Furniture\n            • Fee: ~$2,727\n            • Deliverables: 3 x Pinterest pin, 2 x Instagram story, 2 x 15-second TikTok\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

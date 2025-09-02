@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4723",
+  "generation_timestamp": "2025-08-04T18:31:25.808921",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Chloe Lewis for Cotton On. \n            Budget is approx $8,733 - need 3 x Instagram post, 1 x 10-minute unboxing, 1 x Twitter post, 3 x Product launch event, 1 x Facebook story. \n            12 weeks exclusivity, 6 month engagement. \n            Usage: 6 months. Start date: October 2025.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$8,733",
+    "fee_numeric": 8733,
+    "deliverables": [
+      "3 x Instagram post",
+      "1 x 10-minute unboxing",
+      "1 x Twitter post",
+      "3 x Product launch event",
+      "1 x Facebook story"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7643774636290355,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8957625118023523,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:25.797922",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Technology & Electronics"
+  }
+}

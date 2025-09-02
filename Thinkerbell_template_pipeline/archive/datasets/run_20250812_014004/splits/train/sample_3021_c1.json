@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3021",
+  "chunk_id": "sample_3021_c1",
+  "text": "Ava Johnson for Country Road - $23,989 budget\n            Need: 3 x Instagram reel, 2 x Product photography, 2 x Blog post\n            11w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

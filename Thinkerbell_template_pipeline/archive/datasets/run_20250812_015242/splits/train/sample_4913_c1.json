@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4913",
+  "chunk_id": "sample_4913_c1",
+  "text": "Emma Thompson for Country Road - $15,627 budget\n            Need: 1 x Facebook post, 3 x 5-minute review, 2 x Lifestyle photography, 2 x Pinterest pin\n            8w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

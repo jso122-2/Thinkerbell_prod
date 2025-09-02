@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4743",
+  "chunk_id": "sample_4743_c1",
+  "text": "Mia White for Kmart - $20,988 budget\n            Need: 3 x Twitter post, 1 x 2-minute tutorial, 2 x Brand photoshoot\n            10w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

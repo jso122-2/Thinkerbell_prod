@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1302",
+  "chunk_id": "sample_1302_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Pizza Hut. Budget is approx $8,771 - need 3 x Instagram story, 3 x Lifestyle photography, 1 x Lifestyle photography, 2 x 60-second YouTube video, 1 x Facebook post. 4 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: December 2025. no worries",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

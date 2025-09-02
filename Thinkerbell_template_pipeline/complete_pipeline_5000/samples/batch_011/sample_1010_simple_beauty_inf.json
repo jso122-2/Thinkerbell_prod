@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1010",
+  "generation_timestamp": "2025-08-04T18:30:06.502081",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Morgan Morris for Lush - $23,084 budget\n            Need: 1 x LinkedIn post, 1 x Podcast guest, 3 x Behind-the-scenes content, 1 x 30-second Instagram reel, 1 x LinkedIn post\n            3w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$23,084",
+    "fee_numeric": 23084,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "1 x Podcast guest",
+      "3 x Behind-the-scenes content",
+      "1 x 30-second Instagram reel",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8072311650176043,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8869377894038537,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.490076",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Sports & Recreation"
+  }
+}

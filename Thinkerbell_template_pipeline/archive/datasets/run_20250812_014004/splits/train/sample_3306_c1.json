@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3306",
+  "chunk_id": "sample_3306_c1",
+  "text": "Andrew Clark for Bunnings - $18,544 budget\n            Need: 2 x 60-second YouTube video, 1 x 60-second YouTube video, 2 x Facebook story\n            3w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

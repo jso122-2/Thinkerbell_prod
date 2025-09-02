@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2050",
+  "chunk_id": "sample_2050_c1",
+  "text": "Sarah Chen for Guzman y Gomez - $3,852 budget\n            Need: 1 x 60-second YouTube video, 3 x Pinterest pin\n            7w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

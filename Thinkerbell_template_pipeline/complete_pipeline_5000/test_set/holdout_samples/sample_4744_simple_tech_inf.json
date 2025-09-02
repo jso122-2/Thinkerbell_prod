@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4744",
+  "generation_timestamp": "2025-08-04T18:31:26.054634",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sage Cooper\n            • Brand: Officeworks\n            • Fee: ~$33,382\n            • Deliverables: 3 x 5-minute review, 3 x Facebook post\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$33,382",
+    "fee_numeric": 33382,
+    "deliverables": [
+      "3 x 5-minute review",
+      "3 x Facebook post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8588622352600185,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8274470197925374,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.046637",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

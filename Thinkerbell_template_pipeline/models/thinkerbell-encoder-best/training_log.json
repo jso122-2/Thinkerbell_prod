@@ -1,0 +1,140 @@
+{
+  "training_config": {
+    "model_name": "all-MiniLM-L6-v2",
+    "epochs": 1,
+    "batch_size": 32,
+    "learning_rate": 2e-05,
+    "balanced_sampling": false,
+    "target_samples": 4288,
+    "train_ratio": 0.7,
+    "val_ratio": 0.15,
+    "test_ratio": 0.15,
+    "timestamp": "2025-08-12T01:40:20.125772"
+  },
+  "dataset_stats": {
+    "total_chunks": 4288,
+    "total_documents": 4266,
+    "train_chunks": 2998,
+    "val_chunks": 638,
+    "test_chunks": 652,
+    "train_documents": 2983,
+    "val_documents": 636,
+    "test_documents": 647,
+    "label_distribution": {
+      "brand": {
+        "total": 4288,
+        "train": 2998,
+        "val": 638,
+        "test": 652,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      },
+      "client": {
+        "total": 4288,
+        "train": 2998,
+        "val": 638,
+        "test": 652,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      },
+      "deliverables": {
+        "total": 4288,
+        "train": 2998,
+        "val": 638,
+        "test": 652,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      },
+      "engagement_term": {
+        "total": 4288,
+        "train": 2998,
+        "val": 638,
+        "test": 652,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      },
+      "exclusivity_period": {
+        "total": 2151,
+        "train": 1504,
+        "val": 321,
+        "test": 326,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      },
+      "fee": {
+        "total": 4288,
+        "train": 2998,
+        "val": 638,
+        "test": 652,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      },
+      "usage_term": {
+        "total": 4288,
+        "train": 2998,
+        "val": 638,
+        "test": 652,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      },
+      "campaign": {
+        "total": 4218,
+        "train": 2950,
+        "val": 629,
+        "test": 639,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.1
+      },
+      "exclusivity_scope": {
+        "total": 1056,
+        "train": 738,
+        "val": 157,
+        "test": 161,
+        "train_pct": 69.9,
+        "val_pct": 14.9,
+        "test_pct": 15.2
+      }
+    },
+    "label_combo_distribution": {},
+    "document_distribution": {
+      "train": 2983,
+      "val": 636,
+      "test": 647,
+      "train_pct": 69.9,
+      "val_pct": 14.9,
+      "test_pct": 15.2
+    },
+    "chunk_distribution": {
+      "train": 2998,
+      "val": 638,
+      "test": 652,
+      "train_pct": 69.9,
+      "val_pct": 14.9,
+      "test_pct": 15.2
+    }
+  },
+  "training_metrics": {
+    "total_examples": 6512,
+    "epochs_completed": 1,
+    "warmup_steps": 20,
+    "model_saved_to": "models\\thinkerbell-encoder-best"
+  },
+  "evaluation_results": {
+    "test_samples": 821,
+    "test_examples_evaluated": 500,
+    "recall_at_3": 1.0,
+    "recall_at_5": 1.0,
+    "mrr": 0.745,
+    "model_dimension": 384
+  },
+  "best_checkpoint": null,
+  "archive_dir": "archive\\run_20250812_014020"
+}

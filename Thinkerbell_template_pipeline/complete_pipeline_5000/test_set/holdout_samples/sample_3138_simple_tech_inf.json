@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3138",
+  "generation_timestamp": "2025-08-04T18:30:52.803400",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Layla Campbell\n            • Brand: Commonwealth Bank\n            • Fee: ~$11,332\n            • Deliverables: 3 x Press conference, 3 x Pinterest pin, 2 x LinkedIn post, 1 x 30-second Instagram reel, 1 x Blog post\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Layla Campbell",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$11,332",
+    "fee_numeric": 11332,
+    "deliverables": [
+      "3 x Press conference",
+      "3 x Pinterest pin",
+      "2 x LinkedIn post",
+      "1 x 30-second Instagram reel",
+      "1 x Blog post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8077261370950839,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8700232146480193,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:52.794401",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

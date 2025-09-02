@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2350",
+  "chunk_id": "sample_2350_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Myer\n            • Fee: ~$4,495\n            • Deliverables: 2 x LinkedIn post, 2 x Facebook post, 3 x Twitter post\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

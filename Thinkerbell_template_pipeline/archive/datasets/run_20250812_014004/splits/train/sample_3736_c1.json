@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3736",
+  "chunk_id": "sample_3736_c1",
+  "text": "Quinn Richardson for Pizza Hut - $6,571 budget\n            Need: 1 x YouTube video, 2 x Twitter post, 1 x Lifestyle photography, 3 x Instagram story\n            9w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

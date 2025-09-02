@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1621",
+  "chunk_id": "sample_1621_c1",
+  "text": "Nathan King for Priceline - $14,200 budget\n            Need: 3 x Facebook post, 1 x TV appearance\n            8w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

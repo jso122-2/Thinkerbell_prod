@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2239",
+  "chunk_id": "sample_2239_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Officeworks\n            • Fee: ~$14,419\n            • Deliverables: 1 x 10-minute unboxing, 3 x Instagram post\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $14,419 budget",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

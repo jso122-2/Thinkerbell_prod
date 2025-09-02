@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2302",
+  "chunk_id": "sample_2302_c1",
+  "text": "Need Emma Thompson for Guzman y Gomez campaign. Budget around $30,270, looking for 2 x Radio interview. 12 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 11 months. Engagement period: 2 months. Additional notes: TBC on exact dates, around $30,270 budget",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

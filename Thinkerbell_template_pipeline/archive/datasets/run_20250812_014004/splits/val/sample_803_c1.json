@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_803",
+  "chunk_id": "sample_803_c1",
+  "text": "Need Isabella Garcia for Mad Mex campaign. Budget around $8,645, looking for 2 x Instagram story. 5 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 10 months. Engagement period: 6 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

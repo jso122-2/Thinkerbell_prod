@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4003",
+  "chunk_id": "sample_4003_c1",
+  "text": "Need Skylar Collins for Harvey Norman campaign. Budget around $33,592, looking for 1 x Facebook post, 3 x Professional headshots, 2 x Radio interview. 2 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

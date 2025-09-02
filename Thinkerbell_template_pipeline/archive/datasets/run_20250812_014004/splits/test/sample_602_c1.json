@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_602",
+  "chunk_id": "sample_602_c1",
+  "text": "Hey team, looking to work with Sage Cooper for Queen Fine Foods. Budget is approx $34,737 - need 3 x 5-minute review, 2 x 15-second TikTok, 2 x Live stream, 2 x Instagram story. 10 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: December 2025. Additional notes: TBC on exact dates, around $34,737 budget",
+  "token_count": 90,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

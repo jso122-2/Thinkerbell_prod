@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_proc_20250815_144820_3552",
+  "generation_timestamp": "2025-08-15T14:48:20.662273",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "fashion",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# Rexona   WBD Foot Model Talent Agreement\n\nInfluencerAgreementCOMPANY DATE OF AGREEMENT26/05/2025 BETWEEN Thinkerbell (ABN 99 618 397 658) of 261-265 Chalmers St, Redfern, NSW, 2016 (“Agency”)\n \nAND Tommy Armour (ABN 50 606 947 219) of 101 Moray St, South Melbourne VIC 3205 (“Influencer”) \n \nBACKGROUNDA. Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the seasonal campaign for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT Unilever (ABN: 66 004 050 828) of 219 North Rocks Road, North Rocks NSW 2151 BRAND Rexona collection Rexona Whole Body Deodorant seasonal campaign Whole Body Deodorant Launch ENGAGEMENT TERM 3 months (29 May 2025- 31 August 2025) from the date of this Agreement, plus any Rollover Term exercised under clause 3. \nWORK/S The following materials will be produced by the Influencer during the Usage Term.\nProduction shoot:\nFull day shoot in Sydney on 29 May, 2025 (x8 working hours not inclusive of travel time)\nLocation details: 14 Bunya Parade, South Coogee NSW 2034.\nArrival time: will be confirmed ASAP.\nPlease note: there must be a level of professionalism displayed on the shoot with our hero talent. No asking of things like selfies or photos. We need to keep it cool and professional please. Only speak to talent if advised by Thinkerbell or production team on-ground.\nOwned social media content:\n3 x in-feed Instagram Reels (either tagging or in collaboration with @Rexona_au)\n2 x Instagram Story sets Exact content of the in-feed IG Reels and story sets will be finalised and confirmed with you very soon. For now we’d like at least one of these posts to include BTS teasers of the production daya s per the briefing document.\nPlease note: A concept / overview of all content must be shared with Thinkerbell (acting on behalf of Unilever/Rexona) for review and approval, prior to commencement of producing the materials. All final content to go live must be approved by Thinkerbell (acting on behalf of Unilever/Rexona) as well including video/photo creative and accompanying captions.\n1 x month paid usage for AU audience 2 x weeks of ## EXCLUSIVITY\n\nexclusivity from any other personal care products (including but not limited to hair products, deodorant, skin care, tooth paste etc)\nPlease note: all content to go live in either late June or early July (exact date TBC). Do not post anything in May unless instructed otherwise. We will confirm the exact date with you ASAP!\nPress availability:\nAttributed quote included within press release We’ll draft this on your behalf and get your sign off on it before it’s shared publicly 2 x media interviews, including online, print and broadcast media These can occur either over the phone, video link or in-studio Interviews will take place between 29 June 2025-29 July 2025 MEDIA Client may distribute the Work in an unlimited fashion during the Usage Term in the following media:\nRexona Instagram page [@rexona_au]\nRexona TikTok page [@rexonaau]\nRexona Facebook page [www.facebook.com/RexonaAU]\nRexona Website page [www.rexona.com/au/home.html] \nRexona YouTube page [https://www.youtube.com/user/rexonamenaustralia]\nIn addition to the above, the Influencer shall upload the Work to the Influencer’s social media channels, once approval has been given by Agency:\nInstagram [@tommyarmour]\nTikTok [@shaneadventures99]\nThe Work must remain published on the Influencer’s social media channels (outlined above) for the remainder of the Usage Term once posted. For clarity, the Works may remain published on the Media (and do not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term. \nThe Influencer agrees that the Agency will have rights to amplify the Influencer’s Work in Media and across the listed social channels through paid amplification.\nThe Influencer shall not, for a period of twenty-four (24) hours after a Work is published in their social media channels, post, share, re-tweet or re-gram any other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work.\nTERRITORY AUSTRALIA \nFor clarity, the parties acknowledge that some use on the internet may be accessible from outside the Territory through no fault of either party.\nPAID USAGE TERMS 1 month from the first live date, plus any Rollover Term exercised under clause 3. The dates are subject to change depending on the live date of the content.\nFEE A total of $18,000 AUD to be paid (includes 20% ASF), excluding GST. \nThe fee comprises of the following ## DELIVERABLES\n\ndeliverables:\nReviewing of all provided briefing d...",
+    "token_count": 4328,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "Rexona",
+    "brand": "Rexona",
+    "campaign": "for the Client in relation to the Products and",
+    "fee": "$18,000",
+    "fee_numeric": 18000,
+    "deliverables": [
+      "2 x media interviews"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "AUSTRALIA \nFor clarity, the parties acknowledge that some use on the internet may be accessible from outside the Territory through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_Rexona _ WBD Foot Model Talent Agreement",
+    "match_confidence": 0.9348457175415175,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "fashion",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "simple_fashion",
+    "source_document": "Rexona___WBD_Foot_Model_Talent_Agreement.md"
+  }
+}

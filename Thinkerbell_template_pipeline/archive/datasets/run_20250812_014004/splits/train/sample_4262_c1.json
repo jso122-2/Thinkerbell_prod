@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4262",
+  "chunk_id": "sample_4262_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Target\n            • Fee: ~$11,513\n            • Deliverables: 2 x Instagram post\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

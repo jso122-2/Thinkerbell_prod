@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3711",
+  "chunk_id": "sample_3711_c1",
+  "text": "Sarah Chen for Supercheap Auto - $29,340 budget\n            Need: 3 x Pinterest pin, 1 x 2-minute tutorial, 2 x Twitter post, 1 x YouTube short, 1 x Facebook story\n            8w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: October 2025\n\nAdditional notes: TBC on exact dates, around $29,340 budget",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

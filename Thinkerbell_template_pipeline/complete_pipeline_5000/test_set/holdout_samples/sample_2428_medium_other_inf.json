@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2428",
+  "generation_timestamp": "2025-08-04T18:30:38.394326",
+  "generator_version": "v1.0",
+  "batch_id": "batch_025",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Bell for Subway campaign. Budget around $34,591, looking for 1 x Facebook post, 3 x Instagram post, 1 x Product photography. \n            12 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 10 months. \n            Engagement period: 2 months.\n\nAdditional notes: TBC on exact dates, around $34,591 budget",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Bell",
+    "client": "Subway",
+    "brand": "Subway",
+    "campaign": "Subway Campaign",
+    "fee": "$34,591",
+    "fee_numeric": 34591,
+    "deliverables": [
+      "1 x Facebook post",
+      "3 x Instagram post",
+      "1 x Product photography"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7613278077348234,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8389994050133154,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:38.386328",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Travel & Tourism"
+  }
+}

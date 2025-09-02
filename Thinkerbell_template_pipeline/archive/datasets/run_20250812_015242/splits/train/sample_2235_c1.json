@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2235",
+  "chunk_id": "sample_2235_c1",
+  "text": "Michael Rodriguez for Pillow Talk - $33,839 budget\n            Need: 2 x Event photography, 2 x Instagram reel, 3 x Press conference, 2 x 30-second Instagram reel, 2 x Instagram post\n            8w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

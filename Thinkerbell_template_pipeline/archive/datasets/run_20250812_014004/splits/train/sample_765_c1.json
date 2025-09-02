@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_765",
+  "chunk_id": "sample_765_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Supercheap Auto\n            • Fee: ~$3,827\n            • Deliverables: 3 x Facebook story\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2580",
+  "chunk_id": "sample_2580_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: IKEA\n            • Fee: ~$11,411\n            • Deliverables: 2 x Twitter post, 1 x TikTok video, 2 x Pinterest pin, 1 x LinkedIn post, 1 x Instagram story\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

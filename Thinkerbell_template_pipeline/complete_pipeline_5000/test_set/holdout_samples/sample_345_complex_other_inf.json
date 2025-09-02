@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_345",
+  "generation_timestamp": "2025-08-04T18:29:52.503698",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Michael Rodriguez for Betty's Burgers - $3,020 budget\n            Need: 2 x Facebook post, 1 x 2-minute tutorial, 2 x Instagram reel, 1 x Instagram post\n            12w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$3,020",
+    "fee_numeric": 3020,
+    "deliverables": [
+      "2 x Facebook post",
+      "1 x 2-minute tutorial",
+      "2 x Instagram reel",
+      "1 x Instagram post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6429963921086196,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8118120095523921,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.495699",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

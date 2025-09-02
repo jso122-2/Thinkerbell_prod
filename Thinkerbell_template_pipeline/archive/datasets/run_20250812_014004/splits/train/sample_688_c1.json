@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_688",
+  "chunk_id": "sample_688_c1",
+  "text": "Justin Mitchell for Subway - $24,085 budget\n            Need: 1 x 15-second TikTok, 2 x Twitter post, 3 x 2-minute tutorial, 2 x TikTok video, 1 x 3-minute vlog\n            9w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

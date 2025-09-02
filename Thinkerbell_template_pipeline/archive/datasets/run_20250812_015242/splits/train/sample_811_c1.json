@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_811",
+  "chunk_id": "sample_811_c1",
+  "text": "Michael Rodriguez for Harvey Norman - $19,185 budget\n            Need: 3 x 30-second Instagram reel, 1 x 90-second product demo, 2 x Twitter post\n            8w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: November 2025\n\nAdditional notes: TBC on exact dates, around $19,185 budget",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

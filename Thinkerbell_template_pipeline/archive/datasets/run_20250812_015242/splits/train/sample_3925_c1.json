@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3925",
+  "chunk_id": "sample_3925_c1",
+  "text": "Hey team, looking to work with Isabella Garcia for Coles. Budget is approx $1,861 - need 1 x 2-minute tutorial. 5 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: October 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1338",
+  "chunk_id": "sample_1338_c1",
+  "text": "Need Tyler Scott for Big W campaign. Budget around $14,565, looking for 2 x Twitter post, 1 x 30-second Instagram reel, 1 x Facebook story. 4 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

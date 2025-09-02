@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1134",
+  "chunk_id": "sample_1134_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Guzman y Gomez\n            • Fee: ~$4,880\n            • Deliverables: 1 x 30-second Instagram reel, 1 x Behind-the-scenes content\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

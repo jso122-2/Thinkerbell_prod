@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4622",
+  "chunk_id": "sample_4622_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Queen Fine Foods. Budget is approx $4,797 - need 2 x Live stream. 7 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1520",
+  "chunk_id": "sample_1520_c1",
+  "text": "Jordan Phillips for Sephora - $3,610 budget\n            Need: 2 x Instagram post, 3 x Instagram story, 1 x Facebook post, 1 x Product photography, 2 x LinkedIn post\n            10w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

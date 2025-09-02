@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_993",
+  "chunk_id": "sample_993_c1",
+  "text": "Hey team, looking to work with Justin Mitchell for Bunnings. Budget is approx $4,862 - need 2 x Instagram story, 2 x LinkedIn post, 2 x Product photography. 3 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

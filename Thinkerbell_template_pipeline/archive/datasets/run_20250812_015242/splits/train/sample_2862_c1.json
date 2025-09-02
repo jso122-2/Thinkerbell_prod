@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2862",
+  "chunk_id": "sample_2862_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Country Road\n            • Fee: ~$4,206\n            • Deliverables: 1 x Facebook story, 1 x 30-second Instagram reel\n            • Exclusivity: 5 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

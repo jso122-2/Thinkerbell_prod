@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3185",
+  "chunk_id": "sample_3185_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Cotton On\n            • Fee: ~$10,488\n            • Deliverables: 2 x Instagram post, 1 x Live stream, 2 x Facebook post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $10,488 budget",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

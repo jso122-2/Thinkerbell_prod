@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_401",
+  "chunk_id": "sample_401_c1",
+  "text": "Hayden Howard for Adairs - $4,693 budget\n            Need: 2 x Instagram story\n            3w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3464",
+  "chunk_id": "sample_3464_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Betty's Burgers\n            • Fee: ~$1,575\n            • Deliverables: 1 x Instagram reel, 2 x YouTube short, 3 x Facebook post\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

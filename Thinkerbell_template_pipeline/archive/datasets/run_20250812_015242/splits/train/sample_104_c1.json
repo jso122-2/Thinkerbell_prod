@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_104",
+  "chunk_id": "sample_104_c1",
+  "text": "Hey team, looking to work with Layla Campbell for Cotton On. Budget is approx $3,257 - need 1 x 10-minute unboxing. 9 weeks exclusivity, 5 month engagement. Usage: 11 months. Start date: September 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2091",
+  "chunk_id": "sample_2091_c1",
+  "text": "Emma Thompson for Boost Juice - $29,335 budget\n            Need: 2 x 3-minute vlog, 3 x Radio interview\n            8w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: October 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

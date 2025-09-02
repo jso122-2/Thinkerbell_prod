@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2378",
+  "chunk_id": "sample_2378_c1",
+  "text": "Hey team, looking to work with Olivia Davis for Lush. Budget is approx $23,116 - need 2 x Lifestyle photography. 11 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

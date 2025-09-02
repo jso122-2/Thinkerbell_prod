@@ -1,0 +1,176 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tb-dataset"
+version = "0.1.0"
+description = "Document ingestion and chunking pipeline for training data preparation"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "DAWN System", email = "dawn@system.ai"}
+]
+keywords = ["document-processing", "chunking", "nlp", "training-data", "pdf", "docx"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers", 
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Text Processing :: Linguistic",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+requires-python = ">=3.10"
+
+dependencies = [
+    # Core dependencies
+    "transformers>=4.20.0",
+    
+    # Document parsing
+    "PyMuPDF>=1.20.0",        # PDF parsing (fitz)
+    "python-docx>=0.8.11",   # DOCX parsing
+    
+    # NLP libraries
+    "spacy>=3.4.0",
+    "nltk>=3.7",
+    
+    # Text processing
+    "regex>=2022.0.0",
+    
+    # Semantic analysis and generation
+    "sentence-transformers>=2.2.0",  # For semantic smoothing
+    "scikit-learn>=1.0.0",          # For cosine similarity
+    "numpy>=1.21.0",                # For numerical operations
+    "pandas>=1.3.0",                # For data manipulation
+    
+    # Visualization and analysis
+    "matplotlib>=3.5.0",            # For EDA charts
+    "seaborn>=0.11.0",              # Enhanced visualization
+    
+    # Progress bars and user interface
+    "tqdm>=4.64.0",                 # Progress bars
+    
+    # Standard library enhancements
+    "pathlib2>=2.3.0;python_version<'3.4'",  # Backport for older Python
+]
+
+[project.optional-dependencies]
+# Development dependencies
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "black>=22.0.0",
+    "isort>=5.10.0",
+    "flake8>=5.0.0",
+    "mypy>=0.990",
+]
+
+# Additional NLP models
+models = [
+    "en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl",
+]
+
+# Enhanced visualization
+visualization = [
+    "umap-learn>=0.5.0",            # Better embeddings visualization
+    "plotly>=5.0.0",                # Interactive charts
+]
+
+# Performance enhancements
+performance = [
+    "faiss-cpu>=1.7.0",      # For future similarity search
+    "numba>=0.56.0",         # JIT compilation for speed
+]
+
+# Complete installation
+all = [
+    "tb-dataset[dev,models,visualization,performance]"
+]
+
+[project.scripts]
+tb-ingest = "tb_dataset.cli_ingest:main"
+tb-generate = "tb_dataset.cli_generate:main" 
+tb-pack = "tb_dataset.cli_pack:main"
+
+[project.urls]
+Homepage = "https://github.com/dawn-system/tb-dataset"
+Documentation = "https://tb-dataset.readthedocs.io/"
+Repository = "https://github.com/dawn-system/tb-dataset"
+"Bug Tracker" = "https://github.com/dawn-system/tb-dataset/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["tb_dataset*"]
+exclude = ["tests*"]
+
+[tool.setuptools.package-data]
+tb_dataset = ["*.txt", "*.json", "*.yaml", "*.yml"]
+
+# Black code formatting
+[tool.black]
+line-length = 100
+target-version = ['py310']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+# isort import sorting
+[tool.isort]
+profile = "black"
+line_length = 100
+multi_line_output = 3
+
+# mypy type checking
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+ignore_missing_imports = true
+
+# pytest configuration
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q --strict-markers --strict-config"
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+
+# Coverage configuration
+[tool.coverage.run]
+source = ["tb_dataset"]
+omit = [
+    "*/tests/*",
+    "*/test_*",
+    "*/__pycache__/*",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "if self.debug:",
+    "if settings.DEBUG",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if 0:",
+    "if __name__ == .__main__.:",
+    "class .*\\bProtocol\\):",
+    "@(abc\\.)?abstractmethod",
+] 

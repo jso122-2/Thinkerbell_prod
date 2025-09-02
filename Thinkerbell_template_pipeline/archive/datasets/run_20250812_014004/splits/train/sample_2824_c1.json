@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2824",
+  "chunk_id": "sample_2824_c1",
+  "text": "Skylar Collins for IKEA - $28,527 budget\n            Need: 2 x Professional headshots, 3 x YouTube short, 1 x Radio interview, 1 x 10-minute unboxing, 2 x Facebook post\n            6w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

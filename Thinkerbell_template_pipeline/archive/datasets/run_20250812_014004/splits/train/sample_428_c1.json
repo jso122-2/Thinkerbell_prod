@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_428",
+  "chunk_id": "sample_428_c1",
+  "text": "Need Isabella Garcia for Myer campaign. Budget around $9,628, looking for 1 x Instagram reel. 11 week exclusivity from other fashion brands. Campaign runs November 2025. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

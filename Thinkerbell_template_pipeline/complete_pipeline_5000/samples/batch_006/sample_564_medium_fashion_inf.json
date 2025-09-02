@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_564",
+  "generation_timestamp": "2025-08-04T18:29:56.955761",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sage Cooper for Cotton On. \n            Budget is approx $6,938 - need 1 x Press release quote, 2 x 90-second product demo, 1 x YouTube short. \n            6 weeks exclusivity, 5 month engagement. \n            Usage: 6 months. Start date: September 2025.\n\nAdditional notes: TBC on exact dates, around $6,938 budget",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$6,938",
+    "fee_numeric": 6938,
+    "deliverables": [
+      "1 x Press release quote",
+      "2 x 90-second product demo",
+      "1 x YouTube short"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8985540343384104,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9395284422903409,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.946760",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

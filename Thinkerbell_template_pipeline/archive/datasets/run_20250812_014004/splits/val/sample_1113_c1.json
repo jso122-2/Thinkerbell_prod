@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1113",
+  "chunk_id": "sample_1113_c1",
+  "text": "Hey team, looking to work with Hannah Green for Betty's Burgers. Budget is approx $11,384 - need 1 x Lifestyle photography, 1 x Pinterest pin, 2 x Radio interview, 3 x Lifestyle photography, 2 x LinkedIn post. 8 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

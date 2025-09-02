@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1310",
+  "chunk_id": "sample_1310_c1",
+  "text": "Hey team, looking to work with Riley Evans for Commonwealth Bank. Budget is approx $20,431 - need 2 x Article contribution. 6 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

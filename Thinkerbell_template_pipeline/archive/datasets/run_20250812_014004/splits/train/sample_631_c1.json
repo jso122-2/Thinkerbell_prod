@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_631",
+  "chunk_id": "sample_631_c1",
+  "text": "Need Hayden Howard for Country Road campaign. Budget around $3,203, looking for 3 x LinkedIn post. 4 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 12 months. Engagement period: 3 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1739",
+  "chunk_id": "sample_1739_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Boost Juice\n            • Fee: ~$14,971\n            • Deliverables: 1 x 2-minute tutorial, 1 x Product photography, 3 x 90-second product demo, 1 x LinkedIn post, 1 x 2-minute tutorial\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_642",
+  "generation_timestamp": "2025-08-04T18:29:58.627842",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Justin Mitchell for Amart Furniture. \n            Budget is approx $3,725 - need 3 x Pinterest pin, 1 x TV appearance, 2 x Instagram post, 1 x Meet and greet, 3 x Pinterest pin. \n            8 weeks exclusivity, 5 month engagement. \n            Usage: 7 months. Start date: October 2025.",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$3,725",
+    "fee_numeric": 3725,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "1 x TV appearance",
+      "2 x Instagram post",
+      "1 x Meet and greet",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7493780817776338,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8659821576116051,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.619837",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

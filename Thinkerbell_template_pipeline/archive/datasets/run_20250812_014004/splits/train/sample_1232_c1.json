@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1232",
+  "chunk_id": "sample_1232_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Fantastic Furniture\n            • Fee: ~$18,796\n            • Deliverables: 2 x Instagram post, 1 x Instagram post\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

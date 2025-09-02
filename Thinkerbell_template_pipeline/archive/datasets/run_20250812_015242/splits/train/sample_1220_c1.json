@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1220",
+  "chunk_id": "sample_1220_c1",
+  "text": "Need River Murphy for McDonald's camp. Budget arnd $31,108, looking for 3 x Instagram post, 3 x 30-second Instagram reel. 10 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

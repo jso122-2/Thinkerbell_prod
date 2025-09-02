@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2754",
+  "chunk_id": "sample_2754_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Coles\n            • Fee: ~$6,954\n            • Deliverables: 2 x Instagram post\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

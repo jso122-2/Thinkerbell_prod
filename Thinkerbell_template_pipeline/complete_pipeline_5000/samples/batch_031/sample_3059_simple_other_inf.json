@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3059",
+  "generation_timestamp": "2025-08-04T18:30:51.070704",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Justin Mitchell for Red Rooster campaign. Budget around $8,859, looking for 2 x YouTube short, 2 x TikTok video, 2 x Product photography. \n            4 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 9 months. \n            Engagement period: 4 months.",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$8,859",
+    "fee_numeric": 8859,
+    "deliverables": [
+      "2 x YouTube short",
+      "2 x TikTok video",
+      "2 x Product photography"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8338227544163115,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8552990234833717,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:51.057705",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Food & Beverage"
+  }
+}

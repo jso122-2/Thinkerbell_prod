@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_329",
+  "chunk_id": "sample_329_c1",
+  "text": "Isabella Garcia for Commonwealth Bank - $2,768 budget\n            Need: 3 x Twitter post, 1 x Live stream\n            10w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

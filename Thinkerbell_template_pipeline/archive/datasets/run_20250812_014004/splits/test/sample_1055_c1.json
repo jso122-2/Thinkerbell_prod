@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1055",
+  "chunk_id": "sample_1055_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Sephora\n            • Fee: ~$4,236\n            • Deliverables: 2 x Facebook story, 3 x 30-second Instagram reel, 1 x Twitter post, 1 x LinkedIn post, 1 x Twitter post\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

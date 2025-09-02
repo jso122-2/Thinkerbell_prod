@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4343",
+  "chunk_id": "sample_4343_c1",
+  "text": "Hey team, looking to work with James Wilson for Target. Budget is approx $24,143 - need 2 x 60-second YouTube video, 1 x Instagram story, 1 x Twitter post. 8 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

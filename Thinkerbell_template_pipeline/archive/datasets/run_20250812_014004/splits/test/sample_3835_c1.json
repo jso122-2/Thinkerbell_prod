@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3835",
+  "chunk_id": "sample_3835_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Adairs\n            • Fee: ~$18,142\n            • Deliverables: 1 x YouTube video, 2 x Product photography, 3 x Instagram post, 1 x YouTube video, 1 x Twitter post\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

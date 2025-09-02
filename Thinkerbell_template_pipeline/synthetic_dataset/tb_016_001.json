@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_016_001",
+  "generation_timestamp": "2025-08-12T14:45:30.594088",
+  "batch_id": 16,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "food",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "The Projects has engaged Harper Lewis to present expertise for the Food Connect 2024 Campaign on behalf of Food Connect. As the festive season draws near, Australians are seeking better food solutions. As the campaign's brand advocate, Harper Lewis will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Food Connect and the Influencer for Food Connect Foodie Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $7,874 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 1 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 3 months\n- Exclusivity Period: 8 weeks\n- Territory: Australia\n- Usage Rights: 24 months from campaign launch\n- Content Rights: Food Connect retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 250,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Food Connect",
+    "brand": "Food Connect",
+    "campaign": "Food Connect Seasonal Campaign 2025",
+    "fee": "$25,873",
+    "fee_numeric": 25873,
+    "deliverables": [
+      "4 x Instagram posts",
+      "2 x TikTok videos",
+      "1 x Event appearance"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "24 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff",
+    "match_confidence": 0.941,
+    "fallback_templates": [
+      "profile_Golden Gaytime x Keith Schleiger Talent Agreement",
+      "profile_TKB Influencer Agreement - Dr Claire x Australia Post Dog Safety Campaign",
+      "profile_Mattel Brickshop x Craig Contract FINAL.docx LOWNDES SIGNED (1) (1)"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "food",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.906,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.823,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

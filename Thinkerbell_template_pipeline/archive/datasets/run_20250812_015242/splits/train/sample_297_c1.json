@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_297",
+  "chunk_id": "sample_297_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Autobarn. Budget is approx $6,980 - need 2 x 60-second YouTube video. 2 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: September 2025. mate",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

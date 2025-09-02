@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_185",
+  "chunk_id": "sample_185_c1",
+  "text": "Morgan Morris for Myer - $2,636 budget\n            Need: 3 x TikTok video, 3 x 10-minute unboxing\n            3w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

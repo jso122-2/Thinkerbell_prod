@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2781",
+  "chunk_id": "sample_2781_c1",
+  "text": "Need Blake Cox for David Jones campaign. Budget around $22,054, looking for 1 x YouTube short, 1 x YouTube video, 1 x Twitter post. 4 week exclusivity from other fashion brands. Campaign runs December 2025. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

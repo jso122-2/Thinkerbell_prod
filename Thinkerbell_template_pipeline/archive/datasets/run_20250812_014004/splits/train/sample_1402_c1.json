@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1402",
+  "chunk_id": "sample_1402_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Subway. Budget is approx $4,226 - need 3 x Media interview. 8 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

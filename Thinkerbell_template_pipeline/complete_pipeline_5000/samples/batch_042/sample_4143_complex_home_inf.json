@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4143",
+  "generation_timestamp": "2025-08-04T18:31:14.032294",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Scarlett Turner for Freedom campaign. Budget around $4,529, looking for 1 x Blog post, 3 x Instagram post, 2 x Twitter post, 2 x 15-second TikTok. \n            8 week exclusivity from other similar brands. \n            Campaign runs December 2025. Usage rights for 12 months. \n            Engagement period: 6 months.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$4,529",
+    "fee_numeric": 4529,
+    "deliverables": [
+      "1 x Blog post",
+      "3 x Instagram post",
+      "2 x Twitter post",
+      "2 x 15-second TikTok"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7790576701807818,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8422991951684324,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:14.023291",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

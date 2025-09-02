@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3006",
+  "chunk_id": "sample_3006_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Supercheap Auto\n            • Fee: ~$33,258\n            • Deliverables: 1 x Instagram reel, 1 x Pinterest pin\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

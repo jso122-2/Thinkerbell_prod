@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2067",
+  "chunk_id": "sample_2067_c1",
+  "text": "Need Blake Cox for Country Road campaign. Budget around $6,204, looking for 1 x Media interview, 2 x Store opening, 3 x Live stream, 1 x Facebook post, 1 x 2-minute tutorial. 4 week exclusivity from other fashion brands. Campaign runs December 2025. Usage rights for 8 months. Engagement period: 4 months.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

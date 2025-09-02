@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_527",
+  "chunk_id": "sample_527_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for Cotton On. Budget is approx $8,021 - need 1 x Instagram post, 3 x Blog post, 3 x Lifestyle photography, 1 x 60-second YouTube video, 1 x Twitter post. 9 weeks exclusivity, 2 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

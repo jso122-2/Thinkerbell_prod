@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_964",
+  "generation_timestamp": "2025-08-04T18:30:04.828615",
+  "generator_version": "v1.0",
+  "batch_id": "batch_010",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Rowan Bailey for Guzman y Gomez campaign. Budget around $4,498, looking for 3 x Instagram story, 2 x Instagram reel, 2 x Twitter post, 2 x Brand photoshoot. \n            10 week exclus from other similar brands. \n            Campaign runs December 2025. Usage rights for 6 months. \n            Engagement period: 6 months.",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "Guzman y Gomez",
+    "brand": "Guzman y Gomez",
+    "campaign": "Guzman y Gomez Campaign",
+    "fee": "$4,498",
+    "fee_numeric": 4498,
+    "deliverables": [
+      "3 x Instagram story",
+      "2 x Instagram reel",
+      "2 x Twitter post",
+      "2 x Brand photoshoot"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.640324203601152,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8041932118092786,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:04.819612",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Finance & Insurance"
+  }
+}

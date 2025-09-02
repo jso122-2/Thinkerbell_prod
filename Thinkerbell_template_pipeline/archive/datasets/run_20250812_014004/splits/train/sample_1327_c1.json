@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1327",
+  "chunk_id": "sample_1327_c1",
+  "text": "Blake Cox for Witchery - $16,099 budget\n            Need: 3 x YouTube video, 3 x Pinterest pin\n            10w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

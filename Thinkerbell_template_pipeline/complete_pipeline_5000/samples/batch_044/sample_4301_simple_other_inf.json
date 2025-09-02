@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4301",
+  "generation_timestamp": "2025-08-04T18:31:17.738949",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Mia White\n            • Brand: KFC\n            • Fee: ~$31,936\n            • Deliverables: 3 x Twitter post, 2 x 2-minute tutorial\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: November 2025",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "KFC",
+    "brand": "KFC",
+    "campaign": "KFC Campaign",
+    "fee": "$31,936",
+    "fee_numeric": 31936,
+    "deliverables": [
+      "3 x Twitter post",
+      "2 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.800796271259705,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8601081185688669,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:17.730954",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

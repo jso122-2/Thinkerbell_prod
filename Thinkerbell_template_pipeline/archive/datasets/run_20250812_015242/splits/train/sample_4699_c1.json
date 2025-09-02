@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4699",
+  "chunk_id": "sample_4699_c1",
+  "text": "Need Quinn Richardson for Telstra campaign. Budget around $7,624, looking for 1 x Lifestyle photography. 12 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 5 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

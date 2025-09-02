@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_041",
+  "chunk_id": "sample_041_c1",
+  "text": "Hey team, looking to work with Victoria Carter for Bed Bath N' Table. Budget is approx $20,500 - need 3 x LinkedIn post. 7 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: October 2025.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

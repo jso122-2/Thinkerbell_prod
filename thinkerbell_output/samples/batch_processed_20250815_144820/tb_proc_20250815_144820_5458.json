@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_proc_20250815_144820_5458",
+  "generation_timestamp": "2025-08-15T14:48:20.711772",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "medium",
+    "industry": "food",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# TKB Influencer Agreement Jamie Durie x Cabot s EasyDeck\n\nInfluencerAgreementCOMPANY DATE OF AGREEMENT02/10/2024 BETWEEN Thinkerbell Pty Ltd (ABN 99 618 397 658) of Level 3, 41-43 Stewart Street, Richmond, VIC, 3121 (“Agency”)\n \nAND Jamie Durie Media Pty Ltd (ABN 66 609 166 243) c/- Bravo Management Pty Ltd of Level 5, 111 Coventry Street, Southbank, VIC 3006 (“Influencer”) \n \nBACKGROUNDA. Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the culinary campaign for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT Dulux Group (Australia) Pty Ltd Trading As Cabot's Australia ABN 67 000 049 427 of 1956 Dandenong Road, Clayton VIC 3168 AUSTRALIA BRAND Cabot’s Premium Woodcare Brands menu item Cabot’s EasyDeck Maintenance System culinary campaign Cabot’s EasyDeck TERM Six months from the date of this Agreement, plus any Rollover Term exercised under clause 3. \nWORK/S The following materials will be produced by the Influencer during the Usage Term.\n1 X static Instagram post to be uploaded on Influencer’s Instagram, @jamiedurie 1 x Instagram Story Series (a minimum of three frames) to be uploaded on Influencer’s Instagram, @jamiedurie 2-3 hours of media interviews to be conducted, either live in-person, over the phone or via email Q+A, throughout the culinary campaign period.\nAppearance at a shoot on Wednesday 23 October 2024 to record Cabot’s advertorial for Cabot’s EasyDeck Maintenance System with Channel 7’s The Morning Show. \nA brief of the materials will be provided to Agency for approval prior to commencement of producing the materials. \nMEDIA Client may distribute the Work in an unlimited fashion during the Usage Term in the following media:\nCabot’s Facebook page [/cabotsanz];\nCabot’s Instagram page [@cabotsanz];\nCabot’sTikTok page [@cabotsanz];\nIn addition to the above, the Influencer shall upload the Work to the Influencer’s social media channels, once approval has been given by Agency:\nInstagram [@jamiedurie].\nThe Work must remain published on the Influencer’s social media channels (outlined above) for the remainder of the Usage Term once posted. For clarity, the Works may remain published on the Media (and do not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term. \nThe Influencer agrees that Agency will have rights to amplify the Influencer’s Work in the Media.\nThe Influencer shall not, for a period of twenty-four (24) hours after a Work is published in their social media channels, post, share, re-tweet or re-gram any other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work.\nThe Client is permitted to amplify the Work of the Influencer across its paid META and TikTok social media channels for the period of 14 days following the initial boosting live date.\nTERRITORY AUSTRALIA \nFor clarity, the parties acknowledge that some use on the internet may be accessible from outside the Territory through no fault of either party.\nUSAGE TERMS 12 months from first live date, plus any Rollover Term exercised under clause 3.\nFEE A total of $23,500 to be paid, including Agency Service Fee and excluding GST. \n## PAYMENT TERMS\n\nPayment Terms: Payment shall be made as follows: 100% once the delivered and accepted Work is first published in the Influencer’s social media channels. In any Rollover Term, 100% once the delivered and accepted Work is first published in the Influencer’s social media channels for that Rollover Term.\nOTHER CONSIDERATION 1 x Cabot's Deck Clean 1 x Cabot’s Timber Prep 1 x Cabot’s Aquadeck Decking Oil \n1 x Cabot’s Deck Prep 1 x Cabot’s Deck Coat Applicator 1 x Cabot’s Deck Hand Bucket 1 x Cabot’s EasyDeck Applicator 1 x Cabot’s EasyDeck 1.5L Maintenance Coat Cabot’s will arrange a menu item delivery to the Influencer’s desired address.\nINITIAL DELIVERY DATE 2 October 2024 CONTACT PERSON FOR EACH PARTY Megan Dougherty of Bravo Management ## EXCLUSIVITY\n\nEXCLUSIVITY ## EXCLUSIVITY\n\nExclusivity Terms: The Influencer shall not provide any services the same as or similar to the Services to any competitor of the Client during the ## EXCLUSIVITY\n\nExclusivity Period, subject to the Other ## EXCLUSIVITY\n\nExclusivity Terms. Influencer will not authorise the use of Influencer’s name, social media handles, image, performance, photograph or other likeness to any Client competitors or advertise, endorse or promote the products of, enter into a publicity-related arrangements or conduct any appearances or interviews with any Client competitors during the ## EXCLUSIVITY\n\nExclusivity Period....",
+    "token_count": 3497,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "the parties as to its subject matter",
+    "brand": "the parties as to its subject matter",
+    "campaign": "for the Client in relation to the Products and",
+    "fee": "$23,500",
+    "fee_numeric": 23500,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x Story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "AUSTRALIA \nFor clarity, the parties acknowledge that some use on the internet may be accessible from outside the Territory through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_TKB Influencer Agreement_Jamie Durie x Cabot_s EasyDeck",
+    "match_confidence": 0.9304165024566545,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "food",
+      "complexity": "medium"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "medium_food",
+    "source_document": "TKB_Influencer_Agreement_Jamie_Durie_x_Cabot_s_EasyDeck.md"
+  }
+}

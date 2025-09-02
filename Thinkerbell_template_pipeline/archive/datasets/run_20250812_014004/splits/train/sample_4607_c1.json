@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4607",
+  "chunk_id": "sample_4607_c1",
+  "text": "Hey team, looking to work with Riley Evans for Fantastic Furniture. Budget is approx $2,470 - need 3 x Radio interview, 3 x TikTok video, 1 x Instagram reel, 3 x 60-second YouTube video. 8 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

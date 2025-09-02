@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1736",
+  "chunk_id": "sample_1736_c1",
+  "text": "Quinn Cook for Qantas - $22,215 budget\n            Need: 3 x 15-second TikTok, 3 x Live stream, 1 x 30-second Instagram reel, 2 x Instagram reel\n            5w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

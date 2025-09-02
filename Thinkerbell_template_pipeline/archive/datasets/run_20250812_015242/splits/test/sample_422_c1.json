@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_422",
+  "chunk_id": "sample_422_c1",
+  "text": "Reagan Rogers for KFC - $26,218 budget\n            Need: 1 x Media interview\n            5w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

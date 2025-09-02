@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_149",
+  "chunk_id": "sample_149_c1",
+  "text": "Need Sage Reed for David Jones campaign. Budget around $6,595, looking for 2 x LinkedIn post, 1 x Twitter post, 1 x YouTube short, 3 x Facebook post. 12 week exclusivity from other fashion brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

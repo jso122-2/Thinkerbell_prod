@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2109",
+  "chunk_id": "sample_2109_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Sportsgirl\n            • Fee: ~$17,006\n            • Deliverables: 3 x Instagram post, 1 x Press release quote, 2 x Article contribution, 2 x Instagram story, 2 x Product launch event\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 10 months\n            • Start: January 2026\n\nNeed to sort out: TBC on final dates",
+  "token_count": 89,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

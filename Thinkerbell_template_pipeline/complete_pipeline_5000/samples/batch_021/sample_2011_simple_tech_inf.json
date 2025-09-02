@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_2011",
+  "generation_timestamp": "2025-08-04T18:30:28.705448",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sean Roberts\n            • Brand: JB Hi-Fi\n            • Fee: ~$5,236\n            • Deliverables: 2 x Product launch event, 3 x Facebook story, 1 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: December 2025",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$5,236",
+    "fee_numeric": 5236,
+    "deliverables": [
+      "2 x Product launch event",
+      "3 x Facebook story",
+      "1 x Instagram post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9199621281493393,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8617121184219884,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:28.693450",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

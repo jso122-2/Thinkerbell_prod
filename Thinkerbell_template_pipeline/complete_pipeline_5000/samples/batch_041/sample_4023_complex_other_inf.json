@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4023",
+  "generation_timestamp": "2025-08-04T18:31:11.671913",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sage Cooper\n            • Brand: Fantastic Furniture\n            • Fee: ~$28,995\n            • Deliverables: 1 x Lifestyle photography, 1 x Professional headshots, 2 x LinkedIn post, 1 x Instagram story\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$28,995",
+    "fee_numeric": 28995,
+    "deliverables": [
+      "1 x Lifestyle photography",
+      "1 x Professional headshots",
+      "2 x LinkedIn post",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.78382163200954,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7546163185627843,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:11.660883",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Home & Garden"
+  }
+}

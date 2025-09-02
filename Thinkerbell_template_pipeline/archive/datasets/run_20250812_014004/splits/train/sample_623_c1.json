@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_623",
+  "chunk_id": "sample_623_c1",
+  "text": "Hey team, looking to work with Hayden Bell for IKEA. Budget is approx $1,822 - need 3 x Media interview, 2 x Product photography, 3 x Brand ambassador content, 1 x Live stream. 11 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

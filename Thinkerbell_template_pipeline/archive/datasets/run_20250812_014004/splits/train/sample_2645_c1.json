@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2645",
+  "chunk_id": "sample_2645_c1",
+  "text": "Sophie Anderson for McDonald's - $10,287 budget\n            Need: 1 x LinkedIn post, 3 x 15-second TikTok, 2 x Product launch event\n            7w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

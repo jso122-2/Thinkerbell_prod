@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1692",
+  "generation_timestamp": "2025-08-04T18:30:20.645307",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sarah Chen for Pillow Talk. \n            Budget is approx $4,450 - need 3 x Instagram post, 3 x 2-minute tutorial, 2 x 90-second product demo. \n            7 weeks exclusivity, 6 month engagement. \n            Usage: 6 months. Start date: November 2025.\n\nAdditional notes: TBC on exact dates, around $4,450 budget\n\nNeed to confirm: deliverables",
+    "token_count": 93,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sarah Chen",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$4,450",
+    "fee_numeric": 4450,
+    "deliverables": [
+      "3 x Instagram post",
+      "3 x 2-minute tutorial",
+      "2 x 90-second product demo"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9368587146707552,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8756217113011937,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:20.635307",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Travel & Tourism"
+  }
+}

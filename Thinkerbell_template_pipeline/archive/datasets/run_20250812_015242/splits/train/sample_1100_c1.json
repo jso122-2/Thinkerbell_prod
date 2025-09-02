@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1100",
+  "chunk_id": "sample_1100_c1",
+  "text": "Need Lily Walker for Domino's campaign. Budget around $18,110, looking for 3 x Pinterest pin, 2 x Instagram post, 2 x 15-second TikTok, 3 x Instagram story, 2 x Instagram story. 5 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 10 months. Engagement period: 3 months. Additional notes: TBC on exact dates, around $18,110 budget",
+  "token_count": 98,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

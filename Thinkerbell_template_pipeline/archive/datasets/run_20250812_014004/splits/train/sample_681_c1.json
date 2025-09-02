@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_681",
+  "chunk_id": "sample_681_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: David Jones\n            • Fee: ~$4,772\n            • Deliverables: 2 x 2-minute tutorial, 1 x Facebook story, 3 x LinkedIn post\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

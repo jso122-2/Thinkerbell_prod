@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3403",
+  "chunk_id": "sample_3403_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Pizza Hut\n            • Fee: ~$29,287\n            • Deliverables: 2 x YouTube short, 2 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

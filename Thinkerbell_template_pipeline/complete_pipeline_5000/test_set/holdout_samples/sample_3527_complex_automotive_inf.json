@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3527",
+  "generation_timestamp": "2025-08-04T18:31:00.949270",
+  "generator_version": "v1.0",
+  "batch_id": "batch_036",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Reagan Rogers for Supercheap Auto campaign. Budget arnd $9,268, looking for 3 x Instagram post, 3 x Pinterest pin, 2 x 2-minute tutorial. \n            3 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 9 months. \n            Engagement period: 5 months.",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Supercheap Auto",
+    "brand": "Supercheap Auto",
+    "campaign": "Supercheap Auto Campaign",
+    "fee": "$9,268",
+    "fee_numeric": 9268,
+    "deliverables": [
+      "3 x Instagram post",
+      "3 x Pinterest pin",
+      "2 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6553402383039942,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7509253738225801,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:00.942273",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

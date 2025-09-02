@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2943",
+  "chunk_id": "sample_2943_c1",
+  "text": "Need Morgan Morris for Subway campaign. Budget around $6,519, looking for 1 x Twitter post, 3 x 60-second YouTube video, 3 x Facebook post, 1 x 2-minute tutorial, 3 x 15-second TikTok. 2 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

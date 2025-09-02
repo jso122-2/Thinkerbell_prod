@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4169",
+  "chunk_id": "sample_4169_c1",
+  "text": "Hey team, looking to work with Quinn Cook for Priceline. Budget is approx $31,637 - need 3 x YouTube video. 5 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: January 2026. Additional notes: TBC on exact dates, around $31,637 budget\n\nNeed to confirm: exclusivity period",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

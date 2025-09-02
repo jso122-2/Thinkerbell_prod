@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2522",
+  "chunk_id": "sample_2522_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Harvey Norman\n            • Fee: ~$2,441\n            • Deliverables: 3 x Facebook post, 3 x 2-minute tutorial, 1 x 30-second Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

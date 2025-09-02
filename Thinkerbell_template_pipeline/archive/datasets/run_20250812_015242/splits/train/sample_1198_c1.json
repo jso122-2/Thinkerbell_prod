@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1198",
+  "chunk_id": "sample_1198_c1",
+  "text": "Isabella Garcia for Subway - $1,550 budget\n            Need: 1 x YouTube short, 3 x Brand ambassador content, 3 x Lifestyle photography\n            8w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

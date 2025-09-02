@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2737",
+  "chunk_id": "sample_2737_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Coles\n            • Fee: ~$5,439\n            • Deliverables: 2 x LinkedIn post, 2 x 90-second product demo, 3 x 30-second Instagram reel, 3 x Lifestyle photography\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

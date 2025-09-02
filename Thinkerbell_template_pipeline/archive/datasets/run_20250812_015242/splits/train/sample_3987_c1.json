@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3987",
+  "chunk_id": "sample_3987_c1",
+  "text": "Ava Johnson for Country Road - $23,619 budget\n            Need: 3 x Meet and greet, 2 x Instagram story, 3 x TikTok video, 3 x Facebook story\n            10w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

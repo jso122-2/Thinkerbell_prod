@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1115",
+  "chunk_id": "sample_1115_c1",
+  "text": "Hey team, looking to work with David Brown for Nando's. Budget is approx $14,810 - need 3 x 2-minute tutorial, 1 x Instagram reel, 3 x Instagram post, 3 x LinkedIn post, 3 x Twitter post. 6 weeks exclusivity, 6 month engagement. Usage: 11 months. Start date: December 2025.",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

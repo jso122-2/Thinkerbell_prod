@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3195",
+  "generation_timestamp": "2025-08-04T18:30:53.405305",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Cook\n            • Brand: Bed Bath N' Table\n            • Fee: ~$12,409\n            • Deliverables: 3 x Twitter post\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: November 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$12,409",
+    "fee_numeric": 12409,
+    "deliverables": [
+      "3 x Twitter post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8433613953645822,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7588178351566387,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:53.397308",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

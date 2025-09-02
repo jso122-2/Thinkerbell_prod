@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_987",
+  "chunk_id": "sample_987_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Pillow Talk\n            • Fee: ~$3,876\n            • Deliverables: 1 x 3-minute vlog\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

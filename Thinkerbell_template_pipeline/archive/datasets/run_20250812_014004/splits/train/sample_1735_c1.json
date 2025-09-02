@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1735",
+  "chunk_id": "sample_1735_c1",
+  "text": "Hey team, looking to work with Nathan King for Nando's. Budget is approx $27,935 - need 2 x Facebook post, 2 x 90-second product demo, 3 x Brand ambassador content, 3 x Instagram post, 1 x Lifestyle photography. 4 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

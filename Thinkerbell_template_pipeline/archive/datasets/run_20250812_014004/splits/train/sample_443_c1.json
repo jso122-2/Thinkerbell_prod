@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_443",
+  "chunk_id": "sample_443_c1",
+  "text": "Hey team, looking to work with Blake Cox for Roll'd. Budget is approx $19,603 - need 2 x Press conference, 2 x 60-second YouTube video, 3 x Pinterest pin, 2 x Instagram post. 11 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: September 2025. Need to confirm: exclusivity period",
+  "token_count": 84,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

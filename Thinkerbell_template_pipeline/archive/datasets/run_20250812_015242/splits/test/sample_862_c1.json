@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_862",
+  "chunk_id": "sample_862_c1",
+  "text": "Need Michael Rodriguez for Cotton On campaign. Budget around $16,022, looking for 2 x Brand photoshoot, 1 x Article contribution, 3 x Radio interview. 6 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 10 months. Engagement period: 4 months.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4116",
+  "chunk_id": "sample_4116_c1",
+  "text": "Olivia Davis for Target - $14,917 budget\n            Need: 1 x Lifestyle photography\n            8w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

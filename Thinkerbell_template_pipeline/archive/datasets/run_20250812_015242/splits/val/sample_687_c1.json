@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_687",
+  "chunk_id": "sample_687_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Mecca\n            • Fee: ~$20,728\n            • Deliverables: 2 x YouTube video, 3 x Professional headshots, 1 x Product photography\n            • Exclusivity: 4 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

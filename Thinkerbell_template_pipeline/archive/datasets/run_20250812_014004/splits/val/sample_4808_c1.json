@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4808",
+  "chunk_id": "sample_4808_c1",
+  "text": "Hey team, looking to work with Sage Cooper for JB Hi-Fi. Budget is approx $4,528 - need 2 x YouTube short, 3 x Radio interview, 1 x LinkedIn post. 8 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

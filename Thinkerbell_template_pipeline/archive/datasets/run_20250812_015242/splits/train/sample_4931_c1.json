@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4931",
+  "chunk_id": "sample_4931_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Portmans\n            • Fee: ~$17,285\n            • Deliverables: 3 x Lifestyle photography, 2 x 15-second TikTok, 1 x 30-second Instagram reel\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

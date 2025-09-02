@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3532",
+  "chunk_id": "sample_3532_c1",
+  "text": "Grace Young for Commonwealth Bank - $2,168 budget\n            Need: 3 x 60-second YouTube video\n            9w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

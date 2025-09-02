@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_982",
+  "chunk_id": "sample_982_c1",
+  "text": "Hey team, looking to work with Chloe Lewis for Big W. \n            Budget is approx $14,464 - need 2 x Instagram post, 3 x Live stream, 3 x Facebook post. 8 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3301",
+  "chunk_id": "sample_3301_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Officeworks\n            • Fee: ~$14,843\n            • Deliverables: 1 x YouTube video, 1 x Press release quote, 2 x 2-minute tutorial, 1 x Behind-the-scenes content, 2 x Twitter post\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1822",
+  "chunk_id": "sample_1822_c1",
+  "text": "Hey team, looking to work with Hayden Bell for Repco. Budget is approx $32,919 - need 2 x Instagram post. 3 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

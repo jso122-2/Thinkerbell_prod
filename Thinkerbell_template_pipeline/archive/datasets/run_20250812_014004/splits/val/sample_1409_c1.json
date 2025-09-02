@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1409",
+  "chunk_id": "sample_1409_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Nando's\n            • Fee: ~$2,885\n            • Deliverables: 3 x Instagram story, 3 x 60-second YouTube video, 1 x Facebook post\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: November 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

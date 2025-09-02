@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_416",
+  "chunk_id": "sample_416_c1",
+  "text": "Quinn Cook for Guzman y Gomez - $3,300 budget\n            Need: 1 x Instagram reel, 3 x 10-minute unboxing, 3 x Pinterest pin\n            6w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

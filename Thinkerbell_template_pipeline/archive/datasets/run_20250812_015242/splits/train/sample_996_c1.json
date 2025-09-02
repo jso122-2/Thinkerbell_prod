@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_996",
+  "chunk_id": "sample_996_c1",
+  "text": "Need Kevin Baker for Pizza Hut campaign. Budget around $7,094, looking for 2 x Radio interview. 12 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

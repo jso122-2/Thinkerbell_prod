@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2449",
+  "chunk_id": "sample_2449_c1",
+  "text": "Need Hayden Bell for Witchery campaign. Budget around $2,905, looking for 1 x Lifestyle photography. 11 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

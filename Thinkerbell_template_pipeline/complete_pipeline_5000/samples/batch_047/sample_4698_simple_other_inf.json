@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4698",
+  "generation_timestamp": "2025-08-04T18:31:24.402406",
+  "generator_version": "v1.0",
+  "batch_id": "batch_047",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Chloe Lewis\n            • Brand: Betty's Burgers\n            • Fee: ~$28,667\n            • Deliverables: 2 x 90-second product demo, 3 x Twitter post, 2 x Press release quote, 2 x Facebook story, 1 x Product photography\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: November 2025",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$28,667",
+    "fee_numeric": 28667,
+    "deliverables": [
+      "2 x 90-second product demo",
+      "3 x Twitter post",
+      "2 x Press release quote",
+      "2 x Facebook story",
+      "1 x Product photography"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7550087906858415,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9409985640598475,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:24.393400",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

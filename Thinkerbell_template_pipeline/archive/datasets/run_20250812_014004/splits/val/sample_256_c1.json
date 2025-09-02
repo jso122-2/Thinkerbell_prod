@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_256",
+  "chunk_id": "sample_256_c1",
+  "text": "Need Tyler Scott for Red Rooster camp. Budget around $12,277, looking for 3 x 10-minute unboxing, 3 x Instagram reel, 3 x Facebook post. 2 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 12 months. Engagement period: 4 months. ripper",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_457",
+  "generation_timestamp": "2025-08-04T18:29:54.811897",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sophie Anderson for McDonald's campaign. Budget around $4,846, looking for 2 x Instagram post, 1 x 2-minute tutorial, 1 x YouTube short, 2 x 30-second Instagram reel, 2 x 2-minute tutorial. \n            10 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 6 months. \n            Engagement period: 3 months.",
+    "token_count": 91,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sophie Anderson",
+    "client": "McDonald's",
+    "brand": "McDonald's",
+    "campaign": "McDonald's Campaign",
+    "fee": "$4,846",
+    "fee_numeric": 4846,
+    "deliverables": [
+      "2 x Instagram post",
+      "1 x 2-minute tutorial",
+      "1 x YouTube short",
+      "2 x 30-second Instagram reel",
+      "2 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9164668264205634,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.822717382599407,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.802896",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_413",
+  "chunk_id": "sample_413_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Nando's. Budget is approx $9,292 - need 3 x Lifestyle photography. 5 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

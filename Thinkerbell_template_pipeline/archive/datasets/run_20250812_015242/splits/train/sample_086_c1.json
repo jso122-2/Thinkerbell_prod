@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_086",
+  "chunk_id": "sample_086_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Witchery. Budget is approx $23,984 - need 3 x Blog post, 3 x LinkedIn post. 3 weeks exclusivity, 3 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

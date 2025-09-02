@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4194",
+  "chunk_id": "sample_4194_c1",
+  "text": "Hey team, looking to work with Sean Roberts for Coles. Budget is approx $33,276 - need 2 x Instagram post, 3 x 60-second YouTube video, 2 x 2-minute tutorial. 12 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

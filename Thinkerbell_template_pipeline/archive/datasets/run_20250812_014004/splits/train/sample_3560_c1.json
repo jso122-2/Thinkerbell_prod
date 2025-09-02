@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3560",
+  "chunk_id": "sample_3560_c1",
+  "text": "Ava Johnson for Kmart - $11,190 budget\n            Need: 1 x LinkedIn post, 3 x 30-second Instagram reel\n            3w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

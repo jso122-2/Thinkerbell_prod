@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2749",
+  "chunk_id": "sample_2749_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: JB Hi-Fi\n            • Fee: ~$1,986\n            • Deliverables: 3 x 5-minute review, 2 x Facebook post\n            • Exclusivity: 4 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

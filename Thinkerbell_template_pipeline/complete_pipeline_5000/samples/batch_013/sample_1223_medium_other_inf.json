@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1223",
+  "generation_timestamp": "2025-08-04T18:30:10.820228",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sage Reed for Amart Furniture campaign. Budget around $2,274, looking for 1 x Facebook post, 2 x LinkedIn post, 3 x Twitter post, 3 x Lifestyle photography, 1 x 5-minute review. \n            10 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 7 months. \n            Engagement period: 4 months.",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$2,274",
+    "fee_numeric": 2274,
+    "deliverables": [
+      "1 x Facebook post",
+      "2 x LinkedIn post",
+      "3 x Twitter post",
+      "3 x Lifestyle photography",
+      "1 x 5-minute review"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9085139147673821,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9080761462594469,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:10.810228",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Sports & Recreation"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_611",
+  "chunk_id": "sample_611_c1",
+  "text": "Blake Morgan for Subway - $11,849 budget\n            Need: 1 x LinkedIn post, 3 x 90-second product demo, 2 x Press release quote, 1 x 15-second TikTok, 3 x Instagram story\n            12w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_061",
+  "chunk_id": "sample_061_c1",
+  "text": "• Influencer: Chloe Lewis\n            • Brand: Pillow Talk\n            • Fee: ~$22,374\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: November 2025\n\nNeed to confirm: deliverables",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

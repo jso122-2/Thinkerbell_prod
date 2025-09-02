@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1524",
+  "chunk_id": "sample_1524_c1",
+  "text": "Andrew Clark for Autobarn - $22,444 budg\n            Need: 1 x Instagram story, 2 x Article contribution, 3 x Product photography, 1 x Brand ambassador content\n            2w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_056",
+  "chunk_id": "sample_056_c1",
+  "text": "Emma Thompson for McDonald's - $3,956 budget\n            Need: 1 x Product photography, 3 x 90-second product demo, 1 x Pinterest pin, 2 x YouTube video\n            4w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: November 2025 mate",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

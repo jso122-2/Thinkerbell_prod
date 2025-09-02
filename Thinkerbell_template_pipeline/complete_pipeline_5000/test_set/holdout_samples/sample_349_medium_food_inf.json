@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_349",
+  "generation_timestamp": "2025-08-04T18:29:52.544703",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Michael Rodriguez for Woolworths campaign. Budget around $6,537, looking for 1 x Social media takeover, 1 x Meet and greet, 2 x Behind-the-scenes content, 3 x Instagram story. \n            5 week exclusivity from other grocery brands. \n            Campaign runs September 2025. Usage rights for 11 months. \n            Engagement period: 2 months.",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$6,537",
+    "fee_numeric": 6537,
+    "deliverables": [
+      "1 x Social media takeover",
+      "1 x Meet and greet",
+      "2 x Behind-the-scenes content",
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8909554335593228,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8399522243685115,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.535700",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Travel & Tourism"
+  }
+}

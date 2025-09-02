@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2657",
+  "chunk_id": "sample_2657_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Pillow Talk. Budget is approx $2,437 - need 3 x Radio interview, 1 x Instagram post. 5 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

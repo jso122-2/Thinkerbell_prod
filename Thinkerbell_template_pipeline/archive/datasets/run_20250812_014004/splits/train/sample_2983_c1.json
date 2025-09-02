@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2983",
+  "chunk_id": "sample_2983_c1",
+  "text": "River Murphy for Pillow Talk - $26,301 budget\n            Need: 2 x Press release quote\n            9w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2926",
+  "generation_timestamp": "2025-08-04T18:30:48.556309",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Joshua Hall\n            • Brand: Lush\n            • Fee: ~$2,743\n            • Deliverables: 1 x Facebook story, 2 x Instagram post, 3 x Event photography, 3 x TikTok video, 2 x Podcast guest\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $2,743 budget",
+    "token_count": 100,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$2,743",
+    "fee_numeric": 2743,
+    "deliverables": [
+      "1 x Facebook story",
+      "2 x Instagram post",
+      "3 x Event photography",
+      "3 x TikTok video",
+      "2 x Podcast guest"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8789340671826283,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8454875493611916,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:48.540812",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Health & Fitness"
+  }
+}

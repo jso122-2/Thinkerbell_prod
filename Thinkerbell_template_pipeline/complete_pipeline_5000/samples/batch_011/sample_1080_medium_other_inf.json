@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1080",
+  "generation_timestamp": "2025-08-04T18:30:07.295078",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sarah Chen for Subway - $24,829 budget\n            Need: 2 x 15-second TikTok, 2 x Radio interview, 1 x 60-second YouTube video, 3 x 10-minute unboxing\n            12w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sarah Chen",
+    "client": "Subway",
+    "brand": "Subway",
+    "campaign": "Subway Campaign",
+    "fee": "$24,829",
+    "fee_numeric": 24829,
+    "deliverables": [
+      "2 x 15-second TikTok",
+      "2 x Radio interview",
+      "1 x 60-second YouTube video",
+      "3 x 10-minute unboxing"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8991308100912426,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8487784694884566,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:07.279076",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Entertainment"
+  }
+}

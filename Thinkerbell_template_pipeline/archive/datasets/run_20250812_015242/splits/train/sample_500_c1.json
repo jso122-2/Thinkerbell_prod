@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_500",
+  "chunk_id": "sample_500_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Portmans\n            • Fee: ~$4,737\n            • Deliverables: 1 x Instagram reel, 1 x Radio interview\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $4,737 budget",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_016",
+  "chunk_id": "sample_016_c1",
+  "text": "Hey team, looking to work with Hayden Howard for Bunnings. Budget is approx $12,413 - need 1 x Facebook post. 6 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

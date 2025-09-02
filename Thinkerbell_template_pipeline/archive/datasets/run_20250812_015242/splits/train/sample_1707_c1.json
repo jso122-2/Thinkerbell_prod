@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1707",
+  "chunk_id": "sample_1707_c1",
+  "text": "Hey team, looking to work with Morgan Morris for Qantas. Budget is approx $15,695 - need 1 x 2-minute tutorial, 1 x 5-minute review, 3 x YouTube video. 9 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3162",
+  "chunk_id": "sample_3162_c1",
+  "text": "• Influencer: Jordan Phillips\n            • Brand: Roll'd\n            • Fee: ~$10,344\n            • Deliverables: 1 x YouTube short, 1 x Lifestyle photography, 2 x YouTube short, 1 x 3-minute vlog, 3 x LinkedIn post\n            • Exclusivity: 4 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3254",
+  "chunk_id": "sample_3254_c1",
+  "text": "Sarah Chen for Commonwealth Bank - $13,022 budg\n            Need: 2 x Facebook post, 3 x Press release quote, 1 x YouTube short\n            11w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: December 2025 reckon",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

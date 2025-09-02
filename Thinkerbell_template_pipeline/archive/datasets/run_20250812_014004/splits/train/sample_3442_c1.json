@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3442",
+  "chunk_id": "sample_3442_c1",
+  "text": "Hayden Howard for Supercheap Auto - $13,092 budget\n            Need: 2 x Pinterest pin, 3 x Instagram post\n            2w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

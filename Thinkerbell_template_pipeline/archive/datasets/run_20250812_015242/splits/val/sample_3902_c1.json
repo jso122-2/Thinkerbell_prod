@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3902",
+  "chunk_id": "sample_3902_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Portmans\n            • Fee: ~$21,457\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3202",
+  "chunk_id": "sample_3202_c1",
+  "text": "Need Cameron Parker for Queen Fine Foods campaign. Budget around $10,039, looking for 1 x Instagram post, 3 x Article contribution. 3 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 12 months. Engagement period: 6 months.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

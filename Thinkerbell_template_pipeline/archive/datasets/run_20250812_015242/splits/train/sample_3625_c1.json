@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3625",
+  "chunk_id": "sample_3625_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Pillow Talk\n            • Fee: ~$9,949\n            • Deliverables: 2 x TikTok video\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

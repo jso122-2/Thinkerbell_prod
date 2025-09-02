@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_666",
+  "generation_timestamp": "2025-08-04T18:29:58.862837",
+  "generator_version": "v1.0",
+  "batch_id": "batch_007",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Chloe Lewis\n            • Brand: Cotton On\n            • Fee: ~$10,765\n            • Deliverables: 2 x Instagram post, 1 x Facebook post, 3 x YouTube short, 1 x Instagram story\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: January 2026 reckon",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$10,765",
+    "fee_numeric": 10765,
+    "deliverables": [
+      "2 x Instagram post",
+      "1 x Facebook post",
+      "3 x YouTube short",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7509607334590338,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.733804504016274,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:58.853842",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Travel & Tourism"
+  }
+}

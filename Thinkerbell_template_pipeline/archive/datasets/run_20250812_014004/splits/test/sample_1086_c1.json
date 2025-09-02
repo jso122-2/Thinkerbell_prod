@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1086",
+  "chunk_id": "sample_1086_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Boost Juice\n            • Fee: ~$2,750\n            • Deliverables: 3 x Live stream, 3 x YouTube short, 3 x 2-minute tutorial, 3 x Facebook story, 3 x LinkedIn post\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: December 2025\n\nNeed to confirm: deliverables",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

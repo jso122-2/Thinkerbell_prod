@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1300",
+  "chunk_id": "sample_1300_c1",
+  "text": "Ava Johnson for Amart Furniture - $3,188 budget\n            Need: 1 x Lifestyle photography\n            8w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

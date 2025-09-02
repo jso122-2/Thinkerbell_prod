@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2474",
+  "chunk_id": "sample_2474_c1",
+  "text": "Need Zoe Wright for Telstra campaign. Budget around $4,468, looking for 3 x 10-minute unboxing, 3 x Media interview, 1 x Twitter post. 11 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 12 months. Engagement period: 5 months.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

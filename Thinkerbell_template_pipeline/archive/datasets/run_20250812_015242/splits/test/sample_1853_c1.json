@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1853",
+  "chunk_id": "sample_1853_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Hungry Jack's\n            • Fee: ~$12,924\n            • Deliverables: 2 x Twitter post, 2 x 90-second product demo, 1 x Media interview\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

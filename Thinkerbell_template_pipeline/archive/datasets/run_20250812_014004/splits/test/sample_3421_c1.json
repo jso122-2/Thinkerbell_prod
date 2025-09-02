@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3421",
+  "chunk_id": "sample_3421_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Grill'd\n            • Fee: ~$3,038\n            • Deliverables: 3 x Event photography, 2 x LinkedIn post, 3 x Facebook story, 2 x Event photography\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

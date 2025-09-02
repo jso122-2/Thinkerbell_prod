@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_444",
+  "chunk_id": "sample_444_c1",
+  "text": "Hey team, looking to work with Isabella Garcia for Roll'd. Budget is approx $19,432 - need 2 x 15-second TikTok, 3 x Twitter post, 2 x 90-second product demo. 5 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

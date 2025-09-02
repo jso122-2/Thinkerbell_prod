@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1112",
+  "chunk_id": "sample_1112_c1",
+  "text": "Justin Mitchell for Kmart - $2,481 budget\n            Need: 3 x 2-minute tutorial, 1 x Lifestyle photography, 3 x Meet and greet\n            6w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

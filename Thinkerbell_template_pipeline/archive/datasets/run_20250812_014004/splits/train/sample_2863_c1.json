@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2863",
+  "chunk_id": "sample_2863_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Domino's. Budget is approx $28,049 - need 2 x YouTube short, 2 x Facebook post, 1 x Instagram post, 3 x Instagram post, 3 x Lifestyle photography. 7 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

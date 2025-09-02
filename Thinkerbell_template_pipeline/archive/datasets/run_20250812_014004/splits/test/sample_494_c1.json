@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_494",
+  "chunk_id": "sample_494_c1",
+  "text": "Cameron Parker for McDonald's - $34,158 budget\n            Need: 3 x 15-second TikTok\n            5w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

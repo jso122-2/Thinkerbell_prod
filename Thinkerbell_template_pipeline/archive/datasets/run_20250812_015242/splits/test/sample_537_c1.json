@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_537",
+  "chunk_id": "sample_537_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Officeworks. Budget is approx $10,982 - need 2 x TikTok video, 3 x Instagram story, 3 x Media interview. 3 weeks exclusivity, 6 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

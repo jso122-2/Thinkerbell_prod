@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1599",
+  "chunk_id": "sample_1599_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: JB Hi-Fi\n            • Fee: ~$26,660\n            • Deliverables: 1 x YouTube video, 1 x Pinterest pin, 2 x Instagram reel, 3 x YouTube short\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

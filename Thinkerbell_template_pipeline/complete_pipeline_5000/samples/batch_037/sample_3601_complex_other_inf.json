@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3601",
+  "generation_timestamp": "2025-08-04T18:31:02.709849",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Chloe Lewis for Qantas. \n            Budget is approx $3,679 - need 3 x Instagram story. \n            11 weeks exclusivity, 2 month engagement. \n            Usage: 8 months. Start date: January 2026.",
+    "token_count": 57,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$3,679",
+    "fee_numeric": 3679,
+    "deliverables": [
+      "3 x Instagram story"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6431548802942676,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.762769950730762,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:02.695849",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Education"
+  }
+}

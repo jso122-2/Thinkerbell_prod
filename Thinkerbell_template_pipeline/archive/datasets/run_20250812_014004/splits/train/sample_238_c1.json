@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_238",
+  "chunk_id": "sample_238_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: KFC\n            • Fee: ~$3,651\n            • Deliverables: 1 x YouTube short, 2 x Brand ambassador content, 3 x Podcast guest, 1 x Facebook post, 2 x Radio interview\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

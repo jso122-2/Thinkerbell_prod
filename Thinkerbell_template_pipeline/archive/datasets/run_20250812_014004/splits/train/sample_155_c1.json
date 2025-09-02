@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_155",
+  "chunk_id": "sample_155_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Mecca\n            • Fee: ~$4,219\n            • Deliverables: 3 x Behind-the-scenes content\n            • Exclusivity: 4 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1986",
+  "chunk_id": "sample_1986_c1",
+  "text": "Isabella Garcia for KFC - $17,957 budget\n            Need: 3 x Lifestyle photography\n            10w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

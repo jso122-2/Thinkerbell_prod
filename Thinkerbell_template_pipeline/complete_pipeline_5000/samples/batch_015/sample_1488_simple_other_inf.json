@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1488",
+  "generation_timestamp": "2025-08-04T18:30:15.725041",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Michael Rodriguez\n            • Brand: Fantastic Furniture\n            • Fee: ~$5,323\n            • Deliverables: 1 x Instagram story, 2 x YouTube short, 3 x Lifestyle photography, 3 x 15-second TikTok, 3 x Event photography\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: January 2026",
+    "token_count": 93,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Fantastic Furniture",
+    "brand": "Fantastic Furniture",
+    "campaign": "Fantastic Furniture Campaign",
+    "fee": "$5,323",
+    "fee_numeric": 5323,
+    "deliverables": [
+      "1 x Instagram story",
+      "2 x YouTube short",
+      "3 x Lifestyle photography",
+      "3 x 15-second TikTok",
+      "3 x Event photography"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7498581702080465,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9107112572837424,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.716039",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_633",
+  "chunk_id": "sample_633_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: JB Hi-Fi\n            • Fee: ~$4,810\n            • Deliverables: 2 x Facebook post, 2 x 60-second YouTube video\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

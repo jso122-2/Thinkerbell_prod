@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1831",
+  "chunk_id": "sample_1831_c1",
+  "text": "Matthew Taylor for Lush - $2,031 budget\n            Need: 3 x TV appearance, 3 x Pinterest pin, 2 x Twitter post, 2 x Instagram post, 2 x 15-second TikTok\n            11w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

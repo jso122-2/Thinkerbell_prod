@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2211",
+  "chunk_id": "sample_2211_c1",
+  "text": "Cameron Parker for Bunnings - $28,281 budget\n            Need: 3 x Twitter post, 3 x Twitter post, 1 x Instagram reel, 2 x 15-second TikTok\n            2w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

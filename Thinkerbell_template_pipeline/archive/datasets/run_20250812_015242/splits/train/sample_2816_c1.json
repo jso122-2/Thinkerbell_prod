@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_2816",
+  "chunk_id": "sample_2816_c1",
+  "text": "Quinn Richardson for JB Hi-Fi - $2,591 budget\n            Need: 2 x Facebook post\n            8w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

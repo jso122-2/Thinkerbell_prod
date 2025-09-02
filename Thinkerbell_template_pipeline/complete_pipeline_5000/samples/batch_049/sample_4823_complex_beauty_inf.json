@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4823",
+  "generation_timestamp": "2025-08-04T18:31:27.988183",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ryan Allen for Sephora. \n            Budget is approx $25,028 - need 3 x LinkedIn post, 1 x Twitter post, 1 x Pinterest pin, 1 x Blog post. \n            5 weeks exclusivity, 6 month engagement. \n            Usage: 6 months. Start date: December 2025.",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$25,028",
+    "fee_numeric": 25028,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "1 x Twitter post",
+      "1 x Pinterest pin",
+      "1 x Blog post"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.703117370190963,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.803289657015448,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:27.979179",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Fashion & Apparel"
+  }
+}

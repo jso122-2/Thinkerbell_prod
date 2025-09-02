@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_383",
+  "chunk_id": "sample_383_c1",
+  "text": "Andrew Clark for Roll'd - $13,138 budget\n            Need: 3 x Behind-the-scenes content, 1 x Instagram story\n            5w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

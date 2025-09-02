@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2588",
+  "chunk_id": "sample_2588_c1",
+  "text": "Reagan Rogers for Pizza Hut - $15,306 budget\n            Need: 2 x Product launch event, 1 x LinkedIn post\n            6w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

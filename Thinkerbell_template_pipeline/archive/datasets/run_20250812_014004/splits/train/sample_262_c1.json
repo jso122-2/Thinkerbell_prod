@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_262",
+  "chunk_id": "sample_262_c1",
+  "text": "Victoria Carter for Adairs - $27,449 budget\n            Need: 3 x Twitter post, 1 x Media interview, 1 x Instagram post\n            10w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

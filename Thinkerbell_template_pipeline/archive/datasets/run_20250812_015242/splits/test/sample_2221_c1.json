@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2221",
+  "chunk_id": "sample_2221_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Harvey Norman\n            • Fee: ~$3,115\n            • Deliverables: 2 x Instagram story, 1 x 90-second product demo, 3 x 10-minute unboxing, 2 x LinkedIn post\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $3,115 budget",
+  "token_count": 93,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

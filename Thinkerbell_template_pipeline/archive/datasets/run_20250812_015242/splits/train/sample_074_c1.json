@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_074",
+  "chunk_id": "sample_074_c1",
+  "text": "Need Natalie Adams for Domino's campaign. Budget around $23,796, looking for 2 x Facebook story, 2 x Facebook post, 3 x Meet and greet. 11 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 12 months. Engagement period: 4 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

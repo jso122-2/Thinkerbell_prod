@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1556",
+  "chunk_id": "sample_1556_c1",
+  "text": "Sophie Anderson for Bunnings - $9,134 budget\n            Need: 3 x 10-minute unboxing\n            5w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

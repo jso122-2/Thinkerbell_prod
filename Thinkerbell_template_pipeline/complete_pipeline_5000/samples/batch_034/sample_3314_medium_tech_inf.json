@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3314",
+  "generation_timestamp": "2025-08-04T18:30:56.688874",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Howard for Harvey Norman campaign. Budget around $16,901, looking for 2 x Facebook post, 1 x 60-second YouTube video, 2 x LinkedIn post. \n            12 week exclusivity from other electronics brands. \n            Campaign runs September 2025. Usage rights for 7 months. \n            Engagement period: 2 months.\n\nNeed to confirm: exclusivity period",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$16,901",
+    "fee_numeric": 16901,
+    "deliverables": [
+      "2 x Facebook post",
+      "1 x 60-second YouTube video",
+      "2 x LinkedIn post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8123181135108117,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8427554930374852,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:56.679880",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "New Season",
+    "product_category": "Sports & Recreation"
+  }
+}

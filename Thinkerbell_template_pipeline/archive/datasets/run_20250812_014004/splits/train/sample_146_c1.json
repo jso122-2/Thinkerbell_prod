@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_146",
+  "chunk_id": "sample_146_c1",
+  "text": "Hey team, looking to work with River Murphy for Commonwealth Bank. Budget is approx $6,778 - need 1 x Store opening, 2 x LinkedIn post. 5 weeks exclusivity, 3 month engmt. Usage: 7 months. Start date: January 2026.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

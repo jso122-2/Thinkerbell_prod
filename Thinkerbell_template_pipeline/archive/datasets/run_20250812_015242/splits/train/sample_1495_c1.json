@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1495",
+  "chunk_id": "sample_1495_c1",
+  "text": "Blake Cox for Chemist Warehouse - $2,076 budget\n            Need: 1 x Instagram post, 3 x Podcast guest, 3 x Instagram story, 3 x YouTube video\n            4w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

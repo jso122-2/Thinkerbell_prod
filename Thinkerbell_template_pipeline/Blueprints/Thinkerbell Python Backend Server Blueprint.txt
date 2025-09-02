@@ -1,0 +1,1004 @@
+# Thinkerbell Python Backend Server Blueprint
+*Complete production-ready architecture for the semantic formatting engine*
+
+## 🏗️ System Architecture Overview
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    Frontend (React/Next.js)                    │
+├─────────────────────────────────────────────────────────────────┤
+│                         API Gateway                            │
+├─────────────────────────────────────────────────────────────────┤
+│                    FastAPI Application                         │
+│  ┌─────────────────┬─────────────────┬─────────────────────────┐ │
+│  │  Auth Service   │ Semantic Brain  │   Template Engine       │ │
+│  │                 │                 │                         │ │
+│  │  - JWT tokens   │ - Sentence      │ - Template management   │ │
+│  │  - User mgmt    │   transformers  │ - Format rendering      │ │
+│  │  - Rate limits  │ - Classification│ - Export generation     │ │
+│  └─────────────────┼─────────────────┼─────────────────────────┘ │
+├─────────────────────┼─────────────────┼─────────────────────────────┤
+│                     │                 │                         │
+│  ┌─────────────────┼─────────────────┼─────────────────────────┐ │
+│  │     Database Layer (PostgreSQL + Redis)                    │ │
+│  │                                                             │ │
+│  │  - User sessions     - Classification cache                │ │
+│  │  - Learning data     - Template cache                      │ │
+│  │  - Template storage  - Rate limit tracking                 │ │
+│  └─────────────────────────────────────────────────────────────┘ │
+├─────────────────────────────────────────────────────────────────┤
+│                    Background Workers                           │
+│  ┌─────────────────┬─────────────────┬─────────────────────────┐ │
+│  │ Model Training  │ File Processing │   Export Generation     │ │
+│  │                 │                 │                         │ │
+│  │ - Fine-tuning   │ - Batch uploads │ - PDF generation        │ │
+│  │ - Validation    │ - Document OCR  │ - PowerPoint export     │ │
+│  │ - A/B testing   │ - Audio transcr.│ - Email delivery        │ │
+│  └─────────────────┴─────────────────┴─────────────────────────┘ │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+## 📁 Project Structure
+
+```
+thinkerbell_backend/
+├── app/
+│   ├── __init__.py
+│   ├── main.py                      # FastAPI application entry
+│   ├── config.py                    # Environment configuration
+│   ├── dependencies.py              # Shared dependencies
+│   │
+│   ├── api/                         # API routes
+│   │   ├── __init__.py
+│   │   ├── v1/
+│   │   │   ├── __init__.py
+│   │   │   ├── auth.py              # Authentication endpoints
+│   │   │   ├── semantic.py          # Semantic processing endpoints
+│   │   │   ├── templates.py         # Template management
+│   │   │   ├── exports.py           # Export generation
+│   │   │   └── admin.py             # Admin/analytics endpoints
+│   │   └── middleware.py            # Custom middleware
+│   │
+│   ├── core/                        # Core business logic
+│   │   ├── __init__.py
+│   │   ├── semantic_brain.py        # Main semantic classification
+│   │   ├── template_engine.py       # Template rendering
+│   │   ├── learning_engine.py       # ML training pipeline
+│   │   ├── export_engine.py         # Document generation
+│   │   └── file_processor.py        # File upload handling
+│   │
+│   ├── models/                      # Database models
+│   │   ├── __init__.py
+│   │   ├── user.py                  # User models
+│   │   ├── session.py               # Session tracking
+│   │   ├── template.py              # Template storage
+│   │   └── analytics.py             # Usage analytics
+│   │
+│   ├── schemas/                     # Pydantic schemas
+│   │   ├── __init__.py
+│   │   ├── semantic.py              # Semantic processing schemas
+│   │   ├── template.py              # Template schemas
+│   │   ├── user.py                  # User schemas
+│   │   └── export.py                # Export schemas
+│   │
+│   ├── services/                    # External services
+│   │   ├── __init__.py
+│   │   ├── auth_service.py          # Authentication logic
+│   │   ├── cache_service.py         # Redis caching
+│   │   ├── storage_service.py       # File storage (S3/local)
+│   │   ├── email_service.py         # Email notifications
+│   │   └── analytics_service.py     # Usage tracking
+│   │
+│   └── utils/                       # Utility functions
+│       ├── __init__.py
+│       ├── security.py              # Security utilities
+│       ├── validators.py            # Input validation
+│       ├── logger.py                # Logging configuration
+│       └── helpers.py               # General helpers
+│
+├── workers/                         # Background task workers
+│   ├── __init__.py
+│   ├── celery_app.py                # Celery configuration
+│   ├── training_worker.py           # Model training tasks
+│   ├── export_worker.py             # Export generation tasks
+│   └── cleanup_worker.py            # Maintenance tasks
+│
+├── migrations/                      # Database migrations
+│   ├── versions/
+│   └── alembic.ini
+│
+├── tests/                           # Test suite
+│   ├── __init__.py
+│   ├── conftest.py                  # Test configuration
+│   ├── test_api/                    # API endpoint tests
+│   ├── test_core/                   # Core logic tests
+│   └── test_services/               # Service tests
+│
+├── scripts/                         # Deployment/maintenance scripts
+│   ├── setup_db.py                  # Database initialization
+│   ├── train_model.py               # Model training script
+│   └── health_check.py              # Health monitoring
+│
+├── docker/                          # Docker configuration
+│   ├── Dockerfile
+│   ├── docker-compose.yml
+│   └── nginx.conf
+│
+├── requirements/                    # Dependencies
+│   ├── base.txt                     # Core dependencies
+│   ├── dev.txt                      # Development dependencies
+│   └── prod.txt                     # Production dependencies
+│
+├── .env.example                     # Environment variables template
+├── pyproject.toml                   # Project configuration
+└── README.md                        # Documentation
+```
+
+## 🔧 Core Components
+
+### 1. FastAPI Application (`app/main.py`)
+
+```python
+from fastapi import FastAPI, Middleware
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.gzip import GZipMiddleware
+from contextlib import asynccontextmanager
+
+from app.api.v1 import semantic, templates, auth, exports, admin
+from app.api.middleware import RateLimitMiddleware, LoggingMiddleware
+from app.core.semantic_brain import SemanticBrain
+from app.config import settings
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Startup: Load ML models
+    app.state.semantic_brain = SemanticBrain()
+    await app.state.semantic_brain.initialize()
+    yield
+    # Shutdown: Cleanup
+    await app.state.semantic_brain.cleanup()
+
+app = FastAPI(
+    title="Thinkerbell Semantic Engine API",
+    description="Measured Magic for content classification",
+    version="1.0.0",
+    lifespan=lifespan
+)
+
+# Middleware
+app.add_middleware(GZipMiddleware, minimum_size=1000)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=settings.ALLOWED_ORIGINS,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+app.add_middleware(RateLimitMiddleware)
+app.add_middleware(LoggingMiddleware)
+
+# Routes
+app.include_router(auth.router, prefix="/api/v1/auth", tags=["authentication"])
+app.include_router(semantic.router, prefix="/api/v1/semantic", tags=["semantic"])
+app.include_router(templates.router, prefix="/api/v1/templates", tags=["templates"])
+app.include_router(exports.router, prefix="/api/v1/exports", tags=["exports"])
+app.include_router(admin.router, prefix="/api/v1/admin", tags=["admin"])
+
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy", "service": "thinkerbell-semantic-engine"}
+```
+
+### 2. Semantic Brain (`app/core/semantic_brain.py`)
+
+```python
+import asyncio
+from typing import Dict, List, Optional, Tuple
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
+import numpy as np
+from app.config import settings
+from app.services.cache_service import CacheService
+from app.models.analytics import ClassificationLog
+
+class SemanticBrain:
+    def __init__(self):
+        self.model = None
+        self.anchor_embeddings = {}
+        self.cache = CacheService()
+        self.confidence_threshold = 0.3
+        
+    async def initialize(self):
+        """Initialize ML models and cache"""
+        # Load sentence transformer model
+        self.model = SentenceTransformer(settings.SEMANTIC_MODEL)
+        
+        # Load and cache anchor embeddings
+        await self._load_anchor_embeddings()
+        
+    async def _load_anchor_embeddings(self):
+        """Precompute embeddings for semantic anchors"""
+        anchors = {
+            "Hunch": """
+                A clever suspicion, intuitive idea, or hypothesis. 
+                Often playful speculation without concrete proof yet.
+                Keywords: guess, intuition, feeling, suspect, theory, wonder, might.
+            """,
+            "Wisdom": """
+                Strategic insights backed by data, research, or experience.
+                Evidence-based knowledge and proven learnings.
+                Keywords: research, data, studies, evidence, analysis, statistics.
+            """,
+            "Nudge": """
+                Recommended actions, behavioral suggestions, or next steps.
+                Gentle pushes toward desired behaviors or decisions.
+                Keywords: should, recommend, suggest, action, try, implement.
+            """,
+            "Spell": """
+                Magical creative flourishes, surprising executions, or innovative ideas.
+                Unexpected solutions that feel almost magical in their creativity.
+                Keywords: magical, surprising, creative, innovative, extraordinary.
+            """
+        }
+        
+        # Check cache first
+        cached = await self.cache.get("anchor_embeddings")
+        if cached:
+            self.anchor_embeddings = cached
+            return
+            
+        # Compute embeddings
+        anchor_texts = list(anchors.values())
+        embeddings = self.model.encode(anchor_texts)
+        
+        self.anchor_embeddings = {
+            category: embeddings[i] 
+            for i, category in enumerate(anchors.keys())
+        }
+        
+        # Cache for 24 hours
+        await self.cache.set("anchor_embeddings", self.anchor_embeddings, 86400)
+
+    async def classify_text(
+        self, 
+        text: str, 
+        user_id: Optional[str] = None,
+        session_id: Optional[str] = None
+    ) -> Dict:
+        """Main classification endpoint"""
+        
+        # Check cache
+        cache_key = f"classification:{hash(text)}"
+        cached_result = await self.cache.get(cache_key)
+        if cached_result:
+            return cached_result
+            
+        # Process text
+        sentences = self._split_sentences(text)
+        routed_content = {}
+        
+        for sentence in sentences:
+            if len(sentence.strip()) < 10:
+                continue
+                
+            category, confidence = await self._classify_sentence(sentence)
+            
+            if category not in routed_content:
+                routed_content[category] = []
+                
+            routed_content[category].append({
+                "text": sentence.strip(),
+                "confidence": float(confidence),
+                "timestamp": asyncio.get_event_loop().time()
+            })
+        
+        # Sort by confidence
+        for category in routed_content:
+            routed_content[category].sort(
+                key=lambda x: x["confidence"], 
+                reverse=True
+            )
+        
+        result = {
+            "routed_content": routed_content,
+            "analytics": self._generate_analytics(routed_content),
+            "processing_time": asyncio.get_event_loop().time()
+        }
+        
+        # Cache result for 1 hour
+        await self.cache.set(cache_key, result, 3600)
+        
+        # Log for learning
+        await self._log_classification(text, result, user_id, session_id)
+        
+        return result
+    
+    async def _classify_sentence(self, sentence: str) -> Tuple[str, float]:
+        """Classify individual sentence"""
+        sentence_embedding = self.model.encode([sentence])
+        
+        similarities = {}
+        for category, anchor_embedding in self.anchor_embeddings.items():
+            similarity = cosine_similarity(
+                sentence_embedding, 
+                [anchor_embedding]
+            )[0][0]
+            similarities[category] = similarity
+        
+        best_category = max(similarities.keys(), key=lambda k: similarities[k])
+        best_score = similarities[best_category]
+        
+        # Default to "Hunch" if confidence too low
+        if best_score < self.confidence_threshold:
+            return "Hunch", best_score
+            
+        return best_category, best_score
+    
+    def _split_sentences(self, text: str) -> List[str]:
+        """Smart sentence splitting"""
+        import re
+        sentences = re.split(r'[.!?]+', text)
+        return [s.strip() for s in sentences if s.strip()]
+    
+    def _generate_analytics(self, routed_content: Dict) -> Dict:
+        """Generate insights about classification"""
+        total_items = sum(len(items) for items in routed_content.values())
+        
+        if total_items == 0:
+            return {"error": "No content to analyze"}
+        
+        distribution = {}
+        avg_confidence = {}
+        
+        for category, items in routed_content.items():
+            distribution[category] = {
+                "count": len(items),
+                "percentage": len(items) / total_items * 100
+            }
+            
+            if items:
+                avg_confidence[category] = sum(
+                    item["confidence"] for item in items
+                ) / len(items)
+            else:
+                avg_confidence[category] = 0
+        
+        return {
+            "distribution": distribution,
+            "average_confidence": avg_confidence,
+            "dominant_category": max(
+                distribution.keys(), 
+                key=lambda k: distribution[k]["count"]
+            ),
+            "total_sentences": total_items
+        }
+    
+    async def _log_classification(
+        self, 
+        text: str, 
+        result: Dict, 
+        user_id: Optional[str], 
+        session_id: Optional[str]
+    ):
+        """Log classification for learning"""
+        # This would save to database for training
+        log_entry = ClassificationLog(
+            text=text,
+            result=result,
+            user_id=user_id,
+            session_id=session_id,
+            model_version=settings.SEMANTIC_MODEL
+        )
+        # await log_entry.save()
+        pass
+```
+
+### 3. Template Engine (`app/core/template_engine.py`)
+
+```python
+from typing import Dict, List, Optional
+from jinja2 import Environment, FileSystemLoader, Template
+from app.models.template import TemplateModel
+from app.services.cache_service import CacheService
+
+class TemplateEngine:
+    def __init__(self):
+        self.jinja_env = Environment(
+            loader=FileSystemLoader('templates/'),
+            autoescape=True
+        )
+        self.cache = CacheService()
+        
+    async def render_content(
+        self, 
+        routed_content: Dict,
+        template_name: str = "slide_deck",
+        title: str = "Thinkerbell Brief",
+        custom_vars: Optional[Dict] = None
+    ) -> Dict:
+        """Main rendering endpoint"""
+        
+        # Load template
+        template = await self._load_template(template_name)
+        
+        # Prepare context
+        context = {
+            "title": title,
+            "routed_content": routed_content,
+            "categories": self._get_categories(),
+            "generated_at": "2025-07-22",  # Use datetime in production
+            "custom_vars": custom_vars or {}
+        }
+        
+        # Render sections
+        rendered_sections = {}
+        for section_name, section_template in template.sections.items():
+            if section_name in context:
+                rendered_sections[section_name] = self._render_section(
+                    section_template, 
+                    context
+                )
+        
+        # Compile final output
+        final_output = template.compile_template.render(
+            sections=rendered_sections,
+            **context
+        )
+        
+        return {
+            "formatted_output": final_output,
+            "template_used": template_name,
+            "sections_rendered": list(rendered_sections.keys()),
+            "metadata": {
+                "title": title,
+                "template_version": template.version,
+                "render_time": "2025-07-22"
+            }
+        }
+    
+    async def _load_template(self, template_name: str) -> TemplateModel:
+        """Load template with caching"""
+        cache_key = f"template:{template_name}"
+        
+        # Check cache
+        cached = await self.cache.get(cache_key)
+        if cached:
+            return TemplateModel.from_dict(cached)
+        
+        # Load from database or file system
+        template = await TemplateModel.get_by_name(template_name)
+        
+        # Cache for 6 hours
+        await self.cache.set(cache_key, template.to_dict(), 21600)
+        
+        return template
+    
+    def _get_categories(self) -> Dict:
+        """Get semantic category metadata"""
+        return {
+            'Hunch': {
+                'icon': '💡',
+                'description': 'Clever suspicions and intuitive leaps',
+                'color': 'yellow'
+            },
+            'Wisdom': {
+                'icon': '📊', 
+                'description': 'Data-backed insights and proven learnings',
+                'color': 'blue'
+            },
+            'Nudge': {
+                'icon': '👉',
+                'description': 'Behavioral suggestions and recommended actions',
+                'color': 'green'
+            },
+            'Spell': {
+                'icon': '✨',
+                'description': 'Magical creative flourishes and unexpected solutions',
+                'color': 'purple'
+            }
+        }
+    
+    def _render_section(self, section_template: str, context: Dict) -> str:
+        """Render individual template section"""
+        template = self.jinja_env.from_string(section_template)
+        return template.render(**context)
+```
+
+### 4. API Endpoints (`app/api/v1/semantic.py`)
+
+```python
+from fastapi import APIRouter, Depends, HTTPException, BackgroundTasks
+from fastapi.security import HTTPBearer
+from typing import Optional
+
+from app.schemas.semantic import (
+    SemanticProcessRequest, 
+    SemanticProcessResponse,
+    ExplainClassificationRequest,
+    BatchProcessRequest
+)
+from app.dependencies import get_current_user, get_semantic_brain
+from app.core.semantic_brain import SemanticBrain
+from app.services.analytics_service import AnalyticsService
+
+router = APIRouter()
+security = HTTPBearer()
+
+@router.post("/process", response_model=SemanticProcessResponse)
+async def process_content(
+    request: SemanticProcessRequest,
+    current_user = Depends(get_current_user),
+    semantic_brain: SemanticBrain = Depends(get_semantic_brain),
+    background_tasks: BackgroundTasks = BackgroundTasks()
+):
+    """Main semantic processing endpoint"""
+    try:
+        result = await semantic_brain.classify_text(
+            text=request.content,
+            user_id=current_user.id if current_user else None,
+            session_id=request.session_id
+        )
+        
+        # Background analytics tracking
+        background_tasks.add_task(
+            AnalyticsService.track_usage,
+            user_id=current_user.id if current_user else None,
+            action="semantic_processing",
+            metadata={"content_length": len(request.content)}
+        )
+        
+        return SemanticProcessResponse(**result)
+        
+    except Exception as e:
+        raise HTTPException(
+            status_code=500, 
+            detail=f"Processing failed: {str(e)}"
+        )
+
+@router.post("/explain")
+async def explain_classification(
+    request: ExplainClassificationRequest,
+    semantic_brain: SemanticBrain = Depends(get_semantic_brain)
+):
+    """Explain why content was classified a certain way"""
+    explanation = await semantic_brain.explain_classification(
+        request.sentence
+    )
+    return explanation
+
+@router.post("/batch")
+async def batch_process(
+    request: BatchProcessRequest,
+    current_user = Depends(get_current_user),
+    semantic_brain: SemanticBrain = Depends(get_semantic_brain),
+    background_tasks: BackgroundTasks = BackgroundTasks()
+):
+    """Process multiple content pieces"""
+    if not current_user:
+        raise HTTPException(status_code=401, detail="Authentication required")
+    
+    # Add to background processing queue
+    background_tasks.add_task(
+        process_batch_content,
+        request.content_list,
+        current_user.id,
+        request.callback_url
+    )
+    
+    return {"message": "Batch processing started", "job_id": "batch_123"}
+
+@router.get("/models")
+async def list_available_models():
+    """List available semantic models"""
+    return {
+        "models": [
+            {
+                "name": "all-MiniLM-L6-v2",
+                "description": "Fast, lightweight sentence transformer",
+                "language": "multilingual",
+                "size": "22MB"
+            },
+            {
+                "name": "all-mpnet-base-v2", 
+                "description": "High quality sentence embeddings",
+                "language": "english",
+                "size": "420MB"
+            }
+        ],
+        "current_model": "all-MiniLM-L6-v2"
+    }
+
+@router.post("/feedback")
+async def submit_classification_feedback(
+    sentence: str,
+    predicted_category: str,
+    correct_category: str,
+    user_rating: int,
+    current_user = Depends(get_current_user),
+    background_tasks: BackgroundTasks = BackgroundTasks()
+):
+    """Submit feedback for improving classification"""
+    # Store feedback for model retraining
+    background_tasks.add_task(
+        store_training_feedback,
+        sentence=sentence,
+        predicted=predicted_category,
+        correct=correct_category,
+        rating=user_rating,
+        user_id=current_user.id if current_user else None
+    )
+    
+    return {"message": "Feedback received, thank you!"}
+
+async def process_batch_content(content_list: list, user_id: str, callback_url: str):
+    """Background task for batch processing"""
+    # Implementation for batch processing
+    pass
+
+async def store_training_feedback(**kwargs):
+    """Background task for storing training feedback"""
+    # Implementation for feedback storage
+    pass
+```
+
+## 🗄️ Database Schema
+
+### PostgreSQL Tables
+
+```sql
+-- Users table
+CREATE TABLE users (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    email VARCHAR(255) UNIQUE NOT NULL,
+    hashed_password VARCHAR(255) NOT NULL,
+    is_active BOOLEAN DEFAULT true,
+    is_superuser BOOLEAN DEFAULT false,
+    created_at TIMESTAMP DEFAULT NOW(),
+    updated_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Sessions table  
+CREATE TABLE sessions (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id UUID REFERENCES users(id),
+    session_token VARCHAR(255) UNIQUE NOT NULL,
+    expires_at TIMESTAMP NOT NULL,
+    metadata JSONB,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Templates table
+CREATE TABLE templates (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    name VARCHAR(100) UNIQUE NOT NULL,
+    version VARCHAR(20) NOT NULL,
+    content JSONB NOT NULL,
+    is_active BOOLEAN DEFAULT true,
+    created_by UUID REFERENCES users(id),
+    created_at TIMESTAMP DEFAULT NOW(),
+    updated_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Classification logs
+CREATE TABLE classification_logs (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    text TEXT NOT NULL,
+    result JSONB NOT NULL,
+    user_id UUID REFERENCES users(id),
+    session_id UUID REFERENCES sessions(id),
+    model_version VARCHAR(50),
+    processing_time_ms INTEGER,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Training feedback
+CREATE TABLE training_feedback (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    sentence TEXT NOT NULL,
+    predicted_category VARCHAR(50) NOT NULL,
+    correct_category VARCHAR(50) NOT NULL,
+    user_rating INTEGER CHECK (user_rating BETWEEN 1 AND 5),
+    user_id UUID REFERENCES users(id),
+    used_for_training BOOLEAN DEFAULT false,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- Usage analytics
+CREATE TABLE usage_analytics (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id UUID REFERENCES users(id),
+    action VARCHAR(100) NOT NULL,
+    metadata JSONB,
+    ip_address INET,
+    user_agent TEXT,
+    created_at TIMESTAMP DEFAULT NOW()
+);
+```
+
+## 🔐 Security & Authentication
+
+### JWT Authentication (`app/services/auth_service.py`)
+
+```python
+from datetime import datetime, timedelta
+from jose import JWTError, jwt
+from passlib.context import CryptContext
+from app.config import settings
+
+pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
+
+def create_access_token(data: dict, expires_delta: timedelta = None):
+    to_encode = data.copy()
+    if expires_delta:
+        expire = datetime.utcnow() + expires_delta
+    else:
+        expire = datetime.utcnow() + timedelta(minutes=15)
+    
+    to_encode.update({"exp": expire})
+    encoded_jwt = jwt.encode(
+        to_encode, 
+        settings.SECRET_KEY, 
+        algorithm=settings.ALGORITHM
+    )
+    return encoded_jwt
+
+def verify_password(plain_password: str, hashed_password: str) -> bool:
+    return pwd_context.verify(plain_password, hashed_password)
+
+def get_password_hash(password: str) -> str:
+    return pwd_context.hash(password)
+```
+
+### Rate Limiting (`app/api/middleware.py`)
+
+```python
+import time
+from fastapi import Request, HTTPException
+from starlette.middleware.base import BaseHTTPMiddleware
+from app.services.cache_service import CacheService
+
+class RateLimitMiddleware(BaseHTTPMiddleware):
+    def __init__(self, app, calls: int = 100, period: int = 60):
+        super().__init__(app)
+        self.calls = calls
+        self.period = period
+        self.cache = CacheService()
+    
+    async def dispatch(self, request: Request, call_next):
+        client_ip = request.client.host
+        key = f"rate_limit:{client_ip}"
+        
+        # Get current count
+        current = await self.cache.get(key) or 0
+        
+        if current >= self.calls:
+            raise HTTPException(
+                status_code=429,
+                detail="Rate limit exceeded"
+            )
+        
+        # Increment counter
+        await self.cache.set(key, current + 1, self.period)
+        
+        response = await call_next(request)
+        return response
+```
+
+## 🚀 Deployment Configuration
+
+### Docker Setup (`docker/Dockerfile`)
+
+```dockerfile
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    gcc \
+    g++ \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies
+COPY requirements/prod.txt .
+RUN pip install --no-cache-dir -r prod.txt
+
+# Download ML models
+RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('all-MiniLM-L6-v2')"
+
+# Copy application
+COPY app/ ./app/
+COPY templates/ ./templates/
+COPY scripts/ ./scripts/
+
+# Create non-root user
+RUN useradd --create-home --shell /bin/bash thinkerbell
+RUN chown -R thinkerbell:thinkerbell /app
+USER thinkerbell
+
+EXPOSE 8000
+
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+```
+
+### Docker Compose (`docker/docker-compose.yml`)
+
+```yaml
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://user:password@postgres:5432/thinkerbell
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    volumes:
+      - ../uploads:/app/uploads
+
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: thinkerbell
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ../ssl:/etc/nginx/ssl
+    depends_on:
+      - api
+
+  worker:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    command: celery -A workers.celery_app worker --loglevel=info
+    environment:
+      - DATABASE_URL=postgresql://user:password@postgres:5432/thinkerbell
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+
+volumes:
+  postgres_data:
+  redis_data:
+```
+
+## 📊 Monitoring & Analytics
+
+### Health Checks (`scripts/health_check.py`)
+
+```python
+import httpx
+import asyncio
+from app.config import settings
+
+async def check_api_health():
+    async with httpx.AsyncClient() as client:
+        response = await client.get(f"{settings.BASE_URL}/health")
+        return response.status_code == 200
+
+async def check_database_health():
+    # Check database connectivity
+    pass
+
+async def check_redis_health():
+    # Check Redis connectivity  
+    pass
+
+async def check_ml_model_health():
+    # Check if ML models are loaded
+    pass
+
+async def main():
+    checks = {
+        "api": await check_api_health(),
+        "database": await check_database_health(), 
+        "redis": await check_redis_health(),
+        "ml_models": await check_ml_model_health()
+    }
+    
+    if all(checks.values()):
+        print("✅ All systems healthy")
+        exit(0)
+    else:
+        print("❌ Health check failed:", checks)
+        exit(1)
+
+if __name__ == "__main__":
+    asyncio.run(main())
+```
+
+## 🧪 Testing Strategy
+
+### Test Configuration (`tests/conftest.py`)
+
+```python
+import pytest
+import asyncio
+from fastapi.testclient import TestClient
+from app.main import app
+from app.core.semantic_brain import SemanticBrain
+
+@pytest.fixture
+def client():
+    return TestClient(app)
+
+@pytest.fixture
+def semantic_brain():
+    brain = SemanticBrain()
+    asyncio.create_task(brain.initialize())
+    return brain
+
+@pytest.fixture
+def sample_content():
+    return """
+    Our new campaign strategy needs refinement. I suspect that 
+    Gen Z responds better to authentic storytelling. Research shows 
+    that 73% of consumers prefer brands that feel genuine. We should 
+    focus on user-generated content. Imagine if we created a platform 
+    where customers become the storytellers themselves.
+    """
+
+@pytest.fixture
+def mock_user():
+    return {
+        "id": "test-user-123",
+        "email": "test@thinkerbell.com",
+        "is_active": True
+    }
+```
+
+## 📈 Performance Optimization
+
+### Caching Strategy
+- **Redis**: API responses, model embeddings, template cache
+- **PostgreSQL**: Connection pooling, read replicas
+- **CDN**: Static assets, exported documents
+
+### Scaling Considerations
+- **Horizontal scaling**: Multiple API instances behind load balancer
+- **Background workers**: Celery for async processing
+- **Model optimization**: Quantized models for faster inference
+- **Database sharding**: User-based partitioning for analytics
+
+## 🔧 Maintenance & Operations
+
+### Deployment Pipeline
+1. **CI/CD**: GitHub Actions or GitLab CI
+2. **Testing**: Automated test suite on every commit
+3. **Security scanning**: Dependency vulnerability checks
+4. **Performance testing**: Load testing with k6 or Artillery
+5. **Blue-green deployment**: Zero-downtime releases
+
+### Monitoring
+- **Application metrics**: Prometheus + Grafana
+- **Logs**: ELK stack or Loki
+- **Error tracking**: Sentry
+- **Performance**: DataDog or New Relic
+
+This blueprint provides a production-ready foundation for the Thinkerbell semantic engine backend, with authentication, caching, background processing, and deployment configurations.

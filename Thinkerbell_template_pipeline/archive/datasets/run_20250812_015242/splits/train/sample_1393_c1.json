@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1393",
+  "chunk_id": "sample_1393_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: Queen Fine Foods\n            • Fee: ~$3,024\n            • Deliverables: 3 x 15-second TikTok\n            • Exclusivity: 9 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: September 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

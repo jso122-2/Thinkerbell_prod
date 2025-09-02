@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4256",
+  "chunk_id": "sample_4256_c1",
+  "text": "Christopher Lee for Zambrero - $14,969 budget\n            Need: 3 x Store opening\n            8w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

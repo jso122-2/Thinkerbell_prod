@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3705",
+  "generation_timestamp": "2025-08-04T18:31:04.998498",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Mia White for Supercheap Auto. \n            Budget is approx $19,204 - need 2 x LinkedIn post, 3 x Facebook story, 2 x Twitter post, 1 x LinkedIn post. \n            12 weeks exclusivity, 5 month engagement. \n            Usage: 8 months. Start date: October 2025.",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Supercheap Auto",
+    "brand": "Supercheap Auto",
+    "campaign": "Supercheap Auto Campaign",
+    "fee": "$19,204",
+    "fee_numeric": 19204,
+    "deliverables": [
+      "2 x LinkedIn post",
+      "3 x Facebook story",
+      "2 x Twitter post",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9086252707591815,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8492773315008783,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:04.988496",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Health & Fitness"
+  }
+}

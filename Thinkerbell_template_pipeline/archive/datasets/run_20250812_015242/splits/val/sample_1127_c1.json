@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1127",
+  "chunk_id": "sample_1127_c1",
+  "text": "Natalie Adams for Pillow Talk - $12,592 budget\n            Need: 3 x YouTube short, 1 x Twitter post\n            9w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: October 2025\n\nAdditional notes: TBC on exact dates, around $12,592 budget",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

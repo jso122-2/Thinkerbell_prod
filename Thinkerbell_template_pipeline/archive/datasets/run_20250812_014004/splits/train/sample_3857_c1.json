@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3857",
+  "chunk_id": "sample_3857_c1",
+  "text": "Lily Walker for Bunnings - $14,622 budget\n            Need: 2 x Facebook post, 1 x Media interview, 3 x 2-minute tutorial, 1 x Instagram story, 2 x Instagram post\n            9w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

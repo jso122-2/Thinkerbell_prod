@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4499",
+  "chunk_id": "sample_4499_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Queen Fine Foods\n            • Fee: ~$5,796\n            • Deliverables: 1 x Instagram post\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: September 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

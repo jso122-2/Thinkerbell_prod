@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_576",
+  "chunk_id": "sample_576_c1",
+  "text": "Need Lily Walker for Harvey Norman campaign. Budget around $2,444, looking for 3 x 90-second product demo, 3 x 30-second Instagram reel, 1 x Press conference, 3 x Facebook story, 3 x Instagram post. 3 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 12 months. Engagement period: 2 months.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

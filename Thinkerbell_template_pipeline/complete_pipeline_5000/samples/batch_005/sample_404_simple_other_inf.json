@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_404",
+  "generation_timestamp": "2025-08-04T18:29:54.111177",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Matthew Taylor for Amart Furniture campaign. Budget around $3,568, looking for 3 x Facebook post, 3 x Pinterest pin. \n            9 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 7 months. \n            Engagement period: 6 months.",
+    "token_count": 72,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$3,568",
+    "fee_numeric": 3568,
+    "deliverables": [
+      "3 x Facebook post",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9264147873265018,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9404210665710329,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.100501",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Automotive"
+  }
+}

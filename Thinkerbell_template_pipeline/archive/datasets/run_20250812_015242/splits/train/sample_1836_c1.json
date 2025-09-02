@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1836",
+  "chunk_id": "sample_1836_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Big W\n            • Fee: ~$6,786\n            • Deliverables: 2 x 3-minute vlog, 1 x Instagram story, 3 x Instagram post\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

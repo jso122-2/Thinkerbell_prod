@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4665",
+  "chunk_id": "sample_4665_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Subway\n            • Fee: ~$24,591\n            • Deliverables: 3 x Instagram story, 3 x Facebook post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

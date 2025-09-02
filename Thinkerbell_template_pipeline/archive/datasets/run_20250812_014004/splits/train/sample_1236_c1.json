@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1236",
+  "chunk_id": "sample_1236_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Fantastic Furniture. Budget is approx $3,495 - need 3 x Podcast guest, 2 x Product photography, 2 x LinkedIn post, 2 x Twitter post. 11 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: November 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

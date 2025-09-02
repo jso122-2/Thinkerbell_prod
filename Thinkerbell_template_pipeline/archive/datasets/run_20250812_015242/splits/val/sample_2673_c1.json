@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2673",
+  "chunk_id": "sample_2673_c1",
+  "text": "River Murphy for Zambrero - $27,828 budget\n            Need: 3 x Media interview, 3 x 2-minute tutorial, 2 x Twitter post, 1 x Media interview, 2 x Instagram story\n            2w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

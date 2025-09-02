@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1692",
+  "chunk_id": "sample_1692_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Pillow Talk. Budget is approx $4,450 - need 3 x Instagram post, 3 x 2-minute tutorial, 2 x 90-second product demo. 7 weeks exclusivity, 6 month engagement. Usage: 6 months. Start date: November 2025. Additional notes: TBC on exact dates, around $4,450 budget\n\nNeed to confirm: deliverables",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

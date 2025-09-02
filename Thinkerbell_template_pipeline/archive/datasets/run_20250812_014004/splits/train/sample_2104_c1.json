@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2104",
+  "chunk_id": "sample_2104_c1",
+  "text": "• Influencer: Victoria Carter\n            • Brand: Adairs\n            • Fee: ~$19,750\n            • Deliverables: 3 x Meet and greet, 3 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

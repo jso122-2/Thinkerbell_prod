@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3978",
+  "chunk_id": "sample_3978_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for Commonwealth Bank. Budget is approx $14,758 - need 3 x Pinterest pin, 3 x YouTube short, 1 x Facebook post, 3 x 90-second product demo. 5 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: October 2025.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

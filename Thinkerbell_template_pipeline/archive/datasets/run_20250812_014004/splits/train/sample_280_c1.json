@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_280",
+  "chunk_id": "sample_280_c1",
+  "text": "Isabella Garcia for Lush - $30,511 budget\n            Need: 2 x LinkedIn post, 1 x Meet and greet, 3 x 15-second TikTok, 3 x YouTube video\n            3w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1482",
+  "chunk_id": "sample_1482_c1",
+  "text": "Hey team, looking to work with Quinn Richardson for Adairs. Budget is approx $9,641 - need 3 x Lifestyle photography, 1 x Facebook post, 1 x Instagram story, 1 x TV appearance. 5 weeks exclusivity, 3 month engagement. Usage: 12 months. Start date: November 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1172",
+  "chunk_id": "sample_1172_c1",
+  "text": "Hayden Bell for Sportsgirl - $12,655 budget\n            Need: 1 x Product launch event, 1 x Press conference\n            9w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

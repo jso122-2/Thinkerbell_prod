@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1107",
+  "chunk_id": "sample_1107_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Chemist Warehouse. Budget is approx $31,689 - need 2 x Meet and greet. 6 weeks exclusivity, 3 month engmt. Usage: 9 months. Start date: September 2025.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

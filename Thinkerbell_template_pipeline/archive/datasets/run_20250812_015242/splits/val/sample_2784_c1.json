@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2784",
+  "chunk_id": "sample_2784_c1",
+  "text": "Hey team, looking to work with Joshua Hall for Guzman y Gomez. Budget is approx $7,075 - need 1 x 3-minute vlog. 3 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

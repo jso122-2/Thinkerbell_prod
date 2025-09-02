@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4012",
+  "chunk_id": "sample_4012_c1",
+  "text": "Need Andrew Clark for Harvey Norman campaign. Budget around $8,207, looking for 1 x 2-minute tutorial, 1 x 3-minute vlog, 2 x 3-minute vlog. 8 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 3 months.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

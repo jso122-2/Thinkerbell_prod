@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_009",
+  "chunk_id": "sample_009_c1",
+  "text": "Hannah Green for JB Hi-Fi - $13,205 budget\n            Need: 2 x TikTok video\n            2w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

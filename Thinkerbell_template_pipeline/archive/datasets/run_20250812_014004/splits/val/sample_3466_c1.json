@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3466",
+  "chunk_id": "sample_3466_c1",
+  "text": "• Influencer: Chloe Lewis\n            • Brand: Guzman y Gomez\n            • Fee: ~$1,664\n            • Deliverables: 2 x Radio interview, 3 x Product photography, 2 x 15-second TikTok, 1 x Radio interview, 1 x Lifestyle photography\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

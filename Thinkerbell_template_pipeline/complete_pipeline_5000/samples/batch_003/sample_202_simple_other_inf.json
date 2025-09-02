@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_202",
+  "generation_timestamp": "2025-08-04T18:29:50.002437",
+  "generator_version": "v1.0",
+  "batch_id": "batch_003",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need James Wilson for Domino's campaign. Budget around $14,478, looking for 2 x YouTube video, 3 x 15-second TikTok, 3 x Instagram story, 1 x YouTube short, 2 x YouTube video. \n            11 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 6 months. \n            Engagement period: 4 months.",
+    "token_count": 86,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$14,478",
+    "fee_numeric": 14478,
+    "deliverables": [
+      "2 x YouTube video",
+      "3 x 15-second TikTok",
+      "3 x Instagram story",
+      "1 x YouTube short",
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8374863961120861,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8084714557757772,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:49.989443",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Education"
+  }
+}

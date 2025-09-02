@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1060",
+  "chunk_id": "sample_1060_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Pillow Talk\n            • Fee: ~$7,069\n            • Deliverables: 2 x YouTube video, 1 x Radio interview, 3 x Twitter post, 3 x Pinterest pin, 2 x Instagram story\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

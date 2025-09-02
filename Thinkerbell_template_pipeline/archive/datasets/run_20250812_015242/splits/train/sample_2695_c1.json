@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2695",
+  "chunk_id": "sample_2695_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Commonwealth Bank\n            • Fee: ~$27,389\n            • Deliverables: 2 x Instagram reel\n            • Exclusivity: 4 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

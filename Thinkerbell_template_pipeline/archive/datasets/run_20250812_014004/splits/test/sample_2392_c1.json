@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2392",
+  "chunk_id": "sample_2392_c1",
+  "text": "Mia White for Chemist Warehouse - $1,798 budget\n            Need: 3 x 2-minute tutorial\n            2w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

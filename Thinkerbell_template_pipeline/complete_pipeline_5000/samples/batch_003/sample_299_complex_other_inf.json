@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_299",
+  "generation_timestamp": "2025-08-04T18:29:51.070436",
+  "generator_version": "v1.0",
+  "batch_id": "batch_003",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Victoria Carter for Zambrero campaign. Budget arnd $32,572, looking for 2 x Podcast guest, 3 x Facebook post, 2 x 90-second product demo, 1 x Instagram story. \n            11 week exclusivity from other similar brands. \n            Campaign runs September 2025. Usage rights for 8 months. \n            Engagement period: 2 months.",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$32,572",
+    "fee_numeric": 32572,
+    "deliverables": [
+      "2 x Podcast guest",
+      "3 x Facebook post",
+      "2 x 90-second product demo",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7157820767017563,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7294818786121469,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:51.063436",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

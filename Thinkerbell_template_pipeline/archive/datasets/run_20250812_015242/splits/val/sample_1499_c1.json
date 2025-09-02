@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1499",
+  "chunk_id": "sample_1499_c1",
+  "text": "Need Aria Perez for Woolworths campaign. Budget around $2,148, looking for 3 x Instagram story, 2 x Instagram post, 3 x Twitter post, 1 x Facebook post, 3 x Media interview. 5 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1326",
+  "chunk_id": "sample_1326_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Target\n            • Fee: ~$3,408\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

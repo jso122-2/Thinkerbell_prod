@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3930",
+  "chunk_id": "sample_3930_c1",
+  "text": "Sage Cooper for Kmart - $10,746 budget\n            Need: 3 x 10-minute unboxing, 3 x 90-second product demo, 2 x Facebook post\n            11w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: October 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

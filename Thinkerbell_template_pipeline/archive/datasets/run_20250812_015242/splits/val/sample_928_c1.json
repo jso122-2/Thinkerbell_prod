@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_928",
+  "chunk_id": "sample_928_c1",
+  "text": "Brandon Nelson for Officeworks - $2,515 budget\n            Need: 3 x Facebook post\n            10w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

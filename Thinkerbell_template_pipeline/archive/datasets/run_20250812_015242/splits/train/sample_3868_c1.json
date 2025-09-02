@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3868",
+  "chunk_id": "sample_3868_c1",
+  "text": "Olivia Davis for Harvey Norman - $6,174 budget\n            Need: 2 x Event photography, 3 x Lifestyle photography, 2 x Facebook post\n            6w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

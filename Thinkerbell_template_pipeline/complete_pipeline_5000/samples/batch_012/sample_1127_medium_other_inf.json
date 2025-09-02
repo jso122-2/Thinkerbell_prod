@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1127",
+  "generation_timestamp": "2025-08-04T18:30:08.813852",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for Pillow Talk - $12,592 budget\n            Need: 3 x YouTube short, 1 x Twitter post\n            9w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: October 2025\n\nAdditional notes: TBC on exact dates, around $12,592 budget",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$12,592",
+    "fee_numeric": 12592,
+    "deliverables": [
+      "3 x YouTube short",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7580472663954397,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.888209648328473,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:08.803853",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

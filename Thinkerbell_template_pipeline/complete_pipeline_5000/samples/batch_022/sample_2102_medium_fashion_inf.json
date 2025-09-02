@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2102",
+  "generation_timestamp": "2025-08-04T18:30:31.505697",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Nathan King\n            • Brand: David Jones\n            • Fee: ~$13,891\n            • Deliverables: 1 x 60-second YouTube video, 1 x Social media takeover, 1 x 2-minute tutorial, 3 x LinkedIn post, 1 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: January 2026\n\nNeed to confirm: usage rights",
+    "token_count": 98,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$13,891",
+    "fee_numeric": 13891,
+    "deliverables": [
+      "1 x 60-second YouTube video",
+      "1 x Social media takeover",
+      "1 x 2-minute tutorial",
+      "3 x LinkedIn post",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7759295366100043,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8141946089946588,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:31.497698",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Fashion & Apparel"
+  }
+}

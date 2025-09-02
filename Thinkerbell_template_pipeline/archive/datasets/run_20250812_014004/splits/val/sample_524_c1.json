@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_524",
+  "chunk_id": "sample_524_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Bunnings\n            • Fee: ~$2,613\n            • Deliverables: 2 x Product photography, 1 x Podcast guest, 2 x YouTube video\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3186",
+  "chunk_id": "sample_3186_c1",
+  "text": "Need Zoe Wright for Officeworks campaign. Budget around $30,819, looking for 1 x Lifestyle photography. 12 week exclusivity from other electronics brands. Campaign runs January 2026. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

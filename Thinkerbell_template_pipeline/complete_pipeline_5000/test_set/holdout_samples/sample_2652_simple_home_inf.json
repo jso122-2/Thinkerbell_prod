@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2652",
+  "generation_timestamp": "2025-08-04T18:30:42.738963",
+  "generator_version": "v1.0",
+  "batch_id": "batch_027",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Riley Evans for Adairs. \n            Budget is approx $18,501 - need 2 x TikTok video, 2 x Brand photoshoot, 3 x 2-minute tutorial, 1 x Pinterest pin. \n            3 weeks exclusivity, 3 month engagement. \n            Usage: 11 months. Start date: November 2025.",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$18,501",
+    "fee_numeric": 18501,
+    "deliverables": [
+      "2 x TikTok video",
+      "2 x Brand photoshoot",
+      "3 x 2-minute tutorial",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.909905604921782,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8702804744004166,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:42.729967",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Food & Beverage"
+  }
+}

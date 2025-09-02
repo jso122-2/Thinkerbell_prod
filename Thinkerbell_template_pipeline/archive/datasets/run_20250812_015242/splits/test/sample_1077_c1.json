@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1077",
+  "chunk_id": "sample_1077_c1",
+  "text": "Need Daniel Martinez for Supercheap Auto campaign. Budget around $20,309, looking for 1 x Article contribution, 2 x 30-second Instagram reel, 1 x 2-minute tutorial, 2 x Product launch event. 12 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 12 months. Engagement period: 4 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

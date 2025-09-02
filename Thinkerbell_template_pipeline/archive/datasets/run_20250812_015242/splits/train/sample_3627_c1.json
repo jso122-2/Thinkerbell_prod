@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3627",
+  "chunk_id": "sample_3627_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Sportsgirl\n            • Fee: ~$10,823\n            • Deliverables: 1 x Behind-the-scenes content, 2 x Radio interview, 3 x Radio interview, 3 x Instagram post, 1 x Facebook post\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1768",
+  "chunk_id": "sample_1768_c1",
+  "text": "Need Skylar Collins for Lush campaign. Budget around $30,813, looking for 1 x Twitter post, 1 x 15-second TikTok, 1 x Radio interview, 2 x Twitter post. 6 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 5 months.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

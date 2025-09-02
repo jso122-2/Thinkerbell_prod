@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_506",
+  "chunk_id": "sample_506_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Officeworks\n            • Fee: ~$17,882\n            • Deliverables: 3 x 60-second YouTube video\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: September 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

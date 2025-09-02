@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1433",
+  "chunk_id": "sample_1433_c1",
+  "text": "Need Sophie Anderson for Priceline campaign. Budget around $2,061, looking for 2 x Facebook post, 1 x 2-minute tutorial. 9 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

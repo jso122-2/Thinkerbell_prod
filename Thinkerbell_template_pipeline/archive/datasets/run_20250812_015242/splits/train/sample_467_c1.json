@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_467",
+  "chunk_id": "sample_467_c1",
+  "text": "Daniel Martinez for Big W - $4,912 budget\n            Need: 3 x Facebook post, 2 x Blog post, 3 x Product photography, 3 x Twitter post\n            9w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

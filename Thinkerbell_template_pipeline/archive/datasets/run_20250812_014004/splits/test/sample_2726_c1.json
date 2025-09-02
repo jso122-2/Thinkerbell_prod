@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2726",
+  "chunk_id": "sample_2726_c1",
+  "text": "Need Quinn Cook for Myer campaign. Budget around $2,120, looking for 1 x Instagram post, 3 x Instagram reel. 3 week exclusivity from other fashion brands. Campaign runs September 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2126",
+  "chunk_id": "sample_2126_c1",
+  "text": "Need Natalie Adams for Domino's campaign. Budget around $2,305, looking for 3 x 60-second YouTube video. 8 week exclus from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 6 months. Need to sort out: TBC on final dates",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

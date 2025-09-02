@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1091",
+  "chunk_id": "sample_1091_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for Mecca. Budget is approx $4,472 - need 3 x 2-minute tutorial, 2 x Media interview, 1 x Pinterest pin, 3 x 30-second Instagram reel. 12 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

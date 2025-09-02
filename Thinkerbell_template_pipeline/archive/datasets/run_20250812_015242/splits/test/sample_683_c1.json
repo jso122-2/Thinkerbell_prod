@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_683",
+  "chunk_id": "sample_683_c1",
+  "text": "Need Christopher Lee for Roll'd campaign. Budget around $15,817, looking for 3 x Media interview. 2 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

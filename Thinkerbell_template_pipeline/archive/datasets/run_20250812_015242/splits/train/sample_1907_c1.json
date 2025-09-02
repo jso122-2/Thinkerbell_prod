@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1907",
+  "chunk_id": "sample_1907_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Woolworths\n            • Fee: ~$10,911\n            • Deliverables: 1 x TV appearance, 3 x Product launch event, 3 x Store opening\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

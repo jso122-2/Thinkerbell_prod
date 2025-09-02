@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4266",
+  "chunk_id": "sample_4266_c1",
+  "text": "Need Grace Young for Nando's campaign. Budget around $23,946, looking for 1 x Lifestyle photography. 2 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 4 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

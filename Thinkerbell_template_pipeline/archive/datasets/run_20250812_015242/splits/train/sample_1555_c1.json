@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1555",
+  "chunk_id": "sample_1555_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Guzman y Gomez\n            • Fee: ~$32,990\n            • Deliverables: 1 x Twitter post\n            • Exclusivity: 9 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

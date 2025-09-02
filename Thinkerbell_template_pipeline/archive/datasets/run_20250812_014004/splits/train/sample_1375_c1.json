@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1375",
+  "chunk_id": "sample_1375_c1",
+  "text": "Need Zoe Wright for Coles campaign. Budget around $11,210, looking for 1 x LinkedIn post, 2 x 30-second Instagram reel, 1 x Facebook post, 3 x Facebook post. 3 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

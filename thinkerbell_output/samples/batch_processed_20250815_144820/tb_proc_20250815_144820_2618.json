@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_proc_20250815_144820_2618",
+  "generation_timestamp": "2025-08-15T14:48:20.540273",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "complex",
+    "industry": "tech",
+    "confidence": 0.9500000000000001
+  },
+  "raw_input": {
+    "text": "# GWM   WSL CarPool Jack Robinson Agreement DRAFT\n\nInfluencerAgreementGWM x Jack Robinson DATE OF AGREEMENT29/04/2025 BETWEEN Thinkerbell (ABN 99 618 397 658) of Level 3, 41-43 Stewart Street, Richmond VIC 3121 (“Agency”)\n \nAND Jack Robinson (INSERT ABN: XX XXX XXX XXX) of [ADDRESS: XX XX] (“Influencer”) \n \nBACKGROUNDA. Agency wishes to engage the Services of the Influencer, and the Influencer agrees to provide the Services and to curate Works and/or other content for the product launch for the Client in relation to the Products and/or Brands as set out in this Social Media Influencer Agreement (“Agreement”).\nB. The ## COMMERCIAL TERMS\n\nCommercial Terms form part of ## PREAMBLE\n\nthis Agreement.\nIt is agreed as follows:\n## COMMERCIAL TERMS\n\nCOMMERCIAL TERMS:STILLS:\nCLIENT GWM Australia Pty Ltd (ABN 69 617 781 049) of 1/745 Springvale Rd, Mulgrave Melbourne VIC 3170, Australia BRAND GWM solution\n“The CarPool” (Cannon Alpha Plug-In Hybrid Electric Vehicle) \nproduct launch WSL Event Sponsorship ENGAGEMENT TERM 2 months (29 April - 1-4 July 2025), plus any Rollover Term exercised under clause 3. The dates are subject to change depending on the live date of the content. Influencer should supply a copy of the Work once approved, to the Agency, for usage in paid media. \nWORK/S The following ## DELIVERABLES\n\ndeliverables will be produced/met by the Influencer during the Usage Term.\nWritten concepts for 30-60” Instagram Reel Includes a short outline of two different Reel concepts to choose from, royalty-free song selection (if relevant) and draft caption All content to be approved by TKB/GWM before production begins Includes one round of feedback Jack Robinson to visit GWM x WSL Site at Burleigh Heads - May 2 - 4 \nProduce/capture 1 x 30-60” Instagram Reel and 1 x Instagram Story Set (3 frames)\nAll content to be approved by TKB/GWM after production, before posting Includes one round of feedback Posting of content to owned channels https://www.instagram.com/jackrobinson72/?hl=en \nBoosting of content for 60 days A brief of the materials will be provided to Influencer prior to commencement of producing the materials. The ## DELIVERABLES\n\ndeliverables should follow instructions outlined in the brief document provided, when delivering The Work. \nMEDIA Client may distribute the Work organically during the Usage Term in the following media:\nGWM Instagram page [@gwmaustralia ]\nGWM Facebook page [@gwmhavalaustralia]\nThe Work must remain published on the Influencer’s social media channels (outlined above) for the remainder of the Usage Term once posted. For clarity, the Works may remain published on the Media (and do not have to be removed by either party) after the expiry date of the Usage Term, however no new posts may be posted after expiry of the Usage Term. \nInfluencer agrees that Agency will have rights to amplify the Influencer’s Work through Meta channels.\nThe Influencer shall not, for a period of twenty-four (24) hours after a Work is published in their social media channels, post, share, re-tweet or re-gram any other posts or content to their social media channels where the effect of publishing such additional posts or content would be to reduce the prominence of the Work.\nTERRITORY AUSTRALIA \nFor clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party.\nPAID USAGE TERMS 2 months from the first live date across Meta, plus any Rollover Term exercised under clause 3. The dates are subject to change depending on the live date of the content. Influencer should supply a copy of the Work once approved, to the Agency, for usage in paid. \nFEE A total of $15,000 + GST to be paid. \nThe fee comprises of the following ## DELIVERABLES\n\ndeliverables:\nDelivery of agreed assets 1 x instagram story set (3 frames)\n1 x instagram reel \nMeta boosting for 60 days from live date - spark ad code to be provided to GWM ## EXCLUSIVITY\n\nExclusivity for boosting period \nOrganic usage within the agreed terms (Meta)\nBoosting of content for 60 days ## PAYMENT TERMS\n\nPayment Terms: Payment shall be made as follows: 100% once the delivered and accepted Work is first published in the Influencer’s social media channels. \nOTHER CONSIDERATION As a part of the agreement, GWM will have one staff member on site to assist Influencer with content capture and be available to field any questions or concerns the Influencer has whilst capturing content.\nINITIAL DELIVERY DATE 29-30 April - Talent Briefing Call 1 May - Written concepts to be shared for review 2 May - Concept feedback/approval by GWM 2 May -Jack to attend GWM Site at WSL and Draft content to be captured and shared for review 2-4 May - Draft content feedback/approval by GWM 2-5 May- Content Live (date pending when Jack shoots content and GWM approvals) \n2-5 May until 1-4 July - Boosting period CONTACT PERSON FOR EACH PARTY Thinkerbell Jess Sexton, Lead Earned Thinker jesssexton@thinkerbell.com \n0452 609 483 GP Spor...",
+    "token_count": 4027,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "the parties as to its subject matter",
+    "brand": "the parties as to its subject matter",
+    "campaign": "the parties as to its subject matter Campaign 2025",
+    "fee": "$15,000",
+    "fee_numeric": 15000,
+    "deliverables": [
+      "2 x Instagram posts",
+      "1 x Story"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "AUSTRALIA \nFor clarity, the parties acknowledge that some utilize on the internet may be accessible from outside the Territory through no fault of either party"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT",
+    "match_confidence": 0.9241872680476689,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "complex"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "complex_tech",
+    "source_document": "GWM___WSL_CarPool_Jack_Robinson_Agreement_DRAFT.md"
+  }
+}

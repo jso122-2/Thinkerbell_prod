@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_548",
+  "chunk_id": "sample_548_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Mecca\n            • Fee: ~$34,954\n            • Deliverables: 2 x 15-second TikTok\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

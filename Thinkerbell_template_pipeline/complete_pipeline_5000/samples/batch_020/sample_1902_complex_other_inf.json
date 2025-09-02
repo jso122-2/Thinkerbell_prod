@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1902",
+  "generation_timestamp": "2025-08-04T18:30:26.192207",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Mia White for Roll'd campaign. Budget around $2,182, looking for 1 x Instagram post, 3 x YouTube video, 3 x 15-second TikTok, 3 x Store opening, 2 x Facebook story. \n            6 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 9 months. \n            Engagement period: 2 months. no worries",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Mia White",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$2,182",
+    "fee_numeric": 2182,
+    "deliverables": [
+      "1 x Instagram post",
+      "3 x YouTube video",
+      "3 x 15-second TikTok",
+      "3 x Store opening",
+      "2 x Facebook story"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.843915444313238,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7684576650709052,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:26.181202",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

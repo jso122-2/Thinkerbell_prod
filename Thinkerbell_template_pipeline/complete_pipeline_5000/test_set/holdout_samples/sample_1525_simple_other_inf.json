@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1525",
+  "generation_timestamp": "2025-08-04T18:30:17.248686",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Justin Mitchell for Roll'd. \n            Budget is approx $23,949 - need 2 x Brand photoshoot. \n            3 weeks exclusivity, 4 month engagement. \n            Usage: 9 months. Start date: January 2026.",
+    "token_count": 58,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Roll'd",
+    "brand": "Roll'd",
+    "campaign": "Roll'd Campaign",
+    "fee": "$23,949",
+    "fee_numeric": 23949,
+    "deliverables": [
+      "2 x Brand photoshoot"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9198399888009461,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.833849435336626,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.235684",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Automotive"
+  }
+}

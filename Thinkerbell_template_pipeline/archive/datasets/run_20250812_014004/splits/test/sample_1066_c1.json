@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1066",
+  "chunk_id": "sample_1066_c1",
+  "text": "Hey team, looking to work with James Wilson for David Jones. Budget is approx $23,992 - need 1 x Live stream. 10 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: October 2025. mate",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1173",
+  "chunk_id": "sample_1173_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Domino's. Budget is approx $2,974 - need 2 x Lifestyle photography, 3 x YouTube short. 2 weeks exclusivity, 3 month engagement. Usage: 11 months. Start date: October 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

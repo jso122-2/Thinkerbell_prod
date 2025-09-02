@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_318",
+  "chunk_id": "sample_318_c1",
+  "text": "Need Natalie Adams for JB Hi-Fi campaign. Budget around $3,856, looking for 1 x Media interview. 10 week exclusivity from other electronics brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

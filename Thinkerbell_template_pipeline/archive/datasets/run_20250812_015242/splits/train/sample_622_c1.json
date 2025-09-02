@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_622",
+  "chunk_id": "sample_622_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Freedom\n            • Fee: ~$19,735\n            • Deliverables: 1 x 5-minute review, 1 x 30-second Instagram reel\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

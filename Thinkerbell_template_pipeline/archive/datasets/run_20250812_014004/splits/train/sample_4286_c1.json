@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4286",
+  "chunk_id": "sample_4286_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Bunnings. Budget is approx $28,420 - need 1 x YouTube video. 10 weeks exclusivity, 4 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

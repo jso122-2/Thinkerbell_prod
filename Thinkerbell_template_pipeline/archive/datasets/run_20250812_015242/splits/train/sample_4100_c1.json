@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4100",
+  "chunk_id": "sample_4100_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Officeworks\n            • Fee: ~$4,894\n            • Deliverables: 3 x 3-minute vlog, 3 x TikTok video, 3 x TikTok video, 3 x Media interview, 3 x Lifestyle photography\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: September 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1960",
+  "chunk_id": "sample_1960_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Grill'd\n            • Fee: ~$10,897\n            • Deliverables: 1 x Social media takeover, 1 x Instagram post, 2 x 15-second TikTok\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

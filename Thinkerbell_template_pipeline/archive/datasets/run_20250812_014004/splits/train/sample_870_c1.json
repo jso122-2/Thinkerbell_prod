@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_870",
+  "chunk_id": "sample_870_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Officeworks. Budget is approx $14,221 - need 1 x Press conference, 1 x Event photography, 3 x LinkedIn post, 2 x Facebook post, 1 x YouTube short. 2 weeks exclusivity, 5 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

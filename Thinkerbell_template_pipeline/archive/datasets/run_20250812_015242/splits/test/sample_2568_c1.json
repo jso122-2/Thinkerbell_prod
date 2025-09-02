@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2568",
+  "chunk_id": "sample_2568_c1",
+  "text": "Need Sarah Chen for Sephora camp. Budget around $3,457, looking for 2 x Press release quote, 2 x Brand photoshoot, 3 x 90-second product demo. 6 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

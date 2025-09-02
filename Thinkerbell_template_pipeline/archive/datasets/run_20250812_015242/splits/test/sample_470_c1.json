@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_470",
+  "chunk_id": "sample_470_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for Big W. \n            Budget is approx $33,688 - need 1 x Lifestyle photography, 2 x 90-second product demo. 2 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

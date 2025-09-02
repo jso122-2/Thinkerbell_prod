@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_311",
+  "generation_timestamp": "2025-08-04T18:29:52.139698",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Tyler Scott for Qantas. \n            Budget is approx $1,998 - need 2 x 2-minute tutorial, 3 x Instagram story, 3 x Media interview. \n            8 weeks exclusivity, 2 month engagement. \n            Usage: 6 months. Start date: September 2025.",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Tyler Scott",
+    "client": "Qantas",
+    "brand": "Qantas",
+    "campaign": "Qantas Campaign",
+    "fee": "$1,998",
+    "fee_numeric": 1998,
+    "deliverables": [
+      "2 x 2-minute tutorial",
+      "3 x Instagram story",
+      "3 x Media interview"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.699369417943767,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8240074585899297,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.130699",
+    "fee_tier": "micro",
+    "num_deliverables": 3,
+    "campaign_type": "Limited Edition",
+    "product_category": "Entertainment"
+  }
+}

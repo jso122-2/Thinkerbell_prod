@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3425",
+  "chunk_id": "sample_3425_c1",
+  "text": "Need Hannah Green for Big W campaign. Budget around $6,566, looking for 3 x 3-minute vlog. 6 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 5 months.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

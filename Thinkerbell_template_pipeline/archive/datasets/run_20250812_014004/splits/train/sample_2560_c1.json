@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2560",
+  "chunk_id": "sample_2560_c1",
+  "text": "Hey team, looking to work with David Brown for Supercheap Auto. Budget is approx $1,648 - need 2 x 15-second TikTok, 3 x Radio interview. 5 weeks exclusivity, 2 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

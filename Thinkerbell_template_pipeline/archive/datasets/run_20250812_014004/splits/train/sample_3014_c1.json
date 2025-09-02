@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3014",
+  "chunk_id": "sample_3014_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Supercheap Auto\n            • Fee: ~$28,140\n            • Deliverables: 1 x Media interview, 1 x Instagram story, 2 x Live stream\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

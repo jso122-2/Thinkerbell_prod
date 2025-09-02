@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1576",
+  "chunk_id": "sample_1576_c1",
+  "text": "Sophie Anderson for Priceline - $22,479 budget\n            Need: 2 x Pinterest pin, 3 x 15-second TikTok, 3 x 30-second Instagram reel\n            2w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: January 2026\n\nAdditional notes: TBC on exact dates, around $22,479 budget",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

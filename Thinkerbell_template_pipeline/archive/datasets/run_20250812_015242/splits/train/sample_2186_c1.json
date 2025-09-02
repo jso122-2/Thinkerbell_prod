@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2186",
+  "chunk_id": "sample_2186_c1",
+  "text": "James Wilson for Kmart - $5,852 budget\n            Need: 2 x TikTok video, 2 x TikTok video, 3 x Radio interview, 2 x TikTok video, 2 x Instagram story\n            4w exclusivity, 6m engmt\n            Usage rights: 12 months\n            Start: November 2025 reckon\n\nNeed to sort out: TBC on final dates",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

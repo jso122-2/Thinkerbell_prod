@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_811",
+  "generation_timestamp": "2025-08-04T18:30:02.161276",
+  "generator_version": "v1.0",
+  "batch_id": "batch_009",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Michael Rodriguez for Harvey Norman - $19,185 budget\n            Need: 3 x 30-second Instagram reel, 1 x 90-second product demo, 2 x Twitter post\n            8w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: November 2025\n\nAdditional notes: TBC on exact dates, around $19,185 budget",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$19,185",
+    "fee_numeric": 19185,
+    "deliverables": [
+      "3 x 30-second Instagram reel",
+      "1 x 90-second product demo",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7319430255165893,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8883751048100618,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:02.154277",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

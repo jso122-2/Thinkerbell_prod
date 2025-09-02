@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2942",
+  "chunk_id": "sample_2942_c1",
+  "text": "Michael Rodriguez for Repco - $4,174 budget\n            Need: 3 x Facebook post, 1 x Podcast guest, 2 x 30-second Instagram reel, 1 x 15-second TikTok\n            2w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

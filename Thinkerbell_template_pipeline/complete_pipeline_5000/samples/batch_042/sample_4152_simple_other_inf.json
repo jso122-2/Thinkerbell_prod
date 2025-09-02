@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4152",
+  "generation_timestamp": "2025-08-04T18:31:14.155294",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sage Cooper for Grill'd. \n            Budget is approx $5,393 - need 1 x LinkedIn post, 3 x 30-second Instagram reel, 3 x Radio interview. \n            9 weeks exclusivity, 2 month engagement. \n            Usage: 10 months. Start date: December 2025.",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Grill'd",
+    "brand": "Grill'd",
+    "campaign": "Grill'd Campaign",
+    "fee": "$5,393",
+    "fee_numeric": 5393,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "3 x 30-second Instagram reel",
+      "3 x Radio interview"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8891370946168671,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8351527173091007,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:14.147292",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "New Season",
+    "product_category": "Education"
+  }
+}

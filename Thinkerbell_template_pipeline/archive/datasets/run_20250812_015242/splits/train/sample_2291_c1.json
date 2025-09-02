@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2291",
+  "chunk_id": "sample_2291_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: Coles\n            • Fee: ~$3,370\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: November 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

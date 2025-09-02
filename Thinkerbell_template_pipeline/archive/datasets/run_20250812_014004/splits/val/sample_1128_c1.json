@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1128",
+  "chunk_id": "sample_1128_c1",
+  "text": "Need Isabella Garcia for Target campaign. Budget around $4,198, looking for 3 x 30-second Instagram reel, 1 x TikTok video. 2 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 12 months. Engagement period: 3 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1284",
+  "chunk_id": "sample_1284_c1",
+  "text": "Brooklyn Edwards for Chemist Warehouse - $12,334 budget\n            Need: 2 x YouTube video, 2 x Twitter post\n            8w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

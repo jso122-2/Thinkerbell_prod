@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4775",
+  "chunk_id": "sample_4775_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Queen Fine Foods\n            • Fee: ~$14,108\n            • Deliverables: 3 x Facebook story, 3 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: September 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1856",
+  "chunk_id": "sample_1856_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Guzman y Gomez\n            • Fee: ~$12,589\n            • Deliverables: 2 x 90-second product demo, 1 x 30-second Instagram reel, 1 x LinkedIn post\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $12,589 budget",
+  "token_count": 90,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

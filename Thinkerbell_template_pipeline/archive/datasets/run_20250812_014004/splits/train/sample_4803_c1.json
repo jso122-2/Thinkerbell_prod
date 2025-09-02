@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4803",
+  "chunk_id": "sample_4803_c1",
+  "text": "Need Ryan Allen for Subway campaign. Budget around $20,590, looking for 1 x Facebook post. 4 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_240",
+  "chunk_id": "sample_240_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for Supercheap Auto. Budget is approx $21,697 - need 3 x LinkedIn post, 1 x LinkedIn post, 2 x Press conference, 1 x Article contribution, 2 x Podcast guest. 6 weeks exclusivity, 6 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

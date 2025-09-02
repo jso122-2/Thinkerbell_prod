@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1647",
+  "chunk_id": "sample_1647_c1",
+  "text": "Need Olivia Davis for Nando's campaign. Budget around $9,764, looking for 1 x 60-second YouTube video. 2 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

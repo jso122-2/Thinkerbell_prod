@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_365",
+  "chunk_id": "sample_365_c1",
+  "text": "Need Blake Morgan for Cotton On campaign. Budget around $4,447, looking for 3 x Media interview. 7 week exclusivity from other fashion brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 6 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

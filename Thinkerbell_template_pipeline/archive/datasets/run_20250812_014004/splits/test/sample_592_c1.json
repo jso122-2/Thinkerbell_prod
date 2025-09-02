@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_592",
+  "chunk_id": "sample_592_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Lush. Budget is approx $18,300 - need 1 x 5-minute review. 2 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

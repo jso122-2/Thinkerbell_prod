@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1840",
+  "chunk_id": "sample_1840_c1",
+  "text": "Need Natalie Adams for Qantas campaign. Budget around $12,618, looking for 1 x LinkedIn post. 10 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 4 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

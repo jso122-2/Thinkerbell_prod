@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1472",
+  "generation_timestamp": "2025-08-04T18:30:15.568041",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: James Wilson\n            • Brand: Zambrero\n            • Fee: ~$12,980\n            • Deliverables: 1 x 60-second YouTube video, 3 x Instagram reel, 2 x Instagram post, 2 x YouTube video\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: September 2025",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$12,980",
+    "fee_numeric": 12980,
+    "deliverables": [
+      "1 x 60-second YouTube video",
+      "3 x Instagram reel",
+      "2 x Instagram post",
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8097484580131402,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8343126145178106,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.559039",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

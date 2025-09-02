@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_924",
+  "chunk_id": "sample_924_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Autobarn\n            • Fee: ~$33,133\n            • Deliverables: 1 x Pinterest pin, 2 x Twitter post, 2 x LinkedIn post, 2 x Instagram story, 2 x 30-second Instagram reel\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

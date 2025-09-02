@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1049",
+  "generation_timestamp": "2025-08-04T18:30:06.948078",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sean Roberts\n            • Brand: Pillow Talk\n            • Fee: ~$20,809\n            • Deliverables: 3 x Blog post, 3 x Twitter post, 3 x 15-second TikTok\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$20,809",
+    "fee_numeric": 20809,
+    "deliverables": [
+      "3 x Blog post",
+      "3 x Twitter post",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6521288903124646,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7809007281273619,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.938077",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

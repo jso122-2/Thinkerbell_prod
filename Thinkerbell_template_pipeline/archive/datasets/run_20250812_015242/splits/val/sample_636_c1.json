@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_636",
+  "chunk_id": "sample_636_c1",
+  "text": "Hey team, looking to work with Brandon Nelson for Repco. Budget is approx $33,459 - need 2 x 90-second product demo, 3 x Facebook post, 3 x 10-minute unboxing, 1 x TikTok video, 2 x Instagram story. 12 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: October 2025.",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

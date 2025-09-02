@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3047",
+  "chunk_id": "sample_3047_c1",
+  "text": "Hey team, looking to work with Riley Evans for Bunnings. Budget is approx $3,065 - need 3 x Blog post, 2 x 90-second product demo, 1 x Instagram post, 1 x LinkedIn post, 2 x 60-second YouTube video. 6 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

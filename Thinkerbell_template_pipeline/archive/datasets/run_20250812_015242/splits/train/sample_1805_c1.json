@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1805",
+  "chunk_id": "sample_1805_c1",
+  "text": "Hey team, looking to work with Riley Evans for Supercheap Auto. Budget is approx $25,239 - need 3 x Twitter post. 6 weeks exclusivity, 4 month engagement. Usage: 9 months. Start date: September 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

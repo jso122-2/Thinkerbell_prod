@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4700",
+  "chunk_id": "sample_4700_c1",
+  "text": "Hey team, looking to work with Brooklyn Edwards for Nando's. Budget is approx $3,658 - need 2 x Behind-the-scenes content, 3 x 90-second product demo. 8 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

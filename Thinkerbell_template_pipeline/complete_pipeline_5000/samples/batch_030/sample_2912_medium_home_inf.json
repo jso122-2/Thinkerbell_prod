@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2912",
+  "generation_timestamp": "2025-08-04T18:30:48.313992",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Daniel Martinez for Freedom - $7,558 budget\n            Need: 2 x Press release quote, 1 x 2-minute tutorial\n            7w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Freedom",
+    "brand": "Freedom",
+    "campaign": "Freedom Campaign",
+    "fee": "$7,558",
+    "fee_numeric": 7558,
+    "deliverables": [
+      "2 x Press release quote",
+      "1 x 2-minute tutorial"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8743010324034303,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.818899996533928,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:48.302989",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Food & Beverage"
+  }
+}

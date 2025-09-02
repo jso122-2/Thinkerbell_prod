@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3456",
+  "generation_timestamp": "2025-08-04T18:30:59.241755",
+  "generator_version": "v1.0",
+  "batch_id": "batch_035",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Morgan Morris for Officeworks - $10,898 budget\n            Need: 1 x Facebook story, 2 x 30-second Instagram reel, 2 x 2-minute tutorial, 1 x YouTube short\n            10w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+    "token_count": 66,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$10,898",
+    "fee_numeric": 10898,
+    "deliverables": [
+      "1 x Facebook story",
+      "2 x 30-second Instagram reel",
+      "2 x 2-minute tutorial",
+      "1 x YouTube short"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7151431802215,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8433595994791591,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:59.226758",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Automotive"
+  }
+}

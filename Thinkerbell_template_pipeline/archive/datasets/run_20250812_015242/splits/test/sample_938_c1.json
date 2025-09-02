@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_938",
+  "chunk_id": "sample_938_c1",
+  "text": "Tyler Scott for Bunnings - $3,802 budget\n            Need: 1 x Media interview, 1 x Podcast guest\n            3w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: September 2025\n\nNeed to confirm: usage rights",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

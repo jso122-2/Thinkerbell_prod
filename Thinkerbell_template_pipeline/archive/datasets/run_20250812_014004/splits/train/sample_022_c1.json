@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_022",
+  "chunk_id": "sample_022_c1",
+  "text": "Olivia Davis for Coles - $34,027 budget\n            Need: 2 x 90-second product demo, 3 x Twitter post, 2 x Media interview, 2 x Behind-the-scenes content, 1 x Article contribution\n            6w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

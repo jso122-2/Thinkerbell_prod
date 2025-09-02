@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3026",
+  "generation_timestamp": "2025-08-04T18:30:50.656684",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Cook\n            • Brand: Mad Mex\n            • Fee: ~$24,217\n            • Deliverables: 1 x 30-second Instagram reel, 1 x Lifestyle photography, 2 x Behind-the-scenes content\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: December 2025",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Mad Mex",
+    "brand": "Mad Mex",
+    "campaign": "Mad Mex Campaign",
+    "fee": "$24,217",
+    "fee_numeric": 24217,
+    "deliverables": [
+      "1 x 30-second Instagram reel",
+      "1 x Lifestyle photography",
+      "2 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9352659202272239,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8508825233407652,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.646066",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Collaboration",
+    "product_category": "Health & Fitness"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4182",
+  "chunk_id": "sample_4182_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Amart Furniture\n            • Fee: ~$8,540\n            • Deliverables: 3 x Facebook post, 3 x 60-second YouTube video, 1 x Twitter post, 2 x YouTube short\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

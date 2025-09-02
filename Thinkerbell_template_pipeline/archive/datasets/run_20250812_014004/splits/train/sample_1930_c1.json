@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1930",
+  "chunk_id": "sample_1930_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Kmart\n            • Fee: ~$14,011\n            • Deliverables: 2 x Facebook post, 1 x 90-second product demo\n            • Exclusivity: 4 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

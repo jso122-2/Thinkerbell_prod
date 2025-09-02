@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2976",
+  "chunk_id": "sample_2976_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Adairs\n            • Fee: ~$22,579\n            • Deliverables: 3 x 30-second Instagram reel, 2 x TV appearance, 1 x 60-second YouTube video, 3 x Instagram reel\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

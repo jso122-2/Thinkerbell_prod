@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_140",
+  "chunk_id": "sample_140_c1",
+  "text": "Need Aria Perez for Harvey Norman campaign. Budget around $9,088, looking for 3 x Media interview, 3 x YouTube video, 1 x Facebook post, 2 x 90-second product demo. 12 week exclusivity from other electronics brands. Campaign runs October 2025. Usage rights for 6 months. Engagement period: 5 months. Need to confirm: deliverables",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

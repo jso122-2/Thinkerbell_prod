@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2836",
+  "chunk_id": "sample_2836_c1",
+  "text": "Michael Rodriguez for Zambrero - $9,517 budget\n            Need: 1 x Radio interview, 1 x YouTube short, 3 x Twitter post\n            10w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

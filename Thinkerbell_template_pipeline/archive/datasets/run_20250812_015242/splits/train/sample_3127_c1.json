@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3127",
+  "chunk_id": "sample_3127_c1",
+  "text": "Matthew Taylor for Myer - $3,274 budget\n            Need: 1 x Instagram post, 1 x Product photography, 1 x YouTube short, 3 x Instagram post\n            11w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

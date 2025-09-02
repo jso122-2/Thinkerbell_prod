@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3179",
+  "generation_timestamp": "2025-08-04T18:30:53.239793",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Riley Evans for Queen Fine Foods. \n            Budget is approx $7,422 - need 2 x Instagram reel. \n            8 weeks exclusivity, 5 month engagement. \n            Usage: 7 months. Start date: December 2025.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Queen Fine Foods",
+    "brand": "Queen Fine Foods",
+    "campaign": "Queen Fine Foods Campaign",
+    "fee": "$7,422",
+    "fee_numeric": 7422,
+    "deliverables": [
+      "2 x Instagram reel"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.728402874516918,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8163945878896242,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:53.229794",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

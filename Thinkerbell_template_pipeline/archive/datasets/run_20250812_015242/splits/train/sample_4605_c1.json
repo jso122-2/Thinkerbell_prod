@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4605",
+  "chunk_id": "sample_4605_c1",
+  "text": "James Wilson for Zambrero - $24,394 budget\n            Need: 1 x Pinterest pin, 1 x Meet and greet, 1 x 15-second TikTok, 1 x Instagram post\n            7w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

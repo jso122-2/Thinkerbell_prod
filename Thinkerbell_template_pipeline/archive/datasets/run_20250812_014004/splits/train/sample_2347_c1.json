@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2347",
+  "chunk_id": "sample_2347_c1",
+  "text": "Need Kevin Baker for IKEA campaign. Budget around $8,740, looking for 1 x Article contribution, 2 x 30-second Instagram reel, 2 x Facebook story. 4 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 6 months.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

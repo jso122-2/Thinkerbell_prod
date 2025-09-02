@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4238",
+  "chunk_id": "sample_4238_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: Bed Bath N' Table\n            • Fee: ~$11,170\n            • Deliverables: 3 x Professional headshots, 3 x Press release quote, 2 x Product launch event, 3 x Professional headshots\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

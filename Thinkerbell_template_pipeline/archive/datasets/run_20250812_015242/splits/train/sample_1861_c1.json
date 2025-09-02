@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1861",
+  "chunk_id": "sample_1861_c1",
+  "text": "Need Andrew Clark for Nando's campaign. Budget around $2,559, looking for 1 x YouTube short, 3 x Store opening, 3 x 60-second YouTube video, 2 x LinkedIn post, 2 x Facebook story. 2 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 11 months. Engagement period: 6 months. Additional notes: TBC on exact dates, around $2,559 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

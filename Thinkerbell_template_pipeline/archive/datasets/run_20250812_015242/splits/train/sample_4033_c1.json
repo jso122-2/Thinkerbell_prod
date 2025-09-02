@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4033",
+  "chunk_id": "sample_4033_c1",
+  "text": "Emma Thompson for Adairs - $20,918 budget\n            Need: 3 x YouTube short\n            5w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: November 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

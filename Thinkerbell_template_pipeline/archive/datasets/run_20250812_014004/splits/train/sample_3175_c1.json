@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3175",
+  "chunk_id": "sample_3175_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Subway\n            • Fee: ~$10,337\n            • Deliverables: 3 x 15-second TikTok, 2 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

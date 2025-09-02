@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2962",
+  "chunk_id": "sample_2962_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Domino's\n            • Fee: ~$34,748\n            • Deliverables: 3 x 15-second TikTok, 3 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

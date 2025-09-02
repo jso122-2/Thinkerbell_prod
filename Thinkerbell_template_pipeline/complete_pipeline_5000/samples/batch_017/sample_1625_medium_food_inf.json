@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1625",
+  "generation_timestamp": "2025-08-04T18:30:19.967310",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Christopher Lee for Mad Mex campaign. Budget around $22,053, looking for 1 x LinkedIn post, 1 x Instagram reel, 2 x 90-second product demo, 1 x Meet and greet. \n            3 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 6 months. \n            Engagement period: 2 months.\n\nNeed to confirm: exclusivity period",
+    "token_count": 92,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "Mad Mex",
+    "brand": "Mad Mex",
+    "campaign": "Mad Mex Campaign",
+    "fee": "$22,053",
+    "fee_numeric": 22053,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "1 x Instagram reel",
+      "2 x 90-second product demo",
+      "1 x Meet and greet"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8122708125252647,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9250544589279959,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:19.959312",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Education"
+  }
+}

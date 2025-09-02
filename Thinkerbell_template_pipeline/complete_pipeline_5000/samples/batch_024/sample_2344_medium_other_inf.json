@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2344",
+  "generation_timestamp": "2025-08-04T18:30:36.242821",
+  "generator_version": "v1.0",
+  "batch_id": "batch_024",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sage Cooper for Red Rooster - $1,991 budget\n            Need: 2 x Radio interview, 3 x YouTube video\n            10w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025\n\nAdditional notes: TBC on exact dates, around $1,991 budget",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$1,991",
+    "fee_numeric": 1991,
+    "deliverables": [
+      "2 x Radio interview",
+      "3 x YouTube video"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8430006480383907,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.93139771581695,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:36.229818",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Food & Beverage"
+  }
+}

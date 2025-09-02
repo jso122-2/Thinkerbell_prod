@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_505",
+  "chunk_id": "sample_505_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Coles\n            • Fee: ~$14,637\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

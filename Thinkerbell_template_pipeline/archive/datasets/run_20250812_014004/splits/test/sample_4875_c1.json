@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4875",
+  "chunk_id": "sample_4875_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Domino's\n            • Fee: ~$13,293\n            • Deliverables: 1 x Facebook post, 1 x 5-minute review, 2 x Instagram post, 1 x 90-second product demo\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

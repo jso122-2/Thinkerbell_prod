@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_543",
+  "chunk_id": "sample_543_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Pizza Hut. Budget is approx $16,301 - need 2 x Product photography, 1 x Facebook post, 1 x Event photography, 1 x 90-second product demo, 1 x 30-second Instagram reel. 12 weeks exclusivity, 4 month engagement. Usage: 6 months. Start date: October 2025.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

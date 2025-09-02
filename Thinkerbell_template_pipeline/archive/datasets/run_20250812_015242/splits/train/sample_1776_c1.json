@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1776",
+  "chunk_id": "sample_1776_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Queen Fine Foods. Budget is approx $7,535 - need 2 x Meet and greet, 1 x Meet and greet, 2 x YouTube video. 3 weeks exclusivity, 5 month engagement. Usage: 11 months. Start date: November 2025.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

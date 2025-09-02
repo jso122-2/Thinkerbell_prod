@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1633",
+  "chunk_id": "sample_1633_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: David Jones\n            • Fee: ~$11,478\n            • Deliverables: 3 x 30-second Instagram reel, 3 x Twitter post, 1 x Social media takeover\n            • Exclusivity: 2 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: January 2026",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

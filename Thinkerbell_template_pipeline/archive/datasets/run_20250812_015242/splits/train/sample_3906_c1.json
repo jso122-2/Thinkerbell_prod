@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3906",
+  "chunk_id": "sample_3906_c1",
+  "text": "Need Zoe Wright for Myer campaign. Budget around $5,979, looking for 3 x Brand ambassador content, 3 x Pinterest pin, 1 x Facebook post. 10 week exclusivity from other fashion brands. Campaign runs January 2026. Usage rights for 12 months. Engagement period: 4 months.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

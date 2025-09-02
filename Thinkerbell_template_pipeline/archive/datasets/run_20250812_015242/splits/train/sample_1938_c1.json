@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1938",
+  "chunk_id": "sample_1938_c1",
+  "text": "• Influencer: Skylar Collins\n            • Brand: Autobarn\n            • Fee: ~$34,815\n            • Deliverables: 2 x 10-minute unboxing, 1 x Twitter post, 1 x Pinterest pin, 2 x Media interview\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

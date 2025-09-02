@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2343",
+  "chunk_id": "sample_2343_c1",
+  "text": "Sophie Anderson for Nando's - $12,081 budget\n            Need: 3 x Professional headshots, 3 x Instagram post, 2 x Instagram story\n            5w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

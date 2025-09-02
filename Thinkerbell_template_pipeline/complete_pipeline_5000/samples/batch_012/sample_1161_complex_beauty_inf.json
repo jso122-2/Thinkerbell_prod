@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1161",
+  "generation_timestamp": "2025-08-04T18:30:09.215848",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Victoria Carter\n            • Brand: Chemist Warehouse\n            • Fee: ~$1,638\n            • Deliverables: 1 x Store opening, 1 x Facebook story, 1 x Facebook post, 1 x 60-second YouTube video\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: November 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 96,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Victoria Carter",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$1,638",
+    "fee_numeric": 1638,
+    "deliverables": [
+      "1 x Store opening",
+      "1 x Facebook story",
+      "1 x Facebook post",
+      "1 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.637666839388915,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7892967650794114,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:09.204850",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Education"
+  }
+}

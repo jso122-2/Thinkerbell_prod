@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_561",
+  "chunk_id": "sample_561_c1",
+  "text": "Hannah Green for Woolworths - $3,551 budget\n            Need: 2 x 3-minute vlog, 3 x Media interview, 3 x LinkedIn post, 2 x Instagram reel, 2 x Instagram story\n            3w exclusivity, 4m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

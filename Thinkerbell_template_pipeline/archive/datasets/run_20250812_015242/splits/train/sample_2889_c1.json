@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2889",
+  "chunk_id": "sample_2889_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Mecca. Budget is approx $5,069 - need 3 x 2-minute tutorial, 1 x Pinterest pin, 1 x 60-second YouTube video, 1 x 10-minute unboxing. 9 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

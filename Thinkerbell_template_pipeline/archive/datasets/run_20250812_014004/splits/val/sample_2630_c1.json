@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2630",
+  "chunk_id": "sample_2630_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Pizza Hut\n            • Fee: ~$28,875\n            • Deliverables: 1 x Blog post, 3 x Press conference, 2 x Instagram story, 1 x Lifestyle photography, 3 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

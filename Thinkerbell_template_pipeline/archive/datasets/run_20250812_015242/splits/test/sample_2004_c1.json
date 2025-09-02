@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2004",
+  "chunk_id": "sample_2004_c1",
+  "text": "Hey team, looking to work with Hannah Green for David Jones. Budget is approx $6,473 - need 2 x Instagram post, 2 x Social media takeover. 7 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

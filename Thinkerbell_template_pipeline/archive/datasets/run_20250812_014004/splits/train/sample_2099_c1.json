@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2099",
+  "chunk_id": "sample_2099_c1",
+  "text": "Hey team, looking to work with Sarah Chen for Bed Bath N' Table. Budget is approx $11,181 - need 1 x TikTok video. 3 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1296",
+  "generation_timestamp": "2025-08-04T18:30:11.626272",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Matthew Taylor for Betty's Burgers. \n            Budget is approx $3,103 - need 1 x Facebook post, 3 x YouTube video. \n            12 weeks exclusivity, 4 month engagement. \n            Usage: 8 months. Start date: December 2025.",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$3,103",
+    "fee_numeric": 3103,
+    "deliverables": [
+      "1 x Facebook post",
+      "3 x YouTube video"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.65,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.785272434983332,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8895508601700939,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.617269",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

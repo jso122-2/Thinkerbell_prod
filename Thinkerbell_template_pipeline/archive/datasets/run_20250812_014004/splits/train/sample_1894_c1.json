@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1894",
+  "chunk_id": "sample_1894_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Hungry Jack's\n            • Fee: ~$2,215\n            • Deliverables: 3 x TV appearance, 1 x Pinterest pin, 2 x 30-second Instagram reel, 1 x 3-minute vlog\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

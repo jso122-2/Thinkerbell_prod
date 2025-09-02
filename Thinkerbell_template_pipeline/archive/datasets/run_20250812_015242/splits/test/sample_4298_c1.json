@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4298",
+  "chunk_id": "sample_4298_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Boost Juice\n            • Fee: ~$10,572\n            • Deliverables: 3 x LinkedIn post, 3 x Twitter post, 1 x LinkedIn post, 2 x 15-second TikTok, 3 x 30-second Instagram reel\n            • Exclusivity: 4 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: December 2025 mate",
+  "token_count": 86,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

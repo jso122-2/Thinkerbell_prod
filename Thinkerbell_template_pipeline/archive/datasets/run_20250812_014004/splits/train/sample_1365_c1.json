@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1365",
+  "chunk_id": "sample_1365_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Qantas. Budget is approx $30,476 - need 1 x Twitter post, 1 x Event photography. 11 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_049",
+  "chunk_id": "sample_049_c1",
+  "text": "Olivia Davis for Amart Furniture - $30,143 budget\n            Need: 3 x TV appearance, 2 x Pinterest pin, 2 x Facebook post, 2 x Instagram post, 2 x Instagram story\n            12w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

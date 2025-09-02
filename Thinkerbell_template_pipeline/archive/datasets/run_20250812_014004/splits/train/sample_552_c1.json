@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_552",
+  "chunk_id": "sample_552_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Domino's\n            • Fee: ~$16,836\n            • Deliverables: 3 x LinkedIn post, 3 x Twitter post, 1 x Media interview, 1 x TikTok video, 3 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $16,836 budget\n\nNeed to confirm: exclusivity period",
+  "token_count": 106,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

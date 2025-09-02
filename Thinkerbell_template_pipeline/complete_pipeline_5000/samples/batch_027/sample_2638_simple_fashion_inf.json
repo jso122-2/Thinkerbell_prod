@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2638",
+  "generation_timestamp": "2025-08-04T18:30:42.590969",
+  "generator_version": "v1.0",
+  "batch_id": "batch_027",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Nathan King\n            • Brand: David Jones\n            • Fee: ~$34,620\n            • Deliverables: 3 x YouTube video, 1 x LinkedIn post, 2 x 30-second Instagram reel, 1 x Brand photoshoot\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: December 2025",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$34,620",
+    "fee_numeric": 34620,
+    "deliverables": [
+      "3 x YouTube video",
+      "1 x LinkedIn post",
+      "2 x 30-second Instagram reel",
+      "1 x Brand photoshoot"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9054800546271321,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.83528571270944,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:42.581964",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Education"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1697",
+  "chunk_id": "sample_1697_c1",
+  "text": "Hey team, looking to work with Hannah Green for Sephora. Budget is approx $24,290 - need 2 x 30-second Instagram reel, 3 x Twitter post, 1 x 30-second Instagram reel, 3 x LinkedIn post. 7 weeks exclusivity, 2 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

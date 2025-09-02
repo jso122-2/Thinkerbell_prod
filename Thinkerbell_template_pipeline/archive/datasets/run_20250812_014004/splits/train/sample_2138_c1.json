@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2138",
+  "chunk_id": "sample_2138_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Kmart\n            • Fee: ~$9,237\n            • Deliverables: 2 x YouTube video, 1 x Twitter post, 1 x 3-minute vlog\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

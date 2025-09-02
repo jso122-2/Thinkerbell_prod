@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1221",
+  "chunk_id": "sample_1221_c1",
+  "text": "Hey team, looking to work with Victoria Carter for IKEA. Budget is approx $1,700 - need 1 x 60-second YouTube video, 2 x Instagram story, 1 x 2-minute tutorial, 3 x YouTube short. 9 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

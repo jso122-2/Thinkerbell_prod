@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4891",
+  "chunk_id": "sample_4891_c1",
+  "text": "Hey team, looking to work with James Wilson for Supercheap Auto. Budget is approx $3,394 - need 1 x 30-second Instagram reel, 2 x Twitter post, 1 x Pinterest pin. 2 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

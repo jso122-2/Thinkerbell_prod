@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_692",
+  "chunk_id": "sample_692_c1",
+  "text": "James Wilson for Repco - $32,186 budget\n            Need: 1 x YouTube short\n            10w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

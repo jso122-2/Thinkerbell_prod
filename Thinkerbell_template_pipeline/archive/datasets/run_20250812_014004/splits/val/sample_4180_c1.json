@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4180",
+  "chunk_id": "sample_4180_c1",
+  "text": "Hey team, looking to work with Justin Mitchell for Mecca. Budget is approx $11,338 - need 2 x Facebook post, 3 x 60-second YouTube video, 3 x TikTok video. 5 weeks exclusivity, 2 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

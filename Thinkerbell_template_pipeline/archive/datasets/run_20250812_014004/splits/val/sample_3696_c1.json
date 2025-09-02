@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3696",
+  "chunk_id": "sample_3696_c1",
+  "text": "Sophie Anderson for Nando's - $7,464 budget\n            Need: 2 x Lifestyle photography\n            8w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

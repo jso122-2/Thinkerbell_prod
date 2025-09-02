@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3803",
+  "chunk_id": "sample_3803_c1",
+  "text": "Andrew Clark for Big W - $22,838 budget\n            Need: 1 x Facebook post, 3 x Instagram post, 1 x Facebook post, 1 x Instagram post, 2 x Instagram post\n            10w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

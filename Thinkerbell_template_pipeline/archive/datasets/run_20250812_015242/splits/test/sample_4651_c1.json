@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4651",
+  "chunk_id": "sample_4651_c1",
+  "text": "• Influencer: Ryan Allen\n            • Brand: KFC\n            • Fee: ~$29,547\n            • Deliverables: 2 x Pinterest pin, 3 x LinkedIn post\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

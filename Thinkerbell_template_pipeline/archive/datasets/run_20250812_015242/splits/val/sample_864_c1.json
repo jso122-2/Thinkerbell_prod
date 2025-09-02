@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_864",
+  "chunk_id": "sample_864_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Subway\n            • Fee: ~$10,902\n            • Deliverables: 3 x Radio interview\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

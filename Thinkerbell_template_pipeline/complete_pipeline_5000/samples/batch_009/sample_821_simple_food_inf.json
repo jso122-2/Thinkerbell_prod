@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_821",
+  "generation_timestamp": "2025-08-04T18:30:02.251273",
+  "generator_version": "v1.0",
+  "batch_id": "batch_009",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Rowan Bailey for Mad Mex - $9,012 budget\n            Need: 3 x Article contribution, 2 x Media interview, 1 x Brand ambassador content, 2 x Pinterest pin\n            10w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "Mad Mex",
+    "brand": "Mad Mex",
+    "campaign": "Mad Mex Campaign",
+    "fee": "$9,012",
+    "fee_numeric": 9012,
+    "deliverables": [
+      "3 x Article contribution",
+      "2 x Media interview",
+      "1 x Brand ambassador content",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8630797298539508,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9370149894634654,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:02.243276",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Travel & Tourism"
+  }
+}

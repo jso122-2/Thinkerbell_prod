@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1876",
+  "chunk_id": "sample_1876_c1",
+  "text": "Lily Walker for Country Road - $4,417 budget\n            Need: 2 x YouTube short, 1 x Facebook post\n            4w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: September 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

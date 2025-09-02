@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1446",
+  "generation_timestamp": "2025-08-04T18:30:15.312039",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Zoe Wright\n            • Brand: KFC\n            • Fee: ~$5,650\n            • Deliverables: 2 x Meet and greet, 2 x 30-second Instagram reel\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: October 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Zoe Wright",
+    "client": "KFC",
+    "brand": "KFC",
+    "campaign": "KFC Campaign",
+    "fee": "$5,650",
+    "fee_numeric": 5650,
+    "deliverables": [
+      "2 x Meet and greet",
+      "2 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.745722842157369,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8920803967373383,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.303039",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Limited Edition",
+    "product_category": "Fashion & Apparel"
+  }
+}

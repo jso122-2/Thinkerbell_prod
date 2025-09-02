@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2062",
+  "chunk_id": "sample_2062_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: JB Hi-Fi\n            • Fee: ~$33,395\n            • Deliverables: 3 x Instagram post, 1 x Pinterest pin, 3 x 5-minute review\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

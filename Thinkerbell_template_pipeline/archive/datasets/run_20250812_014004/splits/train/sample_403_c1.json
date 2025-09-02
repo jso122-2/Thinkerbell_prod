@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_403",
+  "chunk_id": "sample_403_c1",
+  "text": "Ava Johnson for Red Rooster - $3,910 budget\n            Need: 1 x 15-second TikTok, 1 x Radio interview, 1 x Instagram reel\n            10w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1998",
+  "chunk_id": "sample_1998_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Pillow Talk. Budget is approx $27,601 - need 2 x Facebook post, 3 x Facebook post, 3 x 60-second YouTube video, 1 x Instagram post. 10 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: September 2025.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

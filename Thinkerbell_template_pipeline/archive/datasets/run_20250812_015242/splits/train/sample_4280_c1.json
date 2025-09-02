@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4280",
+  "chunk_id": "sample_4280_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Fantastic Furniture. Budget is approx $4,208 - need 2 x Event photography, 3 x Radio interview, 1 x Facebook post, 1 x 30-second Instagram reel. 6 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: November 2025. no worries",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

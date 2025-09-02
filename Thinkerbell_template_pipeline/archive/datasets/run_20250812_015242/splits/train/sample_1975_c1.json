@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1975",
+  "chunk_id": "sample_1975_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Commonwealth Bank\n            • Fee: ~$6,905\n            • Deliverables: 1 x YouTube video, 3 x Radio interview, 3 x YouTube video, 2 x Product photography\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

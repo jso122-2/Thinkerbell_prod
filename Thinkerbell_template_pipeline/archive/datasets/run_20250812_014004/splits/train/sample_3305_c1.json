@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3305",
+  "chunk_id": "sample_3305_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Bunnings. Budget is approx $33,040 - need 2 x Product photography, 2 x LinkedIn post, 2 x Radio interview. 5 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: November 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

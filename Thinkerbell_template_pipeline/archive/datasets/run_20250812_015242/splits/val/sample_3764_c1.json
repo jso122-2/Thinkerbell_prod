@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3764",
+  "chunk_id": "sample_3764_c1",
+  "text": "Hey team, looking to work with Victoria Carter for Kmart. Budget is approx $28,438 - need 1 x 2-minute tutorial, 2 x 10-minute unboxing, 3 x LinkedIn post, 1 x 90-second product demo, 3 x Store opening. 3 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 84,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

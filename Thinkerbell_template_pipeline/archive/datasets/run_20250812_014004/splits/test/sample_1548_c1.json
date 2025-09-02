@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1548",
+  "chunk_id": "sample_1548_c1",
+  "text": "Need Scarlett Turner for Pillow Talk campaign. Budget around $6,892, looking for 1 x YouTube short. 10 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 2 months.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

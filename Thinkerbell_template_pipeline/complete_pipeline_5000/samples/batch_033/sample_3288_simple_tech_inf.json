@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3288",
+  "generation_timestamp": "2025-08-04T18:30:55.468450",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Reagan Rogers\n            • Brand: Commonwealth Bank\n            • Fee: ~$2,175\n            • Deliverables: 2 x Facebook story, 2 x Social media takeover, 1 x 30-second Instagram reel, 1 x Radio interview, 3 x Professional headshots\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: October 2025",
+    "token_count": 95,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$2,175",
+    "fee_numeric": 2175,
+    "deliverables": [
+      "2 x Facebook story",
+      "2 x Social media takeover",
+      "1 x 30-second Instagram reel",
+      "1 x Radio interview",
+      "3 x Professional headshots"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9034683283620302,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8083658225594258,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:55.458456",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2553",
+  "chunk_id": "sample_2553_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Amart Furniture\n            • Fee: ~$3,414\n            • Deliverables: 2 x 90-second product demo, 1 x TikTok video\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

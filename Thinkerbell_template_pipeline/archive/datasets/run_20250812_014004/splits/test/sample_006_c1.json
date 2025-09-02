@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_006",
+  "chunk_id": "sample_006_c1",
+  "text": "Need Quinn Richardson for KFC campaign. Budget around $6,751, looking for 1 x 15-second TikTok. 12 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 12 months. Engagement period: 4 months.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

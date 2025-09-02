@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4214",
+  "chunk_id": "sample_4214_c1",
+  "text": "Hey team, looking to work with Michael Rodriguez for Qantas. Budget is approx $18,302 - need 1 x LinkedIn post, 2 x Pinterest pin, 1 x Instagram post, 2 x Twitter post. 6 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

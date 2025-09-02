@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_194",
+  "chunk_id": "sample_194_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Grill'd. Budget is approx $3,308 - need 2 x Product photography, 1 x Lifestyle photography, 2 x Facebook post, 1 x Twitter post, 3 x Twitter post. 7 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

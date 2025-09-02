@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4858",
+  "chunk_id": "sample_4858_c1",
+  "text": "Zoe Wright for Bunnings - $11,874 budget\n            Need: 3 x Pinterest pin\n            11w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 43,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

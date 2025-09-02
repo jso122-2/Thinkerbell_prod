@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4880",
+  "chunk_id": "sample_4880_c1",
+  "text": "• Influencer: Grace Young\n            • Brand: Sephora\n            • Fee: ~$4,457\n            • Deliverables: 3 x Lifestyle photography, 3 x LinkedIn post, 2 x 5-minute review, 2 x Facebook post, 1 x 60-second YouTube video\n            • Exclusivity: 10 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

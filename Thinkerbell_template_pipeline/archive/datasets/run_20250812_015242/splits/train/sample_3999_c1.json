@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3999",
+  "chunk_id": "sample_3999_c1",
+  "text": "Need Daniel Martinez for Commonwealth Bank campaign. Budget around $7,649, looking for 3 x Meet and greet, 2 x Twitter post. 12 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 11 months. Engagement period: 5 months.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

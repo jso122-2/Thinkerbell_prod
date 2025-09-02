@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1428",
+  "chunk_id": "sample_1428_c1",
+  "text": "Reagan Rogers for Hungry Jack's - $29,841 budget\n            Need: 2 x Pinterest pin, 3 x Instagram post, 3 x Radio interview, 2 x Lifestyle photography\n            6w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

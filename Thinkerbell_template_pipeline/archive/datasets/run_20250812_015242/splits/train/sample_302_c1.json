@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_302",
+  "chunk_id": "sample_302_c1",
+  "text": "Need Ava Johnson for Priceline campaign. Budget around $7,996, looking for 3 x Instagram post, 1 x Podcast guest, 1 x Facebook post. 7 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

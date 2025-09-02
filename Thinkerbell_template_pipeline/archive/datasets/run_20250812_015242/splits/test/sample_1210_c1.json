@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1210",
+  "chunk_id": "sample_1210_c1",
+  "text": "Hey team, looking to work with Sage Reed for JB Hi-Fi. Budget is approx $27,764 - need 1 x Social media takeover, 1 x Instagram post. 4 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: September 2025.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sample_id": "tb_039_023",
+  "generation_timestamp": "2025-08-12T14:45:57.575669",
+  "batch_id": 39,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "tech",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "Ogilvy has engaged Noah Wilson to deliver services for the Digital Plus 2025 program on behalf of Digital Plus. With the rise of tech innovation in Australia, Australians are seeking better tech solutions. As the campaign's spokesperson, Noah Wilson will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in tech.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Digital Plus and the Influencer for Digital Plus Smart Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $18,879 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 2 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 3 months\n- Exclusivity Period: 8 weeks\n- Territory: Australia\n- Usage Rights: 6 months from campaign launch\n- Content Rights: Digital Plus retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 250,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Digital Plus",
+    "brand": "Digital Plus",
+    "campaign": "Digital Plus Elite Campaign 2025",
+    "fee": "$18,879",
+    "fee_numeric": 18879,
+    "deliverables": [
+      "3 x Twitter posts",
+      "2 x Instagram stories",
+      "1 x Instagram reel"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "4 months",
+    "usage_term": "6 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT  (1)",
+    "match_confidence": 0.878,
+    "fallback_templates": [
+      "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT",
+      "profile_Koala Agreement - Dr. David Cunnington",
+      "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT"
+    ],
+    "preamble_template": "comprehensive_agreement_v2",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.939,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.841,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

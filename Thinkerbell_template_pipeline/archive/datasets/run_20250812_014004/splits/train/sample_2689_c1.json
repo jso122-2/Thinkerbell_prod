@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2689",
+  "chunk_id": "sample_2689_c1",
+  "text": "James Wilson for Bunnings - $4,477 budget\n            Need: 3 x Instagram story, 3 x Pinterest pin, 1 x Behind-the-scenes content, 2 x Radio interview\n            9w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

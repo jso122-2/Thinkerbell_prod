@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2235",
+  "generation_timestamp": "2025-08-04T18:30:33.802758",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Michael Rodriguez for Pillow Talk - $33,839 budget\n            Need: 2 x Event photography, 2 x Instagram reel, 3 x Press conference, 2 x 30-second Instagram reel, 2 x Instagram post\n            8w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Pillow Talk",
+    "brand": "Pillow Talk",
+    "campaign": "Pillow Talk Campaign",
+    "fee": "$33,839",
+    "fee_numeric": 33839,
+    "deliverables": [
+      "2 x Event photography",
+      "2 x Instagram reel",
+      "3 x Press conference",
+      "2 x 30-second Instagram reel",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8736732653086429,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.920348083095387,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:33.793758",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

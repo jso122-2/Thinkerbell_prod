@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_1665",
+  "generation_timestamp": "2025-08-04T18:30:20.373310",
+  "generator_version": "v1.0",
+  "batch_id": "batch_017",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Michael Rodriguez\n            • Brand: Myer\n            • Fee: ~$20,391\n            • Deliverables: 3 x Instagram post, 3 x Twitter post, 2 x 90-second product demo\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$20,391",
+    "fee_numeric": 20391,
+    "deliverables": [
+      "3 x Instagram post",
+      "3 x Twitter post",
+      "2 x 90-second product demo"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7934774039836434,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8872462275657338,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:20.365308",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Entertainment"
+  }
+}

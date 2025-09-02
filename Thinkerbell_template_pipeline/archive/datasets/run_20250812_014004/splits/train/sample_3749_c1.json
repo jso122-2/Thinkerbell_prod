@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3749",
+  "chunk_id": "sample_3749_c1",
+  "text": "Hey team, looking to work with Nathan King for Chemist Warehouse. Budget is approx $2,683 - need 1 x 30-second Instagram reel. 4 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: December 2025.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1977",
+  "chunk_id": "sample_1977_c1",
+  "text": "Hey team, looking to work with Hayden Howard for Myer. Budget is approx $31,980 - need 3 x Pinterest pin, 1 x 5-minute review. 2 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

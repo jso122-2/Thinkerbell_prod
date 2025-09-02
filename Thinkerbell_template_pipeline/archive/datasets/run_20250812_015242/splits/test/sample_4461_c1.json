@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4461",
+  "chunk_id": "sample_4461_c1",
+  "text": "Matthew Taylor for Pillow Talk - $33,593 budget\n            Need: 3 x Twitter post, 1 x Facebook post, 2 x Twitter post\n            7w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: November 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

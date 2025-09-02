@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3608",
+  "generation_timestamp": "2025-08-04T18:31:02.810849",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need David Brown for Sportsgirl campaign. Budget around $17,672, looking for 3 x Twitter post, 1 x Press release quote, 1 x YouTube short, 2 x 3-minute vlog, 1 x Instagram post. \n            7 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 8 months. \n            Engagement period: 2 months. mate",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "David Brown",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$17,672",
+    "fee_numeric": 17672,
+    "deliverables": [
+      "3 x Twitter post",
+      "1 x Press release quote",
+      "1 x YouTube short",
+      "2 x 3-minute vlog",
+      "1 x Instagram post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.5499999999999999,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7632419875587044,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7518128831642285,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:02.798851",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Finance & Insurance"
+  }
+}

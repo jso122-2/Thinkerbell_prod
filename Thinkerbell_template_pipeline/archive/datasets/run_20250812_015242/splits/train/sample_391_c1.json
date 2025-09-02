@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_391",
+  "chunk_id": "sample_391_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: IKEA\n            • Fee: ~$9,225\n            • Deliverables: 3 x Facebook post, 1 x Pinterest pin, 3 x 90-second product demo, 1 x YouTube video, 2 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

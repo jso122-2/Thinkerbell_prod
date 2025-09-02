@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1257",
+  "chunk_id": "sample_1257_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Zambrero\n            • Fee: ~$3,636\n            • Deliverables: 3 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: December 2025\n\nNeed to confirm: usage rights",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

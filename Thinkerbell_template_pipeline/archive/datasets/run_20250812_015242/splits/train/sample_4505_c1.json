@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4505",
+  "chunk_id": "sample_4505_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Chemist Warehouse. Budget is approx $1,908 - need 2 x TikTok video, 2 x Facebook post, 2 x Twitter post. 5 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

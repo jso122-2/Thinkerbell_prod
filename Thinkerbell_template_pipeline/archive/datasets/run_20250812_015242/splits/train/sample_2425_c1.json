@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2425",
+  "chunk_id": "sample_2425_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Bunnings\n            • Fee: ~$3,530\n            • Deliverables: 3 x Behind-the-scenes content, 3 x YouTube video, 1 x YouTube video, 1 x Pinterest pin, 1 x Twitter post\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

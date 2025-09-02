@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2214",
+  "chunk_id": "sample_2214_c1",
+  "text": "Hey team, looking to work with Sage Cooper for Guzman y Gomez. Budget is approx $20,338 - need 2 x Lifestyle photography, 3 x Lifestyle photography. 7 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: January 2026.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

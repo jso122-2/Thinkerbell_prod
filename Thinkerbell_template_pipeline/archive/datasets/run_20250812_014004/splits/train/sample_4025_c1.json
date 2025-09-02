@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4025",
+  "chunk_id": "sample_4025_c1",
+  "text": "Need Isabella Garcia for Red Rooster campaign. Budget around $16,630, looking for 3 x 30-second Instagram reel, 1 x Facebook post, 2 x 90-second product demo. 2 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 7 months. Engagement period: 6 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

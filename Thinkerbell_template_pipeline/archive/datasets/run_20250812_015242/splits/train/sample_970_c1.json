@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_970",
+  "chunk_id": "sample_970_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Kmart\n            • Fee: ~$3,182\n            • Deliverables: 2 x Instagram story, 2 x Instagram post, 3 x 30-second Instagram reel\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

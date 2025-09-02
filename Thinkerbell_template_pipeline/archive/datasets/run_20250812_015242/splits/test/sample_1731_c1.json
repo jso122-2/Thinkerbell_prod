@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1731",
+  "chunk_id": "sample_1731_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Autobarn\n            • Fee: ~$34,309\n            • Deliverables: 3 x 60-second YouTube video\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3726",
+  "chunk_id": "sample_3726_c1",
+  "text": "Need David Brown for Pizza Hut campaign. Budget around $2,198, looking for 3 x Brand photoshoot, 2 x TV appearance, 1 x Professional headshots. 11 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 12 months. Engagement period: 4 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

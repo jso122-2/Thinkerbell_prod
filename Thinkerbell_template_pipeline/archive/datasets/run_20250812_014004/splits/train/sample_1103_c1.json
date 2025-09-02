@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1103",
+  "chunk_id": "sample_1103_c1",
+  "text": "Isabella Garcia for Country Road - $2,076 budget\n            Need: 2 x LinkedIn post\n            6w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: January 2026\n\nNeed to confirm: deliverables",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1217",
+  "chunk_id": "sample_1217_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Zambrero. Budget is approx $28,295 - need 3 x Instagram reel. 12 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

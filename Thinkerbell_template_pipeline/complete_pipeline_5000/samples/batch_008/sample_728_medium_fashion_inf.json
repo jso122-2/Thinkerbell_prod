@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_728",
+  "generation_timestamp": "2025-08-04T18:30:00.527455",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Ryan Allen for Cotton On. \n            Budget is approx $14,460 - need 1 x YouTube video, 3 x YouTube short, 1 x Twitter post, 1 x Article contribution. \n            6 weeks exclusivity, 6 month engagement. \n            Usage: 10 months. Start date: January 2026.\n\nAdditional notes: TBC on exact dates, around $14,460 budget",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$14,460",
+    "fee_numeric": 14460,
+    "deliverables": [
+      "1 x YouTube video",
+      "3 x YouTube short",
+      "1 x Twitter post",
+      "1 x Article contribution"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.861066864756564,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8475548085016652,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:00.518456",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Home & Garden"
+  }
+}

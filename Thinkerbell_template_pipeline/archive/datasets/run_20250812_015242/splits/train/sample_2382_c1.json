@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2382",
+  "chunk_id": "sample_2382_c1",
+  "text": "Victoria Carter for Fantastic Furniture - $2,541 budget\n            Need: 1 x LinkedIn post, 1 x Facebook post, 2 x Instagram post\n            5w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

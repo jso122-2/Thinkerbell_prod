@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_828",
+  "chunk_id": "sample_828_c1",
+  "text": "Scarlett Turner for Betty's Burgers - $10,405 budget\n            Need: 2 x Radio interview, 1 x 60-second YouTube video, 1 x Facebook post, 3 x Media interview\n            5w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

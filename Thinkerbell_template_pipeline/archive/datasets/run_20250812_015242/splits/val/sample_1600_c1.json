@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1600",
+  "chunk_id": "sample_1600_c1",
+  "text": "Hey team, looking to work with Riley Evans for Bed Bath N' Table. Budget is approx $3,776 - need 3 x Media interview, 3 x Facebook post, 3 x Pinterest pin. 2 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

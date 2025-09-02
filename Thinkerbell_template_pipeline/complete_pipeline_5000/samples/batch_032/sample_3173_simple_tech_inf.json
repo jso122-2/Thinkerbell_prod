@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3173",
+  "generation_timestamp": "2025-08-04T18:30:53.168792",
+  "generator_version": "v1.0",
+  "batch_id": "batch_032",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Kevin Baker for Telstra - $23,942 budget\n            Need: 1 x LinkedIn post, 2 x Meet and greet, 1 x 90-second product demo, 1 x LinkedIn post\n            12w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Kevin Baker",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$23,942",
+    "fee_numeric": 23942,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "2 x Meet and greet",
+      "1 x 90-second product demo",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7218733609350192,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.939543149978567,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:53.158798",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Automotive"
+  }
+}

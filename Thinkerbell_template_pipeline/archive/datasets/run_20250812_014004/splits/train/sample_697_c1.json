@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_697",
+  "chunk_id": "sample_697_c1",
+  "text": "Need Lily Walker for Betty's Burgers campaign. Budget around $2,643, looking for 3 x Meet and greet, 1 x Product photography. 2 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

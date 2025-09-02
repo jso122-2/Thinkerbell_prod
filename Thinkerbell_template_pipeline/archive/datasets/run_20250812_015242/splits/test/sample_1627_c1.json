@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1627",
+  "chunk_id": "sample_1627_c1",
+  "text": "• Influencer: Isabella Garcia\n            • Brand: Hungry Jack's\n            • Fee: ~$2,013\n            • Deliverables: 2 x Facebook post, 2 x Store opening, 1 x Podcast guest\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: October 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

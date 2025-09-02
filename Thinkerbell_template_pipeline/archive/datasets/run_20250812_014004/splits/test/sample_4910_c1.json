@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4910",
+  "chunk_id": "sample_4910_c1",
+  "text": "Hey team, looking to work with Hayden Bell for Kmart. Budget is approx $1,805 - need 3 x YouTube video, 2 x LinkedIn post. 3 weeks exclusivity, 5 month engagement. Usage: 11 months. Start date: October 2025. ripper",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

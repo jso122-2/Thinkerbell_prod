@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3669",
+  "chunk_id": "sample_3669_c1",
+  "text": "Reagan Rogers for Coles - $17,515 budget\n            Need: 2 x Brand photoshoot\n            12w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

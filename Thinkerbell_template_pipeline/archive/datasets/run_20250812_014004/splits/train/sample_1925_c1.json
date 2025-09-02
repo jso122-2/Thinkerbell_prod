@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1925",
+  "chunk_id": "sample_1925_c1",
+  "text": "Blake Morgan for Queen Fine Foods - $2,661 budget\n            Need: 2 x Radio interview, 3 x Radio interview, 3 x Article contribution, 1 x Pinterest pin, 2 x Facebook post\n            4w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

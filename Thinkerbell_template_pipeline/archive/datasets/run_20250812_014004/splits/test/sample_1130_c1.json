@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1130",
+  "chunk_id": "sample_1130_c1",
+  "text": "Need Sean Roberts for Pizza Hut campaign. Budget around $25,578, looking for 1 x Pinterest pin, 2 x Product photography. 11 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

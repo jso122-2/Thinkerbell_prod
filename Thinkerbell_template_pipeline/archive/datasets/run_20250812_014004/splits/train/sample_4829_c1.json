@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4829",
+  "chunk_id": "sample_4829_c1",
+  "text": "Sophie Anderson for Betty's Burgers - $27,037 budget\n            Need: 2 x Twitter post, 2 x LinkedIn post, 2 x Instagram post\n            4w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

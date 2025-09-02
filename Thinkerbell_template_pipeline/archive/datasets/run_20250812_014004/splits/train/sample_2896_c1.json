@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2896",
+  "chunk_id": "sample_2896_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Supercheap Auto\n            • Fee: ~$15,788\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1281",
+  "chunk_id": "sample_1281_c1",
+  "text": "Morgan Morris for IKEA - $2,703 budget\n            Need: 3 x LinkedIn post\n            7w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: December 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

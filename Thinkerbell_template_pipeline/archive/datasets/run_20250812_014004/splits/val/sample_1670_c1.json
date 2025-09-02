@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1670",
+  "chunk_id": "sample_1670_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Harvey Norman\n            • Fee: ~$27,800\n            • Deliverables: 1 x Podcast guest, 3 x Podcast guest\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3576",
+  "chunk_id": "sample_3576_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Myer\n            • Fee: ~$19,995\n            • Deliverables: 2 x 30-second Instagram reel, 3 x Instagram story, 1 x Pinterest pin, 3 x Pinterest pin, 2 x Facebook story\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 84,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

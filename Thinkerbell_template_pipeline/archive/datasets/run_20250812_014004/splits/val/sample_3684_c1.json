@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3684",
+  "chunk_id": "sample_3684_c1",
+  "text": "Hey team, looking to work with Sage Reed for Chemist Warehouse. Budget is approx $3,451 - need 1 x Radio interview, 2 x LinkedIn post, 3 x Twitter post, 2 x Twitter post. 3 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: October 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

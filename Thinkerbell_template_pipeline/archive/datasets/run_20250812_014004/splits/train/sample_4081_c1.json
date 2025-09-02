@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4081",
+  "chunk_id": "sample_4081_c1",
+  "text": "• Influencer: Blake Cox\n            • Brand: Qantas\n            • Fee: ~$29,137\n            • Deliverables: 2 x Instagram reel, 3 x Podcast guest, 3 x Radio interview\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $29,137 budget",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

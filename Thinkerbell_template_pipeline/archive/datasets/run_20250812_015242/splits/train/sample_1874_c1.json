@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1874",
+  "chunk_id": "sample_1874_c1",
+  "text": "Olivia Davis for Portmans - $2,120 budget\n            Need: 2 x 15-second TikTok, 2 x Instagram reel, 2 x Instagram post, 2 x 15-second TikTok, 1 x TV appearance\n            8w exclusivity, 5m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

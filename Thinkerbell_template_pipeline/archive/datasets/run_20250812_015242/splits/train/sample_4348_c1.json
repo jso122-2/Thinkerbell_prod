@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4348",
+  "chunk_id": "sample_4348_c1",
+  "text": "Justin Mitchell for Roll'd - $12,650 budget\n            Need: 2 x Facebook post, 3 x LinkedIn post, 2 x Meet and greet, 3 x Radio interview, 1 x LinkedIn post\n            5w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

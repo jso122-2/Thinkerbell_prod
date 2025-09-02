@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3340",
+  "generation_timestamp": "2025-08-04T18:30:56.977874",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Joshua Hall\n            • Brand: Sportsgirl\n            • Fee: ~$3,149\n            • Deliverables: 1 x LinkedIn post, 3 x LinkedIn post, 3 x Product photography, 1 x Instagram post\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: January 2026\n\nNeed to sort out: TBC on final dates",
+    "token_count": 91,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Sportsgirl",
+    "brand": "Sportsgirl",
+    "campaign": "Sportsgirl Campaign",
+    "fee": "$3,149",
+    "fee_numeric": 3149,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "3 x LinkedIn post",
+      "3 x Product photography",
+      "1 x Instagram post"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7705806855942025,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8112373731900772,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:56.968877",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

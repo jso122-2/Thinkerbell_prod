@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_471",
+  "generation_timestamp": "2025-08-04T18:29:54.941902",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Brandon Nelson\n            • Brand: Amart Furniture\n            • Fee: ~$3,926\n            • Deliverables: 2 x 15-second TikTok, 3 x Instagram post, 1 x YouTube short, 3 x Lifestyle photography\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: December 2025",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brandon Nelson",
+    "client": "Amart Furniture",
+    "brand": "Amart Furniture",
+    "campaign": "Amart Furniture Campaign",
+    "fee": "$3,926",
+    "fee_numeric": 3926,
+    "deliverables": [
+      "2 x 15-second TikTok",
+      "3 x Instagram post",
+      "1 x YouTube short",
+      "3 x Lifestyle photography"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.752603463361709,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8593729511619643,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.932895",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Fashion & Apparel"
+  }
+}

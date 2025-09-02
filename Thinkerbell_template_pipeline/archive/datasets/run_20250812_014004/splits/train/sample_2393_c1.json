@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2393",
+  "chunk_id": "sample_2393_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Mad Mex\n            • Fee: ~$30,929\n            • Deliverables: 1 x 15-second TikTok, 2 x Twitter post, 1 x Facebook post, 1 x LinkedIn post, 2 x Media interview\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1978",
+  "chunk_id": "sample_1978_c1",
+  "text": "Hey team, looking to work with Blake Cox for Cotton On. Budget is approx $3,518 - need 1 x Twitter post. 7 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

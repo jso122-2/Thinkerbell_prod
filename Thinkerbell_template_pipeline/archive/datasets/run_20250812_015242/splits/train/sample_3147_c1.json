@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3147",
+  "chunk_id": "sample_3147_c1",
+  "text": "Need Matthew Taylor for Harvey Norman campaign. Budget around $1,892, looking for 1 x Twitter post, 1 x Lifestyle photography, 1 x Instagram reel, 3 x Instagram post. 7 week exclusivity from other electronics brands. Campaign runs October 2025. Usage rights for 11 months. Engagement period: 5 months.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

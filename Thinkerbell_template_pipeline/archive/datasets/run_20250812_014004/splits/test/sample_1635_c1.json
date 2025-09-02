@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1635",
+  "chunk_id": "sample_1635_c1",
+  "text": "Mia White for Autobarn - $2,714 budget\n            Need: 3 x Instagram story, 2 x 3-minute vlog, 3 x Lifestyle photography, 1 x Lifestyle photography, 3 x Radio interview\n            12w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

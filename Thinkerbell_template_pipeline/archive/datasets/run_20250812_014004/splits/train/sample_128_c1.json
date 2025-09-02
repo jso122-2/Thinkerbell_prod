@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_128",
+  "chunk_id": "sample_128_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Grill'd\n            • Fee: ~$1,739\n            • Deliverables: 2 x Facebook post, 2 x Twitter post\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1095",
+  "chunk_id": "sample_1095_c1",
+  "text": "• Influencer: Hayden Bell\n            • Brand: Cotton On\n            • Fee: ~$20,805\n            • Deliverables: 3 x Instagram reel, 3 x Product launch event, 2 x 30-second Instagram reel, 3 x Live stream, 2 x Brand photoshoot\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

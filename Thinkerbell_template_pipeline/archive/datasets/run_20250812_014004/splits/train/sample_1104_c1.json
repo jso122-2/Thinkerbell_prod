@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1104",
+  "chunk_id": "sample_1104_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Mecca. Budget is approx $13,662 - need 1 x Product launch event, 3 x Instagram story, 1 x Twitter post. 11 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: September 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

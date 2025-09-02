@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_438",
+  "generation_timestamp": "2025-08-04T18:29:54.494897",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Ava Johnson for Commonwealth Bank - $21,557 budget\n            Need: 3 x Instagram post, 2 x Twitter post, 2 x Facebook post, 3 x Instagram post, 3 x 15-second TikTok\n            3w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: January 2026\n\nAdditional notes: TBC on exact dates, around $21,557 budget",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ava Johnson",
+    "client": "Commonwealth Bank",
+    "brand": "Commonwealth Bank",
+    "campaign": "Commonwealth Bank Campaign",
+    "fee": "$21,557",
+    "fee_numeric": 21557,
+    "deliverables": [
+      "3 x Instagram post",
+      "2 x Twitter post",
+      "2 x Facebook post",
+      "3 x Instagram post",
+      "3 x 15-second TikTok"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8140686966212957,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8963397312421675,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.479895",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Finance & Insurance"
+  }
+}

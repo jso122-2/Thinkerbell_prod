@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2300",
+  "chunk_id": "sample_2300_c1",
+  "text": "Sage Cooper for Autobarn - $4,498 budget\n            Need: 3 x 2-minute tutorial, 2 x Article contribution\n            3w exclus, 4m engagement\n            Usage rights: 10 months\n            Start: December 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

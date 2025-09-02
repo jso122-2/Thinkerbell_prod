@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_107",
+  "generation_timestamp": "2025-08-04T18:29:47.937843",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Brooklyn Edwards for Mad Mex - $3,237 budget\n            Need: 1 x Instagram post, 1 x Pinterest pin\n            7w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+    "token_count": 52,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Mad Mex",
+    "brand": "Mad Mex",
+    "campaign": "Mad Mex Campaign",
+    "fee": "$3,237",
+    "fee_numeric": 3237,
+    "deliverables": [
+      "1 x Instagram post",
+      "1 x Pinterest pin"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8480324991296163,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9078815324759997,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:47.928811",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Limited Edition",
+    "product_category": "Entertainment"
+  }
+}

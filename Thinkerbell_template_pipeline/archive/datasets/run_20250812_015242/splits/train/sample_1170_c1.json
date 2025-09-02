@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1170",
+  "chunk_id": "sample_1170_c1",
+  "text": "Matthew Taylor for Commonwealth Bank - $31,072 budget\n            Need: 1 x Instagram post, 3 x Article contribution, 2 x Instagram story\n            6w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: November 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

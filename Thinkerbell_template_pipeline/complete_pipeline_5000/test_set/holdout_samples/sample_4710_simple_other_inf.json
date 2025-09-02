@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4710",
+  "generation_timestamp": "2025-08-04T18:31:25.659924",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sean Roberts\n            • Brand: Betty's Burgers\n            • Fee: ~$4,416\n            • Deliverables: 3 x Twitter post, 3 x 2-minute tutorial, 1 x Instagram post, 1 x TikTok video\n            • Exclusivity: 11 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: December 2025",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$4,416",
+    "fee_numeric": 4416,
+    "deliverables": [
+      "3 x Twitter post",
+      "3 x 2-minute tutorial",
+      "1 x Instagram post",
+      "1 x TikTok video"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8782859340573828,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8211533595074166,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:25.640922",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

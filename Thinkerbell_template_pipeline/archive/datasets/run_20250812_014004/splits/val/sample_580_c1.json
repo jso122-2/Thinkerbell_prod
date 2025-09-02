@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_580",
+  "chunk_id": "sample_580_c1",
+  "text": "Need Matthew Taylor for Supercheap Auto campaign. Budget arnd $12,530, looking for 3 x 60-second YouTube video, 1 x Behind-the-scenes content, 1 x Product photography, 1 x Facebook post. 9 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 8 months. Engagement period: 3 months. mate",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

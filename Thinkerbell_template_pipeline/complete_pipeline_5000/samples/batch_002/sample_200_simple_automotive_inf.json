@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_200",
+  "generation_timestamp": "2025-08-04T18:29:49.034176",
+  "generator_version": "v1.0",
+  "batch_id": "batch_002",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Cameron Parker for Supercheap Auto campaign. Budget around $3,128, looking for 3 x Blog post, 3 x 30-second Instagram reel, 3 x Twitter post, 1 x Meet and greet, 1 x LinkedIn post. \n            11 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 6 months. \n            Engagement period: 2 months.",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Cameron Parker",
+    "client": "Supercheap Auto",
+    "brand": "Supercheap Auto",
+    "campaign": "Supercheap Auto Campaign",
+    "fee": "$3,128",
+    "fee_numeric": 3128,
+    "deliverables": [
+      "3 x Blog post",
+      "3 x 30-second Instagram reel",
+      "3 x Twitter post",
+      "1 x Meet and greet",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8677258645343829,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8721313440223272,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:49.027175",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

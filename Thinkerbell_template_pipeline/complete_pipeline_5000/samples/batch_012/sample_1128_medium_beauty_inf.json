@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1128",
+  "generation_timestamp": "2025-08-04T18:30:08.825849",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Matthew Taylor for Lush campaign. Budget around $4,230, looking for 1 x Twitter post, 1 x Facebook post, 3 x LinkedIn post, 2 x LinkedIn post, 2 x Instagram reel. \n            7 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 8 months. \n            Engagement period: 4 months.\n\nAdditional notes: TBC on exact dates, around $4,230 budget",
+    "token_count": 99,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$4,230",
+    "fee_numeric": 4230,
+    "deliverables": [
+      "1 x Twitter post",
+      "1 x Facebook post",
+      "3 x LinkedIn post",
+      "2 x LinkedIn post",
+      "2 x Instagram reel"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7426250831473606,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8863067694807,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:08.814852",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Food & Beverage"
+  }
+}

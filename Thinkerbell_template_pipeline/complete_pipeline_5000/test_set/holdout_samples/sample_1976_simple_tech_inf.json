@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1976",
+  "generation_timestamp": "2025-08-04T18:30:27.083203",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Quinn Cook for Officeworks. \n            Budget is approx $33,522 - need 3 x 30-second Instagram reel, 3 x YouTube short, 1 x YouTube video, 2 x Media interview, 1 x TikTok video. \n            5 weeks exclusivity, 5 month engagement. \n            Usage: 7 months. Start date: January 2026.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$33,522",
+    "fee_numeric": 33522,
+    "deliverables": [
+      "3 x 30-second Instagram reel",
+      "3 x YouTube short",
+      "1 x YouTube video",
+      "2 x Media interview",
+      "1 x TikTok video"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7986706733530902,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8435977658363104,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:27.072202",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Education"
+  }
+}

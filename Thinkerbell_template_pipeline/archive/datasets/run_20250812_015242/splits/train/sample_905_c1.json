@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_905",
+  "chunk_id": "sample_905_c1",
+  "text": "Natalie Adams for Autobarn - $26,592 budget\n            Need: 1 x Brand photoshoot, 2 x Pinterest pin, 1 x Event photography\n            8w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

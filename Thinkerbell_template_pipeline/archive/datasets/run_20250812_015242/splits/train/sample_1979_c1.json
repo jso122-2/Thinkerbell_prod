@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1979",
+  "chunk_id": "sample_1979_c1",
+  "text": "Rowan Bailey for Chemist Warehouse - $2,426 budget\n            Need: 3 x Press release quote, 1 x Media interview\n            8w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

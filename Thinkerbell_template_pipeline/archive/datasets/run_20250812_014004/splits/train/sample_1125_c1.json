@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1125",
+  "chunk_id": "sample_1125_c1",
+  "text": "Need Ava Johnson for Cotton On campaign. Budget around $17,276, looking for 1 x LinkedIn post, 2 x Instagram post, 2 x Instagram post. 11 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 9 months. Engagement period: 6 months. Additional notes: TBC on exact dates, around $17,276 budget",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1244",
+  "chunk_id": "sample_1244_c1",
+  "text": "Hey team, looking to work with Hannah Green for Subway. Budget is approx $29,880 - need 3 x Media interview, 1 x Pinterest pin, 3 x Twitter post. 9 weeks exclusivity, 3 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

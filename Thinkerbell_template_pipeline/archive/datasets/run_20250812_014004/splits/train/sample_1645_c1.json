@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1645",
+  "chunk_id": "sample_1645_c1",
+  "text": "Need Joshua Hall for Officeworks campaign. Budget around $16,552, looking for 3 x Twitter post, 2 x Instagram story, 1 x Facebook story, 2 x LinkedIn post. 3 week exclusivity from other electronics brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_517",
+  "chunk_id": "sample_517_c1",
+  "text": "Hey team, looking to work with Grace Young for David Jones. Budget is approx $9,550 - need 3 x Instagram reel. 6 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

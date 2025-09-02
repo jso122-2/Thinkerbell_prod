@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_1916",
+  "chunk_id": "sample_1916_c1",
+  "text": "Reagan Rogers for JB Hi-Fi - $11,586 budget\n            Need: 2 x Lifestyle photography, 1 x LinkedIn post, 1 x LinkedIn post\n            5w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: January 2026\n\nNeed to sort out: TBC on final dates",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

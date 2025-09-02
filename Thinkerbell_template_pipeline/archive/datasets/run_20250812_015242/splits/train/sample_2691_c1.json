@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2691",
+  "chunk_id": "sample_2691_c1",
+  "text": "• Influencer: Morgan Morris\n            • Brand: Lush\n            • Fee: ~$23,954\n            • Deliverables: 1 x 5-minute review\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: September 2025 reckon",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

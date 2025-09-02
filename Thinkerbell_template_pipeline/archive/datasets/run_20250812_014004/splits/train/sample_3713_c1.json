@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3713",
+  "chunk_id": "sample_3713_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Betty's Burgers\n            • Fee: ~$3,312\n            • Deliverables: 3 x Social media takeover\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: January 2026",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

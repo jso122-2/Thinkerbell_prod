@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_3814",
+  "generation_timestamp": "2025-08-04T18:31:07.169988",
+  "generator_version": "v1.0",
+  "batch_id": "batch_039",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Riley Evans for Mecca - $3,386 budget\n            Need: 3 x Product photography, 3 x Product launch event\n            7w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Mecca",
+    "brand": "Mecca",
+    "campaign": "Mecca Campaign",
+    "fee": "$3,386",
+    "fee_numeric": 3386,
+    "deliverables": [
+      "3 x Product photography",
+      "3 x Product launch event"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8085436692957478,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.899077977234972,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:07.161987",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Fashion & Apparel"
+  }
+}

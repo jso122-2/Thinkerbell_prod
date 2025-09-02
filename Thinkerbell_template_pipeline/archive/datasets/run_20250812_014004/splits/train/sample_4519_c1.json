@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4519",
+  "chunk_id": "sample_4519_c1",
+  "text": "Need James Wilson for Pillow Talk campaign. Budget around $7,277, looking for 3 x Radio interview. 8 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 11 months. Engagement period: 2 months.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

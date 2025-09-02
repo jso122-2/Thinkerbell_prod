@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4623",
+  "chunk_id": "sample_4623_c1",
+  "text": "Hey team, looking to work with Layla Campbell for Amart Furniture. Budget is approx $7,777 - need 3 x 90-second product demo, 1 x Instagram story, 1 x Media interview. 6 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

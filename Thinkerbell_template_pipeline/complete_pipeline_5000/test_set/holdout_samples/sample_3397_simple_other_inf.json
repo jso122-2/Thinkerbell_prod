@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3397",
+  "generation_timestamp": "2025-08-04T18:30:57.618716",
+  "generator_version": "v1.0",
+  "batch_id": "batch_034",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Andrew Clark for Grill'd. \n            Budget is approx $23,220 - need 3 x Instagram reel, 1 x Professional headshots, 3 x Radio interview, 2 x Brand ambassador content, 1 x YouTube video. \n            10 weeks exclusivity, 3 month engagement. \n            Usage: 12 months. Start date: January 2026.",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Grill'd",
+    "brand": "Grill'd",
+    "campaign": "Grill'd Campaign",
+    "fee": "$23,220",
+    "fee_numeric": 23220,
+    "deliverables": [
+      "3 x Instagram reel",
+      "1 x Professional headshots",
+      "3 x Radio interview",
+      "2 x Brand ambassador content",
+      "1 x YouTube video"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8366394879294725,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.838068024614688,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:57.608718",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Fashion & Apparel"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4395",
+  "generation_timestamp": "2025-08-04T18:31:18.698947",
+  "generator_version": "v1.0",
+  "batch_id": "batch_044",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Riley Evans for IKEA - $5,906 budget\n            Need: 2 x Instagram reel, 2 x YouTube video\n            8w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+    "token_count": 50,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "IKEA",
+    "brand": "IKEA",
+    "campaign": "IKEA Campaign",
+    "fee": "$5,906",
+    "fee_numeric": 5906,
+    "deliverables": [
+      "2 x Instagram reel",
+      "2 x YouTube video"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7510046230856926,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9153205331897645,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:18.690948",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Entertainment"
+  }
+}

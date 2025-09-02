@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1984",
+  "chunk_id": "sample_1984_c1",
+  "text": "Jordan Phillips for Harvey Norman - $22,936 budget\n            Need: 3 x Instagram post, 2 x 2-minute tutorial\n            12w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: November 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

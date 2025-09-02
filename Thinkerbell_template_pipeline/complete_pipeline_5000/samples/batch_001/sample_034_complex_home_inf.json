@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_034",
+  "generation_timestamp": "2025-08-04T18:29:46.351445",
+  "generator_version": "v1.0",
+  "batch_id": "batch_001",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hannah Green for Adairs - $7,013 budget\n            Need: 1 x Instagram post, 2 x Instagram reel, 1 x YouTube short, 3 x 90-second product demo\n            11w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$7,013",
+    "fee_numeric": 7013,
+    "deliverables": [
+      "1 x Instagram post",
+      "2 x Instagram reel",
+      "1 x YouTube short",
+      "3 x 90-second product demo"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8198438416781413,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7961195344078356,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:46.343447",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Food & Beverage"
+  }
+}

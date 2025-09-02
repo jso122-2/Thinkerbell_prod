@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1227",
+  "chunk_id": "sample_1227_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for Kmart. Budget is approx $4,360 - need 2 x 2-minute tutorial, 2 x Instagram post, 2 x Pinterest pin, 2 x Article contribution. 6 weeks exclusivity, 2 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

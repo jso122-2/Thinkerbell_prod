@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4556",
+  "generation_timestamp": "2025-08-04T18:31:22.097326",
+  "generator_version": "v1.0",
+  "batch_id": "batch_046",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Nathan King for Woolworths - $3,221 budget\n            Need: 2 x YouTube video, 2 x LinkedIn post, 1 x Facebook story, 1 x Professional headshots\n            7w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $3,221 budget",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "Woolworths",
+    "brand": "Woolworths",
+    "campaign": "Woolworths Campaign",
+    "fee": "$3,221",
+    "fee_numeric": 3221,
+    "deliverables": [
+      "2 x YouTube video",
+      "2 x LinkedIn post",
+      "1 x Facebook story",
+      "1 x Professional headshots"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "grocery",
+    "engagement_term": "2 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7887032304574131,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8461997856096088,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:22.089327",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Education"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2320",
+  "chunk_id": "sample_2320_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: JB Hi-Fi\n            • Fee: ~$2,672\n            • Deliverables: 3 x 15-second TikTok\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

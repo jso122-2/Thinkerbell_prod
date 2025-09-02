@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1126",
+  "chunk_id": "sample_1126_c1",
+  "text": "Jordan Phillips for Roll'd - $29,868 budget\n            Need: 1 x Article contribution, 1 x Article contribution\n            4w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1688",
+  "chunk_id": "sample_1688_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Domino's\n            • Fee: ~$9,420\n            • Deliverables: 2 x Instagram reel, 1 x 30-second Instagram reel, 3 x Radio interview, 3 x Press release quote\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: December 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

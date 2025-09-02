@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_520",
+  "chunk_id": "sample_520_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Sportsgirl. Budget is approx $1,985 - need 2 x Media interview, 3 x Store opening, 2 x 15-second TikTok, 2 x Radio interview, 2 x Facebook story. 9 weeks exclusivity, 4 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

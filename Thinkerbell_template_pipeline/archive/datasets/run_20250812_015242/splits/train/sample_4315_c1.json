@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4315",
+  "chunk_id": "sample_4315_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Coles\n            • Fee: ~$30,052\n            • Deliverables: 1 x Instagram story, 1 x LinkedIn post, 3 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

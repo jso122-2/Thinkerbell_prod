@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_421",
+  "chunk_id": "sample_421_c1",
+  "text": "Need Emma Thompson for Commonwealth Bank campaign. Budget around $21,891, looking for 3 x TikTok video, 2 x Product photography, 2 x Podcast guest, 3 x 2-minute tutorial. 3 week exclusivity from other similar brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

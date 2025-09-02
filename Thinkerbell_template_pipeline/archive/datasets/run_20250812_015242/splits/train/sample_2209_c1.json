@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2209",
+  "chunk_id": "sample_2209_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Telstra\n            • Fee: ~$32,109\n            • Deliverables: 1 x Article contribution, 2 x LinkedIn post, 2 x Instagram post, 2 x 10-minute unboxing, 2 x Instagram reel\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $32,109 budget\n\nNeed to confirm: deliverables",
+  "token_count": 103,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

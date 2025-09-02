@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2761",
+  "chunk_id": "sample_2761_c1",
+  "text": "Hey team, looking to work with Sage Cooper for Betty's Burgers. Budget is approx $3,140 - need 2 x LinkedIn post, 1 x 90-second product demo. 11 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

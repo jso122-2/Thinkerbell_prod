@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2732",
+  "chunk_id": "sample_2732_c1",
+  "text": "• Influencer: River Murphy\n            • Brand: Kmart\n            • Fee: ~$11,854\n            • Deliverables: 2 x Store opening, 1 x Radio interview\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: November 2025\n\nNeed to confirm: deliverables",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

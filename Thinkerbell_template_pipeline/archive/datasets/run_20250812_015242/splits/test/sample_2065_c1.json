@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2065",
+  "chunk_id": "sample_2065_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Mad Mex\n            • Fee: ~$16,627\n            • Deliverables: 2 x Facebook story, 3 x Instagram story, 3 x Twitter post, 2 x Pinterest pin\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2746",
+  "chunk_id": "sample_2746_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: McDonald's\n            • Fee: ~$30,904\n            • Deliverables: 2 x Lifestyle photography\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

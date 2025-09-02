@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2617",
+  "chunk_id": "sample_2617_c1",
+  "text": "Hey team, looking to work with Isabella Garcia for Chemist Warehouse. Budget is approx $12,068 - need 1 x 2-minute tutorial, 3 x Live stream, 1 x LinkedIn post, 1 x Instagram post. 7 weeks exclusivity, 2 month engagement. Usage: 8 months. Start date: October 2025.",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

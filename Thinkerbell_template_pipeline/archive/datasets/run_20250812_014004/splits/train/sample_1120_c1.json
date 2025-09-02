@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1120",
+  "chunk_id": "sample_1120_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Coles\n            • Fee: ~$1,790\n            • Deliverables: 2 x Instagram post, 1 x Podcast guest\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: December 2025 mate",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

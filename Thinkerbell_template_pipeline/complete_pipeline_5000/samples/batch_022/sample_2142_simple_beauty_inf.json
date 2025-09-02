@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2142",
+  "generation_timestamp": "2025-08-04T18:30:31.920819",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Rowan Bailey\n            • Brand: Sephora\n            • Fee: ~$31,446\n            • Deliverables: 2 x Facebook story, 3 x 30-second Instagram reel\n            • Exclusivity: 6 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: January 2026",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$31,446",
+    "fee_numeric": 31446,
+    "deliverables": [
+      "2 x Facebook story",
+      "3 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7012011634169644,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.832292308778956,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:31.913820",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

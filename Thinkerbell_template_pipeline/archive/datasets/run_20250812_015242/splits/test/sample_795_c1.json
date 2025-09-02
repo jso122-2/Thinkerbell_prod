@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_795",
+  "chunk_id": "sample_795_c1",
+  "text": "Zoe Wright for Roll'd - $11,667 budget\n            Need: 3 x 2-minute tutorial, 3 x Professional headshots, 1 x TV appearance, 1 x Pinterest pin\n            7w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: January 2026",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

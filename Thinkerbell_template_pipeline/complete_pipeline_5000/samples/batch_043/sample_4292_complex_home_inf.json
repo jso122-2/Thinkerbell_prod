@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4292",
+  "generation_timestamp": "2025-08-04T18:31:16.578524",
+  "generator_version": "v1.0",
+  "batch_id": "batch_043",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Chloe Lewis for Bed Bath N' Table - $32,106 budget\n            Need: 1 x Product launch event, 1 x 3-minute vlog, 3 x Radio interview, 3 x 15-second TikTok, 1 x 15-second TikTok\n            11w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: September 2025\n\nNeed to sort out: TBC on final dates",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Chloe Lewis",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$32,106",
+    "fee_numeric": 32106,
+    "deliverables": [
+      "1 x Product launch event",
+      "1 x 3-minute vlog",
+      "3 x Radio interview",
+      "3 x 15-second TikTok",
+      "1 x 15-second TikTok"
+    ],
+    "exclusivity_period": "11 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6687609718182201,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8190995674387912,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:16.568525",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Sports & Recreation"
+  }
+}

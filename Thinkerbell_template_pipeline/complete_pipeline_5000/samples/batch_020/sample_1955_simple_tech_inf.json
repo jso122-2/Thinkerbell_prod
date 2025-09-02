@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_1955",
+  "generation_timestamp": "2025-08-04T18:30:26.838204",
+  "generator_version": "v1.0",
+  "batch_id": "batch_020",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need River Murphy for JB Hi-Fi campaign. Budget around $4,319, looking for 2 x 10-minute unboxing. \n            10 week exclusivity from other electronics brands. \n            Campaign runs December 2025. Usage rights for 6 months. \n            Engagement period: 5 months.",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "River Murphy",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$4,319",
+    "fee_numeric": 4319,
+    "deliverables": [
+      "2 x 10-minute unboxing"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9073025990867161,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8141102533312522,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:26.828202",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Limited Edition",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

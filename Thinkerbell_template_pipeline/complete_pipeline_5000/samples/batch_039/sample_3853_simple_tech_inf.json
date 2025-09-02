@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3853",
+  "generation_timestamp": "2025-08-04T18:31:07.631989",
+  "generator_version": "v1.0",
+  "batch_id": "batch_039",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Quinn Cook for JB Hi-Fi - $2,379 budget\n            Need: 1 x Facebook post, 1 x TV appearance, 1 x Twitter post, 3 x 30-second Instagram reel, 3 x YouTube video\n            10w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$2,379",
+    "fee_numeric": 2379,
+    "deliverables": [
+      "1 x Facebook post",
+      "1 x TV appearance",
+      "1 x Twitter post",
+      "3 x 30-second Instagram reel",
+      "3 x YouTube video"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9413583170488082,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8605426894221173,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:07.621992",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Education"
+  }
+}

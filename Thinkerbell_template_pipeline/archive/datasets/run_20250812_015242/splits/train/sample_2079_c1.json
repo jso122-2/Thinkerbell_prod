@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2079",
+  "chunk_id": "sample_2079_c1",
+  "text": "Hey team, looking to work with Layla Campbell for Red Rooster. Budget is approx $4,316 - need 3 x Meet and greet, 1 x Facebook post, 2 x Facebook story. 9 weeks exclusivity, 3 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_511",
+  "chunk_id": "sample_511_c1",
+  "text": "Hey team, looking to work with Brandon Nelson for Amart Furniture. Budget is approx $6,908 - need 3 x Instagram post, 2 x 2-minute tutorial, 2 x Instagram story. 9 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

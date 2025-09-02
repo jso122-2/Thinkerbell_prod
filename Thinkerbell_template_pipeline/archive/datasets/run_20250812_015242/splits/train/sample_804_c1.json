@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_804",
+  "chunk_id": "sample_804_c1",
+  "text": "Hayden Howard for Myer - $6,594 budget\n            Need: 1 x 90-second product demo, 3 x Store opening, 2 x Instagram story\n            11w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

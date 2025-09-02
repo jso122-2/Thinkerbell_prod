@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1626",
+  "chunk_id": "sample_1626_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Witchery\n            • Fee: ~$6,547\n            • Deliverables: 1 x Press release quote, 3 x Media interview, 3 x Pinterest pin, 2 x TV appearance, 2 x Blog post\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3347",
+  "chunk_id": "sample_3347_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Roll'd\n            • Fee: ~$21,764\n            • Deliverables: 3 x Radio interview\n            • Exclusivity: 12 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

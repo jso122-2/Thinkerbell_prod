@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3320",
+  "chunk_id": "sample_3320_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: David Jones\n            • Fee: ~$14,196\n            • Deliverables: 2 x Podcast guest\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $14,196 budget",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

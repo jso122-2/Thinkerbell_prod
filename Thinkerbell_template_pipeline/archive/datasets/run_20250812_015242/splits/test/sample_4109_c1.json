@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4109",
+  "chunk_id": "sample_4109_c1",
+  "text": "Hey team, looking to work with Nathan King for KFC. Budget is approx $24,382 - need 2 x Instagram story, 2 x TikTok video. 8 weeks exclusivity, 4 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

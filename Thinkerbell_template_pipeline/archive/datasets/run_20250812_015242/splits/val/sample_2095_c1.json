@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2095",
+  "chunk_id": "sample_2095_c1",
+  "text": "Daniel Martinez for Betty's Burgers - $2,706 budget\n            Need: 2 x Facebook post, 2 x Facebook post\n            10w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 48,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

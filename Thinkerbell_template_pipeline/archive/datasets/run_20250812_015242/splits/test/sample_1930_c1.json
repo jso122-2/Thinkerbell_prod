@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1930",
+  "chunk_id": "sample_1930_c1",
+  "text": "Hey team, looking to work with Tyler Scott for David Jones. Budget is approx $16,744 - need 2 x LinkedIn post, 1 x 60-second YouTube video, 2 x 2-minute tutorial. 12 weeks exclusivity, 6 month engagement. Usage: 12 months. Start date: January 2026.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

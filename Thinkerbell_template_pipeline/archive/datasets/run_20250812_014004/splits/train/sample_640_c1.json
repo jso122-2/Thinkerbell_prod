@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_640",
+  "chunk_id": "sample_640_c1",
+  "text": "Joshua Hall for Coles - $14,381 budget\n            Need: 2 x 60-second YouTube video, 1 x Media interview, 3 x Instagram reel, 3 x LinkedIn post, 3 x Pinterest pin\n            7w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

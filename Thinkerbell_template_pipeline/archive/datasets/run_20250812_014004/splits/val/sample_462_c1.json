@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_462",
+  "chunk_id": "sample_462_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Red Rooster\n            • Fee: ~$29,326\n            • Deliverables: 1 x Event photography, 1 x 90-second product demo, 3 x Twitter post, 1 x Media interview\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

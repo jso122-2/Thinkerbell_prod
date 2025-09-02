@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1056",
+  "chunk_id": "sample_1056_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: McDonald's\n            • Fee: ~$3,081\n            • Deliverables: 2 x Blog post\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

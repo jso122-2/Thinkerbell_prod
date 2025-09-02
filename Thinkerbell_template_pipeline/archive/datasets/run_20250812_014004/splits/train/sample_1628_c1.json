@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1628",
+  "chunk_id": "sample_1628_c1",
+  "text": "Isabella Garcia for Bed Bath N' Table - $10,415 budget\n            Need: 2 x TikTok video, 2 x Twitter post\n            7w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

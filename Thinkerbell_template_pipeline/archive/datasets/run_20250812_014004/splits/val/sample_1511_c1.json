@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1511",
+  "chunk_id": "sample_1511_c1",
+  "text": "Hey team, looking to work with Chloe Lewis for KFC. Budget is approx $14,186 - need 2 x TV appearance. 3 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

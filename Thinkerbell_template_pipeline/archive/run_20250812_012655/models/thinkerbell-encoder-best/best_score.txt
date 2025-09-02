@@ -1,0 +1,3 @@
+Best validation accuracy: 1.0000
+Epoch: 1.0
+Steps: 14

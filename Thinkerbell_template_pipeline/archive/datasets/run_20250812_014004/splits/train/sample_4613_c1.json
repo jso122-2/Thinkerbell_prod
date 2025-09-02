@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4613",
+  "chunk_id": "sample_4613_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Bed Bath N' Table\n            • Fee: ~$3,857\n            • Deliverables: 3 x Instagram story\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

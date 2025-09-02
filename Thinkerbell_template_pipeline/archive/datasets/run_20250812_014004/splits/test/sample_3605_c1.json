@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3605",
+  "chunk_id": "sample_3605_c1",
+  "text": "Quinn Richardson for Betty's Burgers - $26,132 budget\n            Need: 2 x 60-second YouTube video, 1 x Instagram post, 2 x YouTube short, 1 x LinkedIn post, 1 x Instagram post\n            8w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

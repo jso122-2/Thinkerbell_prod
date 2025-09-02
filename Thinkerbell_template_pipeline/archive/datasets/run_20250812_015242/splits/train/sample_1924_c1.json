@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1924",
+  "chunk_id": "sample_1924_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Freedom\n            • Fee: ~$7,448\n            • Deliverables: 1 x Facebook story\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1368",
+  "chunk_id": "sample_1368_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Big W. \n            Budget is approx $4,836 - need 3 x Store opening, 1 x Twitter post, 3 x 30-second Instagram reel, 1 x Facebook post, 1 x Instagram story. 5 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: September 2025. Additional notes: TBC on exact dates, around $4,836 budget",
+  "token_count": 94,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

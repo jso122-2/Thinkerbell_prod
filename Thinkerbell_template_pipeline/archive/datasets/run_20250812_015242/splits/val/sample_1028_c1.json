@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1028",
+  "chunk_id": "sample_1028_c1",
+  "text": "Need Nathan King for Supercheap Auto campaign. Budget around $2,319, looking for 2 x Lifestyle photography, 3 x 30-second Instagram reel, 1 x Press release quote, 2 x Instagram post. 9 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 8 months. Engagement period: 6 months.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

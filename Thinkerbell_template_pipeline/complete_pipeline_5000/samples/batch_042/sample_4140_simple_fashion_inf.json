@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_4140",
+  "generation_timestamp": "2025-08-04T18:31:14.001292",
+  "generator_version": "v1.0",
+  "batch_id": "batch_042",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with James Wilson for David Jones. \n            Budget is approx $29,533 - need 1 x Product photography, 1 x 5-minute review, 3 x Facebook story. \n            3 weeks exclusivity, 5 month engagement. \n            Usage: 9 months. Start date: January 2026.",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$29,533",
+    "fee_numeric": 29533,
+    "deliverables": [
+      "1 x Product photography",
+      "1 x 5-minute review",
+      "3 x Facebook story"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7979199123677282,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.92372181435649,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:13.992293",
+    "fee_tier": "premium",
+    "num_deliverables": 3,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

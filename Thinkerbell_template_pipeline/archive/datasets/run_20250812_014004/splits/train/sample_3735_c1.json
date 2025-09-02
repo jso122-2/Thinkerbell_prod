@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3735",
+  "chunk_id": "sample_3735_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Woolworths\n            • Fee: ~$20,692\n            • Deliverables: 2 x Behind-the-scenes content, 2 x LinkedIn post, 1 x Brand ambassador content, 2 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

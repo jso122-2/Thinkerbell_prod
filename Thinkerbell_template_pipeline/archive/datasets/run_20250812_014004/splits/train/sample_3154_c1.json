@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3154",
+  "chunk_id": "sample_3154_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Supercheap Auto\n            • Fee: ~$29,353\n            • Deliverables: 2 x Pinterest pin, 1 x Blog post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

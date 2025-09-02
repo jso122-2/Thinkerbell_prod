@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_067",
+  "chunk_id": "sample_067_c1",
+  "text": "Emma Thompson for Telstra - $20,171 budget\n            Need: 1 x Instagram post, 3 x YouTube video, 3 x YouTube short, 2 x Store opening\n            9w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: November 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

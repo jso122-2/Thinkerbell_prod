@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2980",
+  "generation_timestamp": "2025-08-04T18:30:49.221550",
+  "generator_version": "v1.0",
+  "batch_id": "batch_030",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Richardson\n            • Brand: Telstra\n            • Fee: ~$8,147\n            • Deliverables: 1 x Instagram reel, 3 x YouTube short, 2 x 90-second product demo, 1 x Twitter post, 3 x Product photography\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 7 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $8,147 budget",
+    "token_count": 104,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Telstra",
+    "brand": "Telstra",
+    "campaign": "Telstra Campaign",
+    "fee": "$8,147",
+    "fee_numeric": 8147,
+    "deliverables": [
+      "1 x Instagram reel",
+      "3 x YouTube short",
+      "2 x 90-second product demo",
+      "1 x Twitter post",
+      "3 x Product photography"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7127262826467483,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8418255788303417,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:49.211553",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

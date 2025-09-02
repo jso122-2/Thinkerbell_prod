@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2005",
+  "chunk_id": "sample_2005_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Bed Bath N' Table\n            • Fee: ~$12,560\n            • Deliverables: 2 x Article contribution, 2 x 60-second YouTube video, 1 x LinkedIn post, 1 x Twitter post\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: September 2025",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "sample_id": "sample_3628",
+  "generation_timestamp": "2025-08-04T18:31:03.033850",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Andrew Clark\n            • Brand: Red Rooster\n            • Fee: ~$5,272\n            • Deliverables: 1 x Product launch event, 1 x LinkedIn post, 2 x Twitter post\n            • Exclusivity: 8 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: December 2025",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$5,272",
+    "fee_numeric": 5272,
+    "deliverables": [
+      "1 x Product launch event",
+      "1 x LinkedIn post",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8875736805644932,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8599410894535108,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:03.025850",
+    "fee_tier": "mid",
+    "num_deliverables": 3,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Education"
+  }
+}

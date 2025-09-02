@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2519",
+  "chunk_id": "sample_2519_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Chemist Warehouse\n            • Fee: ~$3,790\n            • Deliverables: 2 x Press conference\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

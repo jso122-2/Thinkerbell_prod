@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4036",
+  "chunk_id": "sample_4036_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Subway\n            • Fee: ~$27,701\n            • Deliverables: 2 x Radio interview\n            • Exclusivity: 12 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: November 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

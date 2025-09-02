@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2729",
+  "chunk_id": "sample_2729_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Woolworths\n            • Fee: ~$8,470\n            • Deliverables: 1 x Instagram reel\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

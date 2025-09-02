@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_130",
+  "chunk_id": "sample_130_c1",
+  "text": "Need Brooklyn Edwards for McDonald's campaign. Budget around $27,206, looking for 3 x Facebook story, 1 x YouTube short. 4 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 9 months. Engagement period: 5 months. Additional notes: TBC on exact dates, around $27,206 budget",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

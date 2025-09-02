@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3909",
+  "chunk_id": "sample_3909_c1",
+  "text": "• Influencer: Sage Reed\n            • Brand: Qantas\n            • Fee: ~$9,862\n            • Deliverables: 1 x Instagram reel\n            • Exclusivity: 9 weeks\n            • Engagement: 4 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1792",
+  "chunk_id": "sample_1792_c1",
+  "text": "• Influencer: Jordan Phillips\n            • Brand: IKEA\n            • Fee: ~$2,292\n            • Deliverables: 1 x TikTok video, 2 x Instagram post, 2 x Lifestyle photography, 2 x 3-minute vlog\n            • Exclusivity: 6 weeks\n            • Engagement: 6 months\n            • Usage: 12 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $2,292 budget",
+  "token_count": 90,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

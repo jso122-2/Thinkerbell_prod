@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2076",
+  "chunk_id": "sample_2076_c1",
+  "text": "Hey team, looking to work with Sean Roberts for Subway. Budget is approx $31,703 - need 3 x Instagram reel, 2 x Radio interview. 2 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: December 2025.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

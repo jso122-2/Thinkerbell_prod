@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_888",
+  "chunk_id": "sample_888_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Boost Juice\n            • Fee: ~$4,641\n            • Deliverables: 3 x 30-second Instagram reel\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 9 months\n            • Start: January 2026\n\nAdditional notes: TBC on exact dates, around $4,641 budget",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

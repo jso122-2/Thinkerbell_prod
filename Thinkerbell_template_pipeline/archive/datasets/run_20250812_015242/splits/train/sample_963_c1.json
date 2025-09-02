@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_963",
+  "chunk_id": "sample_963_c1",
+  "text": "Jordan Phillips for Harvey Norman - $6,757 budget\n            Need: 1 x YouTube video\n            10w exclusivity, 3m engagement\n            Usage rights: 8 months\n            Start: October 2025",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4069",
+  "generation_timestamp": "2025-08-04T18:31:12.199885",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sarah Chen for Big W. \n            Budget is approx $9,230 - need 3 x 30-second Instagram reel, 3 x 60-second YouTube video, 3 x Facebook post, 1 x 30-second Instagram reel, 1 x Twitter post. \n            3 weeks exclusivity, 2 month engagement. \n            Usage: 9 months. Start date: September 2025.",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sarah Chen",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$9,230",
+    "fee_numeric": 9230,
+    "deliverables": [
+      "3 x 30-second Instagram reel",
+      "3 x 60-second YouTube video",
+      "3 x Facebook post",
+      "1 x 30-second Instagram reel",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7221705935592702,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9147338250927856,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.187886",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Limited Edition",
+    "product_category": "Home & Garden"
+  }
+}

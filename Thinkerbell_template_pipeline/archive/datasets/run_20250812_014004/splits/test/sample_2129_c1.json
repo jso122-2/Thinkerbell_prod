@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2129",
+  "chunk_id": "sample_2129_c1",
+  "text": "Aria Perez for Domino's - $4,821 budget\n            Need: 3 x Podcast guest\n            6w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

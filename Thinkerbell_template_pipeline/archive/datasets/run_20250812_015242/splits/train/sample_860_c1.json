@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_860",
+  "chunk_id": "sample_860_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: Adairs\n            • Fee: ~$3,700\n            • Deliverables: 3 x Instagram post, 2 x 90-second product demo, 1 x Social media takeover, 1 x Facebook post, 3 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_671",
+  "chunk_id": "sample_671_c1",
+  "text": "• Influencer: Reagan Rogers\n            • Brand: Big W\n            • Fee: ~$14,699\n            • Deliverables: 3 x Instagram reel, 3 x Pinterest pin, 1 x LinkedIn post, 1 x 60-second YouTube video\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: December 2025 mate",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

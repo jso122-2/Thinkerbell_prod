@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_235",
+  "chunk_id": "sample_235_c1",
+  "text": "Lily Walker for Supercheap Auto - $9,209 budget\n            Need: 2 x Instagram story\n            11w exclusivity, 3m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 42,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

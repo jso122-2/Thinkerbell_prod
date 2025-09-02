@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_proc_20250815_144820_2280",
+  "generation_timestamp": "2025-08-15T14:48:20.580773",
+  "batch_id": "processed",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "medium",
+    "industry": "food",
+    "confidence": 0.8500000000000001
+  },
+  "raw_input": {
+    "text": "# Koala Agreement Dr David Cunnington\n\nTALENT AGREEMENT AND RELEASE \n## PREAMBLE\n\nThis agreement (Agreement) is entered into between the identified person below (Talent) and Thinkerbell Pty Ltd (ABN 99 618 397 659) of Level 3 41–43 Stewart Street Richmond VIC 3121 (Thinkerbell). This Agreement records the terms upon which Thinkerbell has agreed to engage the talent and the talent has agreed to provide the ## DELIVERABLES\n\nDeliverables for the Koala Seasonal Comfort ‘El Nino’ culinary campaign.\nThinkerbell \nThinkerbell Pty Ltd (ABN 99 618 397 659) of Level 4 261-265 Chalmers St, Redfern NSW 2016 Talent \nDr. David Cunnington \nServices \n1. As directed by Thinkerbell, talent must execute the following as hero talent for the Koala Seasonal Comfort ‘El Nino’ culinary campaign: \na). Act as culinary campaign subject matter expert for earned media activity (Feb 2023), for a total of four weeks. \ni). Participate in up to 3-5 media interviews across platforms (mainstream, TV, newspapers, radio, etc) \nii). Provide 1x quote to be attributed in media materials \n (## DELIVERABLES\n\nDeliverables) \n2. Thinkerbell reserves the right to request additional ## DELIVERABLES\n\ndeliverables should any of the existing ## DELIVERABLES\n\ndeliverables not be seen to be in fitting to the approved ## DELIVERABLES\n\ndeliverables agreed upon between Thinkerbell and the talent.\n3. Koala has the right to approve any content before it is shared with the media. Koala also has the right to ask the talent to remove, edit or update any content if deemed necessary during the term. \n4. Talent acknowledges that Koala is entitled to use the ## DELIVERABLES\n\nDeliverables, via any medium, in future campaigns and marketing activities, and Talent agrees not to challenge such use. Talent confirms that the Fees represent the full sum payable to Thinkerbell for the Services and ## DELIVERABLES\n\nDeliverables, and Talent will not be entitled to additional fees or royalties from either Thinkerbell or Koala in relation to the Services or ## DELIVERABLES\n\nDeliverables.\n5. Talent will not be required to mention Koala brand or products as part of this engagement.\nThe Brief With the BOM predicting El Nino will bring intense heat-waves and humidity until mid-year, Aussies everywhere are particularly vulnerable to an often ignored, but serious, health risk, particularly when it comes to our sleep health.\nWith hot, humid nights predicted to roll-out, Aussies everywhere are in line for heat-based insomnia. I’m reaching out with an exciting interview opportunity with Sleep expert Dr. David Cunnington, discussing the impact of all these swampy nights on Aussie health, as well as top tips on how to beat the heat and get some sleep. \nIn their role as subject matter expert, Dr. David Cunnington will offer critical color commentary, offering a scientific and advice-based summary of how to beat the heat during El Nino. David’s commentary will discuss the science behind heat-based insomnia and offer practical tips for Australians to audit their existing microclimates and consider new alternatives to escape some extreme forecasted humidity. \n Important requirements \n1. Talent must not do any marketing related activity with a competitor brand of Koala Furniture, for the entirety of the culinary campaign period. \n2. The talent shall not commit any act or do anything which might tend to bring talent into public disrepute, contempt, scandal, or ridicule, or which might tend to reflect unfavorably on the Koala brand or business.\nFees \n1. 5,000 + GST in consideration for Services provided during the Term. \n2. Talent is responsible for all tax and superannuation obligations. \n3. Talent agrees to receive payment directly for their services and upon payment of fees, talent will not have any further claim for any fees in connection with the Services of the ## DELIVERABLES\n\ndeliverables.\nTerm \nFrom contract sign date to 1/03/23 ## EXCLUSIVITY\n\nExclusivity The talent agrees to be exclusive to Koala and not to provide services to any competitor brand in Australia during the Term and for a period of 4 weeks after the expiry of the Term (or any extension). This includes, but is not limited to, producing or appearing in content on social media on behalf of a competitor brand. The talent will advise Thinkerbell and Koala of any on-going services they provide or will provide during the Term to any third party and make best efforts to ensure that such services do not unduly impact the exclusive relationship with Koala or the provision of services under this Agreement. The talent remains entirely exclusive to Koala from any other competitor brands for the duration of the Term. Further, the talent must advise Thinkerbell and Koala of any on-going services he provides to any third party to ensure that it does not impact the exclusive relationship with Koala or the provision of services under this Agreement. \nThinkerbell \ncontact person Name: Joe Ayat Position: Lead Earned Thinker \nPhone: 0404 535 533 E...",
+    "token_count": 2177,
+    "requires_chunking": true,
+    "text_style": "formal_contract",
+    "completeness": "chunked"
+  },
+  "extracted_fields": {
+    "client": "Koala",
+    "brand": "Koala",
+    "campaign": "a",
+    "fee": "$10,000",
+    "fee_numeric": 10000,
+    "deliverables": [
+      "5 x media interviews"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "12 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_Koala Agreement - Dr. David Cunnington",
+    "match_confidence": 0.8777637662168394,
+    "fallback_templates": [
+      "profile_Standard_Influencer_Agreement",
+      "profile_Generic_Talent_Contract"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "style_profile_processing",
+    "selection_criteria": {
+      "industry": "food",
+      "complexity": "medium"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9000000000000001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 1.0,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "style_profile_used": "medium_food",
+    "source_document": "Koala_Agreement_Dr_David_Cunnington.md"
+  }
+}

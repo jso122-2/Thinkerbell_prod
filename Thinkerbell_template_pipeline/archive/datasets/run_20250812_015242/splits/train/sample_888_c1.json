@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_888",
+  "chunk_id": "sample_888_c1",
+  "text": "Need Scarlett Turner for Witchery campaign. Budget around $12,839, looking for 3 x 60-second YouTube video. 5 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 3 months.",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

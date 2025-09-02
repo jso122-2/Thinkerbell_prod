@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1781",
+  "chunk_id": "sample_1781_c1",
+  "text": "Hannah Green for Qantas - $23,396 budget\n            Need: 2 x 60-second YouTube video, 1 x Podcast guest, 2 x 15-second TikTok, 1 x Instagram story, 1 x Facebook post\n            3w exclusivity, 2m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

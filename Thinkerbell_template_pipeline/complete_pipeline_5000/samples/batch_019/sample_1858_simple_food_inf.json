@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1858",
+  "generation_timestamp": "2025-08-04T18:30:24.500536",
+  "generator_version": "v1.0",
+  "batch_id": "batch_019",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for Boost Juice - $4,131 budget\n            Need: 2 x Lifestyle photography, 3 x Instagram story, 2 x Press release quote, 2 x LinkedIn post, 2 x Instagram post\n            10w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Boost Juice",
+    "brand": "Boost Juice",
+    "campaign": "Boost Juice Campaign",
+    "fee": "$4,131",
+    "fee_numeric": 4131,
+    "deliverables": [
+      "2 x Lifestyle photography",
+      "3 x Instagram story",
+      "2 x Press release quote",
+      "2 x LinkedIn post",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7710647678628844,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8609049240536765,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:24.482534",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

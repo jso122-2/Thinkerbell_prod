@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_2741",
+  "chunk_id": "sample_2741_c1",
+  "text": "Jordan Phillips for JB Hi-Fi - $3,546 budget\n            Need: 1 x Brand ambassador content\n            12w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2507",
+  "chunk_id": "sample_2507_c1",
+  "text": "Olivia Davis for Qantas - $10,606 budget\n            Need: 2 x Brand ambassador content, 2 x LinkedIn post, 2 x Instagram story, 1 x LinkedIn post, 1 x Instagram post\n            8w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

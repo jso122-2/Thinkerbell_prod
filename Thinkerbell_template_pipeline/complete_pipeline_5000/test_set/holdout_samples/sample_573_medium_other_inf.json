@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_573",
+  "generation_timestamp": "2025-08-04T18:29:57.051758",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Lily Walker for Big W campaign. Budget around $9,686, looking for 3 x Facebook post, 1 x LinkedIn post, 3 x 60-second YouTube video, 2 x Instagram post. \n            3 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 9 months. \n            Engagement period: 4 months.\n\nNeed to confirm: exclusivity period",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$9,686",
+    "fee_numeric": 9686,
+    "deliverables": [
+      "3 x Facebook post",
+      "1 x LinkedIn post",
+      "3 x 60-second YouTube video",
+      "2 x Instagram post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8861745054896718,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8343841849494272,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:57.036759",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Travel & Tourism"
+  }
+}

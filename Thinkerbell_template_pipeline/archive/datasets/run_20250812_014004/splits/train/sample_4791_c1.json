@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4791",
+  "chunk_id": "sample_4791_c1",
+  "text": "Need Andrew Clark for Betty's Burgers campaign. Budget around $13,119, looking for 3 x LinkedIn post. 12 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 6 months. ripper",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

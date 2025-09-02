@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_805",
+  "generation_timestamp": "2025-08-04T18:30:02.109280",
+  "generator_version": "v1.0",
+  "batch_id": "batch_009",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Aria Perez\n            • Brand: Guzman y Gomez\n            • Fee: ~$6,140\n            • Deliverables: 3 x LinkedIn post, 3 x Instagram reel, 2 x Instagram post, 3 x Brand ambassador content\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: January 2026 mate\n\nNeed to sort out: TBC on final dates",
+    "token_count": 95,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Aria Perez",
+    "client": "Guzman y Gomez",
+    "brand": "Guzman y Gomez",
+    "campaign": "Guzman y Gomez Campaign",
+    "fee": "$6,140",
+    "fee_numeric": 6140,
+    "deliverables": [
+      "3 x LinkedIn post",
+      "3 x Instagram reel",
+      "2 x Instagram post",
+      "3 x Brand ambassador content"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8175872611129231,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7755068024891254,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:02.102277",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Home & Garden"
+  }
+}

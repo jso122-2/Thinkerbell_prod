@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1900",
+  "chunk_id": "sample_1900_c1",
+  "text": "Hey team, looking to work with River Murphy for Witchery. Budget is approx $5,464 - need 3 x YouTube short. 4 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: November 2025. Additional notes: TBC on exact dates, around $5,464 budget",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_776",
+  "chunk_id": "sample_776_c1",
+  "text": "Need Isabella Garcia for Woolworths campaign. Budget around $20,067, looking for 1 x Instagram reel. 7 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 3 months.",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

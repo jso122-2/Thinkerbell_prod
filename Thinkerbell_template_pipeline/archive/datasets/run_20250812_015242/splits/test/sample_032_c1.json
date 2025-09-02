@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_032",
+  "chunk_id": "sample_032_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: JB Hi-Fi\n            • Fee: ~$9,345\n            • Deliverables: 1 x Instagram story, 1 x Event photography\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $9,345 budget",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

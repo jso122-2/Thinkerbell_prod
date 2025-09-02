@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4140",
+  "chunk_id": "sample_4140_c1",
+  "text": "Hey team, looking to work with James Wilson for David Jones. Budget is approx $29,533 - need 1 x Product photography, 1 x 5-minute review, 3 x Facebook story. 3 weeks exclusivity, 5 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

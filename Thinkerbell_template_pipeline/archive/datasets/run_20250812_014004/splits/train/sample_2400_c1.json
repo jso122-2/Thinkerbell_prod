@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2400",
+  "chunk_id": "sample_2400_c1",
+  "text": "Hey team, looking to work with Christopher Lee for IKEA. Budget is approx $20,612 - need 2 x Product photography, 2 x YouTube video, 1 x Twitter post, 1 x TikTok video, 2 x Professional headshots. 2 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: December 2025.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

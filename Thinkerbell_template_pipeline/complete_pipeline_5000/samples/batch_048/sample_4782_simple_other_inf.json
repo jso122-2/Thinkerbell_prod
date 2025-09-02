@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4782",
+  "generation_timestamp": "2025-08-04T18:31:26.465636",
+  "generator_version": "v1.0",
+  "batch_id": "batch_048",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Skylar Collins for Domino's - $21,547 budget\n            Need: 3 x Pinterest pin, 2 x LinkedIn post, 3 x Twitter post, 2 x Pinterest pin\n            8w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+    "token_count": 61,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Skylar Collins",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$21,547",
+    "fee_numeric": 21547,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "2 x LinkedIn post",
+      "3 x Twitter post",
+      "2 x Pinterest pin"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9479213610836195,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9058699038367473,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:26.454637",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Sports & Recreation"
+  }
+}

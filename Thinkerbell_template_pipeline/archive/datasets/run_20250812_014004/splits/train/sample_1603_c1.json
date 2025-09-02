@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1603",
+  "chunk_id": "sample_1603_c1",
+  "text": "Need Natalie Adams for Betty's Burgers campaign. Budget around $3,680, looking for 2 x Instagram story, 3 x Meet and greet, 3 x Social media takeover. 6 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 4 months.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1182",
+  "chunk_id": "sample_1182_c1",
+  "text": "Morgan Morris for Amart Furniture - $2,265 budget\n            Need: 3 x TikTok video, 1 x Facebook story, 2 x 2-minute tutorial, 2 x Facebook post\n            12w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

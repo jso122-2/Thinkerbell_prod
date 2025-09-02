@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2169",
+  "generation_timestamp": "2025-08-04T18:30:32.179820",
+  "generator_version": "v1.0",
+  "batch_id": "batch_022",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Brooklyn Edwards for Autobarn. \n            Budget is approx $26,660 - need 2 x 30-second Instagram reel, 2 x Pinterest pin, 2 x Instagram post, 3 x Lifestyle photography. \n            9 weeks exclusivity, 5 month engagement. \n            Usage: 8 months. Start date: October 2025.",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Brooklyn Edwards",
+    "client": "Autobarn",
+    "brand": "Autobarn",
+    "campaign": "Autobarn Campaign",
+    "fee": "$26,660",
+    "fee_numeric": 26660,
+    "deliverables": [
+      "2 x 30-second Instagram reel",
+      "2 x Pinterest pin",
+      "2 x Instagram post",
+      "3 x Lifestyle photography"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6769298946058039,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7786417151011148,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:32.171820",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Automotive"
+  }
+}

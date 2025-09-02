@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1602",
+  "chunk_id": "sample_1602_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Myer\n            • Fee: ~$6,105\n            • Deliverables: 3 x Product photography, 2 x Radio interview, 1 x Facebook post, 3 x Media interview\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

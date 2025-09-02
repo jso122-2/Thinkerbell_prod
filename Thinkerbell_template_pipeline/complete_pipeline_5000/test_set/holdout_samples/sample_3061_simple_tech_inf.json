@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3061",
+  "generation_timestamp": "2025-08-04T18:30:51.092705",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Blake Morgan for Officeworks - $9,304 budget\n            Need: 2 x 60-second YouTube video\n            5w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: September 2025",
+    "token_count": 50,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Blake Morgan",
+    "client": "Officeworks",
+    "brand": "Officeworks",
+    "campaign": "Officeworks Campaign",
+    "fee": "$9,304",
+    "fee_numeric": 9304,
+    "deliverables": [
+      "2 x 60-second YouTube video"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.889025697879493,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8183330828172096,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:51.083706",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Entertainment"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1350",
+  "chunk_id": "sample_1350_c1",
+  "text": "Need Hannah Green for Sephora campaign. Budget around $19,697, looking for 1 x Brand ambassador content, 2 x Facebook post, 1 x 60-second YouTube video, 1 x Facebook post, 1 x Press conference. 7 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 3 months.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

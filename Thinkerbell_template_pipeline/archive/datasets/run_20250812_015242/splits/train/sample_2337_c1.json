@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2337",
+  "chunk_id": "sample_2337_c1",
+  "text": "Emma Thompson for IKEA - $33,978 budget\n            Need: 2 x 60-second YouTube video, 3 x Twitter post, 1 x Facebook story, 2 x Meet and greet\n            11w exclusivity, 3m engagement\n            Usage rights: 11 months\n            Start: September 2025 fair dinkum",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

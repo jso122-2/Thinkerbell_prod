@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2182",
+  "chunk_id": "sample_2182_c1",
+  "text": "Andrew Clark for Country Road - $19,341 budget\n            Need: 3 x Twitter post, 3 x 90-second product demo\n            6w exclusivity, 4m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

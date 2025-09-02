@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3796",
+  "generation_timestamp": "2025-08-04T18:31:05.995494",
+  "generator_version": "v1.0",
+  "batch_id": "batch_038",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Natalie Adams\n            • Brand: Chemist Warehouse\n            • Fee: ~$16,507\n            • Deliverables: 3 x Instagram post, 3 x Pinterest pin, 3 x Twitter post, 3 x LinkedIn post\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: November 2025",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Chemist Warehouse",
+    "brand": "Chemist Warehouse",
+    "campaign": "Chemist Warehouse Campaign",
+    "fee": "$16,507",
+    "fee_numeric": 16507,
+    "deliverables": [
+      "3 x Instagram post",
+      "3 x Pinterest pin",
+      "3 x Twitter post",
+      "3 x LinkedIn post"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6631478647662263,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8354133083736363,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:05.988498",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

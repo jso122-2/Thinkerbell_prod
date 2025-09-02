@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3747",
+  "chunk_id": "sample_3747_c1",
+  "text": "Daniel Martinez for Autobarn - $22,881 budget\n            Need: 1 x Press conference, 1 x Pinterest pin, 1 x Product photography, 2 x YouTube short\n            2w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

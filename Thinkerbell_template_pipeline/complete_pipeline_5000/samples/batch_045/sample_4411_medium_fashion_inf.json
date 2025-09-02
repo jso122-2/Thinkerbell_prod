@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4411",
+  "generation_timestamp": "2025-08-04T18:31:19.775451",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need James Wilson for Cotton On campaign. Budget around $3,964, looking for 1 x Lifestyle photography, 3 x Behind-the-scenes content. \n            9 week exclusivity from other fashion brands. \n            Campaign runs January 2026. Usage rights for 9 months. \n            Engagement period: 5 months.",
+    "token_count": 75,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$3,964",
+    "fee_numeric": 3964,
+    "deliverables": [
+      "1 x Lifestyle photography",
+      "3 x Behind-the-scenes content"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8847291066444536,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.860047834186014,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:19.765442",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Sports & Recreation"
+  }
+}

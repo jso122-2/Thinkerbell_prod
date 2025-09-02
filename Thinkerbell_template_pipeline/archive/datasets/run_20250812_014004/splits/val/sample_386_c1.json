@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_386",
+  "chunk_id": "sample_386_c1",
+  "text": "Need Andrew Clark for Red Rooster campaign. Budget around $32,876, looking for 2 x Facebook post, 1 x Meet and greet, 3 x Facebook story, 2 x YouTube video. 6 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

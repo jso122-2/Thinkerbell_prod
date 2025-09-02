@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1084",
+  "chunk_id": "sample_1084_c1",
+  "text": "Justin Mitchell for Hungry Jack's - $8,217 budget\n            Need: 3 x Media interview, 2 x Instagram post, 3 x YouTube video, 2 x 15-second TikTok\n            4w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: October 2025\n\nAdditional notes: TBC on exact dates, around $8,217 budget",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4446",
+  "chunk_id": "sample_4446_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Mecca\n            • Fee: ~$2,156\n            • Deliverables: 2 x 30-second Instagram reel, 2 x Facebook post, 1 x Live stream, 2 x Podcast guest\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

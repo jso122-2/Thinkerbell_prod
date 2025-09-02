@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1514",
+  "chunk_id": "sample_1514_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Myer\n            • Fee: ~$1,657\n            • Deliverables: 1 x Instagram story\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: September 2025\n\nAdditional notes: TBC on exact dates, around $1,657 budget",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2413",
+  "chunk_id": "sample_2413_c1",
+  "text": "Reagan Rogers for Officeworks - $7,183 budget\n            Need: 3 x YouTube video, 3 x Instagram post, 2 x Media interview\n            3w exclusivity, 6m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

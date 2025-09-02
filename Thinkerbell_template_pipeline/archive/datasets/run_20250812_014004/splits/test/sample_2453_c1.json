@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2453",
+  "chunk_id": "sample_2453_c1",
+  "text": "• Influencer: Sophie Anderson\n            • Brand: Cotton On\n            • Fee: ~$3,876\n            • Deliverables: 3 x TikTok video\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

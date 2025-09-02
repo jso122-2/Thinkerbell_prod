@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3170",
+  "chunk_id": "sample_3170_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Kmart\n            • Fee: ~$5,418\n            • Deliverables: 1 x Pinterest pin, 3 x Lifestyle photography, 2 x Instagram story, 2 x Product photography, 3 x 2-minute tutorial\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: December 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

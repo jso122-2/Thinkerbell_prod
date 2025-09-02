@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1135",
+  "chunk_id": "sample_1135_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: Sephora\n            • Fee: ~$33,796\n            • Deliverables: 3 x YouTube short\n            • Exclusivity: 8 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

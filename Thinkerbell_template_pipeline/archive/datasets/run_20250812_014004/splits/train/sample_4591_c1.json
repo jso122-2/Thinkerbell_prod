@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4591",
+  "chunk_id": "sample_4591_c1",
+  "text": "• Influencer: Justin Mitchell\n            • Brand: Qantas\n            • Fee: ~$14,163\n            • Deliverables: 2 x Facebook story, 2 x Facebook post, 2 x Lifestyle photography, 3 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: November 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

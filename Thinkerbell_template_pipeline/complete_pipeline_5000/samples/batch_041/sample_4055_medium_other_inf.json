@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_4055",
+  "generation_timestamp": "2025-08-04T18:31:12.049886",
+  "generator_version": "v1.0",
+  "batch_id": "batch_041",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Sage Cooper\n            • Brand: Grill'd\n            • Fee: ~$3,501\n            • Deliverables: 1 x 15-second TikTok, 1 x Media interview, 1 x Instagram story, 2 x Press conference, 1 x LinkedIn post\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $3,501 budget",
+    "token_count": 102,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Cooper",
+    "client": "Grill'd",
+    "brand": "Grill'd",
+    "campaign": "Grill'd Campaign",
+    "fee": "$3,501",
+    "fee_numeric": 3501,
+    "deliverables": [
+      "1 x 15-second TikTok",
+      "1 x Media interview",
+      "1 x Instagram story",
+      "2 x Press conference",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8139415061494352,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8494383933763804,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:12.041883",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Health & Fitness"
+  }
+}

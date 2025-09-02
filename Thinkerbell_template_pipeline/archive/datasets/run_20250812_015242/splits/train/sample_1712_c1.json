@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1712",
+  "chunk_id": "sample_1712_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Woolworths\n            • Fee: ~$28,552\n            • Deliverables: 1 x Media interview, 1 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: October 2025\n\nAdditional notes: TBC on exact dates, around $28,552 budget\n\nNeed to confirm: deliverables",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

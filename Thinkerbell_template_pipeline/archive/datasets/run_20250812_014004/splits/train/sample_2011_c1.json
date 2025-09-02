@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2011",
+  "chunk_id": "sample_2011_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: JB Hi-Fi\n            • Fee: ~$5,236\n            • Deliverables: 2 x Product launch event, 3 x Facebook story, 1 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_455",
+  "generation_timestamp": "2025-08-04T18:29:54.793896",
+  "generator_version": "v1.0",
+  "batch_id": "batch_005",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Christopher Lee for JB Hi-Fi - $12,713 budget\n            Need: 3 x 10-minute unboxing, 3 x Lifestyle photography, 2 x Instagram story, 2 x Lifestyle photography\n            9w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+    "token_count": 67,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Christopher Lee",
+    "client": "JB Hi-Fi",
+    "brand": "JB Hi-Fi",
+    "campaign": "JB Hi-Fi Campaign",
+    "fee": "$12,713",
+    "fee_numeric": 12713,
+    "deliverables": [
+      "3 x 10-minute unboxing",
+      "3 x Lifestyle photography",
+      "2 x Instagram story",
+      "2 x Lifestyle photography"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.816931728187371,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.817060765739489,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:54.785897",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1887",
+  "chunk_id": "sample_1887_c1",
+  "text": "Hey team, looking to work with James Wilson for Sephora. Budget is approx $1,986 - need 3 x Lifestyle photography, 1 x Facebook story, 2 x Radio interview, 3 x Instagram story. 7 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: December 2025.",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

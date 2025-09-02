@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3880",
+  "chunk_id": "sample_3880_c1",
+  "text": "• Influencer: Rowan Bailey\n            • Brand: Telstra\n            • Fee: ~$12,665\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

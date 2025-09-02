@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_780",
+  "chunk_id": "sample_780_c1",
+  "text": "Sarah Chen for Freedom - $32,009 budget\n            Need: 3 x Pinterest pin, 2 x Lifestyle photography\n            10w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

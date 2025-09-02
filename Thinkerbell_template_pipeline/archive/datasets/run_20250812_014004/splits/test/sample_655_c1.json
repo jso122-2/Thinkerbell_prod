@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_655",
+  "chunk_id": "sample_655_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Sportsgirl\n            • Fee: ~$14,039\n            • Deliverables: 3 x Twitter post, 3 x Instagram story, 1 x Twitter post, 3 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

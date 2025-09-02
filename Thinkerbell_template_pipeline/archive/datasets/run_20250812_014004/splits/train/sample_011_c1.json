@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_011",
+  "chunk_id": "sample_011_c1",
+  "text": "Hey team, looking to work with Emma Thompson for Roll'd. Budget is approx $2,105 - need 1 x LinkedIn post. 12 weeks exclusivity, 3 month engagement. Usage: 12 months. Start date: September 2025. Additional notes: TBC on exact dates, around $2,105 budget",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

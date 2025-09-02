@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2363",
+  "chunk_id": "sample_2363_c1",
+  "text": "• Influencer: Lily Walker\n            • Brand: Nando's\n            • Fee: ~$5,958\n            • Deliverables: 2 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: December 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

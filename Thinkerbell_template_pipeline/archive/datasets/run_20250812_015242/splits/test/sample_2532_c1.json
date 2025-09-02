@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2532",
+  "chunk_id": "sample_2532_c1",
+  "text": "Hayden Bell for McDonald's - $26,631 budget\n            Need: 3 x Instagram post, 3 x Twitter post, 1 x Instagram story, 1 x Pinterest pin, 3 x 2-minute tutorial\n            11w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: September 2025",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2252",
+  "chunk_id": "sample_2252_c1",
+  "text": "Ava Johnson for IKEA - $2,331 budget\n            Need: 2 x Facebook post, 2 x 5-minute review\n            4w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 46,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

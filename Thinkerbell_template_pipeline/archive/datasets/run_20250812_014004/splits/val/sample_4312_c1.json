@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4312",
+  "chunk_id": "sample_4312_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Fantastic Furniture\n            • Fee: ~$6,564\n            • Deliverables: 1 x Instagram story, 1 x Facebook post, 1 x Pinterest pin, 3 x 5-minute review, 1 x Live stream\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

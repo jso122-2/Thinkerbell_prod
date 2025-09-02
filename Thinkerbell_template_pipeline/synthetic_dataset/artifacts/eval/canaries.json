@@ -1,0 +1,58 @@
+[
+  {
+    "query": "DDB Sydney has engaged Chloe Lewis to provide services for the ALDI 2025 Campaign on behalf of ALDI. As the festive season draws near, Australians are seeking better food solutions. As the campaign's brand advocate, Chloe Lewis will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between ALDI and the Influencer for ALDI Foodie Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $7,547 AUD (inclusi",
+    "expected": "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT",
+    "sample_id": "tb_001_000",
+    "category": "template_coverage",
+    "text_length": 1215
+  },
+  {
+    "query": "Amplify Agency has engaged Sophie Martinez to provide services for the Woolworths 2024 Campaign on behalf of Woolworths. With summer approaching, Australians are preparing for Australians are seeking better food solutions. As the campaign's hero talent, Sophie Martinez will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Woolworths and the Influencer for Woolworths Flavour Campaign 20",
+    "expected": "profile_QUEEN _ The Condos Talent Agreement_21.02.25 [SIGNED]",
+    "sample_id": "tb_001_001",
+    "category": "template_coverage",
+    "text_length": 1276
+  },
+  {
+    "query": "Brandlink has engaged Alex Turner to provide services for the Harvey Norman 2024 Campaign on behalf of Harvey Norman. With the rise of tech innovation in Australia, Australians are seeking better tech solutions. As the campaign's brand advocate, Alex Turner will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in tech.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Harvey Norman and the Influencer for Harvey Norman Innovation Campaign 2025.",
+    "expected": "profile_Mattel Brickshop x Craig Contract FINAL.docx LOWNDES SIGNED (1) (1)",
+    "sample_id": "tb_001_002",
+    "category": "template_coverage",
+    "text_length": 1276
+  },
+  {
+    "query": "DDB Sydney has engaged Sophie Martinez to provide services for the JB Hi-Fi Summer Campaign on behalf of JB Hi-Fi. With summer approaching, Australians are preparing for Australians are seeking better tech solutions. As the campaign's brand advocate, Sophie Martinez will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in tech.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between JB Hi-Fi and the Influencer for JB Hi-Fi Tech Campaign 2025.\n\nCOMME",
+    "expected": "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT",
+    "sample_id": "tb_001_003",
+    "category": "template_coverage",
+    "text_length": 1264
+  },
+  {
+    "query": "Publicis has engaged Sarah Chen to provide services for the Cotton On 2025 Campaign on behalf of Cotton On. As the festive season draws near, Australians are seeking better fashion solutions. As the campaign's ambassador, Sarah Chen will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in fashion.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Cotton On and the Influencer for Cotton On Fashion Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: ",
+    "expected": "profile_Rexona _ WBD Foot Model Talent Agreement",
+    "sample_id": "tb_001_004",
+    "category": "template_coverage",
+    "text_length": 1239
+  },
+  {
+    "query": "Ogilvy has engaged Leah Thompson to provide services for the Country Road Signature Campaign on behalf of Country Road. With summer approaching, Australians are preparing for Australians are seeking better fashion solutions. As the campaign's brand advocate, Leah Thompson will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in fashion.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Country Road and the Influencer for Country Road Style Cam",
+    "expected": "profile_Dove Advanced Care Body Wash  Launch_Jhyll Teplin Agreement",
+    "sample_id": "tb_001_008",
+    "category": "template_coverage",
+    "text_length": 1286
+  },
+  {
+    "query": "Amplify Agency has engaged Daniel Kim to provide services for the Premium beauty Series on behalf of Mecca. As the festive season draws near, Australians are seeking better beauty solutions. As the campaign's campaign lead, Daniel Kim will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in beauty.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Mecca and the Influencer for Mecca Self-Care Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $3,26",
+    "expected": "profile_HORT _ Australian Onions Talent Agreement - Jane De Graaff",
+    "sample_id": "tb_001_007",
+    "category": "template_coverage",
+    "text_length": 1230
+  },
+  {
+    "query": "DDB Sydney has engaged Chloe Lewis to provide services for the ALDI 2025 Campaign on behalf of ALDI. As the festive season draws near, Australians are seeking better food solutions. As the campaign's brand advocate, Chloe Lewis will deliver key messages across media and social channels. This campaign reinforces the brand's leadership in food.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between ALDI and the Influencer for ALDI Foodie Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $7,547 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 2 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 4 months\n- Exclusivity Period: 4 weeks\n- Territory: Australia\n- Usage Rights: 18 months from campaign launch\n- Content Rights: ALDI retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Di",
+    "expected": "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT",
+    "sample_id": "tb_001_000",
+    "category": "long_text",
+    "text_length": 1215
+  }
+]

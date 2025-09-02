@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1209",
+  "chunk_id": "sample_1209_c1",
+  "text": "Hey team, looking to work with Christopher Lee for Grill'd. Budget is approx $1,770 - need 1 x 60-second YouTube video, 3 x 90-second product demo, 1 x Instagram story. 11 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: September 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

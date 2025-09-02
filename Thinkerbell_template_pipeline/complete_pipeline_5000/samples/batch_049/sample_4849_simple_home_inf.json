@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_4849",
+  "generation_timestamp": "2025-08-04T18:31:28.283280",
+  "generator_version": "v1.0",
+  "batch_id": "batch_049",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Matthew Taylor\n            • Brand: Bed Bath N' Table\n            • Fee: ~$33,737\n            • Deliverables: 1 x 30-second Instagram reel\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: January 2026",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Bed Bath N' Table",
+    "brand": "Bed Bath N' Table",
+    "campaign": "Bed Bath N' Table Campaign",
+    "fee": "$33,737",
+    "fee_numeric": 33737,
+    "deliverables": [
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8874894960831867,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.833362776800904,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:28.274275",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Limited Edition",
+    "product_category": "Food & Beverage"
+  }
+}

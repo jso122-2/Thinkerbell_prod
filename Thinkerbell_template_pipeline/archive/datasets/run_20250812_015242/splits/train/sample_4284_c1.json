@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4284",
+  "chunk_id": "sample_4284_c1",
+  "text": "Chloe Lewis for Chemist Warehouse - $9,792 budget\n            Need: 1 x LinkedIn post, 1 x 60-second YouTube video, 2 x Facebook post, 1 x Twitter post, 3 x 60-second YouTube video\n            4w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

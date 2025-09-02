@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_498",
+  "chunk_id": "sample_498_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Woolworths\n            • Fee: ~$3,314\n            • Deliverables: 1 x 2-minute tutorial, 1 x Pinterest pin, 1 x Facebook post, 1 x Pinterest pin\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: December 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

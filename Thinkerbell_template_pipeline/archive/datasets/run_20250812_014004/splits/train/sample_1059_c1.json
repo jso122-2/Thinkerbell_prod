@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1059",
+  "chunk_id": "sample_1059_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Priceline\n            • Fee: ~$4,337\n            • Deliverables: 3 x Instagram post\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

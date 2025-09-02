@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1895",
+  "chunk_id": "sample_1895_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Portmans\n            • Fee: ~$20,892\n            • Deliverables: 2 x Facebook post\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

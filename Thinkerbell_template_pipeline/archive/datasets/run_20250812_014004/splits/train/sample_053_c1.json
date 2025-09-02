@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_053",
+  "chunk_id": "sample_053_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Autobarn\n            • Fee: ~$4,621\n            • Deliverables: 1 x Pinterest pin\n            • Exclusivity: 3 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: October 2025",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

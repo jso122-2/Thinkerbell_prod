@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2097",
+  "chunk_id": "sample_2097_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Harvey Norman\n            • Fee: ~$1,799\n            • Deliverables: 1 x Facebook post\n            • Exclusivity: 11 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

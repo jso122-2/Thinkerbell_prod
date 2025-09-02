@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1023",
+  "generation_timestamp": "2025-08-04T18:30:06.650078",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Howard for Cotton On campaign. Budget around $2,722, looking for 3 x Instagram post, 3 x Professional headshots, 2 x Facebook post, 3 x Facebook post, 2 x Twitter post. \n            4 week exclusivity from other fashion brands. \n            Campaign runs September 2025. Usage rights for 8 months. \n            Engagement period: 2 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$2,722",
+    "fee_numeric": 2722,
+    "deliverables": [
+      "3 x Instagram post",
+      "3 x Professional headshots",
+      "2 x Facebook post",
+      "3 x Facebook post",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.7,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9284192464575561,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9100730636921261,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.638079",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Home & Garden"
+  }
+}

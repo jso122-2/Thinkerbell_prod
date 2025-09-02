@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_2896",
+  "generation_timestamp": "2025-08-04T18:30:47.189319",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "automotive",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Peyton Stewart\n            • Brand: Supercheap Auto\n            • Fee: ~$15,788\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: January 2026",
+    "token_count": 68,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Peyton Stewart",
+    "client": "Supercheap Auto",
+    "brand": "Supercheap Auto",
+    "campaign": "Supercheap Auto Campaign",
+    "fee": "$15,788",
+    "fee_numeric": 15788,
+    "deliverables": [
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8454572908784236,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8727018970893665,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:47.177323",
+    "fee_tier": "premium",
+    "num_deliverables": 1,
+    "campaign_type": "Limited Edition",
+    "product_category": "Technology & Electronics"
+  }
+}

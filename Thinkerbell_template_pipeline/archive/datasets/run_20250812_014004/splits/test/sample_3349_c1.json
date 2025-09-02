@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3349",
+  "chunk_id": "sample_3349_c1",
+  "text": "Emma Thompson for IKEA - $33,684 budget\n            Need: 3 x Instagram reel\n            8w exclusivity, 5m engagement\n            Usage rights: 11 months\n            Start: December 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

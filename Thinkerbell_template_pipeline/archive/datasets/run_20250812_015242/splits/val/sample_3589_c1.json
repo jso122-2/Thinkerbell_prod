@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3589",
+  "chunk_id": "sample_3589_c1",
+  "text": "Emma Thompson for Autobarn - $32,266 budget\n            Need: 1 x 5-minute review, 1 x Podcast guest, 1 x Twitter post, 1 x Media interview\n            6w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

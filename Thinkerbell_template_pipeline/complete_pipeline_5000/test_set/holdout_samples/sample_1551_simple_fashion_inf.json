@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_1551",
+  "generation_timestamp": "2025-08-04T18:30:17.554684",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Matthew Taylor for Country Road campaign. Budget around $27,159, looking for 3 x 60-second YouTube video, 2 x Pinterest pin, 2 x 30-second Instagram reel, 1 x Instagram post. \n            3 week exclusivity from other fashion brands. \n            Campaign runs September 2025. Usage rights for 8 months. \n            Engagement period: 2 months.",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Country Road",
+    "brand": "Country Road",
+    "campaign": "Country Road Campaign",
+    "fee": "$27,159",
+    "fee_numeric": 27159,
+    "deliverables": [
+      "3 x 60-second YouTube video",
+      "2 x Pinterest pin",
+      "2 x 30-second Instagram reel",
+      "1 x Instagram post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7762058968206892,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9320148618353764,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.543687",
+    "fee_tier": "premium",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Education"
+  }
+}

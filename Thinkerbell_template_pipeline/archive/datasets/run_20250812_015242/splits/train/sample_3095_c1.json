@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3095",
+  "chunk_id": "sample_3095_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Boost Juice\n            • Fee: ~$2,244\n            • Deliverables: 1 x Facebook story\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

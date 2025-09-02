@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1873",
+  "chunk_id": "sample_1873_c1",
+  "text": "Hey team, looking to work with Zoe Wright for Big W. \n            Budget is approx $2,505 - need 2 x Media interview. 2 weeks exclusivity, 6 month engagement. Usage: 7 months. Start date: January 2026.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

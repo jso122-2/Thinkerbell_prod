@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1156",
+  "chunk_id": "sample_1156_c1",
+  "text": "Morgan Morris for Subway - $33,514 budg\n            Need: 3 x TV appearance, 2 x LinkedIn post, 2 x 15-second TikTok\n            10w exclusivity, 4m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

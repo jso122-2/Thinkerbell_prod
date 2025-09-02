@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3240",
+  "generation_timestamp": "2025-08-04T18:30:54.950822",
+  "generator_version": "v1.0",
+  "batch_id": "batch_033",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "tech",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Rowan Bailey for Harvey Norman. \n            Budget is approx $10,526 - need 1 x TikTok video, 1 x Facebook post, 3 x Twitter post, 2 x Facebook story. \n            9 weeks exclusivity, 4 month engagement. \n            Usage: 11 months. Start date: January 2026.",
+    "token_count": 73,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Rowan Bailey",
+    "client": "Harvey Norman",
+    "brand": "Harvey Norman",
+    "campaign": "Harvey Norman Campaign",
+    "fee": "$10,526",
+    "fee_numeric": 10526,
+    "deliverables": [
+      "1 x TikTok video",
+      "1 x Facebook post",
+      "3 x Twitter post",
+      "2 x Facebook story"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "electronics",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7473452547777599,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8661134912106365,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:54.940823",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Entertainment"
+  }
+}

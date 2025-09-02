@@ -1,0 +1,49 @@
+# ThinkerBell Runtime Configuration
+# This file can be used to override default settings without rebuilding the Docker image
+
+# API Configuration
+api:
+  host: "0.0.0.0"
+  port: 8000
+  debug: false
+  workers: 4
+
+# Model Configuration
+models:
+  semantic_model: "sentence-transformers/all-MiniLM-L6-v2"
+  cache_ttl_seconds: 3600
+  embedding_cache_ttl_seconds: 1800
+
+# FAISS Configuration
+faiss:
+  threads: 8
+  max_batch_size: 32
+  dimension: 384
+  hnsw_m: 32
+  hnsw_ef_construction: 200
+
+# Performance Settings
+performance:
+  max_memory_mb: 1000
+  query_timeout_seconds: 30
+  cache_size: 10000
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Redis Configuration
+redis:
+  url: "redis://redis:6379"
+  max_connections: 10
+  socket_timeout: 5
+
+# MinIO Configuration  
+minio:
+  endpoint: "minio:9000"
+  access_key: "thinkerbell-admin"
+  secret_key: "thinkerbell-secret-2025"
+  secure: false
+  bucket_name: "thinkerbell-models"
+

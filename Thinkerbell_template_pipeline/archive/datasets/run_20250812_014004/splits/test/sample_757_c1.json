@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_757",
+  "chunk_id": "sample_757_c1",
+  "text": "Hey team, looking to work with Grace Young for Mad Mex. Budget is approx $3,994 - need 1 x Lifestyle photography, 2 x LinkedIn post, 1 x Professional headshots, 1 x TV appearance. 3 weeks exclusivity, 3 month engagement. Usage: 9 months. Start date: September 2025.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

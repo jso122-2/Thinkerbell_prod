@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_904",
+  "chunk_id": "sample_904_c1",
+  "text": "Need Layla Campbell for Chemist Warehouse campaign. Budget around $11,428, looking for 2 x Instagram post, 2 x Instagram post, 3 x Instagram post. 5 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 6 months.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_036",
+  "chunk_id": "sample_036_c1",
+  "text": "Hey team, looking to work with Blake Morgan for Priceline. Budget is approx $21,405 - need 1 x Product photography. 10 weeks exclusivity, 5 month engagement. Usage: 10 months. Start date: November 2025. Additional notes: TBC on exact dates, around $21,405 budget",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

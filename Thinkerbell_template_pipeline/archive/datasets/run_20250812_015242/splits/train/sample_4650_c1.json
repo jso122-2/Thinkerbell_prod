@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4650",
+  "chunk_id": "sample_4650_c1",
+  "text": "Hey team, looking to work with Cameron Parker for Country Road. Budget is approx $4,774 - need 1 x YouTube video, 2 x 10-minute unboxing, 1 x Twitter post, 2 x Media interview, 3 x Facebook story. 9 weeks exclusivity, 3 month engagement. Usage: 11 months. Start date: October 2025.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

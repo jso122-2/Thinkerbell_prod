@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_2068",
+  "generation_timestamp": "2025-08-04T18:30:29.652861",
+  "generator_version": "v1.0",
+  "batch_id": "batch_021",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Daniel Martinez for Myer - $3,032 budget\n            Need: 3 x 15-second TikTok, 2 x TikTok video\n            6w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+    "token_count": 51,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$3,032",
+    "fee_numeric": 3032,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "2 x TikTok video"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8227537161188061,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.940387700143075,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:29.638104",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "Limited Edition",
+    "product_category": "Travel & Tourism"
+  }
+}

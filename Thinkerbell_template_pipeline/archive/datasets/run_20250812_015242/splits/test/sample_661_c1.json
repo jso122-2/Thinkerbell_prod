@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_661",
+  "chunk_id": "sample_661_c1",
+  "text": "Justin Mitchell for Chemist Warehouse - $6,633 budget\n            Need: 2 x Press release quote\n            2w exclusivity, 3m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

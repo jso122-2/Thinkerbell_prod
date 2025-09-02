@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1934",
+  "chunk_id": "sample_1934_c1",
+  "text": "• Influencer: Joshua Hall\n            • Brand: Woolworths\n            • Fee: ~$12,774\n            • Deliverables: 2 x 60-second YouTube video\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3357",
+  "chunk_id": "sample_3357_c1",
+  "text": "Need Cameron Parker for Woolworths campaign. Budget around $2,484, looking for 1 x Facebook story, 1 x YouTube video, 3 x YouTube video, 3 x Instagram post. 7 week exclusivity from other grocery brands. Campaign runs November 2025. Usage rights for 11 months. Engagement period: 3 months.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

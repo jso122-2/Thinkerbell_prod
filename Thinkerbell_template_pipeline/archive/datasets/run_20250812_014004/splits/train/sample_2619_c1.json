@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2619",
+  "chunk_id": "sample_2619_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Supercheap Auto\n            • Fee: ~$18,684\n            • Deliverables: 1 x Instagram reel, 3 x Instagram story, 3 x Lifestyle photography, 3 x 15-second TikTok\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

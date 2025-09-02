@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1882",
+  "chunk_id": "sample_1882_c1",
+  "text": "• Influencer: Scarlett Turner\n            • Brand: Coles\n            • Fee: ~$12,469\n            • Deliverables: 3 x 15-second TikTok, 3 x Professional headshots, 3 x Facebook post\n            • Exclusivity: 3 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

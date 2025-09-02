@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2538",
+  "chunk_id": "sample_2538_c1",
+  "text": "• Influencer: Quinn Cook\n            • Brand: Guzman y Gomez\n            • Fee: ~$5,056\n            • Deliverables: 2 x Instagram reel, 1 x Twitter post, 2 x Facebook post\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 11 months\n            • Start: September 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

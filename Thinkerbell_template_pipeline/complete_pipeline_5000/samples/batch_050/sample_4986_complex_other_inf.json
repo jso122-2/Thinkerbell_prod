@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4986",
+  "generation_timestamp": "2025-08-04T18:31:31.114332",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Lily Walker\n            • Brand: Kmart\n            • Fee: ~$3,607\n            • Deliverables: 2 x Social media takeover, 1 x Twitter post, 2 x Instagram story, 3 x Brand photoshoot\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: October 2025 reckon",
+    "token_count": 84,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Lily Walker",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$3,607",
+    "fee_numeric": 3607,
+    "deliverables": [
+      "2 x Social media takeover",
+      "1 x Twitter post",
+      "2 x Instagram story",
+      "3 x Brand photoshoot"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7090559005892143,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.850277097914707,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:31.105332",
+    "fee_tier": "micro",
+    "num_deliverables": 4,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

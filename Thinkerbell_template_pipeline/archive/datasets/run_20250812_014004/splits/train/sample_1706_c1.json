@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1706",
+  "chunk_id": "sample_1706_c1",
+  "text": "Hey team, looking to work with Kevin Baker for Mecca. Budget is approx $13,801 - need 1 x Instagram story, 2 x Social media takeover. 12 weeks exclusivity, 3 month engagement. Usage: 10 months. Start date: December 2025.",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

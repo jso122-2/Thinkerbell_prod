@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4677",
+  "chunk_id": "sample_4677_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: JB Hi-Fi\n            • Fee: ~$3,609\n            • Deliverables: 3 x 30-second Instagram reel, 3 x Instagram reel\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 6 months\n            • Start: December 2025\n\nNeed to confirm: usage rights",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

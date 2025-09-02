@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2551",
+  "chunk_id": "sample_2551_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Mecca\n            • Fee: ~$14,330\n            • Deliverables: 3 x LinkedIn post, 2 x Facebook post, 2 x 30-second Instagram reel, 1 x Pinterest pin\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: January 2026",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

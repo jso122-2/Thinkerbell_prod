@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1501",
+  "chunk_id": "sample_1501_c1",
+  "text": "Andrew Clark for Mad Mex - $4,434 budget\n            Need: 3 x LinkedIn post, 1 x LinkedIn post\n            11w exclusivity, 2m engmt\n            Usage rights: 7 months\n            Start: December 2025 no worries",
+  "token_count": 51,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

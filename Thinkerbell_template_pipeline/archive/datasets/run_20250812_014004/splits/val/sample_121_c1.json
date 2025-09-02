@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_121",
+  "chunk_id": "sample_121_c1",
+  "text": "Cameron Parker for Hungry Jack's - $23,141 budget\n            Need: 1 x Twitter post, 2 x Lifestyle photography, 1 x Lifestyle photography, 1 x Instagram post, 3 x Twitter post\n            8w exclusivity, 2m engagement\n            Usage rights: 8 months\n            Start: September 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

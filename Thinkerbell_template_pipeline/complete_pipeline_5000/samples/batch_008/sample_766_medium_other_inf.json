@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_766",
+  "generation_timestamp": "2025-08-04T18:30:00.919106",
+  "generator_version": "v1.0",
+  "batch_id": "batch_008",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Ryan Allen\n            • Brand: Red Rooster\n            • Fee: ~$11,265\n            • Deliverables: 2 x 90-second product demo, 2 x TikTok video, 2 x LinkedIn post, 1 x TikTok video, 1 x Twitter post\n            • Exclusivity: 5 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: November 2025",
+    "token_count": 87,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Ryan Allen",
+    "client": "Red Rooster",
+    "brand": "Red Rooster",
+    "campaign": "Red Rooster Campaign",
+    "fee": "$11,265",
+    "fee_numeric": 11265,
+    "deliverables": [
+      "2 x 90-second product demo",
+      "2 x TikTok video",
+      "2 x LinkedIn post",
+      "1 x TikTok video",
+      "1 x Twitter post"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9334176955180393,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9452972591702952,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:00.908103",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Seasonal Promotion",
+    "product_category": "Automotive"
+  }
+}

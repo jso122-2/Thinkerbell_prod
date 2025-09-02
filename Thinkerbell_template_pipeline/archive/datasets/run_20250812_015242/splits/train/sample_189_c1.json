@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_189",
+  "chunk_id": "sample_189_c1",
+  "text": "Hannah Green for Nando's - $3,737 budget\n            Need: 2 x Product photography, 3 x Event photography, 1 x Pinterest pin, 3 x 2-minute tutorial\n            7w exclusivity, 2m engagement\n            Usage rights: 12 months\n            Start: January 2026",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

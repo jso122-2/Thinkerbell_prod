@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1003",
+  "chunk_id": "sample_1003_c1",
+  "text": "Need Ava Johnson for Officeworks campaign. Budget around $1,577, looking for 2 x Instagram post, 2 x Twitter post, 1 x Facebook post. 12 week exclusivity from other electronics brands. Campaign runs September 2025. Usage rights for 7 months. Engagement period: 3 months.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

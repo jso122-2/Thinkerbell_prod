@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1194",
+  "chunk_id": "sample_1194_c1",
+  "text": "Hey team, looking to work with Daniel Martinez for Zambrero. Budget is approx $23,934 - need 3 x Facebook post, 2 x Product photography, 2 x Radio interview, 3 x Instagram reel. 12 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: September 2025.",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

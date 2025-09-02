@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_301",
+  "chunk_id": "sample_301_c1",
+  "text": "• Influencer: Brandon Nelson\n            • Brand: Pizza Hut\n            • Fee: ~$7,866\n            • Deliverables: 1 x Product launch event, 2 x Lifestyle photography, 3 x Professional headshots, 2 x Twitter post\n            • Exclusivity: 8 weeks\n            • Engagement: 4 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

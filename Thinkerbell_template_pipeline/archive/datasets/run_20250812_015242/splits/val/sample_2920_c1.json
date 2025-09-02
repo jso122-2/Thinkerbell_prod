@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2920",
+  "chunk_id": "sample_2920_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Fantastic Furniture\n            • Fee: ~$3,391\n            • Deliverables: 1 x Pinterest pin, 3 x TikTok video\n            • Exclusivity: 11 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $3,391 budget",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

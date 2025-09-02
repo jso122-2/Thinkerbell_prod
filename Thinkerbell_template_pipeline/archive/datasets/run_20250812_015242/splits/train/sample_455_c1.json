@@ -1,0 +1,14 @@
+{
+  "sample_id": "sample_455",
+  "chunk_id": "sample_455_c1",
+  "text": "Christopher Lee for JB Hi-Fi - $12,713 budget\n            Need: 3 x 10-minute unboxing, 3 x Lifestyle photography, 2 x Instagram story, 2 x Lifestyle photography\n            9w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: October 2025",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

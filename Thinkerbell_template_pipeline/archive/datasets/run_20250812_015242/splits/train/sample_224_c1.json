@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_224",
+  "chunk_id": "sample_224_c1",
+  "text": "Quinn Cook for Roll'd - $21,037 budget\n            Need: 3 x Instagram post, 2 x Instagram post, 3 x Pinterest pin\n            8w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3658",
+  "chunk_id": "sample_3658_c1",
+  "text": "• Influencer: Aria Perez\n            • Brand: Kmart\n            • Fee: ~$33,190\n            • Deliverables: 2 x Press conference, 3 x LinkedIn post, 3 x Brand ambassador content, 2 x Instagram story, 3 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

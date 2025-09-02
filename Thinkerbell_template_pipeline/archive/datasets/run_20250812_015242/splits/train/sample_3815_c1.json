@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3815",
+  "chunk_id": "sample_3815_c1",
+  "text": "Hey team, looking to work with Sophie Anderson for Fantastic Furniture. Budget is approx $6,307 - need 2 x Professional headshots, 2 x Professional headshots, 2 x Facebook post, 2 x Instagram reel. 2 weeks exclusivity, 2 month engagement. Usage: 12 months. Start date: December 2025.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

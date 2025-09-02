@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3001",
+  "chunk_id": "sample_3001_c1",
+  "text": "Need Blake Cox for Cotton On campaign. Budget around $23,088, looking for 3 x Facebook post, 3 x YouTube video, 2 x 30-second Instagram reel, 2 x Instagram reel. 2 week exclusivity from other fashion brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 2 months.",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

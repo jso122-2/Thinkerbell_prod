@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_577",
+  "chunk_id": "sample_577_c1",
+  "text": "Hey team, looking to work with Emma Thompson for IKEA. Budget is approx $32,083 - need 1 x YouTube video, 2 x Instagram post, 2 x Instagram post, 2 x Article contribution, 1 x Instagram post. 3 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: October 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

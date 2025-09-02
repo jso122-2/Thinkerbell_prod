@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1249",
+  "chunk_id": "sample_1249_c1",
+  "text": "Sean Roberts for Adairs - $2,775 budget\n            Need: 1 x 15-second TikTok, 1 x Lifestyle photography, 3 x LinkedIn post\n            4w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2952",
+  "chunk_id": "sample_2952_c1",
+  "text": "Need Reagan Rogers for Officeworks campaign. Budget around $18,115, looking for 1 x Twitter post. 2 week exclusivity from other electronics brands. Campaign runs October 2025. Usage rights for 9 months. Engagement period: 4 months. Additional notes: TBC on exact dates, around $18,115 budget",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4026",
+  "chunk_id": "sample_4026_c1",
+  "text": "• Influencer: Sarah Chen\n            • Brand: Cotton On\n            • Fee: ~$21,752\n            • Deliverables: 1 x Instagram story, 1 x Professional headshots, 3 x Instagram post, 2 x Product photography, 2 x LinkedIn post\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 80,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

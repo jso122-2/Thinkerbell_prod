@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3581",
+  "chunk_id": "sample_3581_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Pizza Hut\n            • Fee: ~$2,367\n            • Deliverables: 1 x Press release quote, 3 x Press conference, 1 x 15-second TikTok\n            • Exclusivity: 3 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $2,367 budget",
+  "token_count": 86,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

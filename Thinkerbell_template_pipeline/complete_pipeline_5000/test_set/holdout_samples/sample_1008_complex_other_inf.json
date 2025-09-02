@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1008",
+  "generation_timestamp": "2025-08-04T18:30:06.480077",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Riley Evans for Zambrero campaign. Budget around $17,026, looking for 3 x 60-second YouTube video, 3 x Brand ambassador content. \n            6 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 12 months. \n            Engagement period: 6 months.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 85,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Zambrero",
+    "brand": "Zambrero",
+    "campaign": "Zambrero Campaign",
+    "fee": "$17,026",
+    "fee_numeric": 17026,
+    "deliverables": [
+      "3 x 60-second YouTube video",
+      "3 x Brand ambassador content"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "12 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7747087954366021,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7770818351538687,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.470078",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Entertainment"
+  }
+}

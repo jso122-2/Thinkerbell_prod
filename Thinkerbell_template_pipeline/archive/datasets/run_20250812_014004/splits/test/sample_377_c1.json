@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_377",
+  "chunk_id": "sample_377_c1",
+  "text": "Hey team, looking to work with James Wilson for Bunnings. Budget is approx $7,832 - need 1 x Facebook story, 1 x YouTube video, 1 x Pinterest pin, 2 x 90-second product demo. 12 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: December 2025. Additional notes: TBC on exact dates, around $7,832 budget",
+  "token_count": 90,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

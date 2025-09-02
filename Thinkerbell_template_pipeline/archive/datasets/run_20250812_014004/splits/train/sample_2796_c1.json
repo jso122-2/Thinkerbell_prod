@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2796",
+  "chunk_id": "sample_2796_c1",
+  "text": "• Influencer: Peyton Stewart\n            • Brand: Freedom\n            • Fee: ~$10,219\n            • Deliverables: 2 x 2-minute tutorial, 1 x Instagram story, 2 x Facebook post, 3 x 90-second product demo, 2 x 2-minute tutorial\n            • Exclusivity: 7 weeks\n            • Engagement: 2 months\n            • Usage: 6 months\n            • Start: October 2025",
+  "token_count": 83,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

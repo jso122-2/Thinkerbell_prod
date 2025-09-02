@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4484",
+  "chunk_id": "sample_4484_c1",
+  "text": "Kevin Baker for Bed Bath N' Table - $3,653 budget\n            Need: 3 x LinkedIn post, 2 x Facebook post, 2 x YouTube short, 3 x YouTube video\n            5w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 59,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

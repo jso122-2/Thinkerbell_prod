@@ -1,0 +1,66 @@
+{
+  "sample_id": "validation_030",
+  "generation_timestamp": "2025-08-04T18:29:45.758446",
+  "generator_version": "v1.0",
+  "batch_id": "validation_batch",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hannah Green for Kmart - $25,240 budget\n            Need: 1 x Instagram post, 2 x 30-second Instagram reel\n            12w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: November 2025",
+    "token_count": 54,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Kmart",
+    "brand": "Kmart",
+    "campaign": "Kmart Campaign",
+    "fee": "$25,240",
+    "fee_numeric": 25240,
+    "deliverables": [
+      "1 x Instagram post",
+      "2 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8847095781353125,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9433271526834421,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:45.751444",
+    "fee_tier": "premium",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Automotive"
+  }
+}

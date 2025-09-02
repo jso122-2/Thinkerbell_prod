@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_513",
+  "generation_timestamp": "2025-08-04T18:29:56.413169",
+  "generator_version": "v1.0",
+  "batch_id": "batch_006",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Hayden Howard for Cotton On campaign. Budget around $2,834, looking for 3 x Facebook post, 2 x Twitter post, 2 x Product photography, 2 x Product photography, 3 x Facebook story. \n            9 week exclusivity from other fashion brands. \n            Campaign runs September 2025. Usage rights for 9 months. \n            Engagement period: 4 months.",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hayden Howard",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$2,834",
+    "fee_numeric": 2834,
+    "deliverables": [
+      "3 x Facebook post",
+      "2 x Twitter post",
+      "2 x Product photography",
+      "2 x Product photography",
+      "3 x Facebook story"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7652920854009471,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9165390521089742,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:56.405166",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

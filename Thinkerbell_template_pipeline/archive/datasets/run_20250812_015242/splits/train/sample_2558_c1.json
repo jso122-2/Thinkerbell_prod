@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2558",
+  "chunk_id": "sample_2558_c1",
+  "text": "• Influencer: Aria Perez\n            • Brand: Nando's\n            • Fee: ~$10,693\n            • Deliverables: 3 x Instagram post, 1 x 3-minute vlog, 1 x Facebook post, 2 x Twitter post, 1 x Radio interview\n            • Exclusivity: 2 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: December 2025\n\nAdditional notes: TBC on exact dates, around $10,693 budget",
+  "token_count": 97,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

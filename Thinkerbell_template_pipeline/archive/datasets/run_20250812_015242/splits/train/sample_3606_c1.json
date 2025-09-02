@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3606",
+  "chunk_id": "sample_3606_c1",
+  "text": "Need Chloe Lewis for Telstra campaign. Budget around $18,677, looking for 2 x Facebook post, 3 x Facebook story, 2 x Instagram post, 2 x Podcast guest, 2 x Twitter post. 7 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 12 months. Engagement period: 6 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

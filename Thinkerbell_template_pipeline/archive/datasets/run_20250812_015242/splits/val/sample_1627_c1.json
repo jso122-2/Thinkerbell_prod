@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1627",
+  "chunk_id": "sample_1627_c1",
+  "text": "Hey team, looking to work with Isabella Garcia for Queen Fine Foods. Budget is approx $33,767 - need 1 x Radio interview, 3 x 90-second product demo, 1 x TV appearance, 2 x Radio interview. 5 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: January 2026.",
+  "token_count": 72,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

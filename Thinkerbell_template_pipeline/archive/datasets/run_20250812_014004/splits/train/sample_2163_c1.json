@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2163",
+  "chunk_id": "sample_2163_c1",
+  "text": "• Influencer: Nathan King\n            • Brand: Officeworks\n            • Fee: ~$7,308\n            • Deliverables: 2 x Meet and greet, 2 x TikTok video, 1 x Blog post, 3 x Pinterest pin\n            • Exclusivity: 9 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: December 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

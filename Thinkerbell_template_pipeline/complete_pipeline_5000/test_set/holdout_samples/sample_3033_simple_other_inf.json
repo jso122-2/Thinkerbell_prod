@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_3033",
+  "generation_timestamp": "2025-08-04T18:30:50.750166",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Justin Mitchell for Domino's. \n            Budget is approx $11,545 - need 1 x Meet and greet. \n            5 weeks exclusivity, 6 month engagement. \n            Usage: 11 months. Start date: October 2025.",
+    "token_count": 59,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$11,545",
+    "fee_numeric": 11545,
+    "deliverables": [
+      "1 x Meet and greet"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7436594570174728,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.818534240181753,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.735601",
+    "fee_tier": "mid",
+    "num_deliverables": 1,
+    "campaign_type": "New Season",
+    "product_category": "Health & Fitness"
+  }
+}

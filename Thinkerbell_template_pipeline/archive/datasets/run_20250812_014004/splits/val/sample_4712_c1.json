@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4712",
+  "chunk_id": "sample_4712_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for Target. Budget is approx $1,526 - need 3 x Facebook post. 3 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2236",
+  "chunk_id": "sample_2236_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Portmans. Budget is approx $24,116 - need 2 x Product launch event. 6 weeks exclusivity, 4 month engagement. Usage: 9 months. Start date: January 2026. Need to confirm: deliverables",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

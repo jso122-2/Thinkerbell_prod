@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1777",
+  "chunk_id": "sample_1777_c1",
+  "text": "Hey team, looking to work with Scarlett Turner for Priceline. Budget is approx $9,072 - need 2 x Professional headshots, 2 x Pinterest pin, 2 x Facebook story. 5 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

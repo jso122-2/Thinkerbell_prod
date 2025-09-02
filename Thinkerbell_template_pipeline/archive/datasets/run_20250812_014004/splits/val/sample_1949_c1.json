@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1949",
+  "chunk_id": "sample_1949_c1",
+  "text": "Hey team, looking to work with Hayden Bell for Coles. Budget is approx $4,276 - need 3 x Pinterest pin, 2 x Instagram post, 3 x Instagram story, 3 x Press conference. 7 weeks exclusivity, 4 month engagement. Usage: 11 months. Start date: November 2025.",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

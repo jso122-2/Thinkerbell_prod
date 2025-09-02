@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2184",
+  "chunk_id": "sample_2184_c1",
+  "text": "Jordan Phillips for Boost Juice - $10,333 budget\n            Need: 1 x YouTube short, 1 x Instagram story, 2 x YouTube video\n            10w exclusivity, 6m engagement\n            Usage rights: 8 months\n            Start: January 2026",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

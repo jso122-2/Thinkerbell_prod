@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3984",
+  "chunk_id": "sample_3984_c1",
+  "text": "• Influencer: Daniel Martinez\n            • Brand: Hungry Jack's\n            • Fee: ~$2,734\n            • Deliverables: 2 x Facebook story, 1 x Instagram story, 2 x 60-second YouTube video, 1 x LinkedIn post\n            • Exclusivity: 11 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3576",
+  "generation_timestamp": "2025-08-04T18:31:01.453270",
+  "generator_version": "v1.0",
+  "batch_id": "batch_036",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Scarlett Turner\n            • Brand: Myer\n            • Fee: ~$19,995\n            • Deliverables: 2 x 30-second Instagram reel, 3 x Instagram story, 1 x Pinterest pin, 3 x Pinterest pin, 2 x Facebook story\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 11 months\n            • Start: December 2025",
+    "token_count": 88,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Scarlett Turner",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$19,995",
+    "fee_numeric": 19995,
+    "deliverables": [
+      "2 x 30-second Instagram reel",
+      "3 x Instagram story",
+      "1 x Pinterest pin",
+      "3 x Pinterest pin",
+      "2 x Facebook story"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "6 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7219980934097123,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.906720353420978,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:01.442272",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Entertainment"
+  }
+}

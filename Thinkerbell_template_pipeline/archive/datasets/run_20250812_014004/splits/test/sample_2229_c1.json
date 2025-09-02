@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2229",
+  "chunk_id": "sample_2229_c1",
+  "text": "Hey team, looking to work with Hayden Bell for Grill'd. Budget is approx $9,541 - need 1 x Event photography, 2 x 60-second YouTube video, 1 x Instagram story, 2 x YouTube short, 3 x Radio interview. 7 weeks exclusivity, 3 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

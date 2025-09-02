@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1101",
+  "chunk_id": "sample_1101_c1",
+  "text": "Rowan Bailey for Officeworks - $2,958 budget\n            Need: 3 x Podcast guest, 3 x 30-second Instagram reel\n            7w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 49,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

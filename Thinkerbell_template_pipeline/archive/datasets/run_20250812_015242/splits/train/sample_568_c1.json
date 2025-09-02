@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_568",
+  "chunk_id": "sample_568_c1",
+  "text": "Riley Evans for McDonald's - $7,637 budget\n            Need: 1 x 90-second product demo, 1 x 15-second TikTok, 1 x Pinterest pin, 1 x LinkedIn post, 1 x TV appearance\n            10w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 71,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

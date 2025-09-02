@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4642",
+  "chunk_id": "sample_4642_c1",
+  "text": "Rowan Bailey for Pizza Hut - $8,951 budget\n            Need: 3 x 2-minute tutorial, 2 x Blog post, 1 x Twitter post\n            7w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: September 2025",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

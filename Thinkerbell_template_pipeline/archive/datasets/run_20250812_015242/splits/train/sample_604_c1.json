@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_604",
+  "chunk_id": "sample_604_c1",
+  "text": "• Influencer: Hayden Bell\n            • Brand: Priceline\n            • Fee: ~$6,593\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4972",
+  "chunk_id": "sample_4972_c1",
+  "text": "Hey team, looking to work with Hannah Green for Commonwealth Bank. Budget is approx $22,851 - need 1 x LinkedIn post, 1 x 30-second Instagram reel. 10 weeks exclusivity, 3 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

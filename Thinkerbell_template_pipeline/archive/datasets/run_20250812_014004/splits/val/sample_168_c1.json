@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_168",
+  "chunk_id": "sample_168_c1",
+  "text": "• Influencer: Zoe Wright\n            • Brand: Big W\n            • Fee: ~$34,472\n            • Deliverables: 2 x 15-second TikTok, 3 x Facebook post\n            • Exclusivity: 10 weeks\n            • Engagement: 2 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

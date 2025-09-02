@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1024",
+  "chunk_id": "sample_1024_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Country Road\n            • Fee: ~$2,497\n            • Deliverables: 3 x Instagram post, 3 x Pinterest pin, 1 x Product photography, 1 x Twitter post\n            • Exclusivity: 6 weeks\n            • Engagement: 4 months\n            • Usage: 7 months\n            • Start: January 2026",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

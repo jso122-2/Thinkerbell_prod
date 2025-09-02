@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4841",
+  "chunk_id": "sample_4841_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Guzman y Gomez\n            • Fee: ~$12,454\n            • Deliverables: 2 x Product photography, 1 x Radio interview\n            • Exclusivity: 8 weeks\n            • Engagement: 6 months\n            • Usage: 6 months\n            • Start: September 2025 ripper",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

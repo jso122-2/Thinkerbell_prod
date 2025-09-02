@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3757",
+  "chunk_id": "sample_3757_c1",
+  "text": "Need Cameron Parker for KFC campaign. Budget around $2,600, looking for 1 x Live stream. 6 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 12 months. Engagement period: 6 months.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

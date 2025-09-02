@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4524",
+  "chunk_id": "sample_4524_c1",
+  "text": "Need Blake Cox for Bunnings campaign. Budget around $10,478, looking for 3 x YouTube video, 1 x Facebook story, 1 x Instagram post. 7 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

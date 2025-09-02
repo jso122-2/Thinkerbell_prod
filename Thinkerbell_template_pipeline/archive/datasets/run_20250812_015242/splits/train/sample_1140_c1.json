@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1140",
+  "chunk_id": "sample_1140_c1",
+  "text": "Ryan Allen for Sephora - $14,319 budget\n            Need: 1 x LinkedIn post, 3 x LinkedIn post, 1 x Lifestyle photography, 1 x LinkedIn post, 1 x Live stream\n            4w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

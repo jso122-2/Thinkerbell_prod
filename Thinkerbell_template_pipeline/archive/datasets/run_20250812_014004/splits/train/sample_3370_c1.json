@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3370",
+  "chunk_id": "sample_3370_c1",
+  "text": "• Influencer: Matthew Taylor\n            • Brand: Harvey Norman\n            • Fee: ~$31,462\n            • Deliverables: 3 x Press conference, 3 x Instagram post, 3 x Facebook post, 3 x Pinterest pin, 1 x Facebook post\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: September 2025",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

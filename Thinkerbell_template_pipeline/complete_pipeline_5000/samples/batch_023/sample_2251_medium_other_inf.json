@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2251",
+  "generation_timestamp": "2025-08-04T18:30:33.989758",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Riley Evans for Big W campaign. Budget around $10,688, looking for 3 x YouTube video, 1 x Instagram reel, 2 x YouTube short, 3 x Behind-the-scenes content, 3 x Meet and greet. \n            12 week exclusivity from other similar brands. \n            Campaign runs November 2025. Usage rights for 8 months. \n            Engagement period: 5 months.\n\nAdditional notes: TBC on exact dates, around $10,688 budget",
+    "token_count": 103,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Riley Evans",
+    "client": "Big W",
+    "brand": "Big W",
+    "campaign": "Big W Campaign",
+    "fee": "$10,688",
+    "fee_numeric": 10688,
+    "deliverables": [
+      "3 x YouTube video",
+      "1 x Instagram reel",
+      "2 x YouTube short",
+      "3 x Behind-the-scenes content",
+      "3 x Meet and greet"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_3",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7826034433227232,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8026791782555727,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_3",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:33.979758",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Technology & Electronics"
+  }
+}

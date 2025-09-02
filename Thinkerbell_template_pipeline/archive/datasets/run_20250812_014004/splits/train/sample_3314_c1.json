@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3314",
+  "chunk_id": "sample_3314_c1",
+  "text": "Need Hayden Howard for Harvey Norman campaign. Budget around $16,901, looking for 2 x Facebook post, 1 x 60-second YouTube video, 2 x LinkedIn post. 12 week exclusivity from other electronics brands. Campaign runs September 2025. Usage rights for 7 months. Engagement period: 2 months. Need to confirm: exclusivity period",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

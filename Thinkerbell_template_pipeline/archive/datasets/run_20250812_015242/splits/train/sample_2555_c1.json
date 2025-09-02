@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2555",
+  "chunk_id": "sample_2555_c1",
+  "text": "Need Layla Campbell for Bunnings campaign. Budget around $13,750, looking for 1 x 15-second TikTok, 2 x Instagram post. 7 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

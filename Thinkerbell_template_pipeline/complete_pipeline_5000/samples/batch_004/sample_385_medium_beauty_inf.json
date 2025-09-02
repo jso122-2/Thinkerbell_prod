@@ -1,0 +1,65 @@
+{
+  "sample_id": "sample_385",
+  "generation_timestamp": "2025-08-04T18:29:52.937699",
+  "generator_version": "v1.0",
+  "batch_id": "batch_004",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Daniel Martinez for Sephora. \n            Budget is approx $1,637 - need 1 x 3-minute vlog. \n            9 weeks exclusivity, 2 month engagement. \n            Usage: 11 months. Start date: October 2025.\n\nAdditional notes: TBC on exact dates, around $1,637 budget\n\nNeed to confirm: usage rights",
+    "token_count": 81,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Daniel Martinez",
+    "client": "Sephora",
+    "brand": "Sephora",
+    "campaign": "Sephora Campaign",
+    "fee": "$1,637",
+    "fee_numeric": 1637,
+    "deliverables": [
+      "1 x 3-minute vlog"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8010957136027534,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8326682194849928,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:29:52.924699",
+    "fee_tier": "micro",
+    "num_deliverables": 1,
+    "campaign_type": "Collaboration",
+    "product_category": "Finance & Insurance"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_3031",
+  "generation_timestamp": "2025-08-04T18:30:50.717334",
+  "generator_version": "v1.0",
+  "batch_id": "batch_031",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Natalie Adams for Pizza Hut - $5,680 budg\n            Need: 1 x Blog post, 3 x Instagram story, 1 x Twitter post, 2 x 30-second Instagram reel\n            4w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+    "token_count": 63,
+    "requires_chunking": false,
+    "text_style": "formal",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Natalie Adams",
+    "client": "Pizza Hut",
+    "brand": "Pizza Hut",
+    "campaign": "Pizza Hut Campaign",
+    "fee": "$5,680",
+    "fee_numeric": 5680,
+    "deliverables": [
+      "1 x Blog post",
+      "3 x Instagram story",
+      "1 x Twitter post",
+      "2 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.6323980983375035,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7466449907343707,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:50.703961",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Food & Beverage"
+  }
+}

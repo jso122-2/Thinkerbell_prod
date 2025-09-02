@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3943",
+  "generation_timestamp": "2025-08-04T18:31:09.647767",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Sean Roberts for Myer - $4,649 budget\n            Need: 2 x 90-second product demo, 1 x Instagram post, 3 x Lifestyle photography, 2 x Product photography, 1 x Instagram story\n            12w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+    "token_count": 71,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sean Roberts",
+    "client": "Myer",
+    "brand": "Myer",
+    "campaign": "Myer Campaign",
+    "fee": "$4,649",
+    "fee_numeric": 4649,
+    "deliverables": [
+      "2 x 90-second product demo",
+      "1 x Instagram post",
+      "3 x Lifestyle photography",
+      "2 x Product photography",
+      "1 x Instagram story"
+    ],
+    "exclusivity_period": "12 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "2 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7902066357783464,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8141682012486209,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:09.635776",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Entertainment"
+  }
+}

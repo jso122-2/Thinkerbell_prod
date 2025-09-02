@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_558",
+  "chunk_id": "sample_558_c1",
+  "text": "Mia White for Kmart - $3,164 budget\n            Need: 1 x Pinterest pin, 1 x Event photography, 1 x Meet and greet\n            10w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: November 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

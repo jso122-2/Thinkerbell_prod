@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4976",
+  "chunk_id": "sample_4976_c1",
+  "text": "• Influencer: Natalie Adams\n            • Brand: Betty's Burgers\n            • Fee: ~$3,612\n            • Deliverables: 2 x Instagram reel, 2 x YouTube short, 3 x Twitter post, 3 x 2-minute tutorial, 3 x Twitter post\n            • Exclusivity: 2 weeks\n            • Engagement: 6 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

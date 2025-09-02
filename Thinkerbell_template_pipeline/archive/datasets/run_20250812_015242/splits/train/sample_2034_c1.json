@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2034",
+  "chunk_id": "sample_2034_c1",
+  "text": "Need Christopher Lee for Cotton On campaign. Budget around $15,864, looking for 2 x Instagram reel, 3 x Product photography, 3 x LinkedIn post. 9 week exclusivity from other fashion brands. Campaign runs December 2025. Usage rights for 9 months. Engagement period: 6 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

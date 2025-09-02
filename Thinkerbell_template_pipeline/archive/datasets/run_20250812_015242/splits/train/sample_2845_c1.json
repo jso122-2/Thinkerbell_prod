@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2845",
+  "chunk_id": "sample_2845_c1",
+  "text": "Hey team, looking to work with Morgan Morris for Subway. Budget is approx $1,592 - need 2 x 3-minute vlog, 1 x 60-second YouTube video, 1 x TikTok video, 2 x Radio interview, 3 x YouTube video. 3 weeks exclusivity, 5 month engagement. Usage: 7 months. Start date: November 2025. Additional notes: TBC on exact dates, around $1,592 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

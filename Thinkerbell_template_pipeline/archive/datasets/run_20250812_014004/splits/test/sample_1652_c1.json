@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1652",
+  "chunk_id": "sample_1652_c1",
+  "text": "• Influencer: James Wilson\n            • Brand: Betty's Burgers\n            • Fee: ~$2,031\n            • Deliverables: 1 x Instagram story, 1 x Meet and greet, 2 x Store opening, 3 x Product photography, 1 x YouTube video\n            • Exclusivity: 2 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $2,031 budget",
+  "token_count": 96,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

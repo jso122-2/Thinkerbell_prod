@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3084",
+  "chunk_id": "sample_3084_c1",
+  "text": "Hey team, looking to work with Lily Walker for Mad Mex. Budget is approx $1,629 - need 3 x Media interview. 2 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: January 2026.",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3943",
+  "chunk_id": "sample_3943_c1",
+  "text": "Sean Roberts for Myer - $4,649 budget\n            Need: 2 x 90-second product demo, 1 x Instagram post, 3 x Lifestyle photography, 2 x Product photography, 1 x Instagram story\n            12w exclusivity, 2m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4784",
+  "chunk_id": "sample_4784_c1",
+  "text": "Hannah Green for Guzman y Gomez - $4,993 budget\n            Need: 3 x Facebook post\n            3w exclusivity, 6m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 41,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

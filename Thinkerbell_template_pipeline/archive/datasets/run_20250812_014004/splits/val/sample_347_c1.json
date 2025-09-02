@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_347",
+  "chunk_id": "sample_347_c1",
+  "text": "Hey team, looking to work with Natalie Adams for Subway. Budget is approx $20,489 - need 1 x 90-second product demo, 3 x Instagram post, 3 x LinkedIn post, 3 x Meet and greet, 3 x Behind-the-scenes content. 3 weeks exclusivity, 3 month engagement. Usage: 7 months. Start date: November 2025.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

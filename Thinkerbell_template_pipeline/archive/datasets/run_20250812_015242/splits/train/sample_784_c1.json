@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_784",
+  "chunk_id": "sample_784_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Woolworths. Budget is approx $3,711 - need 1 x Meet and greet, 2 x TikTok video, 2 x Instagram reel, 2 x Facebook post, 2 x Instagram post. 11 weeks exclusivity, 2 month engagement. Usage: 10 months. Start date: October 2025.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

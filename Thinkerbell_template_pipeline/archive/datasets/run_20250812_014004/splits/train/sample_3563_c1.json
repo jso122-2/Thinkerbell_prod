@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3563",
+  "chunk_id": "sample_3563_c1",
+  "text": "Need Joshua Hall for Autobarn campaign. Budget around $4,062, looking for 3 x Product photography, 3 x Meet and greet, 3 x Media interview. 6 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 8 months. Engagement period: 3 months.",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

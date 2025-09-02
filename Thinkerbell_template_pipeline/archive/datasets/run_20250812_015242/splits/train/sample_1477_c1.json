@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1477",
+  "chunk_id": "sample_1477_c1",
+  "text": "Hey team, looking to work with Hannah Green for Zambrero. Budget is approx $9,448 - need 1 x 60-second YouTube video, 3 x 30-second Instagram reel, 2 x Event photography, 1 x Social media takeover, 3 x 60-second YouTube video. 2 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: January 2026.",
+  "token_count": 85,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

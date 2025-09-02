@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1651",
+  "chunk_id": "sample_1651_c1",
+  "text": "Isabella Garcia for Adairs - $19,661 budget\n            Need: 1 x Event photography, 3 x LinkedIn post, 3 x Lifestyle photography, 3 x Facebook post, 2 x Instagram story\n            10w exclusivity, 3m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

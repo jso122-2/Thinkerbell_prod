@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4873",
+  "chunk_id": "sample_4873_c1",
+  "text": "Sean Roberts for Freedom - $4,384 budget\n            Need: 3 x Lifestyle photography, 3 x LinkedIn post\n            11w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_802",
+  "chunk_id": "sample_802_c1",
+  "text": "Need Skylar Collins for Supercheap Auto campaign. Budget around $29,584, looking for 1 x Pinterest pin. 8 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 7 months. Engagement period: 2 months.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

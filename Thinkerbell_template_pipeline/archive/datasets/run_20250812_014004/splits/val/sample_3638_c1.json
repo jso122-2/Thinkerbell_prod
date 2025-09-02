@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3638",
+  "chunk_id": "sample_3638_c1",
+  "text": "• Influencer: Brooklyn Edwards\n            • Brand: JB Hi-Fi\n            • Fee: ~$3,458\n            • Deliverables: 1 x 30-second Instagram reel, 1 x TikTok video, 3 x Product launch event, 3 x Instagram post\n            • Exclusivity: 10 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: December 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

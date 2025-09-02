@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_041_077",
+  "generation_timestamp": "2025-08-12T14:46:00.554749",
+  "batch_id": 41,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "fashion",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "Brandlink has engaged Emma Wilson to provide services for the Premium beauty Series on behalf of Fashion Forward. In response to recent challenges in the beauty sector, Australians are seeking improved beauty solutions. As the campaign's spokesperson, Emma Wilson will deliver key messages across media and social channels. This campaign reinforces the brand's dominance in beauty.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Fashion Forward and the Influencer for Fashion Forward Self-Care Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $20,463 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 1 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 3 months\n- Exclusivity Period: 6 weeks\n- Territory: Australia\n- Usage Rights: 6 months from campaign launch\n- Content Rights: Fashion Forward retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 250,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Fashion Forward",
+    "brand": "Fashion Forward",
+    "campaign": "Fashion Forward Modern Campaign 2025",
+    "fee": "$20,463",
+    "fee_numeric": 20463,
+    "deliverables": [
+      "2 x Instagram posts",
+      "3 x Instagram stories"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "18 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_TKB Influencer Agreement - Dr Claire x Australia Post Dog Safety Campaign",
+    "match_confidence": 0.911,
+    "fallback_templates": [
+      "profile_Dove Advanced Care Body Wash  Launch_Jhyll Teplin Agreement",
+      "profile_Rexona _ WBD Foot Model Talent Agreement",
+      "profile_Mattel Brickshop x Craig Contract FINAL.docx LOWNDES SIGNED (1) (1)"
+    ],
+    "preamble_template": "professional_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "beauty",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.907,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.858,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

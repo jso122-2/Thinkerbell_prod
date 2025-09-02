@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4057",
+  "chunk_id": "sample_4057_c1",
+  "text": "• Influencer: Emma Thompson\n            • Brand: IKEA\n            • Fee: ~$15,252\n            • Deliverables: 2 x Blog post\n            • Exclusivity: 12 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

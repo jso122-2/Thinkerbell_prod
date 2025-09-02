@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2153",
+  "chunk_id": "sample_2153_c1",
+  "text": "Need Brooklyn Edwards for Cotton On campaign. Budget around $3,654, looking for 3 x 10-minute unboxing, 2 x Radio interview, 1 x YouTube video, 2 x Behind-the-scenes content. 3 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 9 months. Engagement period: 4 months.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

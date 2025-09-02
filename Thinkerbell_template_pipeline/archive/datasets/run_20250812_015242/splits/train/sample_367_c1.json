@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_367",
+  "chunk_id": "sample_367_c1",
+  "text": "• Influencer: Ava Johnson\n            • Brand: Pizza Hut\n            • Fee: ~$17,344\n            • Deliverables: 3 x Pinterest pin, 2 x Blog post\n            • Exclusivity: 7 weeks\n            • Engagement: 5 months\n            • Usage: 10 months\n            • Start: November 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

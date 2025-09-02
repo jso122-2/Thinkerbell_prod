@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4708",
+  "chunk_id": "sample_4708_c1",
+  "text": "Hey team, looking to work with Jordan Phillips for Portmans. Budget is approx $9,036 - need 3 x Facebook post, 3 x Facebook post, 2 x Professional headshots. 12 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: December 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

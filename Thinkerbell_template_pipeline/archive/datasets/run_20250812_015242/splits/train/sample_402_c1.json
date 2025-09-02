@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_402",
+  "chunk_id": "sample_402_c1",
+  "text": "Hey team, looking to work with Sage Reed for Woolworths. Budget is approx $4,646 - need 3 x Facebook post, 1 x Radio interview, 2 x Store opening. 9 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: September 2025.",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

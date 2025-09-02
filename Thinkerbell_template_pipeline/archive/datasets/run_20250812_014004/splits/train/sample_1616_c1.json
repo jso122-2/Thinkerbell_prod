@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1616",
+  "chunk_id": "sample_1616_c1",
+  "text": "Hey team, looking to work with Victoria Carter for Coles. Budget is approx $14,556 - need 2 x Media interview, 1 x Lifestyle photography, 3 x Media interview, 3 x LinkedIn post, 3 x TikTok video. 8 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: September 2025.",
+  "token_count": 76,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

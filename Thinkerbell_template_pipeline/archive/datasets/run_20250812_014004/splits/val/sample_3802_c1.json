@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3802",
+  "chunk_id": "sample_3802_c1",
+  "text": "Need Michael Rodriguez for David Jones campaign. Budget around $19,834, looking for 3 x LinkedIn post, 1 x Instagram reel, 2 x Professional headshots, 1 x Pinterest pin. 8 week exclusivity from other fashion brands. Campaign runs October 2025. Usage rights for 9 months. Engagement period: 5 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

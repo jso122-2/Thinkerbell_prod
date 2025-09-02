@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_517",
+  "chunk_id": "sample_517_c1",
+  "text": "• Influencer: Quinn Richardson\n            • Brand: Telstra\n            • Fee: ~$14,872\n            • Deliverables: 3 x Event photography\n            • Exclusivity: 2 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

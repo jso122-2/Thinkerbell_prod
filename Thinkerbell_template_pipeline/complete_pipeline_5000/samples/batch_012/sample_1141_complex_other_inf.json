@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1141",
+  "generation_timestamp": "2025-08-04T18:30:08.969850",
+  "generator_version": "v1.0",
+  "batch_id": "batch_012",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Quinn Cook for Hungry Jack's. \n            Budget is approx $27,658 - need 3 x 15-second TikTok, 1 x 3-minute vlog, 3 x Product photography, 2 x Media interview, 2 x Twitter post. \n            10 weeks exclusivity, 5 month engagement. \n            Usage: 10 months. Start date: September 2025.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Cook",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$27,658",
+    "fee_numeric": 27658,
+    "deliverables": [
+      "3 x 15-second TikTok",
+      "1 x 3-minute vlog",
+      "3 x Product photography",
+      "2 x Media interview",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.811998296289001,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8446344264117495,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:08.957852",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Entertainment"
+  }
+}

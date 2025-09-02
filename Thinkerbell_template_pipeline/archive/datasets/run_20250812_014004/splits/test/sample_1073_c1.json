@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1073",
+  "chunk_id": "sample_1073_c1",
+  "text": "David Brown for Big W - $4,834 budget\n            Need: 3 x Instagram story, 3 x 30-second Instagram reel, 1 x Meet and greet, 3 x 90-second product demo, 1 x Facebook post\n            7w exclus, 2m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

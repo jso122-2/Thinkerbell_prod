@@ -1,0 +1,64 @@
+{
+  "sample_id": "tb_025_083",
+  "generation_timestamp": "2025-08-12T14:45:41.872621",
+  "batch_id": 25,
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "complexity": "simple",
+    "industry": "tech",
+    "confidence": 0.85
+  },
+  "raw_input": {
+    "text": "Publicis has engaged Maya Patel to provide services for the Dell Winter program on behalf of Dell. As consumers increasingly seek sustainable products, Australians are pursuing better tech solutions. As the campaign's brand advocate, Maya Patel will deliver key messages across media and social channels. This campaign reinforces the brand's presence in tech.\n\nINFLUENCER AGREEMENT\n\nThis agreement is between Dell and the Influencer for Dell Digital Campaign 2025.\n\nCOMMERCIAL TERMS:\n- Total Fee: $10,818 AUD (inclusive of GST)\n- Payment Terms: Net 30 days from invoice date\n- Invoice Requirements: Tax invoice required upon completion\n\nDELIVERABLES:\n- 2 x Instagram posts\n\nTERMS AND CONDITIONS:\n- Engagement Period: 3 months\n- Exclusivity Period: 8 weeks\n- Territory: Australia\n- Usage Rights: 6 months from campaign launch\n- Content Rights: Dell retains full commercial rights\n\nCOMPLIANCE:\n- All content must comply with ACMA guidelines and ASA codes\n- Content is subject to client approval before publication\n- Disclosure requirements must be met per ACCC guidelines\n\nLEGAL:\nThis agreement is governed by Australian law and subject to the jurisdiction of Australian courts.\n\nAgreed terms are subject to final contract execution.",
+    "token_count": 242,
+    "requires_chunking": false,
+    "text_style": "formal_contract",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "client": "Dell",
+    "brand": "Dell",
+    "campaign": "Dell Digital Campaign 2025",
+    "fee": "$10,818",
+    "fee_numeric": 10818,
+    "deliverables": [
+      "2 x Instagram posts",
+      "3 x Instagram stories"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": [
+      "competitors"
+    ],
+    "engagement_term": "3 months",
+    "usage_term": "18 months",
+    "territory": "Australia"
+  },
+  "template_mapping": {
+    "best_template_match": "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT",
+    "match_confidence": 0.947,
+    "fallback_templates": [
+      "profile_AMAZON _ PBDD Talent Agreement - Jackie Gillies DRAFT  (1)",
+      "profile_Koala Agreement - Dr. David Cunnington",
+      "profile_GWM _ WSL CarPool Jack Robinson Agreement_DRAFT"
+    ],
+    "preamble_template": "standard_agreement_v1",
+    "generation_method": "preamble_module",
+    "selection_criteria": {
+      "industry": "tech",
+      "complexity": "simple"
+    }
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.859,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.856,
+    "human_reviewed": false
+  },
+  "metadata": {
+    "config_version": "1.0",
+    "pipeline_version": "1.0",
+    "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "tokenizer_model": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}

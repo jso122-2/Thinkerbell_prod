@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3559",
+  "chunk_id": "sample_3559_c1",
+  "text": "Hey team, looking to work with Matthew Taylor for Amart Furniture. Budget is approx $24,476 - need 3 x Instagram reel. 8 weeks exclusivity, 6 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

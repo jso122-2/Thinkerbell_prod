@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1917",
+  "chunk_id": "sample_1917_c1",
+  "text": "• Influencer: Mia White\n            • Brand: Repco\n            • Fee: ~$10,582\n            • Deliverables: 2 x Twitter post, 1 x Instagram story, 3 x YouTube video\n            • Exclusivity: 3 weeks\n            • Engagement: 5 months\n            • Usage: 7 months\n            • Start: November 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

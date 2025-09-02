@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2670",
+  "chunk_id": "sample_2670_c1",
+  "text": "• Influencer: Sean Roberts\n            • Brand: Mad Mex\n            • Fee: ~$12,916\n            • Deliverables: 1 x 15-second TikTok, 2 x TikTok video, 1 x Instagram story\n            • Exclusivity: 9 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: September 2025",
+  "token_count": 73,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2298",
+  "generation_timestamp": "2025-08-04T18:30:34.532764",
+  "generator_version": "v1.0",
+  "batch_id": "batch_023",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "home",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Hannah Green for Adairs. \n            Budget is approx $10,211 - need 3 x TikTok video, 3 x Pinterest pin, 3 x LinkedIn post, 2 x Professional headshots, 1 x LinkedIn post. \n            3 weeks exclusivity, 2 month engagement. \n            Usage: 7 months. Start date: December 2025.",
+    "token_count": 78,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Hannah Green",
+    "client": "Adairs",
+    "brand": "Adairs",
+    "campaign": "Adairs Campaign",
+    "fee": "$10,211",
+    "fee_numeric": 10211,
+    "deliverables": [
+      "3 x TikTok video",
+      "3 x Pinterest pin",
+      "3 x LinkedIn post",
+      "2 x Professional headshots",
+      "1 x LinkedIn post"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7524131333723952,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9159882321334565,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:34.521759",
+    "fee_tier": "mid",
+    "num_deliverables": 5,
+    "campaign_type": "New Season",
+    "product_category": "Technology & Electronics"
+  }
+}

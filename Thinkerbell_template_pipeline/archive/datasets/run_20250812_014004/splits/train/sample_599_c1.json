@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_599",
+  "chunk_id": "sample_599_c1",
+  "text": "Christopher Lee for Mecca - $20,798 budget\n            Need: 3 x Radio interview, 3 x YouTube short\n            3w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: September 2025",
+  "token_count": 44,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

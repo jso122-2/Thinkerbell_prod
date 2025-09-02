@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1841",
+  "chunk_id": "sample_1841_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Lush\n            • Fee: ~$20,003\n            • Deliverables: 1 x 30-second Instagram reel, 3 x Instagram post, 2 x Media interview\n            • Exclusivity: 8 weeks\n            • Engagement: 5 months\n            • Usage: 11 months\n            • Start: December 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

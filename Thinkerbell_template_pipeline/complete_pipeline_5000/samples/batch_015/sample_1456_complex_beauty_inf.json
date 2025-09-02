@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1456",
+  "generation_timestamp": "2025-08-04T18:30:15.412038",
+  "generator_version": "v1.0",
+  "batch_id": "batch_015",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Justin Mitchell for Priceline campaign. Budget around $7,101, looking for 3 x Instagram post, 3 x Press conference. \n            10 week exclusivity from other similar brands. \n            Campaign runs January 2026. Usage rights for 8 months. \n            Engagement period: 3 months.\n\nNeed to sort out: TBC on final dates",
+    "token_count": 82,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Justin Mitchell",
+    "client": "Priceline",
+    "brand": "Priceline",
+    "campaign": "Priceline Campaign",
+    "fee": "$7,101",
+    "fee_numeric": 7101,
+    "deliverables": [
+      "3 x Instagram post",
+      "3 x Press conference"
+    ],
+    "exclusivity_period": "10 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8169820370446041,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7815069021627219,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:15.404037",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Collaboration",
+    "product_category": "Technology & Electronics"
+  }
+}

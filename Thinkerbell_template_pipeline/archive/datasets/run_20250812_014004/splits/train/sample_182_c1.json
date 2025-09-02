@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_182",
+  "chunk_id": "sample_182_c1",
+  "text": "Need Michael Rodriguez for McDonald's campaign. Budget around $7,727, looking for 2 x Facebook post, 3 x Facebook post, 1 x Pinterest pin, 3 x Event photography, 2 x Professional headshots. 7 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 6 months. Engagement period: 3 months.",
+  "token_count": 79,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

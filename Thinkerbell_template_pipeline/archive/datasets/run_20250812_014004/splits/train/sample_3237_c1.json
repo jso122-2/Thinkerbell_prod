@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3237",
+  "chunk_id": "sample_3237_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Guzman y Gomez\n            • Fee: ~$14,762\n            • Deliverables: 2 x Instagram story\n            • Exclusivity: 5 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: October 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

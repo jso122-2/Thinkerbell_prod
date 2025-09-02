@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_595",
+  "chunk_id": "sample_595_c1",
+  "text": "Need Rowan Bailey for Queen Fine Foods campaign. Budget around $28,029, looking for 2 x Brand photoshoot, 1 x 10-minute unboxing. 9 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

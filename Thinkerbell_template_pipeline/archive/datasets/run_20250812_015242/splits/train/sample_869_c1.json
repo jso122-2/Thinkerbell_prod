@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_869",
+  "chunk_id": "sample_869_c1",
+  "text": "Need Isabella Garcia for Qantas campaign. Budget around $13,607, looking for 3 x Social media takeover, 2 x LinkedIn post. 9 week exclusivity from other similar brands. Campaign runs January 2026. Usage rights for 8 months. Engagement period: 2 months.",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

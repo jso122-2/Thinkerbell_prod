@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2567",
+  "chunk_id": "sample_2567_c1",
+  "text": "Need Mia White for Priceline campaign. Budget around $9,056, looking for 2 x Media interview, 1 x Facebook post, 2 x LinkedIn post, 3 x YouTube short, 2 x Event photography. 6 week exclusivity from other similar brands. Campaign runs September 2025. Usage rights for 10 months. Engagement period: 6 months.",
+  "token_count": 75,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

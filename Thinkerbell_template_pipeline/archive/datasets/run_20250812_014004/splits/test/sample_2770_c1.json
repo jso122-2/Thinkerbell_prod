@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2770",
+  "chunk_id": "sample_2770_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: David Jones\n            • Fee: ~$5,000\n            • Deliverables: 2 x 60-second YouTube video, 2 x Facebook post, 3 x Instagram post, 3 x Brand ambassador content\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 74,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

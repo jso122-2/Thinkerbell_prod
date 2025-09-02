@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1168",
+  "chunk_id": "sample_1168_c1",
+  "text": "• Influencer: Sage Cooper\n            • Brand: Lush\n            • Fee: ~$3,980\n            • Deliverables: 3 x LinkedIn post, 3 x Live stream, 2 x YouTube short\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

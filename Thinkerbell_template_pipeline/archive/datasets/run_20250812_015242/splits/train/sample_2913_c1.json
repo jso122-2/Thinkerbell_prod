@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2913",
+  "chunk_id": "sample_2913_c1",
+  "text": "• Influencer: Layla Campbell\n            • Brand: Grill'd\n            • Fee: ~$2,378\n            • Deliverables: 3 x Instagram reel, 3 x Radio interview\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 7 months\n            • Start: December 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1910",
+  "chunk_id": "sample_1910_c1",
+  "text": "Justin Mitchell for Myer - $13,137 budget\n            Need: 3 x 90-second product demo, 1 x Media interview, 1 x LinkedIn post, 1 x 30-second Instagram reel\n            3w exclusivity, 5m engagement\n            Usage rights: 10 months\n            Start: October 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

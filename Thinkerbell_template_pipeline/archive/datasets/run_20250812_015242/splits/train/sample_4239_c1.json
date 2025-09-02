@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4239",
+  "chunk_id": "sample_4239_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Country Road\n            • Fee: ~$13,380\n            • Deliverables: 2 x Twitter post, 1 x 90-second product demo\n            • Exclusivity: 11 weeks\n            • Engagement: 2 months\n            • Usage: 11 months\n            • Start: November 2025",
+  "token_count": 62,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

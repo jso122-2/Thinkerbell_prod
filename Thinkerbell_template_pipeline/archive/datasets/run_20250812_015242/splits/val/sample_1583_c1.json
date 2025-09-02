@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1583",
+  "chunk_id": "sample_1583_c1",
+  "text": "Victoria Carter for McDonald's - $17,090 budget\n            Need: 2 x 15-second TikTok, 3 x Press release quote, 2 x LinkedIn post\n            7w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: October 2025 fair dinkum",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

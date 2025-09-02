@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1050",
+  "generation_timestamp": "2025-08-04T18:30:06.957075",
+  "generator_version": "v1.0",
+  "batch_id": "batch_011",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Morgan Morris for Cotton On - $28,855 budget\n            Need: 3 x Facebook post, 3 x Instagram post, 1 x Pinterest pin, 3 x Press conference, 3 x Facebook story\n            4w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: December 2025\n\nAdditional notes: TBC on exact dates, around $28,855 budget",
+    "token_count": 83,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Morgan Morris",
+    "client": "Cotton On",
+    "brand": "Cotton On",
+    "campaign": "Cotton On Campaign",
+    "fee": "$28,855",
+    "fee_numeric": 28855,
+    "deliverables": [
+      "3 x Facebook post",
+      "3 x Instagram post",
+      "1 x Pinterest pin",
+      "3 x Press conference",
+      "3 x Facebook story"
+    ],
+    "exclusivity_period": "4 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "December 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8620825514965561,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8900125181677115,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:06.949081",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Collaboration",
+    "product_category": "Education"
+  }
+}

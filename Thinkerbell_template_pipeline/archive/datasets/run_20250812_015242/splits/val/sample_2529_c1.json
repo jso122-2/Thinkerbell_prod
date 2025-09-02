@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2529",
+  "chunk_id": "sample_2529_c1",
+  "text": "• Influencer: Blake Morgan\n            • Brand: Sephora\n            • Fee: ~$33,873\n            • Deliverables: 2 x Instagram story, 3 x Brand ambassador content, 3 x 90-second product demo\n            • Exclusivity: 7 weeks\n            • Engagement: 6 months\n            • Usage: 10 months\n            • Start: October 2025",
+  "token_count": 70,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

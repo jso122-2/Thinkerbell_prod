@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2829",
+  "chunk_id": "sample_2829_c1",
+  "text": "• Influencer: Cameron Parker\n            • Brand: Chemist Warehouse\n            • Fee: ~$31,806\n            • Deliverables: 2 x LinkedIn post\n            • Exclusivity: 6 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: November 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

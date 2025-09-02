@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_376",
+  "chunk_id": "sample_376_c1",
+  "text": "James Wilson for Big W - $8,166 budget\n            Need: 1 x Instagram post\n            7w exclusivity, 4m engagement\n            Usage rights: 7 months\n            Start: January 2026",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

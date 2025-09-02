@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_2882",
+  "generation_timestamp": "2025-08-04T18:30:47.028316",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Andrew Clark for Betty's Burgers. \n            Budget is approx $10,294 - need 2 x Product photography, 1 x Instagram reel, 3 x Instagram post, 3 x Product launch event. \n            2 weeks exclusivity, 6 month engagement. \n            Usage: 9 months. Start date: January 2026.",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Andrew Clark",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$10,294",
+    "fee_numeric": 10294,
+    "deliverables": [
+      "2 x Product photography",
+      "1 x Instagram reel",
+      "3 x Instagram post",
+      "3 x Product launch event"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8465848761779418,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8213704856717982,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:47.020321",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Travel & Tourism"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1355",
+  "chunk_id": "sample_1355_c1",
+  "text": "Daniel Martinez for Nando's - $2,195 budget\n            Need: 3 x Instagram post, 1 x Facebook story, 1 x Facebook post, 3 x LinkedIn post\n            2w exclusivity, 3m engagement\n            Usage rights: 10 months\n            Start: November 2025\n\nNeed to confirm: usage rights",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

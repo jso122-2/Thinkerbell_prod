@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3839",
+  "chunk_id": "sample_3839_c1",
+  "text": "• Influencer: Michael Rodriguez\n            • Brand: Officeworks\n            • Fee: ~$22,437\n            • Deliverables: 1 x Instagram post, 1 x Facebook post, 2 x 90-second product demo\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 8 months\n            • Start: October 2025",
+  "token_count": 69,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

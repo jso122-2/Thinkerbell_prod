@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2787",
+  "chunk_id": "sample_2787_c1",
+  "text": "Christopher Lee for Coles - $4,251 budget\n            Need: 1 x Instagram reel, 3 x 15-second TikTok, 2 x Product photography, 1 x Facebook post, 2 x LinkedIn post\n            10w exclusivity, 4m engmt\n            Usage rights: 7 months\n            Start: October 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

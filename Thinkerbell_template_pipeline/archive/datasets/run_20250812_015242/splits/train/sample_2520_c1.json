@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2520",
+  "chunk_id": "sample_2520_c1",
+  "text": "Tyler Scott for Woolworths - $11,164 budget\n            Need: 2 x 2-minute tutorial, 3 x LinkedIn post, 3 x Pinterest pin, 3 x Twitter post\n            6w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

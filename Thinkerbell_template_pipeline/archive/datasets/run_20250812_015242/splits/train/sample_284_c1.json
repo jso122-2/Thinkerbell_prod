@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_284",
+  "chunk_id": "sample_284_c1",
+  "text": "• Influencer: Olivia Davis\n            • Brand: Guzman y Gomez\n            • Fee: ~$10,526\n            • Deliverables: 1 x Facebook post\n            • Exclusivity: 7 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

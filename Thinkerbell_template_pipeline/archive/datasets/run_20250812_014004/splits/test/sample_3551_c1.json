@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3551",
+  "chunk_id": "sample_3551_c1",
+  "text": "Victoria Carter for KFC - $10,166 budget\n            Need: 2 x 2-minute tutorial, 3 x 15-second TikTok, 1 x Media interview\n            12w exclusivity, 6m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

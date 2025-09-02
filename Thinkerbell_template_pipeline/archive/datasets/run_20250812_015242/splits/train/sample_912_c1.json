@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_912",
+  "chunk_id": "sample_912_c1",
+  "text": "Sophie Anderson for Country Road - $25,030 budget\n            Need: 3 x 2-minute tutorial, 2 x Product photography, 3 x Pinterest pin, 2 x Facebook post, 2 x TikTok video\n            6w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

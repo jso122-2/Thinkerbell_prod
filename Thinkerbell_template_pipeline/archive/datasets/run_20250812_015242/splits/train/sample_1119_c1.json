@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1119",
+  "chunk_id": "sample_1119_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Nando's. Budget is approx $1,737 - need 3 x TikTok video, 1 x Instagram post, 3 x TV appearance, 1 x Radio interview, 2 x Twitter post. 10 weeks exclusivity, 2 month engagement. Usage: 9 months. Start date: November 2025.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

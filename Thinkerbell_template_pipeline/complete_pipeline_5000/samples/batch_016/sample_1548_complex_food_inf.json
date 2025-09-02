@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1548",
+  "generation_timestamp": "2025-08-04T18:30:17.520683",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need Sage Reed for Mad Mex campaign. Budget arnd $11,132, looking for 3 x Pinterest pin, 3 x Press conference. \n            6 week exclusivity from other similar brands. \n            Campaign runs October 2025. Usage rights for 8 months. \n            Engagement period: 4 months.",
+    "token_count": 69,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Mad Mex",
+    "brand": "Mad Mex",
+    "campaign": "Mad Mex Campaign",
+    "fee": "$11,132",
+    "fee_numeric": 11132,
+    "deliverables": [
+      "3 x Pinterest pin",
+      "3 x Press conference"
+    ],
+    "exclusivity_period": "6 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8055426532754051,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7412961383264205,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.512687",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Food & Beverage"
+  }
+}

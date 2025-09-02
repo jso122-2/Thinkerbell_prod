@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_186",
+  "chunk_id": "sample_186_c1",
+  "text": "Scarlett Turner for Red Rooster - $30,080 budget\n            Need: 2 x Meet and greet, 2 x LinkedIn post, 3 x Instagram reel, 2 x Twitter post\n            2w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: January 2026",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

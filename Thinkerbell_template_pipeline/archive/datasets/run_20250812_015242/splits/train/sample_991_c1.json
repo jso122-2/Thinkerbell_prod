@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_991",
+  "chunk_id": "sample_991_c1",
+  "text": "Hey team, looking to work with Lily Walker for Woolworths. Budget is approx $2,486 - need 2 x Live stream, 2 x YouTube short, 3 x LinkedIn post. 4 weeks exclusivity, 5 month engagement. Usage: 6 months. Start date: November 2025.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

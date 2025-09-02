@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4248",
+  "chunk_id": "sample_4248_c1",
+  "text": "• Influencer: David Brown\n            • Brand: Myer\n            • Fee: ~$5,927\n            • Deliverables: 1 x YouTube short, 2 x Instagram reel, 3 x Instagram post, 3 x 60-second YouTube video, 2 x Brand ambassador content\n            • Exclusivity: 3 weeks\n            • Engagement: 2 months\n            • Usage: 9 months\n            • Start: November 2025",
+  "token_count": 81,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

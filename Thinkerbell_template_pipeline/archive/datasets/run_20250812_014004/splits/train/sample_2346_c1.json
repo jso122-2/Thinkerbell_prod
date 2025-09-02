@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2346",
+  "chunk_id": "sample_2346_c1",
+  "text": "Hey team, looking to work with Reagan Rogers for Telstra. Budget is approx $11,211 - need 2 x 60-second YouTube video, 1 x 2-minute tutorial, 1 x Professional headshots, 2 x Instagram reel. 2 weeks exclusivity, 2 month engmt. Usage: 6 months. Start date: December 2025. mate",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

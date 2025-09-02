@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3410",
+  "chunk_id": "sample_3410_c1",
+  "text": "Emma Thompson for Priceline - $3,111 budget\n            Need: 2 x LinkedIn post, 1 x Twitter post, 1 x LinkedIn post, 3 x Twitter post, 1 x Product photography\n            8w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

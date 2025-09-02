@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2073",
+  "chunk_id": "sample_2073_c1",
+  "text": "• Influencer: Hannah Green\n            • Brand: Priceline\n            • Fee: ~$24,062\n            • Deliverables: 1 x YouTube short, 1 x Event photography, 3 x LinkedIn post\n            • Exclusivity: 10 weeks\n            • Engagement: 5 months\n            • Usage: 6 months\n            • Start: September 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

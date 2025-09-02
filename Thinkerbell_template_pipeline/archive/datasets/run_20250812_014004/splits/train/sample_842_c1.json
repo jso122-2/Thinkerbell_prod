@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_842",
+  "chunk_id": "sample_842_c1",
+  "text": "Need Grace Young for Freedom campaign. Budget around $8,989, looking for 1 x YouTube video. 10 week exclusivity from other similar brands. Campaign runs December 2025. Usage rights for 8 months. Engagement period: 5 months.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

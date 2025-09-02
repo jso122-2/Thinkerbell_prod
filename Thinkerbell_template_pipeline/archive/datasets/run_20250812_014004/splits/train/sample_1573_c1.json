@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1573",
+  "chunk_id": "sample_1573_c1",
+  "text": "Jordan Phillips for Coles - $22,990 budget\n            Need: 3 x LinkedIn post, 1 x LinkedIn post, 2 x Radio interview, 1 x Facebook story\n            4w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: December 2025",
+  "token_count": 57,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

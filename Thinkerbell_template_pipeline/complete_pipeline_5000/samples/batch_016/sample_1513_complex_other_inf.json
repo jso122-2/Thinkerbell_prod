@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_1513",
+  "generation_timestamp": "2025-08-04T18:30:17.047685",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Michael Rodriguez for Betty's Burgers. \n            Budget is approx $12,973 - need 3 x Instagram reel, 2 x Twitter post. \n            2 weeks exclusivity, 2 month engagement. \n            Usage: 9 months. Start date: October 2025.",
+    "token_count": 65,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Michael Rodriguez",
+    "client": "Betty's Burgers",
+    "brand": "Betty's Burgers",
+    "campaign": "Betty's Burgers Campaign",
+    "fee": "$12,973",
+    "fee_numeric": 12973,
+    "deliverables": [
+      "3 x Instagram reel",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "2 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.5,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.773877133527481,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.7572540863233782,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.032686",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Entertainment"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3941",
+  "generation_timestamp": "2025-08-04T18:31:09.621769",
+  "generator_version": "v1.0",
+  "batch_id": "batch_040",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "complex",
+    "industry": "food",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Cameron Parker for Mad Mex - $15,913 budget\n            Need: 2 x Instagram post, 3 x LinkedIn post, 2 x YouTube video, 3 x 2-minute tutorial, 2 x Twitter post\n            2w exclusivity, 4m engagement\n            Usage rights: 10 months\n            Start: January 2026\n\nNeed to sort out: TBC on final dates",
+    "token_count": 76,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Cameron Parker",
+    "client": "Mad Mex",
+    "brand": "Mad Mex",
+    "campaign": "Mad Mex Campaign",
+    "fee": "$15,913",
+    "fee_numeric": 15913,
+    "deliverables": [
+      "2 x Instagram post",
+      "3 x LinkedIn post",
+      "2 x YouTube video",
+      "3 x 2-minute tutorial",
+      "2 x Twitter post"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "January 2026"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_5",
+    "match_confidence": 0.45,
+    "fallback_templates": [
+      "template_03",
+      "template_04"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7666147557866184,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8542291145255801,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_5",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:09.606771",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Beauty & Cosmetics"
+  }
+}

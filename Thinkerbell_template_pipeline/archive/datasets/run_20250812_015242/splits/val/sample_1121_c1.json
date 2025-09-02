@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1121",
+  "chunk_id": "sample_1121_c1",
+  "text": "• Influencer: Tyler Scott\n            • Brand: Witchery\n            • Fee: ~$27,181\n            • Deliverables: 2 x Pinterest pin\n            • Exclusivity: 12 weeks\n            • Engagement: 3 months\n            • Usage: 10 months\n            • Start: October 2025\n\nNeed to confirm: exclusivity period",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

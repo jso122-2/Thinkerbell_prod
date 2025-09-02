@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_512",
+  "chunk_id": "sample_512_c1",
+  "text": "• Influencer: Christopher Lee\n            • Brand: Target\n            • Fee: ~$2,792\n            • Deliverables: 1 x Pinterest pin, 2 x Brand photoshoot, 2 x Product launch event\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 12 months\n            • Start: January 2026",
+  "token_count": 68,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

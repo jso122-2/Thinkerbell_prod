@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_2043",
+  "chunk_id": "sample_2043_c1",
+  "text": "Hey team, looking to work with River Murphy for McDonald's. Budget is approx $4,348 - need 2 x Twitter post, 3 x 60-second YouTube video, 3 x Instagram post, 1 x 60-second YouTube video, 1 x Instagram story. 11 weeks exclusivity, 5 month engagement. Usage: 12 months. Start date: October 2025.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

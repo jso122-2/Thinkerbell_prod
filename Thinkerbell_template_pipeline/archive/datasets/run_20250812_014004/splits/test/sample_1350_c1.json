@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1350",
+  "chunk_id": "sample_1350_c1",
+  "text": "Hey team, looking to work with Sage Cooper for Supercheap Auto. Budget is approx $5,410 - need 3 x Brand ambassador content, 3 x Twitter post. 4 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: November 2025.",
+  "token_count": 60,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

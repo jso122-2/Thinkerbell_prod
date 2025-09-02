@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1569",
+  "generation_timestamp": "2025-08-04T18:30:17.802682",
+  "generator_version": "v1.0",
+  "batch_id": "batch_016",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Joshua Hall for Hungry Jack's - $28,826 budget\n            Need: 3 x Facebook post, 2 x Product launch event, 1 x Blog post, 2 x YouTube short, 1 x 30-second Instagram reel\n            3w exclusivity, 6m engagement\n            Usage rights: 6 months\n            Start: October 2025",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Joshua Hall",
+    "client": "Hungry Jack's",
+    "brand": "Hungry Jack's",
+    "campaign": "Hungry Jack's Campaign",
+    "fee": "$28,826",
+    "fee_numeric": 28826,
+    "deliverables": [
+      "3 x Facebook post",
+      "2 x Product launch event",
+      "1 x Blog post",
+      "2 x YouTube short",
+      "1 x 30-second Instagram reel"
+    ],
+    "exclusivity_period": "3 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.9,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9323856700177541,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8207076933764745,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:17.791683",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Sports & Recreation"
+  }
+}

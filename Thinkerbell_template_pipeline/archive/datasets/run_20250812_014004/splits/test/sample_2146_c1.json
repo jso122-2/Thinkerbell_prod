@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2146",
+  "chunk_id": "sample_2146_c1",
+  "text": "Michael Rodriguez for Fantastic Furniture - $14,728 budget\n            Need: 2 x Article contribution\n            6w exclusivity, 2m engagement\n            Usage rights: 9 months\n            Start: January 2026",
+  "token_count": 40,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

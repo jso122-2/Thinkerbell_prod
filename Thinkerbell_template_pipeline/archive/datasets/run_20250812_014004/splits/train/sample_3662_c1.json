@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3662",
+  "chunk_id": "sample_3662_c1",
+  "text": "Lily Walker for Grill'd - $23,198 budget\n            Need: 3 x Instagram post, 3 x Brand photoshoot\n            5w exclusivity, 2m engagement\n            Usage rights: 6 months\n            Start: December 2025",
+  "token_count": 47,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_222",
+  "chunk_id": "sample_222_c1",
+  "text": "Brandon Nelson for Kmart - $18,391 budget\n            Need: 1 x TikTok video, 2 x 30-second Instagram reel, 1 x 60-second YouTube video, 3 x Pinterest pin\n            5w exclusivity, 2m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

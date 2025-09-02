@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4887",
+  "chunk_id": "sample_4887_c1",
+  "text": "Need Natalie Adams for Harvey Norman campaign. Budget around $7,399, looking for 1 x 15-second TikTok. 5 week exclusivity from other electronics brands. Campaign runs October 2025. Usage rights for 8 months. Engagement period: 3 months.",
+  "token_count": 58,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

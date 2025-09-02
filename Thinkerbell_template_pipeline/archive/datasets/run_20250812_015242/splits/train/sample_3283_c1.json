@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3283",
+  "chunk_id": "sample_3283_c1",
+  "text": "Hey team, looking to work with Grace Young for Mecca. Budget is approx $3,863 - need 1 x YouTube short, 3 x Twitter post. 4 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: December 2025. Need to confirm: deliverables",
+  "token_count": 64,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

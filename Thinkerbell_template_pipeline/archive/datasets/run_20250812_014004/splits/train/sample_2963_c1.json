@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2963",
+  "chunk_id": "sample_2963_c1",
+  "text": "Sarah Chen for Adairs - $2,606 budget\n            Need: 3 x Twitter post, 1 x Twitter post\n            8w exclusivity, 4m engagement\n            Usage rights: 8 months\n            Start: November 2025",
+  "token_count": 45,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

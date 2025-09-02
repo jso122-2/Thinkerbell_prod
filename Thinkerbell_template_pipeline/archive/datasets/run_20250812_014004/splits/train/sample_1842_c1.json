@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1842",
+  "chunk_id": "sample_1842_c1",
+  "text": "• Influencer: Andrew Clark\n            • Brand: Fantastic Furniture\n            • Fee: ~$3,947\n            • Deliverables: 3 x Facebook post, 1 x Instagram post, 2 x Lifestyle photography, 2 x Podcast guest\n            • Exclusivity: 7 weeks\n            • Engagement: 3 months\n            • Usage: 9 months\n            • Start: November 2025\n\nAdditional notes: TBC on exact dates, around $3,947 budget",
+  "token_count": 87,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

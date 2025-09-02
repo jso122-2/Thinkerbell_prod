@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4450",
+  "generation_timestamp": "2025-08-04T18:31:20.155471",
+  "generator_version": "v1.0",
+  "batch_id": "batch_045",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "• Influencer: Quinn Richardson\n            • Brand: Target\n            • Fee: ~$2,820\n            • Deliverables: 3 x Instagram story, 3 x Pinterest pin\n            • Exclusivity: 5 weeks\n            • Engagement: 4 months\n            • Usage: 8 months\n            • Start: October 2025\n\nNeed to confirm: deliverables",
+    "token_count": 79,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Quinn Richardson",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$2,820",
+    "fee_numeric": 2820,
+    "deliverables": [
+      "3 x Instagram story",
+      "3 x Pinterest pin"
+    ],
+    "exclusivity_period": "5 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "8 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7623825859274864,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8104751411163775,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:20.148440",
+    "fee_tier": "micro",
+    "num_deliverables": 2,
+    "campaign_type": "New Season",
+    "product_category": "Food & Beverage"
+  }
+}

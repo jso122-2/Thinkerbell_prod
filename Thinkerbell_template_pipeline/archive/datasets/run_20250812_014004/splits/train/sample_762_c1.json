@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_762",
+  "chunk_id": "sample_762_c1",
+  "text": "Need Hannah Green for Telstra campaign. Budget around $4,219, looking for 3 x 60-second YouTube video, 3 x Twitter post, 3 x 30-second Instagram reel, 3 x Instagram story. 5 week exclusivity from other similar brands. Campaign runs November 2025. Usage rights for 6 months. Engagement period: 5 months. Additional notes: TBC on exact dates, around $4,219 budget",
+  "token_count": 91,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

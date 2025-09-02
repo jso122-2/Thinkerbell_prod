@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_2133",
+  "chunk_id": "sample_2133_c1",
+  "text": "Sage Reed for Woolworths - $5,759 budget\n            Need: 3 x Lifestyle photography, 1 x 5-minute review, 1 x Instagram post\n            11w exclusivity, 6m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 54,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

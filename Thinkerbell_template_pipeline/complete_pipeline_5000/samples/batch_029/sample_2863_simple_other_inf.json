@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_2863",
+  "generation_timestamp": "2025-08-04T18:30:46.835316",
+  "generator_version": "v1.0",
+  "batch_id": "batch_029",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Reagan Rogers for Domino's. \n            Budget is approx $28,049 - need 2 x YouTube short, 2 x Facebook post, 1 x Instagram post, 3 x Instagram post, 3 x Lifestyle photography. \n            7 weeks exclusivity, 3 month engagement. \n            Usage: 7 months. Start date: September 2025.",
+    "token_count": 80,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Reagan Rogers",
+    "client": "Domino's",
+    "brand": "Domino's",
+    "campaign": "Domino's Campaign",
+    "fee": "$28,049",
+    "fee_numeric": 28049,
+    "deliverables": [
+      "2 x YouTube short",
+      "2 x Facebook post",
+      "1 x Instagram post",
+      "3 x Instagram post",
+      "3 x Lifestyle photography"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "7 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9171102747944133,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8760662951346115,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:46.827324",
+    "fee_tier": "premium",
+    "num_deliverables": 5,
+    "campaign_type": "Winter Range",
+    "product_category": "Automotive"
+  }
+}

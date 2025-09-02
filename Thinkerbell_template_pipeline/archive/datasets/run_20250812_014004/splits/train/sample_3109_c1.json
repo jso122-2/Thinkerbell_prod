@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_3109",
+  "chunk_id": "sample_3109_c1",
+  "text": "Jordan Phillips for Qantas - $2,316 budget\n            Need: 3 x Product photography, 3 x YouTube short, 2 x 30-second Instagram reel, 2 x 5-minute review, 1 x Facebook story\n            10w exclusivity, 3m engagement\n            Usage rights: 7 months\n            Start: December 2025",
+  "token_count": 66,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

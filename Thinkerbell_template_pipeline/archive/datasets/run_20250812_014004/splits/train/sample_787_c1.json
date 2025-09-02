@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_787",
+  "chunk_id": "sample_787_c1",
+  "text": "Hey team, looking to work with Andrew Clark for Queen Fine Foods. Budget is approx $6,451 - need 2 x Twitter post. 12 weeks exclusivity, 4 month engagement. Usage: 7 months. Start date: September 2025.",
+  "token_count": 53,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_814",
+  "chunk_id": "sample_814_c1",
+  "text": "Need Christopher Lee for Coles campaign. Budget around $1,592, looking for 1 x Product launch event, 3 x 90-second product demo, 3 x Instagram post, 1 x 90-second product demo. 9 week exclusivity from other grocery brands. Campaign runs January 2026. Usage rights for 10 months. Engagement period: 5 months.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

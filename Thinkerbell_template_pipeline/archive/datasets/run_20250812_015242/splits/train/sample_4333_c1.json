@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_4333",
+  "chunk_id": "sample_4333_c1",
+  "text": "Blake Cox for Sephora - $11,322 budget\n            Need: 2 x YouTube video, 1 x Twitter post, 2 x 15-second TikTok, 3 x Press conference, 1 x Lifestyle photography\n            9w exclusivity, 5m engagement\n            Usage rights: 6 months\n            Start: January 2026",
+  "token_count": 63,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

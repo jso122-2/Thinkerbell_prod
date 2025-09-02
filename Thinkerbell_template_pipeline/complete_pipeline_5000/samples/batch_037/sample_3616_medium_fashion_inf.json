@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_3616",
+  "generation_timestamp": "2025-08-04T18:31:02.913848",
+  "generator_version": "v1.0",
+  "batch_id": "batch_037",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Sage Reed for Witchery. \n            Budget is approx $2,410 - need 3 x Instagram reel, 3 x Press conference, 3 x YouTube video, 2 x Product photography, 2 x Instagram story. \n            7 weeks exclusivity, 3 month engagement. \n            Usage: 9 months. Start date: September 2025.\n\nAdditional notes: TBC on exact dates, around $2,410 budget",
+    "token_count": 94,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Sage Reed",
+    "client": "Witchery",
+    "brand": "Witchery",
+    "campaign": "Witchery Campaign",
+    "fee": "$2,410",
+    "fee_numeric": 2410,
+    "deliverables": [
+      "3 x Instagram reel",
+      "3 x Press conference",
+      "3 x YouTube video",
+      "2 x Product photography",
+      "2 x Instagram story"
+    ],
+    "exclusivity_period": "7 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "3 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8515949674628778,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9366405504966123,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:02.902848",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Accessories Launch",
+    "product_category": "Home & Garden"
+  }
+}

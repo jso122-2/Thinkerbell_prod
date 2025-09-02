@@ -1,0 +1,66 @@
+{
+  "sample_id": "sample_4975",
+  "generation_timestamp": "2025-08-04T18:31:30.995332",
+  "generator_version": "v1.0",
+  "batch_id": "batch_050",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Nathan King for Witchery - $5,222 budget\n            Need: 2 x 60-second YouTube video, 2 x Press release quote\n            9w exclusivity, 6m engagement\n            Usage rights: 10 months\n            Start: September 2025\n\nAdditional notes: TBC on exact dates, around $5,222 budget",
+    "token_count": 70,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Nathan King",
+    "client": "Witchery",
+    "brand": "Witchery",
+    "campaign": "Witchery Campaign",
+    "fee": "$5,222",
+    "fee_numeric": 5222,
+    "deliverables": [
+      "2 x 60-second YouTube video",
+      "2 x Press release quote"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "6 months",
+    "usage_term": "10 months",
+    "territory": "Australia",
+    "start_date": "September 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.6,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.8814033328006399,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8587379031182749,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:30.986337",
+    "fee_tier": "mid",
+    "num_deliverables": 2,
+    "campaign_type": "Winter Range",
+    "product_category": "Food & Beverage"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3363",
+  "chunk_id": "sample_3363_c1",
+  "text": "Hey team, looking to work with Jordan Phillips for Mad Mex. Budget is approx $6,023 - need 3 x 2-minute tutorial, 1 x Facebook post, 3 x Instagram story, 1 x Product photography, 1 x YouTube short. 11 weeks exclusivity, 2 month engagement. Usage: 11 months. Start date: September 2025.",
+  "token_count": 78,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

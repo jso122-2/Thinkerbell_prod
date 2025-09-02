@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_789",
+  "chunk_id": "sample_789_c1",
+  "text": "Hey team, looking to work with James Wilson for McDonald's. Budget is approx $7,826 - need 1 x LinkedIn post, 2 x YouTube video, 1 x Twitter post. 3 weeks exclusivity, 4 month engagement. Usage: 8 months. Start date: January 2026.",
+  "token_count": 65,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

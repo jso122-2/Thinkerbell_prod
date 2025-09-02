@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_342",
+  "chunk_id": "sample_342_c1",
+  "text": "Hannah Green for Target - $2,406 budget\n            Need: 2 x Instagram post\n            10w exclusivity, 5m engagement\n            Usage rights: 7 months\n            Start: September 2025",
+  "token_count": 39,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

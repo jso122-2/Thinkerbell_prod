@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3951",
+  "chunk_id": "sample_3951_c1",
+  "text": "Need Sage Cooper for Woolworths campaign. Budget arnd $29,638, looking for 3 x Meet and greet, 3 x 60-second YouTube video, 2 x 60-second YouTube video, 3 x 30-second Instagram reel. 9 week exclusivity from other grocery brands. Campaign runs November 2025. Usage rights for 6 months. Engagement period: 4 months.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_scope",
+    "fee",
+    "usage_term"
+  ]
+}

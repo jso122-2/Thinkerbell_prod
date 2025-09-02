@@ -1,0 +1,69 @@
+{
+  "sample_id": "sample_1272",
+  "generation_timestamp": "2025-08-04T18:30:11.373267",
+  "generator_version": "v1.0",
+  "batch_id": "batch_013",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "fashion",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Need James Wilson for David Jones campaign. Budget around $4,743, looking for 1 x 90-second product demo, 1 x Live stream, 3 x LinkedIn post, 1 x 30-second Instagram reel, 1 x 3-minute vlog. \n            9 week exclusivity from other fashion brands. \n            Campaign runs November 2025. Usage rights for 6 months. \n            Engagement period: 5 months.",
+    "token_count": 90,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "James Wilson",
+    "client": "David Jones",
+    "brand": "David Jones",
+    "campaign": "David Jones Campaign",
+    "fee": "$4,743",
+    "fee_numeric": 4743,
+    "deliverables": [
+      "1 x 90-second product demo",
+      "1 x Live stream",
+      "3 x LinkedIn post",
+      "1 x 30-second Instagram reel",
+      "1 x 3-minute vlog"
+    ],
+    "exclusivity_period": "9 weeks",
+    "exclusivity_scope": "fashion",
+    "engagement_term": "5 months",
+    "usage_term": "6 months",
+    "territory": "Australia",
+    "start_date": "November 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_2",
+    "match_confidence": 0.85,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.7849742870870728,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.9241872749104882,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_2",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:11.366270",
+    "fee_tier": "micro",
+    "num_deliverables": 5,
+    "campaign_type": "Spring Collection Launch",
+    "product_category": "Finance & Insurance"
+  }
+}

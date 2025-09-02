@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1418",
+  "chunk_id": "sample_1418_c1",
+  "text": "Lily Walker for Target - $23,661 budget\n            Need: 3 x Media interview\n            8w exclusivity, 2m engmt\n            Usage rights: 8 months\n            Start: October 2025\n\nNeed to sort out: TBC on final dates",
+  "token_count": 50,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

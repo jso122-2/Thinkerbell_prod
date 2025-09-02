@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_158",
+  "chunk_id": "sample_158_c1",
+  "text": "Hey team, looking to work with Ava Johnson for Red Rooster. Budget is approx $22,888 - need 3 x Radio interview, 2 x Instagram reel, 1 x Instagram post, 3 x Instagram story, 2 x Instagram post. 7 weeks exclusivity, 6 month engagement. Usage: 9 months. Start date: October 2025.",
+  "token_count": 77,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

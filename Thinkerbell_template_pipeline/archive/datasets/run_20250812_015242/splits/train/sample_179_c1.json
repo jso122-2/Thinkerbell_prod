@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_179",
+  "chunk_id": "sample_179_c1",
+  "text": "Tyler Scott for Witchery - $30,670 budget\n            Need: 3 x 90-second product demo, 3 x Instagram post, 2 x 5-minute review\n            7w exclusivity, 5m engagement\n            Usage rights: 9 months\n            Start: October 2025",
+  "token_count": 55,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}

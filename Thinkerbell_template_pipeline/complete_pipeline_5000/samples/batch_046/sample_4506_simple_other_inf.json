@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_4506",
+  "generation_timestamp": "2025-08-04T18:31:21.611327",
+  "generator_version": "v1.0",
+  "batch_id": "batch_046",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "simple",
+    "industry": "other",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Hey team, looking to work with Olivia Davis for Target. \n            Budget is approx $10,029 - need 3 x 90-second product demo, 1 x Facebook post, 1 x 30-second Instagram reel, 2 x 15-second TikTok. \n            8 weeks exclusivity, 5 month engagement. \n            Usage: 9 months. Start date: October 2025.",
+    "token_count": 77,
+    "requires_chunking": false,
+    "text_style": "bullet_points",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Olivia Davis",
+    "client": "Target",
+    "brand": "Target",
+    "campaign": "Target Campaign",
+    "fee": "$10,029",
+    "fee_numeric": 10029,
+    "deliverables": [
+      "3 x 90-second product demo",
+      "1 x Facebook post",
+      "1 x 30-second Instagram reel",
+      "2 x 15-second TikTok"
+    ],
+    "exclusivity_period": "8 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "5 months",
+    "usage_term": "9 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_1",
+    "match_confidence": 0.8,
+    "fallback_templates": [
+      "template_01",
+      "template_02"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9224968154202153,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8407348868715245,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_1",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:31:21.602327",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "Limited Edition",
+    "product_category": "Entertainment"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4263",
+  "chunk_id": "sample_4263_c1",
+  "text": "• Influencer: Riley Evans\n            • Brand: Zambrero\n            • Fee: ~$2,059\n            • Deliverables: 2 x Podcast guest\n            • Exclusivity: 6 weeks\n            • Engagement: 2 months\n            • Usage: 12 months\n            • Start: October 2025",
+  "token_count": 56,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

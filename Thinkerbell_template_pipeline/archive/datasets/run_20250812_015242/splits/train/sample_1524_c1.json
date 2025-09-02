@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_1524",
+  "chunk_id": "sample_1524_c1",
+  "text": "Hey team, looking to work with Skylar Collins for Kmart. Budget is approx $7,988 - need 1 x Blog post, 3 x 60-second YouTube video. 4 weeks exclusivity, 5 month engagement. Usage: 8 months. Start date: December 2025.",
+  "token_count": 61,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

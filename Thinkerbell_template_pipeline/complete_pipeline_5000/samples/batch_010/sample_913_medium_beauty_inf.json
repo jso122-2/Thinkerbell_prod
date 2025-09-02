@@ -1,0 +1,68 @@
+{
+  "sample_id": "sample_913",
+  "generation_timestamp": "2025-08-04T18:30:04.213607",
+  "generator_version": "v1.0",
+  "batch_id": "batch_010",
+  "classification": {
+    "document_type": "INFLUENCER_AGREEMENT",
+    "confidence_target": 0.85,
+    "complexity_level": "medium",
+    "industry": "beauty",
+    "should_process": true
+  },
+  "raw_input": {
+    "text": "Matthew Taylor for Lush - $12,185 budget\n            Need: 1 x LinkedIn post, 2 x Instagram story, 1 x Facebook post, 1 x Brand ambassador content\n            2w exclusivity, 4m engagement\n            Usage rights: 11 months\n            Start: October 2025",
+    "token_count": 64,
+    "requires_chunking": false,
+    "text_style": "casual",
+    "completeness": "complete"
+  },
+  "extracted_fields": {
+    "influencer": "Matthew Taylor",
+    "client": "Lush",
+    "brand": "Lush",
+    "campaign": "Lush Campaign",
+    "fee": "$12,185",
+    "fee_numeric": 12185,
+    "deliverables": [
+      "1 x LinkedIn post",
+      "2 x Instagram story",
+      "1 x Facebook post",
+      "1 x Brand ambassador content"
+    ],
+    "exclusivity_period": "2 weeks",
+    "exclusivity_scope": "similar",
+    "engagement_term": "4 months",
+    "usage_term": "11 months",
+    "territory": "Australia",
+    "start_date": "October 2025"
+  },
+  "template_mapping": {
+    "best_template_match": "template_style_4",
+    "match_confidence": 0.75,
+    "fallback_templates": [
+      "template_02",
+      "template_03"
+    ]
+  },
+  "validation_scores": {
+    "semantic_coherence": 0.9490356468097352,
+    "business_logic_valid": true,
+    "temporal_logic_valid": true,
+    "field_extractability": 0.8747308532639945,
+    "human_reviewed": false
+  },
+  "generation_metadata": {
+    "base_template_used": "template_style_4",
+    "variation_strategy": "parameter_substitution",
+    "semantic_smoother_passes": 1,
+    "ood_contamination": false
+  },
+  "metadata": {
+    "generated_at": "2025-08-04T18:30:04.203607",
+    "fee_tier": "mid",
+    "num_deliverables": 4,
+    "campaign_type": "New Season",
+    "product_category": "Food & Beverage"
+  }
+}

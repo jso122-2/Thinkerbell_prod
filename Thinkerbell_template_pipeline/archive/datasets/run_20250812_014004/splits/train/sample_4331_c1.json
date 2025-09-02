@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_4331",
+  "chunk_id": "sample_4331_c1",
+  "text": "• Influencer: Kevin Baker\n            • Brand: Nando's\n            • Fee: ~$7,958\n            • Deliverables: 1 x LinkedIn post, 2 x 10-minute unboxing\n            • Exclusivity: 12 weeks\n            • Engagement: 4 months\n            • Usage: 9 months\n            • Start: January 2026",
+  "token_count": 67,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "sample_3862",
+  "chunk_id": "sample_3862_c1",
+  "text": "Hey team, looking to work with Ryan Allen for Bunnings. Budget is approx $4,647 - need 2 x LinkedIn post, 2 x Article contribution, 2 x 90-second product demo, 1 x 2-minute tutorial, 1 x Lifestyle photography. 12 weeks exclusivity, 6 month engmt. Usage: 9 months. Start date: November 2025.",
+  "token_count": 82,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "exclusivity_period",
+    "fee",
+    "usage_term"
+  ]
+}

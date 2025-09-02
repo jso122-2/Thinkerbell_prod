@@ -1,0 +1,15 @@
+{
+  "sample_id": "sample_1796",
+  "chunk_id": "sample_1796_c1",
+  "text": "Zoe Wright for Cotton On - $12,504 budget\n            Need: 3 x Instagram story, 2 x Media interview, 2 x Social media takeover\n            2w exclusivity, 5m engagement\n            Usage rights: 12 months\n            Start: December 2025",
+  "token_count": 52,
+  "labels": [
+    "brand",
+    "campaign",
+    "client",
+    "deliverables",
+    "engagement_term",
+    "fee",
+    "usage_term"
+  ]
+}
