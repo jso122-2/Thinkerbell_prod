@@ -13,3 +13,18 @@ tb_dataset/
 # large media (optional, if generated)
 # *.png
 # *.mp4
+# OS / venv
+.DS_Store
+.venv/
+
+# logs & outputs
+logs/
+thinkerbell_output/
+
+# datasets & caches
+tb_dataset/
+**/.cache/
+
+# large media (optional, if generated)
+# *.png
+# *.mp4
